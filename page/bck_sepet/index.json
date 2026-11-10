@@ -1,13 +1,25 @@
 {
   "id": "bck_sepet",
   "name": {
-    "tr": "Sepetim"
+    "tr": "Sepetim",
+    "en": "My Cart",
+    "es": "Mi carrito",
+    "fr": "Mon panier",
+    "de": "Mein Warenkorb"
   },
   "description": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "keyword": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "path": "sepetim",
   "icon": "shopping_cart",
@@ -23,7 +35,11 @@
   "index": 3,
   "url": "",
   "title": {
-    "tr": "Sepetim"
+    "tr": "Sepetim",
+    "en": "My Cart",
+    "es": "Mi carrito",
+    "fr": "Mon panier",
+    "de": "Mein Warenkorb"
   },
   "date": "2026-11-10T15:05:24.984Z",
   "update": "2026-11-10T15:06:38.873Z"

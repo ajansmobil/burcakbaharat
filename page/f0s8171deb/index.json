@@ -1,13 +1,25 @@
 {
   "id": "f0s8171deb",
   "name": {
-    "tr": "Nar Ekşili Sos (350 ml)"
+    "tr": "Nar Ekşili Sos (350 ml)",
+    "en": "Pomegranate Sour Sauce (350 ml)",
+    "es": "Salsa de granada agria (350 ml)",
+    "fr": "Sauce à la mélasse de grenade (350 ml)",
+    "de": "Granatapfelsauce (350 ml)"
   },
   "description": {
-    "tr": "Nar ekşisi tadındaki geleneksel sos. Salatalara, etli yemeklere ve mezelere ekşi-tatlı bir lezzet katar; küçük boy ambalaj. 350 ml ambalaj. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr."
+    "tr": "Nar ekşisi tadındaki geleneksel sos. Salatalara, etli yemeklere ve mezelere ekşi-tatlı bir lezzet katar; küçük boy ambalaj. 350 ml ambalaj. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "en": "A traditional sauce with the taste of sour pomegranate. Adds a sweet-and-sour flavor to salads, meat dishes, and mezes; small-size pack. 350 ml packaging. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "es": "Salsa tradicional con el sabor de la granada agria. Aporta un sabor agridulce a ensaladas, platos de carne y mezes; envase de tamaño pequeño. Envase de 350 ml. Para precios al por mayor, existencias y spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "fr": "Sauce traditionnelle au goût de mélasse de grenade. Apporte une saveur aigre-douce aux salades, aux plats de viande et aux mezzés ; petit format. Conditionnement : 350 ml. Prix de gros, stock et spec sheet : +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "de": "Traditionelle Sauce mit dem Geschmack von saurem Granatapfel. Verleiht Salaten, Fleischgerichten und Vorspeisen (Meze) einen süß-sauren Geschmack; kleine Packung. Verpackung: 350 ml. Für Großhandelspreis, Lagerbestand und Spec Sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr."
   },
   "keyword": {
-    "tr": "Nar Ekşili Sos (350 ml), Burçak Baharat, Sos ve Sirke Grubu, toptan sos ve sirke, Gaziantep"
+    "tr": "Nar Ekşili Sos (350 ml), Burçak Baharat, Sos ve Sirke Grubu, toptan sos ve sirke, Gaziantep",
+    "en": "Pomegranate Sour Sauce (350 ml), Burçak Baharat, Sauce and Vinegar Group, wholesale sauce and vinegar, Gaziantep",
+    "es": "Salsa de granada agria (350 ml), Burçak Baharat, Grupo de salsas y vinagres, salsas y vinagres al por mayor, Gaziantep",
+    "fr": "Sauce à la mélasse de grenade (350 ml), Burçak Baharat, Gamme sauces et vinaigres, sauces et vinaigres en gros, Gaziantep",
+    "de": "Granatapfelsauce (350 ml), Burçak Baharat, Saucen- und Essig-Sortiment, Saucen und Essig Großhandel, Gaziantep"
   },
   "path": "nar-eksili-sos-350-ml",
   "icon": "restaurant",
@@ -21,10 +33,18 @@
   "index": 7,
   "url": "",
   "text": {
-    "tr": "<article class=\"wm-metin\"><h2>Ürün bilgileri</h2><ul><li><strong>Ürün grubu:</strong> Sos ve Sirke Grubu</li><li><strong>Ambalaj:</strong> 350 ml</li><li><strong>Kullanım alanı:</strong> Salatalara, etli yemeklere ve mezelere ekşi-tatlı bir lezzet katar; küçük boy ambalaj.</li></ul><h3>Toptan satış ve teklif</h3><p>Fiyat, stok ve teknik bilgi (spec sheet) için <a href=\"tel:+903422381111\">+90 342 238 11 11</a> numaralı hattı arayabilir veya <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> adresine yazabilirsiniz.</p><p>Teklif talebinizde ürün adını ve ihtiyaç duyduğunuz miktarı iletmeniz yeterlidir.</p></article>"
+    "tr": "<article class=\"wm-metin\"><h2>Ürün bilgileri</h2><ul><li><strong>Ürün grubu:</strong> Sos ve Sirke Grubu</li><li><strong>Ambalaj:</strong> 350 ml</li><li><strong>Kullanım alanı:</strong> Salatalara, etli yemeklere ve mezelere ekşi-tatlı bir lezzet katar; küçük boy ambalaj.</li></ul><h3>Toptan satış ve teklif</h3><p>Fiyat, stok ve teknik bilgi (spec sheet) için <a href=\"tel:+903422381111\">+90 342 238 11 11</a> numaralı hattı arayabilir veya <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> adresine yazabilirsiniz.</p><p>Teklif talebinizde ürün adını ve ihtiyaç duyduğunuz miktarı iletmeniz yeterlidir.</p></article>",
+    "en": "<article class=\"wm-metin\"><h2>Product information</h2><ul><li><strong>Product group:</strong> Sauce and Vinegar Group</li><li><strong>Packaging:</strong> 350 ml</li><li><strong>Applications:</strong> Adds a sweet-and-sour flavor to salads, meat dishes, and mezes; small-size pack.</li></ul><h3>Wholesale and quotations</h3><p>For pricing, stock, and technical information (spec sheet), you can call <a href=\"tel:+903422381111\">+90 342 238 11 11</a> or write to <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>In your quote request, it is enough to include the product name and the quantity you need.</p></article>",
+    "es": "<article class=\"wm-metin\"><h2>Información del producto</h2><ul><li><strong>Grupo de productos:</strong> Grupo de salsas y vinagres</li><li><strong>Envase:</strong> 350 ml</li><li><strong>Usos:</strong> Aporta un sabor agridulce a ensaladas, platos de carne y mezes; envase de tamaño pequeño.</li></ul><h3>Venta al por mayor y cotización</h3><p>Para precios, existencias e información técnica (spec sheet), puede llamar al <a href=\"tel:+903422381111\">+90 342 238 11 11</a> o escribir a <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>En su solicitud de cotización, basta con indicar el nombre del producto y la cantidad que necesita.</p></article>",
+    "fr": "<article class=\"wm-metin\"><h2>Informations produit</h2><ul><li><strong>Gamme de produits :</strong> Gamme sauces et vinaigres</li><li><strong>Conditionnement :</strong> 350 ml</li><li><strong>Utilisation :</strong> Apporte une saveur aigre-douce aux salades, aux plats de viande et aux mezzés ; petit format.</li></ul><h3>Vente en gros et devis</h3><p>Pour les prix, le stock et la fiche technique (spec sheet), vous pouvez appeler le <a href=\"tel:+903422381111\">+90 342 238 11 11</a> ou écrire à <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>Pour votre demande de devis, il vous suffit d'indiquer le nom du produit et la quantité dont vous avez besoin.</p></article>",
+    "de": "<article class=\"wm-metin\"><h2>Produktinformationen</h2><ul><li><strong>Produktgruppe:</strong> Saucen- und Essig-Sortiment</li><li><strong>Verpackung:</strong> 350 ml</li><li><strong>Verwendung:</strong> Verleiht Salaten, Fleischgerichten und Vorspeisen (Meze) einen süß-sauren Geschmack; kleine Packung.</li></ul><h3>Großhandel und Angebot</h3><p>Für Preis, Lagerbestand und technische Informationen (Spec Sheet) können Sie unter <a href=\"tel:+903422381111\">+90 342 238 11 11</a> anrufen oder an <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> schreiben.</p><p>Nennen Sie in Ihrer Angebotsanfrage einfach den Produktnamen und die benötigte Menge.</p></article>"
   },
   "title": {
-    "tr": "Nar Ekşili Sos (350 ml) | Burçak Baharat"
+    "tr": "Nar Ekşili Sos (350 ml) | Burçak Baharat",
+    "en": "Pomegranate Sour Sauce (350 ml) | Burçak Baharat",
+    "es": "Salsa de granada agria (350 ml) | Burçak Baharat",
+    "fr": "Sauce à la mélasse de grenade (350 ml) | Burçak Baharat",
+    "de": "Granatapfelsauce (350 ml) | Burçak Baharat"
   },
   "date": "2026-11-10T15:09:42.785Z",
   "update": "2026-11-10T16:13:27.475Z",

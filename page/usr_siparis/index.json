@@ -1,13 +1,25 @@
 {
   "id": "usr_siparis",
   "name": {
-    "tr": "Siparislerim"
+    "tr": "Siparislerim",
+    "en": "My Orders",
+    "es": "Mis pedidos",
+    "fr": "Mes commandes",
+    "de": "Meine Bestellungen"
   },
   "description": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "keyword": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "path": "siparislerim",
   "icon": "receipt_long",
@@ -23,7 +35,11 @@
   "index": 0,
   "url": "",
   "title": {
-    "tr": "Siparislerim"
+    "tr": "Siparislerim",
+    "en": "My Orders",
+    "es": "Mis pedidos",
+    "fr": "Mes commandes",
+    "de": "Meine Bestellungen"
   },
   "date": "2026-11-10T15:05:24.984Z",
   "update": "2026-11-10T15:06:38.983Z"

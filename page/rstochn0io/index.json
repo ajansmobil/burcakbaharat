@@ -1,13 +1,25 @@
 {
   "id": "rstochn0io",
   "name": {
-    "tr": "Hamur Kabartma Tozu"
+    "tr": "Hamur Kabartma Tozu",
+    "en": "Dough Baking Powder",
+    "es": "Polvo de hornear para masas",
+    "fr": "Levure chimique pour pâtes",
+    "de": "Backpulver für Teig"
   },
   "description": {
-    "tr": "Hamur işlerinin kabarmasına yardımcı toz kabartıcı. Kek, kurabiye, poğaça ve börek hamurlarında kullanılır. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr."
+    "tr": "Hamur işlerinin kabarmasına yardımcı toz kabartıcı. Kek, kurabiye, poğaça ve börek hamurlarında kullanılır. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "en": "A powdered leavening agent that helps pastries rise. Used in cake, cookie, pogaca, and borek doughs. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "es": "Leudante en polvo que ayuda a que suban las masas. Se utiliza en masas de bizcochos, galletas, bollos salados y borek. Para precios al por mayor, existencias y spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "fr": "Agent levant en poudre qui aide les pâtes à lever. Utilisé dans les pâtes à gâteaux, à biscuits, à pogaca et à borek. Prix de gros, stock et spec sheet : +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "de": "Backtriebmittel in Pulverform, das den Teig beim Aufgehen unterstützt. Wird für Kuchen-, Keks-, Pogaca- und Borek-Teige verwendet. Für Großhandelspreis, Lagerbestand und Spec Sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr."
   },
   "keyword": {
-    "tr": "Hamur Kabartma Tozu, Burçak Baharat, Pasta Grubu, toptan pasta, Gaziantep"
+    "tr": "Hamur Kabartma Tozu, Burçak Baharat, Pasta Grubu, toptan pasta, Gaziantep",
+    "en": "Dough Baking Powder, Burçak Baharat, Pastry Group, wholesale pastry, Gaziantep",
+    "es": "Polvo de hornear para masas, Burçak Baharat, Grupo de repostería, repostería al por mayor, Gaziantep",
+    "fr": "Levure chimique pour pâtes, Burçak Baharat, Gamme pâtisserie, pâtisserie en gros, Gaziantep",
+    "de": "Backpulver für Teig, Burçak Baharat, Konditorei-Sortiment, Konditoreiprodukte Großhandel, Gaziantep"
   },
   "path": "hamur-kabartma-tozu",
   "icon": "restaurant",
@@ -21,10 +33,18 @@
   "index": 18,
   "url": "",
   "text": {
-    "tr": "<article class=\"wm-metin\"><h2>Ürün bilgileri</h2><ul><li><strong>Ürün grubu:</strong> Pasta Grubu</li><li><strong>Kullanım alanı:</strong> Kek, kurabiye, poğaça ve börek hamurlarında kullanılır.</li></ul><h3>Toptan satış ve teklif</h3><p>Fiyat, stok ve teknik bilgi (spec sheet) için <a href=\"tel:+903422381111\">+90 342 238 11 11</a> numaralı hattı arayabilir veya <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> adresine yazabilirsiniz.</p><p>Teklif talebinizde ürün adını ve ihtiyaç duyduğunuz miktarı iletmeniz yeterlidir.</p></article>"
+    "tr": "<article class=\"wm-metin\"><h2>Ürün bilgileri</h2><ul><li><strong>Ürün grubu:</strong> Pasta Grubu</li><li><strong>Kullanım alanı:</strong> Kek, kurabiye, poğaça ve börek hamurlarında kullanılır.</li></ul><h3>Toptan satış ve teklif</h3><p>Fiyat, stok ve teknik bilgi (spec sheet) için <a href=\"tel:+903422381111\">+90 342 238 11 11</a> numaralı hattı arayabilir veya <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> adresine yazabilirsiniz.</p><p>Teklif talebinizde ürün adını ve ihtiyaç duyduğunuz miktarı iletmeniz yeterlidir.</p></article>",
+    "en": "<article class=\"wm-metin\"><h2>Product information</h2><ul><li><strong>Product group:</strong> Pastry Group</li><li><strong>Applications:</strong> Used in cake, cookie, pogaca, and borek doughs.</li></ul><h3>Wholesale and quotations</h3><p>For pricing, stock, and technical information (spec sheet), you can call <a href=\"tel:+903422381111\">+90 342 238 11 11</a> or write to <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>In your quote request, it is enough to include the product name and the quantity you need.</p></article>",
+    "es": "<article class=\"wm-metin\"><h2>Información del producto</h2><ul><li><strong>Grupo de productos:</strong> Grupo de repostería</li><li><strong>Usos:</strong> Se utiliza en masas de bizcochos, galletas, bollos salados y borek.</li></ul><h3>Venta al por mayor y cotización</h3><p>Para precios, existencias e información técnica (spec sheet), puede llamar al <a href=\"tel:+903422381111\">+90 342 238 11 11</a> o escribir a <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>En su solicitud de cotización, basta con indicar el nombre del producto y la cantidad que necesita.</p></article>",
+    "fr": "<article class=\"wm-metin\"><h2>Informations produit</h2><ul><li><strong>Gamme de produits :</strong> Gamme pâtisserie</li><li><strong>Utilisation :</strong> Utilisée dans les pâtes à gâteaux, à biscuits, à pogaca et à borek.</li></ul><h3>Vente en gros et devis</h3><p>Pour les prix, le stock et la fiche technique (spec sheet), vous pouvez appeler le <a href=\"tel:+903422381111\">+90 342 238 11 11</a> ou écrire à <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>Pour votre demande de devis, il vous suffit d'indiquer le nom du produit et la quantité dont vous avez besoin.</p></article>",
+    "de": "<article class=\"wm-metin\"><h2>Produktinformationen</h2><ul><li><strong>Produktgruppe:</strong> Konditorei-Sortiment</li><li><strong>Verwendung:</strong> Wird für Kuchen-, Keks-, Pogaca- und Borek-Teige verwendet.</li></ul><h3>Großhandel und Angebot</h3><p>Für Preis, Lagerbestand und technische Informationen (Spec Sheet) können Sie unter <a href=\"tel:+903422381111\">+90 342 238 11 11</a> anrufen oder an <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> schreiben.</p><p>Nennen Sie in Ihrer Angebotsanfrage einfach den Produktnamen und die benötigte Menge.</p></article>"
   },
   "title": {
-    "tr": "Hamur Kabartma Tozu | Burçak Baharat"
+    "tr": "Hamur Kabartma Tozu | Burçak Baharat",
+    "en": "Dough Baking Powder | Burçak Baharat",
+    "es": "Polvo de hornear para masas | Burçak Baharat",
+    "fr": "Levure chimique pour pâtes | Burçak Baharat",
+    "de": "Backpulver für Teig | Burçak Baharat"
   },
   "date": "2026-11-10T15:09:43.578Z",
   "update": "2026-11-10T16:13:27.801Z",

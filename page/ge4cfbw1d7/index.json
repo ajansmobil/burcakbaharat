@@ -1,13 +1,25 @@
 {
   "id": "ge4cfbw1d7",
   "name": {
-    "tr": "Turşukur"
+    "tr": "Turşukur",
+    "en": "Pickling Mix",
+    "es": "Turşukur (mezcla para encurtidos)",
+    "fr": "Turşukur (préparation pour pickles)",
+    "de": "Turşukur (Einlegemischung)"
   },
   "description": {
-    "tr": "Turşu kurmak için hazırlanmış salamura toz karışım. Ev ve işletme turşu hazırlıklarında kullanılır. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr."
+    "tr": "Turşu kurmak için hazırlanmış salamura toz karışım. Ev ve işletme turşu hazırlıklarında kullanılır. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "en": "A brine powder mix prepared for making pickles. Used in home and commercial pickle preparations. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "es": "Mezcla en polvo para salmuera preparada para hacer encurtidos. Se utiliza en la preparación de encurtidos en el hogar y en negocios. Para precios al por mayor, existencias y spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "fr": "Mélange de saumure en poudre préparé pour la fabrication de pickles. Utilisé pour les préparations de pickles à la maison et en entreprise. Prix de gros, stock et spec sheet : +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "de": "Salzlake-Pulvermischung für das Einlegen von Pickles. Für die Pickle-Zubereitung im Haushalt und im Betrieb. Für Großhandelspreis, Lagerbestand und Spec Sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr."
   },
   "keyword": {
-    "tr": "Turşukur, Burçak Baharat, Diğer Ürünler, toptan diğer ürünler, Gaziantep"
+    "tr": "Turşukur, Burçak Baharat, Diğer Ürünler, toptan diğer ürünler, Gaziantep",
+    "en": "Pickling Mix, Burçak Baharat, Other Products, wholesale other products, Gaziantep",
+    "es": "Turşukur (mezcla para encurtidos), Burçak Baharat, Otros productos, otros productos al por mayor, Gaziantep",
+    "fr": "Turşukur (préparation pour pickles), Burçak Baharat, Autres produits, autres produits en gros, Gaziantep",
+    "de": "Turşukur (Einlegemischung), Burçak Baharat, Weitere Produkte, Weitere Produkte Großhandel, Gaziantep"
   },
   "path": "tursukur",
   "icon": "restaurant",
@@ -21,10 +33,18 @@
   "index": 89,
   "url": "",
   "text": {
-    "tr": "<article class=\"wm-metin\"><h2>Ürün bilgileri</h2><ul><li><strong>Ürün grubu:</strong> Diğer Ürünler</li><li><strong>Kullanım alanı:</strong> Ev ve işletme turşu hazırlıklarında kullanılır.</li></ul><h3>Toptan satış ve teklif</h3><p>Fiyat, stok ve teknik bilgi (spec sheet) için <a href=\"tel:+903422381111\">+90 342 238 11 11</a> numaralı hattı arayabilir veya <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> adresine yazabilirsiniz.</p><p>Teklif talebinizde ürün adını ve ihtiyaç duyduğunuz miktarı iletmeniz yeterlidir.</p></article>"
+    "tr": "<article class=\"wm-metin\"><h2>Ürün bilgileri</h2><ul><li><strong>Ürün grubu:</strong> Diğer Ürünler</li><li><strong>Kullanım alanı:</strong> Ev ve işletme turşu hazırlıklarında kullanılır.</li></ul><h3>Toptan satış ve teklif</h3><p>Fiyat, stok ve teknik bilgi (spec sheet) için <a href=\"tel:+903422381111\">+90 342 238 11 11</a> numaralı hattı arayabilir veya <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> adresine yazabilirsiniz.</p><p>Teklif talebinizde ürün adını ve ihtiyaç duyduğunuz miktarı iletmeniz yeterlidir.</p></article>",
+    "en": "<article class=\"wm-metin\"><h2>Product information</h2><ul><li><strong>Product group:</strong> Other Products</li><li><strong>Applications:</strong> Used in home and commercial pickle preparations.</li></ul><h3>Wholesale and quotations</h3><p>For pricing, stock, and technical information (spec sheet), you can call <a href=\"tel:+903422381111\">+90 342 238 11 11</a> or write to <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>In your quote request, it is enough to include the product name and the quantity you need.</p></article>",
+    "es": "<article class=\"wm-metin\"><h2>Información del producto</h2><ul><li><strong>Grupo de productos:</strong> Otros productos</li><li><strong>Usos:</strong> Se utiliza en la preparación de encurtidos en el hogar y en negocios.</li></ul><h3>Venta al por mayor y cotización</h3><p>Para precios, existencias e información técnica (spec sheet), puede llamar al <a href=\"tel:+903422381111\">+90 342 238 11 11</a> o escribir a <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>En su solicitud de cotización, basta con indicar el nombre del producto y la cantidad que necesita.</p></article>",
+    "fr": "<article class=\"wm-metin\"><h2>Informations produit</h2><ul><li><strong>Gamme de produits :</strong> Autres produits</li><li><strong>Utilisation :</strong> Utilisé pour les préparations de pickles à la maison et en entreprise.</li></ul><h3>Vente en gros et devis</h3><p>Pour les prix, le stock et la fiche technique (spec sheet), vous pouvez appeler le <a href=\"tel:+903422381111\">+90 342 238 11 11</a> ou écrire à <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>Pour votre demande de devis, il vous suffit d'indiquer le nom du produit et la quantité dont vous avez besoin.</p></article>",
+    "de": "<article class=\"wm-metin\"><h2>Produktinformationen</h2><ul><li><strong>Produktgruppe:</strong> Weitere Produkte</li><li><strong>Verwendung:</strong> Für die Pickle-Zubereitung im Haushalt und im Betrieb.</li></ul><h3>Großhandel und Angebot</h3><p>Für Preis, Lagerbestand und technische Informationen (Spec Sheet) können Sie unter <a href=\"tel:+903422381111\">+90 342 238 11 11</a> anrufen oder an <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> schreiben.</p><p>Nennen Sie in Ihrer Angebotsanfrage einfach den Produktnamen und die benötigte Menge.</p></article>"
   },
   "title": {
-    "tr": "Turşukur | Burçak Baharat"
+    "tr": "Turşukur | Burçak Baharat",
+    "en": "Pickling Mix | Burçak Baharat",
+    "es": "Turşukur (mezcla para encurtidos) | Burçak Baharat",
+    "fr": "Turşukur (préparation pour pickles) | Burçak Baharat",
+    "de": "Turşukur (Einlegemischung) | Burçak Baharat"
   },
   "date": "2026-11-10T15:09:50.357Z",
   "update": "2026-11-10T16:13:29.802Z",

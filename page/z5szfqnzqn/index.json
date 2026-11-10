@@ -1,13 +1,25 @@
 {
   "id": "z5szfqnzqn",
   "name": {
-    "tr": "Türk Kahvesi"
+    "tr": "Türk Kahvesi",
+    "en": "Turkish Coffee",
+    "es": "Café turco",
+    "fr": "Café turc",
+    "de": "Türkischer Kaffee"
   },
   "description": {
-    "tr": "Kavrulmuş kahve çekirdeğinin ince öğütülmesiyle hazırlanan geleneksel kahve. Cezvede pişirilerek servis edilir; ikram ve kafe kullanımı için uygundur. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr."
+    "tr": "Kavrulmuş kahve çekirdeğinin ince öğütülmesiyle hazırlanan geleneksel kahve. Cezvede pişirilerek servis edilir; ikram ve kafe kullanımı için uygundur. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "en": "Traditional coffee made from finely ground roasted coffee beans. Brewed and served in a cezve (Turkish coffee pot); suitable for hospitality and café use. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "es": "Café tradicional preparado con granos de café tostados molidos finamente. Se sirve cocido en cezve; apto para atenciones a invitados y uso en cafeterías. Para precios al por mayor, existencias y spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "fr": "Café traditionnel préparé à partir de grains de café torréfiés finement moulus. Cuit dans un cezve avant d'être servi ; convient à l'accueil des invités et à un usage en café. Prix de gros, stock et spec sheet : +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "de": "Traditioneller Kaffee aus fein gemahlenen gerösteten Kaffeebohnen. Wird in der Cezve (türkisches Kaffeekännchen) gekocht und serviert; geeignet für Bewirtung und Café. Für Großhandelspreis, Lagerbestand und Spec Sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr."
   },
   "keyword": {
-    "tr": "Türk Kahvesi, Burçak Baharat, Kahve Grubu, toptan kahve, Gaziantep"
+    "tr": "Türk Kahvesi, Burçak Baharat, Kahve Grubu, toptan kahve, Gaziantep",
+    "en": "Turkish Coffee, Burçak Baharat, Coffee Group, wholesale coffee, Gaziantep",
+    "es": "Café turco, Burçak Baharat, Grupo de café, café al por mayor, Gaziantep",
+    "fr": "Café turc, Burçak Baharat, Gamme café, café en gros, Gaziantep",
+    "de": "Türkischer Kaffee, Burçak Baharat, Kaffee-Sortiment, Kaffee Großhandel, Gaziantep"
   },
   "path": "turk-kahvesi",
   "icon": "restaurant",
@@ -21,10 +33,18 @@
   "index": 12,
   "url": "",
   "text": {
-    "tr": "<article class=\"wm-metin\"><h2>Ürün bilgileri</h2><ul><li><strong>Ürün grubu:</strong> Kahve Grubu</li><li><strong>Kullanım alanı:</strong> Cezvede pişirilerek servis edilir; ikram ve kafe kullanımı için uygundur.</li></ul><h3>Toptan satış ve teklif</h3><p>Fiyat, stok ve teknik bilgi (spec sheet) için <a href=\"tel:+903422381111\">+90 342 238 11 11</a> numaralı hattı arayabilir veya <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> adresine yazabilirsiniz.</p><p>Teklif talebinizde ürün adını ve ihtiyaç duyduğunuz miktarı iletmeniz yeterlidir.</p></article>"
+    "tr": "<article class=\"wm-metin\"><h2>Ürün bilgileri</h2><ul><li><strong>Ürün grubu:</strong> Kahve Grubu</li><li><strong>Kullanım alanı:</strong> Cezvede pişirilerek servis edilir; ikram ve kafe kullanımı için uygundur.</li></ul><h3>Toptan satış ve teklif</h3><p>Fiyat, stok ve teknik bilgi (spec sheet) için <a href=\"tel:+903422381111\">+90 342 238 11 11</a> numaralı hattı arayabilir veya <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> adresine yazabilirsiniz.</p><p>Teklif talebinizde ürün adını ve ihtiyaç duyduğunuz miktarı iletmeniz yeterlidir.</p></article>",
+    "en": "<article class=\"wm-metin\"><h2>Product information</h2><ul><li><strong>Product group:</strong> Coffee Group</li><li><strong>Applications:</strong> Brewed and served in a cezve (Turkish coffee pot); suitable for hospitality and café use.</li></ul><h3>Wholesale and quotations</h3><p>For pricing, stock, and technical information (spec sheet), you can call <a href=\"tel:+903422381111\">+90 342 238 11 11</a> or write to <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>In your quote request, it is enough to include the product name and the quantity you need.</p></article>",
+    "es": "<article class=\"wm-metin\"><h2>Información del producto</h2><ul><li><strong>Grupo de productos:</strong> Grupo de café</li><li><strong>Usos:</strong> Se sirve cocido en cezve; apto para atenciones a invitados y uso en cafeterías.</li></ul><h3>Venta al por mayor y cotización</h3><p>Para precios, existencias e información técnica (spec sheet), puede llamar al <a href=\"tel:+903422381111\">+90 342 238 11 11</a> o escribir a <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>En su solicitud de cotización, basta con indicar el nombre del producto y la cantidad que necesita.</p></article>",
+    "fr": "<article class=\"wm-metin\"><h2>Informations produit</h2><ul><li><strong>Gamme de produits :</strong> Gamme café</li><li><strong>Utilisation :</strong> Cuit dans un cezve avant d'être servi ; convient à l'accueil des invités et à un usage en café.</li></ul><h3>Vente en gros et devis</h3><p>Pour les prix, le stock et la fiche technique (spec sheet), vous pouvez appeler le <a href=\"tel:+903422381111\">+90 342 238 11 11</a> ou écrire à <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>Pour votre demande de devis, il vous suffit d'indiquer le nom du produit et la quantité dont vous avez besoin.</p></article>",
+    "de": "<article class=\"wm-metin\"><h2>Produktinformationen</h2><ul><li><strong>Produktgruppe:</strong> Kaffee-Sortiment</li><li><strong>Verwendung:</strong> Wird in der Cezve (türkisches Kaffeekännchen) gekocht und serviert; geeignet für Bewirtung und Café.</li></ul><h3>Großhandel und Angebot</h3><p>Für Preis, Lagerbestand und technische Informationen (Spec Sheet) können Sie unter <a href=\"tel:+903422381111\">+90 342 238 11 11</a> anrufen oder an <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> schreiben.</p><p>Nennen Sie in Ihrer Angebotsanfrage einfach den Produktnamen und die benötigte Menge.</p></article>"
   },
   "title": {
-    "tr": "Türk Kahvesi | Burçak Baharat"
+    "tr": "Türk Kahvesi | Burçak Baharat",
+    "en": "Turkish Coffee | Burçak Baharat",
+    "es": "Café turco | Burçak Baharat",
+    "fr": "Café turc | Burçak Baharat",
+    "de": "Türkischer Kaffee | Burçak Baharat"
   },
   "date": "2026-11-10T15:09:43.143Z",
   "update": "2026-11-10T16:13:27.627Z",

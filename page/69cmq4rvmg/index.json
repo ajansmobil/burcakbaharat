@@ -1,13 +1,25 @@
 {
   "id": "69cmq4rvmg",
   "name": {
-    "tr": "Teklif / Fiyat İste"
+    "tr": "Teklif / Fiyat İste",
+    "en": "Request a Quote / Price",
+    "es": "Solicitar cotización / precios",
+    "fr": "Demande de devis / de prix",
+    "de": "Angebot / Preis anfragen"
   },
   "description": {
-    "tr": "Burçak Baharat toptan fiyat ve teklif talebi: +90 342 238 11 11 · info@burcakbaharat.com.tr."
+    "tr": "Burçak Baharat toptan fiyat ve teklif talebi: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "en": "Burçak Baharat wholesale price and quote request: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "es": "Solicitud de precios y cotización al por mayor de Burçak Baharat: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "fr": "Demande de prix de gros et de devis Burçak Baharat : +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "de": "Burçak Baharat Anfrage für Großhandelspreise und Angebote: +90 342 238 11 11 · info@burcakbaharat.com.tr."
   },
   "keyword": {
-    "tr": "Burçak Baharat teklif, toptan fiyat, baharat fiyat listesi"
+    "tr": "Burçak Baharat teklif, toptan fiyat, baharat fiyat listesi",
+    "en": "Burçak Baharat quote, wholesale price, spice price list",
+    "es": "Burçak Baharat cotización, precios al por mayor, lista de precios de especias",
+    "fr": "Burçak Baharat devis, prix de gros, liste de prix des épices",
+    "de": "Burçak Baharat Angebot, Großhandelspreis, Gewürze Preisliste"
   },
   "path": "teklif-al",
   "icon": "article",
@@ -24,7 +36,11 @@
   "url": "",
   "text": {},
   "title": {
-    "tr": "Teklif / Fiyat İste"
+    "tr": "Teklif / Fiyat İste",
+    "en": "Request a Quote / Price",
+    "es": "Solicitar cotización / precios",
+    "fr": "Demande de devis / de prix",
+    "de": "Angebot / Preis anfragen"
   },
   "date": "2026-11-10T15:05:25.055Z",
   "update": "2026-11-10T16:13:20.921Z"

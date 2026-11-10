@@ -1,13 +1,25 @@
 {
   "id": "60t6fpnzrv",
   "name": {
-    "tr": "Pasta Süsü"
+    "tr": "Pasta Süsü",
+    "en": "Cake Sprinkles",
+    "es": "Decoración para pasteles",
+    "fr": "Décors pour pâtisserie",
+    "de": "Tortendekor"
   },
   "description": {
-    "tr": "Pasta ve tatlıların süslenmesinde kullanılan renkli şeker süs. Kek, pasta, kurabiye ve dondurma süslemelerinde kullanılır. 20 g ambalaj. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr."
+    "tr": "Pasta ve tatlıların süslenmesinde kullanılan renkli şeker süs. Kek, pasta, kurabiye ve dondurma süslemelerinde kullanılır. 20 g ambalaj. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "en": "Colorful sugar decorations used to decorate cakes and desserts. Used in decorating cupcakes, cakes, cookies, and ice cream. 20 g packaging. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "es": "Decoración de azúcar de colores utilizada para decorar pasteles y postres. Se utiliza en la decoración de bizcochos, pasteles, galletas y helados. Envase de 20 g. Para precios al por mayor, existencias y spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "fr": "Décors en sucre colorés utilisés pour décorer les gâteaux et les desserts. Utilisés pour la décoration des cakes, des gâteaux, des biscuits et des glaces. Conditionnement : 20 g. Prix de gros, stock et spec sheet : +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "de": "Bunte Zuckerdekoration zum Verzieren von Torten und Desserts. Zum Dekorieren von Kuchen, Torten, Keksen und Eis. Verpackung: 20 g. Für Großhandelspreis, Lagerbestand und Spec Sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr."
   },
   "keyword": {
-    "tr": "Pasta Süsü, Burçak Baharat, 20 Gr Baharat Grubu, toptan 20 gr baharat, Gaziantep"
+    "tr": "Pasta Süsü, Burçak Baharat, 20 Gr Baharat Grubu, toptan 20 gr baharat, Gaziantep",
+    "en": "Cake Sprinkles, Burçak Baharat, 20 Gr Spice Group, wholesale 20 gr spices, Gaziantep",
+    "es": "Decoración para pasteles, Burçak Baharat, Grupo de especias de 20 Gr, especias de 20 gr al por mayor, Gaziantep",
+    "fr": "Décors pour pâtisserie, Burçak Baharat, Gamme épices 20 Gr, épices 20 gr en gros, Gaziantep",
+    "de": "Tortendekor, Burçak Baharat, Gewürz-Sortiment 20 Gr, Gewürze 20 gr Großhandel, Gaziantep"
   },
   "path": "pasta-susu",
   "icon": "restaurant",
@@ -21,10 +33,18 @@
   "index": 58,
   "url": "",
   "text": {
-    "tr": "<article class=\"wm-metin\"><h2>Ürün bilgileri</h2><ul><li><strong>Ürün grubu:</strong> 20 Gr Baharat Grubu</li><li><strong>Ambalaj:</strong> 20 g</li><li><strong>Kullanım alanı:</strong> Kek, pasta, kurabiye ve dondurma süslemelerinde kullanılır.</li></ul><h3>Toptan satış ve teklif</h3><p>Fiyat, stok ve teknik bilgi (spec sheet) için <a href=\"tel:+903422381111\">+90 342 238 11 11</a> numaralı hattı arayabilir veya <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> adresine yazabilirsiniz.</p><p>Teklif talebinizde ürün adını ve ihtiyaç duyduğunuz miktarı iletmeniz yeterlidir.</p></article>"
+    "tr": "<article class=\"wm-metin\"><h2>Ürün bilgileri</h2><ul><li><strong>Ürün grubu:</strong> 20 Gr Baharat Grubu</li><li><strong>Ambalaj:</strong> 20 g</li><li><strong>Kullanım alanı:</strong> Kek, pasta, kurabiye ve dondurma süslemelerinde kullanılır.</li></ul><h3>Toptan satış ve teklif</h3><p>Fiyat, stok ve teknik bilgi (spec sheet) için <a href=\"tel:+903422381111\">+90 342 238 11 11</a> numaralı hattı arayabilir veya <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> adresine yazabilirsiniz.</p><p>Teklif talebinizde ürün adını ve ihtiyaç duyduğunuz miktarı iletmeniz yeterlidir.</p></article>",
+    "en": "<article class=\"wm-metin\"><h2>Product information</h2><ul><li><strong>Product group:</strong> 20 Gr Spice Group</li><li><strong>Packaging:</strong> 20 g</li><li><strong>Applications:</strong> Used in decorating cupcakes, cakes, cookies, and ice cream.</li></ul><h3>Wholesale and quotations</h3><p>For pricing, stock, and technical information (spec sheet), you can call <a href=\"tel:+903422381111\">+90 342 238 11 11</a> or write to <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>In your quote request, it is enough to include the product name and the quantity you need.</p></article>",
+    "es": "<article class=\"wm-metin\"><h2>Información del producto</h2><ul><li><strong>Grupo de productos:</strong> Grupo de especias de 20 Gr</li><li><strong>Envase:</strong> 20 g</li><li><strong>Usos:</strong> Se utiliza en la decoración de bizcochos, pasteles, galletas y helados.</li></ul><h3>Venta al por mayor y cotización</h3><p>Para precios, existencias e información técnica (spec sheet), puede llamar al <a href=\"tel:+903422381111\">+90 342 238 11 11</a> o escribir a <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>En su solicitud de cotización, basta con indicar el nombre del producto y la cantidad que necesita.</p></article>",
+    "fr": "<article class=\"wm-metin\"><h2>Informations produit</h2><ul><li><strong>Gamme de produits :</strong> Gamme épices 20 Gr</li><li><strong>Conditionnement :</strong> 20 g</li><li><strong>Utilisation :</strong> Utilisés pour la décoration des cakes, des gâteaux, des biscuits et des glaces.</li></ul><h3>Vente en gros et devis</h3><p>Pour les prix, le stock et la fiche technique (spec sheet), vous pouvez appeler le <a href=\"tel:+903422381111\">+90 342 238 11 11</a> ou écrire à <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>Pour votre demande de devis, il vous suffit d'indiquer le nom du produit et la quantité dont vous avez besoin.</p></article>",
+    "de": "<article class=\"wm-metin\"><h2>Produktinformationen</h2><ul><li><strong>Produktgruppe:</strong> Gewürz-Sortiment 20 Gr</li><li><strong>Verpackung:</strong> 20 g</li><li><strong>Verwendung:</strong> Zum Dekorieren von Kuchen, Torten, Keksen und Eis.</li></ul><h3>Großhandel und Angebot</h3><p>Für Preis, Lagerbestand und technische Informationen (Spec Sheet) können Sie unter <a href=\"tel:+903422381111\">+90 342 238 11 11</a> anrufen oder an <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> schreiben.</p><p>Nennen Sie in Ihrer Angebotsanfrage einfach den Produktnamen und die benötigte Menge.</p></article>"
   },
   "title": {
-    "tr": "Pasta Süsü | Burçak Baharat"
+    "tr": "Pasta Süsü | Burçak Baharat",
+    "en": "Cake Sprinkles | Burçak Baharat",
+    "es": "Decoración para pasteles | Burçak Baharat",
+    "fr": "Décors pour pâtisserie | Burçak Baharat",
+    "de": "Tortendekor | Burçak Baharat"
   },
   "date": "2026-11-10T15:09:46.978Z",
   "update": "2026-11-10T16:13:28.933Z",

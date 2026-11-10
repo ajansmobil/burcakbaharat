@@ -1,13 +1,25 @@
 {
   "id": "iadeveteslimat",
   "name": {
-    "tr": "İade ve Teslimat Koşulları"
+    "tr": "İade ve Teslimat Koşulları",
+    "en": "Returns and Delivery Terms",
+    "es": "Condiciones de devolución y entrega",
+    "fr": "Conditions de retour et de livraison",
+    "de": "Rückgabe- und Lieferbedingungen"
   },
   "description": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "keyword": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "path": "iade-ve-teslimat",
   "icon": "gavel",
@@ -21,10 +33,18 @@
   "index": 12,
   "url": "",
   "text": {
-    "tr": "<h2 style=\"font-size: 24px;\">İade ve Teslimat Koşulları</h2>\n<p style=\"font-size: 16px;\">Alıcı, teslim tarihinden itibaren 14 gün içinde herhangi bir gerekçe göstermeksizin ve cezai şart ödemeksizin sözleşmeden cayma hakkına sahiptir. Cayma hakkının kullanılması için bu süre içinde satıcıya yazılı bildirimde bulunulması gerekir.</p>\n<p style=\"font-size: 16px;\">İade edilecek ürünlerin kutusu, ambalajı ve varsa standart aksesuarları ile birlikte eksiksiz ve hasarsız olarak teslim edilmesi gerekmektedir. İade kargo bedeline ilişkin koşullar sipariş sırasında belirtilir.</p>\n<p style=\"font-size: 16px;\">Siparişler, ödeme onayını takiben kargoya verilir ve teslimat adresinize ulaştırılır. Bu metin örnek şablondur; firmanıza özel koşulları ekleyerek düzenleyiniz.</p>"
+    "tr": "<h2 style=\"font-size: 24px;\">İade ve Teslimat Koşulları</h2>\n<p style=\"font-size: 16px;\">Alıcı, teslim tarihinden itibaren 14 gün içinde herhangi bir gerekçe göstermeksizin ve cezai şart ödemeksizin sözleşmeden cayma hakkına sahiptir. Cayma hakkının kullanılması için bu süre içinde satıcıya yazılı bildirimde bulunulması gerekir.</p>\n<p style=\"font-size: 16px;\">İade edilecek ürünlerin kutusu, ambalajı ve varsa standart aksesuarları ile birlikte eksiksiz ve hasarsız olarak teslim edilmesi gerekmektedir. İade kargo bedeline ilişkin koşullar sipariş sırasında belirtilir.</p>\n<p style=\"font-size: 16px;\">Siparişler, ödeme onayını takiben kargoya verilir ve teslimat adresinize ulaştırılır. Bu metin örnek şablondur; firmanıza özel koşulları ekleyerek düzenleyiniz.</p>",
+    "en": "<h2 style=\"font-size: 24px;\">Returns and Delivery Terms</h2>\n<p style=\"font-size: 16px;\">The buyer has the right to withdraw from the contract within 14 days of the delivery date, without giving any reason and without paying any penalty. To exercise the right of withdrawal, written notice must be given to the seller within this period.</p>\n<p style=\"font-size: 16px;\">Products to be returned must be delivered complete and undamaged, together with their box, packaging, and any standard accessories. The terms regarding the return shipping cost are specified at the time of the order.</p>\n<p style=\"font-size: 16px;\">Orders are shipped following payment confirmation and delivered to your delivery address. This text is a sample template; please edit it by adding the terms specific to your company.</p>",
+    "es": "<h2 style=\"font-size: 24px;\">Condiciones de devolución y entrega</h2>\n<p style=\"font-size: 16px;\">El comprador tiene derecho a desistir del contrato en un plazo de 14 días desde la fecha de entrega, sin necesidad de justificación y sin pagar penalización alguna. Para ejercer el derecho de desistimiento, es necesario notificarlo por escrito al vendedor dentro de este plazo.</p>\n<p style=\"font-size: 16px;\">Los productos que se devuelvan deben entregarse completos y sin daños, con su caja, su embalaje y, en su caso, sus accesorios estándar. Las condiciones relativas al costo del envío de devolución se indican durante el pedido.</p>\n<p style=\"font-size: 16px;\">Los pedidos se entregan a la empresa de transporte tras la confirmación del pago y se hacen llegar a su dirección de entrega. Este texto es una plantilla de ejemplo; edítelo añadiendo las condiciones específicas de su empresa.</p>",
+    "fr": "<h2 style=\"font-size: 24px;\">Conditions de retour et de livraison</h2>\n<p style=\"font-size: 16px;\">L'acheteur dispose d'un droit de rétractation du contrat dans un délai de 14 jours à compter de la date de livraison, sans avoir à justifier de motif ni à payer de pénalité. Pour exercer ce droit de rétractation, il doit en informer le vendeur par écrit dans ce délai.</p>\n<p style=\"font-size: 16px;\">Les produits à retourner doivent être remis complets et en parfait état, avec leur boîte, leur emballage et, le cas échéant, leurs accessoires standard. Les conditions relatives aux frais de transport du retour sont indiquées lors de la commande.</p>\n<p style=\"font-size: 16px;\">Les commandes sont remises au transporteur après confirmation du paiement et acheminées à votre adresse de livraison. Ce texte est un modèle type ; veuillez l'adapter en y ajoutant les conditions propres à votre entreprise.</p>",
+    "de": "<h2 style=\"font-size: 24px;\">Rückgabe- und Lieferbedingungen</h2>\n<p style=\"font-size: 16px;\">Der Käufer hat das Recht, innerhalb von 14 Tagen ab Lieferdatum ohne Angabe von Gründen und ohne Vertragsstrafe vom Vertrag zurückzutreten. Zur Ausübung des Widerrufsrechts muss der Verkäufer innerhalb dieser Frist schriftlich benachrichtigt werden.</p>\n<p style=\"font-size: 16px;\">Zurückzusendende Produkte müssen vollständig und unbeschädigt, einschließlich Karton, Verpackung und gegebenenfalls Standardzubehör, zurückgegeben werden. Die Bedingungen zu den Rücksendekosten werden bei der Bestellung angegeben.</p>\n<p style=\"font-size: 16px;\">Bestellungen werden nach der Zahlungsbestätigung an den Versand übergeben und an Ihre Lieferadresse zugestellt. Dieser Text ist eine Mustervorlage; bitte passen Sie ihn an, indem Sie die Bedingungen Ihres Unternehmens ergänzen.</p>"
   },
   "title": {
-    "tr": "İade ve Teslimat Koşulları"
+    "tr": "İade ve Teslimat Koşulları",
+    "en": "Returns and Delivery Terms",
+    "es": "Condiciones de devolución y entrega",
+    "fr": "Conditions de retour et de livraison",
+    "de": "Rückgabe- und Lieferbedingungen"
   },
   "date": "2026-11-10T15:05:24.984Z",
   "update": "2026-11-10T15:06:39.158Z"

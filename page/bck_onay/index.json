@@ -1,13 +1,25 @@
 {
   "id": "bck_onay",
   "name": {
-    "tr": "Sipariş Onayı"
+    "tr": "Sipariş Onayı",
+    "en": "Order Confirmation",
+    "es": "Confirmación del pedido",
+    "fr": "Confirmation de commande",
+    "de": "Bestellbestätigung"
   },
   "description": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "keyword": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "path": "siparis-onay",
   "icon": "task_alt",
@@ -23,7 +35,11 @@
   "index": 5,
   "url": "",
   "title": {
-    "tr": "Sipariş Onayı"
+    "tr": "Sipariş Onayı",
+    "en": "Order Confirmation",
+    "es": "Confirmación del pedido",
+    "fr": "Confirmation de commande",
+    "de": "Bestellbestätigung"
   },
   "date": "2026-11-10T15:05:24.984Z",
   "update": "2026-11-10T15:06:38.948Z"

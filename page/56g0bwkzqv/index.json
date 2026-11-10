@@ -1,13 +1,25 @@
 {
   "id": "56g0bwkzqv",
   "name": {
-    "tr": "Vişne Aromalı"
+    "tr": "Vişne Aromalı",
+    "en": "Sour Cherry Flavored",
+    "es": "Sabor a cereza ácida",
+    "fr": "Saveur griotte",
+    "de": "Getränkepulver mit Sauerkirsch-Aroma"
   },
   "description": {
-    "tr": "Vişne aromalı toz içecek. Su ile karıştırılarak hazırlanır; soğuk servis edilir. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr."
+    "tr": "Vişne aromalı toz içecek. Su ile karıştırılarak hazırlanır; soğuk servis edilir. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "en": "Sour cherry-flavored powdered drink. Prepared by mixing with water; served cold. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "es": "Bebida en polvo con sabor a cereza ácida. Se prepara mezclándola con agua; se sirve fría. Para precios al por mayor, existencias y spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "fr": "Boisson en poudre à la saveur de griotte. Se prépare en mélangeant avec de l'eau ; se sert froide. Prix de gros, stock et spec sheet : +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "de": "Getränkepulver mit Sauerkirsch-Aroma. Wird mit Wasser angerührt und kalt serviert. Für Großhandelspreis, Lagerbestand und Spec Sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr."
   },
   "keyword": {
-    "tr": "Vişne Aromalı, Burçak Baharat, Aromalı Toz İçecek, toptan aromalı toz i̇çecek, Gaziantep"
+    "tr": "Vişne Aromalı, Burçak Baharat, Aromalı Toz İçecek, toptan aromalı toz i̇çecek, Gaziantep",
+    "en": "Sour Cherry Flavored, Burçak Baharat, Flavored Powdered Drinks, wholesale flavored powdered drinks, Gaziantep",
+    "es": "Sabor a cereza ácida, Burçak Baharat, Bebida en polvo aromatizada, bebida en polvo aromatizada al por mayor, Gaziantep",
+    "fr": "Saveur griotte, Burçak Baharat, Boissons en poudre aromatisées, boissons en poudre aromatisées en gros, Gaziantep",
+    "de": "Getränkepulver mit Sauerkirsch-Aroma, Burçak Baharat, Aromatisierte Getränkepulver, Aromatisierte Getränkepulver Großhandel, Gaziantep"
   },
   "path": "visne-aromali",
   "icon": "restaurant",
@@ -21,10 +33,18 @@
   "index": 84,
   "url": "",
   "text": {
-    "tr": "<article class=\"wm-metin\"><h2>Ürün bilgileri</h2><ul><li><strong>Ürün grubu:</strong> Aromalı Toz İçecek</li><li><strong>Kullanım alanı:</strong> Su ile karıştırılarak hazırlanır; soğuk servis edilir.</li></ul><h3>Toptan satış ve teklif</h3><p>Fiyat, stok ve teknik bilgi (spec sheet) için <a href=\"tel:+903422381111\">+90 342 238 11 11</a> numaralı hattı arayabilir veya <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> adresine yazabilirsiniz.</p><p>Teklif talebinizde ürün adını ve ihtiyaç duyduğunuz miktarı iletmeniz yeterlidir.</p></article>"
+    "tr": "<article class=\"wm-metin\"><h2>Ürün bilgileri</h2><ul><li><strong>Ürün grubu:</strong> Aromalı Toz İçecek</li><li><strong>Kullanım alanı:</strong> Su ile karıştırılarak hazırlanır; soğuk servis edilir.</li></ul><h3>Toptan satış ve teklif</h3><p>Fiyat, stok ve teknik bilgi (spec sheet) için <a href=\"tel:+903422381111\">+90 342 238 11 11</a> numaralı hattı arayabilir veya <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> adresine yazabilirsiniz.</p><p>Teklif talebinizde ürün adını ve ihtiyaç duyduğunuz miktarı iletmeniz yeterlidir.</p></article>",
+    "en": "<article class=\"wm-metin\"><h2>Product information</h2><ul><li><strong>Product group:</strong> Flavored Powdered Drinks</li><li><strong>Applications:</strong> Prepared by mixing with water; served cold.</li></ul><h3>Wholesale and quotations</h3><p>For pricing, stock, and technical information (spec sheet), you can call <a href=\"tel:+903422381111\">+90 342 238 11 11</a> or write to <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>In your quote request, it is enough to include the product name and the quantity you need.</p></article>",
+    "es": "<article class=\"wm-metin\"><h2>Información del producto</h2><ul><li><strong>Grupo de productos:</strong> Bebida en polvo aromatizada</li><li><strong>Usos:</strong> Se prepara mezclándola con agua; se sirve fría.</li></ul><h3>Venta al por mayor y cotización</h3><p>Para precios, existencias e información técnica (spec sheet), puede llamar al <a href=\"tel:+903422381111\">+90 342 238 11 11</a> o escribir a <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>En su solicitud de cotización, basta con indicar el nombre del producto y la cantidad que necesita.</p></article>",
+    "fr": "<article class=\"wm-metin\"><h2>Informations produit</h2><ul><li><strong>Gamme de produits :</strong> Boissons en poudre aromatisées</li><li><strong>Utilisation :</strong> Se prépare en mélangeant avec de l'eau ; se sert froide.</li></ul><h3>Vente en gros et devis</h3><p>Pour les prix, le stock et la fiche technique (spec sheet), vous pouvez appeler le <a href=\"tel:+903422381111\">+90 342 238 11 11</a> ou écrire à <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>Pour votre demande de devis, il vous suffit d'indiquer le nom du produit et la quantité dont vous avez besoin.</p></article>",
+    "de": "<article class=\"wm-metin\"><h2>Produktinformationen</h2><ul><li><strong>Produktgruppe:</strong> Aromatisierte Getränkepulver</li><li><strong>Verwendung:</strong> Wird mit Wasser angerührt und kalt serviert.</li></ul><h3>Großhandel und Angebot</h3><p>Für Preis, Lagerbestand und technische Informationen (Spec Sheet) können Sie unter <a href=\"tel:+903422381111\">+90 342 238 11 11</a> anrufen oder an <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> schreiben.</p><p>Nennen Sie in Ihrer Angebotsanfrage einfach den Produktnamen und die benötigte Menge.</p></article>"
   },
   "title": {
-    "tr": "Vişne Aromalı | Burçak Baharat"
+    "tr": "Vişne Aromalı | Burçak Baharat",
+    "en": "Sour Cherry Flavored | Burçak Baharat",
+    "es": "Sabor a cereza ácida | Burçak Baharat",
+    "fr": "Saveur griotte | Burçak Baharat",
+    "de": "Getränkepulver mit Sauerkirsch-Aroma | Burçak Baharat"
   },
   "date": "2026-11-10T15:09:49.772Z",
   "update": "2026-11-10T16:13:29.673Z",

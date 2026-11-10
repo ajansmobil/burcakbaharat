@@ -1,13 +1,25 @@
 {
   "id": "onbilgilendirmeformu",
   "name": {
-    "tr": "Ön Bilgilendirme Formu"
+    "tr": "Ön Bilgilendirme Formu",
+    "en": "Pre-Information Form",
+    "es": "Formulario de información previa",
+    "fr": "Formulaire d'information préalable",
+    "de": "Vorabinformationsformular"
   },
   "description": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "keyword": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "path": "on-bilgilendirme-formu",
   "icon": "gavel",
@@ -21,10 +33,18 @@
   "index": 10,
   "url": "",
   "text": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "title": {
-    "tr": "Ön Bilgilendirme Formu"
+    "tr": "Ön Bilgilendirme Formu",
+    "en": "Pre-Information Form",
+    "es": "Formulario de información previa",
+    "fr": "Formulaire d'information préalable",
+    "de": "Vorabinformationsformular"
   },
   "date": "2026-11-10T15:05:24.984Z",
   "update": "2026-11-10T15:05:24.984Z"

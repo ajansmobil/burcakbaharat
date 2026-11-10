@@ -1,13 +1,25 @@
 {
   "id": "bck_kayit",
   "name": {
-    "tr": "Üye Ol"
+    "tr": "Üye Ol",
+    "en": "Sign Up",
+    "es": "Registrarse",
+    "fr": "Créer un compte",
+    "de": "Registrieren"
   },
   "description": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "keyword": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "path": "kayit",
   "icon": "person_add",
@@ -23,7 +35,11 @@
   "index": 1,
   "url": "",
   "title": {
-    "tr": "Üye Ol"
+    "tr": "Üye Ol",
+    "en": "Sign Up",
+    "es": "Registrarse",
+    "fr": "Créer un compte",
+    "de": "Registrieren"
   },
   "date": "2026-11-10T15:05:24.984Z",
   "update": "2026-11-10T15:06:38.797Z"

@@ -1,13 +1,25 @@
 {
   "id": "bck_sifre",
   "name": {
-    "tr": "Şifremi Unuttum"
+    "tr": "Şifremi Unuttum",
+    "en": "Forgot My Password",
+    "es": "Olvidé mi contraseña",
+    "fr": "Mot de passe oublié",
+    "de": "Passwort vergessen"
   },
   "description": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "keyword": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "path": "sifre-sifirlama",
   "icon": "lock_reset",
@@ -23,7 +35,11 @@
   "index": 2,
   "url": "",
   "title": {
-    "tr": "Şifremi Unuttum"
+    "tr": "Şifremi Unuttum",
+    "en": "Forgot My Password",
+    "es": "Olvidé mi contraseña",
+    "fr": "Mot de passe oublié",
+    "de": "Passwort vergessen"
   },
   "date": "2026-11-10T15:05:24.984Z",
   "update": "2026-11-10T15:06:38.833Z"

@@ -1,13 +1,25 @@
 {
   "id": "mesafelisatis",
   "name": {
-    "tr": "Mesafeli Satış Sözleşmesi"
+    "tr": "Mesafeli Satış Sözleşmesi",
+    "en": "Distance Sales Agreement",
+    "es": "Contrato de venta a distancia",
+    "fr": "Contrat de vente à distance",
+    "de": "Fernabsatzvertrag"
   },
   "description": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "keyword": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "path": "mesafeli-satis-sozlesmesi",
   "icon": "gavel",
@@ -21,10 +33,18 @@
   "index": 11,
   "url": "",
   "text": {
-    "tr": "<h2 style=\"font-size: 24px;\">Mesafeli Satış Sözleşmesi</h2>\n<p style=\"font-size: 16px;\">İşbu sözleşme, satıcı ile alıcı arasında, alıcının elektronik ortamda sipariş verdiği ürünlerin satışı ve teslimi ile ilgili olarak 6502 sayılı Tüketicinin Korunması Hakkında Kanun ve Mesafeli Sözleşmeler Yönetmeliği hükümleri gereğince tarafların hak ve yükümlülüklerini düzenler.</p>\n<p style=\"font-size: 16px;\">Alıcı, satışa konu ürünlerin temel nitelikleri, satış fiyatı, ödeme şekli ve teslimat koşulları hakkında bilgi sahibi olduğunu, elektronik ortamda gerekli teyidi verdiğini kabul eder. Sipariş onayı ile birlikte işbu sözleşme hükümleri yürürlüğe girer.</p>\n<p style=\"font-size: 16px;\">Teslimat, siparişin satıcıya ulaşmasından itibaren taahhüt edilen süre içinde yapılır. Ürünün teslim edilememesi veya gecikmesi durumunda alıcı bilgilendirilir. Bu metin örnek şablondur; firmanıza özel koşulları ekleyerek düzenleyiniz.</p>"
+    "tr": "<h2 style=\"font-size: 24px;\">Mesafeli Satış Sözleşmesi</h2>\n<p style=\"font-size: 16px;\">İşbu sözleşme, satıcı ile alıcı arasında, alıcının elektronik ortamda sipariş verdiği ürünlerin satışı ve teslimi ile ilgili olarak 6502 sayılı Tüketicinin Korunması Hakkında Kanun ve Mesafeli Sözleşmeler Yönetmeliği hükümleri gereğince tarafların hak ve yükümlülüklerini düzenler.</p>\n<p style=\"font-size: 16px;\">Alıcı, satışa konu ürünlerin temel nitelikleri, satış fiyatı, ödeme şekli ve teslimat koşulları hakkında bilgi sahibi olduğunu, elektronik ortamda gerekli teyidi verdiğini kabul eder. Sipariş onayı ile birlikte işbu sözleşme hükümleri yürürlüğe girer.</p>\n<p style=\"font-size: 16px;\">Teslimat, siparişin satıcıya ulaşmasından itibaren taahhüt edilen süre içinde yapılır. Ürünün teslim edilememesi veya gecikmesi durumunda alıcı bilgilendirilir. Bu metin örnek şablondur; firmanıza özel koşulları ekleyerek düzenleyiniz.</p>",
+    "en": "<h2 style=\"font-size: 24px;\">Distance Sales Agreement</h2>\n<p style=\"font-size: 16px;\">This agreement regulates the rights and obligations of the parties, between the seller and the buyer, regarding the sale and delivery of the products the buyer orders electronically, in accordance with the provisions of Law No. 6502 on Consumer Protection and the Regulation on Distance Contracts.</p>\n<p style=\"font-size: 16px;\">The buyer acknowledges that they have been informed about the basic characteristics, sales price, payment method, and delivery terms of the products subject to sale, and that they have given the necessary confirmation electronically. The provisions of this agreement enter into force upon order confirmation.</p>\n<p style=\"font-size: 16px;\">Delivery is made within the committed period from the time the order reaches the seller. The buyer is notified if the product cannot be delivered or is delayed. This text is a sample template; please edit it by adding the terms specific to your company.</p>",
+    "es": "<h2 style=\"font-size: 24px;\">Contrato de venta a distancia</h2>\n<p style=\"font-size: 16px;\">El presente contrato regula los derechos y obligaciones de las partes entre el vendedor y el comprador, en relación con la venta y la entrega de los productos que el comprador pida por vía electrónica, de conformidad con las disposiciones de la Ley n.º 6502 de Protección del Consumidor y del Reglamento sobre Contratos a Distancia.</p>\n<p style=\"font-size: 16px;\">El comprador declara conocer las características esenciales de los productos objeto de la venta, el precio de venta, la forma de pago y las condiciones de entrega, y haber dado la confirmación necesaria por vía electrónica. Las disposiciones del presente contrato entran en vigor con la confirmación del pedido.</p>\n<p style=\"font-size: 16px;\">La entrega se realiza dentro del plazo comprometido, a partir del momento en que el pedido llega al vendedor. Si el producto no puede entregarse o se retrasa, se informará al comprador. Este texto es una plantilla de ejemplo; edítelo añadiendo las condiciones específicas de su empresa.</p>",
+    "fr": "<h2 style=\"font-size: 24px;\">Contrat de vente à distance</h2>\n<p style=\"font-size: 16px;\">Le présent contrat régit les droits et obligations des parties, entre le vendeur et l'acheteur, relativement à la vente et à la livraison des produits commandés par l'acheteur par voie électronique, conformément aux dispositions de la loi n° 6502 relative à la protection du consommateur et du règlement sur les contrats à distance.</p>\n<p style=\"font-size: 16px;\">L'acheteur reconnaît avoir pris connaissance des caractéristiques essentielles des produits faisant l'objet de la vente, du prix de vente, du mode de paiement et des conditions de livraison, et avoir donné la confirmation requise par voie électronique. Les dispositions du présent contrat entrent en vigueur avec la confirmation de la commande.</p>\n<p style=\"font-size: 16px;\">La livraison est effectuée dans le délai convenu à compter de la réception de la commande par le vendeur. En cas d'impossibilité de livrer le produit ou de retard, l'acheteur en est informé. Ce texte est un modèle type ; veuillez l'adapter en y ajoutant les conditions propres à votre entreprise.</p>",
+    "de": "<h2 style=\"font-size: 24px;\">Fernabsatzvertrag</h2>\n<p style=\"font-size: 16px;\">Dieser Vertrag regelt die Rechte und Pflichten der Parteien in Bezug auf den Verkauf und die Lieferung der Produkte, die der Käufer elektronisch bei dem Verkäufer bestellt hat, gemäß den Bestimmungen des türkischen Verbraucherschutzgesetzes Nr. 6502 und der Verordnung über Fernabsatzverträge.</p>\n<p style=\"font-size: 16px;\">Der Käufer erklärt, dass er über die wesentlichen Eigenschaften der Kaufgegenstände, den Verkaufspreis, die Zahlungsart und die Lieferbedingungen informiert ist und die erforderliche Bestätigung auf elektronischem Wege erteilt hat. Mit der Bestellbestätigung treten die Bestimmungen dieses Vertrags in Kraft.</p>\n<p style=\"font-size: 16px;\">Die Lieferung erfolgt innerhalb der zugesagten Frist ab Eingang der Bestellung beim Verkäufer. Kann das Produkt nicht oder verspätet geliefert werden, wird der Käufer benachrichtigt. Dieser Text ist eine Mustervorlage; bitte passen Sie ihn an, indem Sie die Bedingungen Ihres Unternehmens ergänzen.</p>"
   },
   "title": {
-    "tr": "Mesafeli Satış Sözleşmesi"
+    "tr": "Mesafeli Satış Sözleşmesi",
+    "en": "Distance Sales Agreement",
+    "es": "Contrato de venta a distancia",
+    "fr": "Contrat de vente à distance",
+    "de": "Fernabsatzvertrag"
   },
   "date": "2026-11-10T15:05:24.984Z",
   "update": "2026-11-10T15:06:39.120Z"

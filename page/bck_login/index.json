@@ -1,13 +1,25 @@
 {
   "id": "bck_login",
   "name": {
-    "tr": "Üye Girişi"
+    "tr": "Üye Girişi",
+    "en": "Member Login",
+    "es": "Iniciar sesión",
+    "fr": "Connexion",
+    "de": "Anmelden"
   },
   "description": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "keyword": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "path": "login",
   "icon": "login",
@@ -23,7 +35,11 @@
   "index": 0,
   "url": "",
   "title": {
-    "tr": "Üye Girişi"
+    "tr": "Üye Girişi",
+    "en": "Member Login",
+    "es": "Iniciar sesión",
+    "fr": "Connexion",
+    "de": "Anmelden"
   },
   "date": "2026-11-10T15:05:24.984Z",
   "update": "2026-11-10T15:06:38.758Z"

@@ -1,6 +1,10 @@
 {
   "name": {
-    "tr": "User"
+    "tr": "User",
+    "en": "User",
+    "es": "Usuario",
+    "fr": "User",
+    "de": "User"
   },
   "path": "user",
   "desc": [],
@@ -8,10 +12,18 @@
     {
       "id": "usr_siparis",
       "name": {
-        "tr": "Siparislerim"
+        "tr": "Siparislerim",
+        "en": "My Orders",
+        "es": "Mis pedidos",
+        "fr": "Mes commandes",
+        "de": "Meine Bestellungen"
       },
       "description": {
-        "tr": ""
+        "tr": "",
+        "en": "",
+        "es": "",
+        "fr": "",
+        "de": ""
       },
       "path": "siparislerim",
       "icon": "receipt_long",
@@ -29,10 +41,18 @@
     {
       "id": "usr_favori",
       "name": {
-        "tr": "Favorilerim"
+        "tr": "Favorilerim",
+        "en": "My Favorites",
+        "es": "Mis favoritos",
+        "fr": "Mes favoris",
+        "de": "Meine Favoriten"
       },
       "description": {
-        "tr": ""
+        "tr": "",
+        "en": "",
+        "es": "",
+        "fr": "",
+        "de": ""
       },
       "path": "favorilerim",
       "icon": "favorite",
@@ -50,10 +70,18 @@
     {
       "id": "usr_adres",
       "name": {
-        "tr": "Adreslerim"
+        "tr": "Adreslerim",
+        "en": "My Addresses",
+        "es": "Mis direcciones",
+        "fr": "Mes adresses",
+        "de": "Meine Adressen"
       },
       "description": {
-        "tr": ""
+        "tr": "",
+        "en": "",
+        "es": "",
+        "fr": "",
+        "de": ""
       },
       "path": "adreslerim",
       "icon": "location_on",
@@ -71,10 +99,18 @@
     {
       "id": "usr_bilgi",
       "name": {
-        "tr": "Hesabim"
+        "tr": "Hesabim",
+        "en": "My Account",
+        "es": "Mi cuenta",
+        "fr": "Mon compte",
+        "de": "Mein Konto"
       },
       "description": {
-        "tr": ""
+        "tr": "",
+        "en": "",
+        "es": "",
+        "fr": "",
+        "de": ""
       },
       "path": "hesabim",
       "icon": "person",

@@ -1,13 +1,25 @@
 {
   "id": "gtaxw3wbpo",
   "name": {
-    "tr": "Elma Sirkesi (1000ml)"
+    "tr": "Elma Sirkesi (1000ml)",
+    "en": "Apple Vinegar (1000ml)",
+    "es": "Vinagre de manzana (1000ml)",
+    "fr": "Vinaigre de pomme (1000ml)",
+    "de": "Apfelessig (1000ml)"
   },
   "description": {
-    "tr": "Elmadan elde edilen, hafif ekşi tadıyla bilinen sirke çeşidi. Salata, turşu, marinasyon ve yemeklerde kullanılır. 1000 ml ambalaj. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr."
+    "tr": "Elmadan elde edilen, hafif ekşi tadıyla bilinen sirke çeşidi. Salata, turşu, marinasyon ve yemeklerde kullanılır. 1000 ml ambalaj. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "en": "A type of vinegar made from apples, known for its mildly sour taste. Used in salads, pickles, marinades, and cooking. 1000 ml packaging. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "es": "Tipo de vinagre obtenido de la manzana, conocido por su sabor ligeramente ácido. Se utiliza en ensaladas, encurtidos, adobos y platos cocinados. Envase de 1000 ml. Para precios al por mayor, existencias y spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "fr": "Vinaigre obtenu à partir de pommes, connu pour son goût légèrement acidulé. Utilisé dans les salades, les pickles, les marinades et les plats. Conditionnement : 1000 ml. Prix de gros, stock et spec sheet : +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "de": "Aus Äpfeln gewonnene Essigsorte, bekannt für ihren leicht säuerlichen Geschmack. Wird für Salate, Pickles, Marinaden und Gerichte verwendet. Verpackung: 1000 ml. Für Großhandelspreis, Lagerbestand und Spec Sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr."
   },
   "keyword": {
-    "tr": "Elma Sirkesi (1000ml), Burçak Baharat, Sos ve Sirke Grubu, toptan sos ve sirke, Gaziantep"
+    "tr": "Elma Sirkesi (1000ml), Burçak Baharat, Sos ve Sirke Grubu, toptan sos ve sirke, Gaziantep",
+    "en": "Apple Vinegar (1000ml), Burçak Baharat, Sauce and Vinegar Group, wholesale sauce and vinegar, Gaziantep",
+    "es": "Vinagre de manzana (1000ml), Burçak Baharat, Grupo de salsas y vinagres, salsas y vinagres al por mayor, Gaziantep",
+    "fr": "Vinaigre de pomme (1000ml), Burçak Baharat, Gamme sauces et vinaigres, sauces et vinaigres en gros, Gaziantep",
+    "de": "Apfelessig (1000ml), Burçak Baharat, Saucen- und Essig-Sortiment, Saucen und Essig Großhandel, Gaziantep"
   },
   "path": "elma-sirkesi-1000ml",
   "icon": "restaurant",
@@ -21,10 +33,18 @@
   "index": 3,
   "url": "",
   "text": {
-    "tr": "<article class=\"wm-metin\"><h2>Ürün bilgileri</h2><ul><li><strong>Ürün grubu:</strong> Sos ve Sirke Grubu</li><li><strong>Ambalaj:</strong> 1000 ml</li><li><strong>Kullanım alanı:</strong> Salata, turşu, marinasyon ve yemeklerde kullanılır.</li></ul><h3>Toptan satış ve teklif</h3><p>Fiyat, stok ve teknik bilgi (spec sheet) için <a href=\"tel:+903422381111\">+90 342 238 11 11</a> numaralı hattı arayabilir veya <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> adresine yazabilirsiniz.</p><p>Teklif talebinizde ürün adını ve ihtiyaç duyduğunuz miktarı iletmeniz yeterlidir.</p></article>"
+    "tr": "<article class=\"wm-metin\"><h2>Ürün bilgileri</h2><ul><li><strong>Ürün grubu:</strong> Sos ve Sirke Grubu</li><li><strong>Ambalaj:</strong> 1000 ml</li><li><strong>Kullanım alanı:</strong> Salata, turşu, marinasyon ve yemeklerde kullanılır.</li></ul><h3>Toptan satış ve teklif</h3><p>Fiyat, stok ve teknik bilgi (spec sheet) için <a href=\"tel:+903422381111\">+90 342 238 11 11</a> numaralı hattı arayabilir veya <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> adresine yazabilirsiniz.</p><p>Teklif talebinizde ürün adını ve ihtiyaç duyduğunuz miktarı iletmeniz yeterlidir.</p></article>",
+    "en": "<article class=\"wm-metin\"><h2>Product information</h2><ul><li><strong>Product group:</strong> Sauce and Vinegar Group</li><li><strong>Packaging:</strong> 1000 ml</li><li><strong>Applications:</strong> Used in salads, pickles, marinades, and cooking.</li></ul><h3>Wholesale and quotations</h3><p>For pricing, stock, and technical information (spec sheet), you can call <a href=\"tel:+903422381111\">+90 342 238 11 11</a> or write to <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>In your quote request, it is enough to include the product name and the quantity you need.</p></article>",
+    "es": "<article class=\"wm-metin\"><h2>Información del producto</h2><ul><li><strong>Grupo de productos:</strong> Grupo de salsas y vinagres</li><li><strong>Envase:</strong> 1000 ml</li><li><strong>Usos:</strong> Se utiliza en ensaladas, encurtidos, adobos y platos cocinados.</li></ul><h3>Venta al por mayor y cotización</h3><p>Para precios, existencias e información técnica (spec sheet), puede llamar al <a href=\"tel:+903422381111\">+90 342 238 11 11</a> o escribir a <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>En su solicitud de cotización, basta con indicar el nombre del producto y la cantidad que necesita.</p></article>",
+    "fr": "<article class=\"wm-metin\"><h2>Informations produit</h2><ul><li><strong>Gamme de produits :</strong> Gamme sauces et vinaigres</li><li><strong>Conditionnement :</strong> 1000 ml</li><li><strong>Utilisation :</strong> Utilisé dans les salades, les pickles, les marinades et les plats.</li></ul><h3>Vente en gros et devis</h3><p>Pour les prix, le stock et la fiche technique (spec sheet), vous pouvez appeler le <a href=\"tel:+903422381111\">+90 342 238 11 11</a> ou écrire à <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>Pour votre demande de devis, il vous suffit d'indiquer le nom du produit et la quantité dont vous avez besoin.</p></article>",
+    "de": "<article class=\"wm-metin\"><h2>Produktinformationen</h2><ul><li><strong>Produktgruppe:</strong> Saucen- und Essig-Sortiment</li><li><strong>Verpackung:</strong> 1000 ml</li><li><strong>Verwendung:</strong> Wird für Salate, Pickles, Marinaden und Gerichte verwendet.</li></ul><h3>Großhandel und Angebot</h3><p>Für Preis, Lagerbestand und technische Informationen (Spec Sheet) können Sie unter <a href=\"tel:+903422381111\">+90 342 238 11 11</a> anrufen oder an <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> schreiben.</p><p>Nennen Sie in Ihrer Angebotsanfrage einfach den Produktnamen und die benötigte Menge.</p></article>"
   },
   "title": {
-    "tr": "Elma Sirkesi (1000ml) | Burçak Baharat"
+    "tr": "Elma Sirkesi (1000ml) | Burçak Baharat",
+    "en": "Apple Vinegar (1000ml) | Burçak Baharat",
+    "es": "Vinagre de manzana (1000ml) | Burçak Baharat",
+    "fr": "Vinaigre de pomme (1000ml) | Burçak Baharat",
+    "de": "Apfelessig (1000ml) | Burçak Baharat"
   },
   "date": "2026-11-10T15:09:42.497Z",
   "update": "2026-11-10T16:13:27.353Z",

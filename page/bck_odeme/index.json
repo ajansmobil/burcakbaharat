@@ -1,13 +1,25 @@
 {
   "id": "bck_odeme",
   "name": {
-    "tr": "Ödeme"
+    "tr": "Ödeme",
+    "en": "Checkout",
+    "es": "Pago",
+    "fr": "Paiement",
+    "de": "Zahlung"
   },
   "description": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "keyword": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "path": "odeme",
   "icon": "payment",
@@ -23,7 +35,11 @@
   "index": 4,
   "url": "",
   "title": {
-    "tr": "Ödeme"
+    "tr": "Ödeme",
+    "en": "Checkout",
+    "es": "Pago",
+    "fr": "Paiement",
+    "de": "Zahlung"
   },
   "date": "2026-11-10T15:05:24.984Z",
   "update": "2026-11-10T15:06:38.912Z"

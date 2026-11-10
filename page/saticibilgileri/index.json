@@ -1,13 +1,25 @@
 {
   "id": "saticibilgileri",
   "name": {
-    "tr": "Satıcı Bilgileri"
+    "tr": "Satıcı Bilgileri",
+    "en": "Seller Information",
+    "es": "Información del vendedor",
+    "fr": "Informations sur le vendeur",
+    "de": "Verkäuferinformationen"
   },
   "description": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "keyword": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "path": "satici-bilgileri",
   "icon": "gavel",
@@ -21,10 +33,18 @@
   "index": 14,
   "url": "",
   "text": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "title": {
-    "tr": "Satıcı Bilgileri"
+    "tr": "Satıcı Bilgileri",
+    "en": "Seller Information",
+    "es": "Información del vendedor",
+    "fr": "Informations sur le vendeur",
+    "de": "Verkäuferinformationen"
   },
   "date": "2026-11-10T15:05:24.984Z",
   "update": "2026-11-10T15:05:24.984Z"

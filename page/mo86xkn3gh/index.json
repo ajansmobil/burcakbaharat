@@ -1,13 +1,25 @@
 {
   "id": "mo86xkn3gh",
   "name": {
-    "tr": "HaşHaş"
+    "tr": "HaşHaş",
+    "en": "Poppy Seeds",
+    "es": "Semillas de amapola",
+    "fr": "Graines de pavot",
+    "de": "Mohn"
   },
   "description": {
-    "tr": "Haşhaş tohumu. Çörek, poğaça, kek ve börek hamurlarında, tatlı ve unlu mamullerin üzerinde kullanılır. 20 g ambalaj. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr."
+    "tr": "Haşhaş tohumu. Çörek, poğaça, kek ve börek hamurlarında, tatlı ve unlu mamullerin üzerinde kullanılır. 20 g ambalaj. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "en": "Poppy seeds. Used in corek, pogaca, cake, and borek doughs, and on top of desserts and baked goods. 20 g packaging. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "es": "Semillas de amapola. Se utilizan en masas de bollos, bollos salados, bizcochos y borek, y sobre postres y productos de panadería. Envase de 20 g. Para precios al por mayor, existencias y spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "fr": "Graines de pavot. Utilisées dans les pâtes à corek, à pogaca, à gâteau et à borek, et en garniture des pâtisseries sucrées et des produits de boulangerie. Conditionnement : 20 g. Prix de gros, stock et spec sheet : +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "de": "Mohnsamen. Für Corek-, Pogaca-, Kuchen- und Borek-Teige sowie als Topping auf Desserts und Backwaren. Verpackung: 20 g. Für Großhandelspreis, Lagerbestand und Spec Sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr."
   },
   "keyword": {
-    "tr": "HaşHaş, Burçak Baharat, 20 Gr Baharat Grubu, toptan 20 gr baharat, Gaziantep"
+    "tr": "HaşHaş, Burçak Baharat, 20 Gr Baharat Grubu, toptan 20 gr baharat, Gaziantep",
+    "en": "Poppy Seeds, Burçak Baharat, 20 Gr Spice Group, wholesale 20 gr spices, Gaziantep",
+    "es": "Semillas de amapola, Burçak Baharat, Grupo de especias de 20 Gr, especias de 20 gr al por mayor, Gaziantep",
+    "fr": "Graines de pavot, Burçak Baharat, Gamme épices 20 Gr, épices 20 gr en gros, Gaziantep",
+    "de": "Mohn, Burçak Baharat, Gewürz-Sortiment 20 Gr, Gewürze 20 gr Großhandel, Gaziantep"
   },
   "path": "hashas",
   "icon": "restaurant",
@@ -21,10 +33,18 @@
   "index": 40,
   "url": "",
   "text": {
-    "tr": "<article class=\"wm-metin\"><h2>Ürün bilgileri</h2><ul><li><strong>Ürün grubu:</strong> 20 Gr Baharat Grubu</li><li><strong>Ambalaj:</strong> 20 g</li><li><strong>Kullanım alanı:</strong> Çörek, poğaça, kek ve börek hamurlarında, tatlı ve unlu mamullerin üzerinde kullanılır.</li></ul><h3>Toptan satış ve teklif</h3><p>Fiyat, stok ve teknik bilgi (spec sheet) için <a href=\"tel:+903422381111\">+90 342 238 11 11</a> numaralı hattı arayabilir veya <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> adresine yazabilirsiniz.</p><p>Teklif talebinizde ürün adını ve ihtiyaç duyduğunuz miktarı iletmeniz yeterlidir.</p></article>"
+    "tr": "<article class=\"wm-metin\"><h2>Ürün bilgileri</h2><ul><li><strong>Ürün grubu:</strong> 20 Gr Baharat Grubu</li><li><strong>Ambalaj:</strong> 20 g</li><li><strong>Kullanım alanı:</strong> Çörek, poğaça, kek ve börek hamurlarında, tatlı ve unlu mamullerin üzerinde kullanılır.</li></ul><h3>Toptan satış ve teklif</h3><p>Fiyat, stok ve teknik bilgi (spec sheet) için <a href=\"tel:+903422381111\">+90 342 238 11 11</a> numaralı hattı arayabilir veya <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> adresine yazabilirsiniz.</p><p>Teklif talebinizde ürün adını ve ihtiyaç duyduğunuz miktarı iletmeniz yeterlidir.</p></article>",
+    "en": "<article class=\"wm-metin\"><h2>Product information</h2><ul><li><strong>Product group:</strong> 20 Gr Spice Group</li><li><strong>Packaging:</strong> 20 g</li><li><strong>Applications:</strong> Used in corek, pogaca, cake, and borek doughs, and on top of desserts and baked goods.</li></ul><h3>Wholesale and quotations</h3><p>For pricing, stock, and technical information (spec sheet), you can call <a href=\"tel:+903422381111\">+90 342 238 11 11</a> or write to <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>In your quote request, it is enough to include the product name and the quantity you need.</p></article>",
+    "es": "<article class=\"wm-metin\"><h2>Información del producto</h2><ul><li><strong>Grupo de productos:</strong> Grupo de especias de 20 Gr</li><li><strong>Envase:</strong> 20 g</li><li><strong>Usos:</strong> Se utilizan en masas de bollos, bollos salados, bizcochos y borek, y sobre postres y productos de panadería.</li></ul><h3>Venta al por mayor y cotización</h3><p>Para precios, existencias e información técnica (spec sheet), puede llamar al <a href=\"tel:+903422381111\">+90 342 238 11 11</a> o escribir a <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>En su solicitud de cotización, basta con indicar el nombre del producto y la cantidad que necesita.</p></article>",
+    "fr": "<article class=\"wm-metin\"><h2>Informations produit</h2><ul><li><strong>Gamme de produits :</strong> Gamme épices 20 Gr</li><li><strong>Conditionnement :</strong> 20 g</li><li><strong>Utilisation :</strong> Utilisées dans les pâtes à corek, à pogaca, à gâteau et à borek, et en garniture des pâtisseries sucrées et des produits de boulangerie.</li></ul><h3>Vente en gros et devis</h3><p>Pour les prix, le stock et la fiche technique (spec sheet), vous pouvez appeler le <a href=\"tel:+903422381111\">+90 342 238 11 11</a> ou écrire à <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>Pour votre demande de devis, il vous suffit d'indiquer le nom du produit et la quantité dont vous avez besoin.</p></article>",
+    "de": "<article class=\"wm-metin\"><h2>Produktinformationen</h2><ul><li><strong>Produktgruppe:</strong> Gewürz-Sortiment 20 Gr</li><li><strong>Verpackung:</strong> 20 g</li><li><strong>Verwendung:</strong> Für Corek-, Pogaca-, Kuchen- und Borek-Teige sowie als Topping auf Desserts und Backwaren.</li></ul><h3>Großhandel und Angebot</h3><p>Für Preis, Lagerbestand und technische Informationen (Spec Sheet) können Sie unter <a href=\"tel:+903422381111\">+90 342 238 11 11</a> anrufen oder an <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> schreiben.</p><p>Nennen Sie in Ihrer Angebotsanfrage einfach den Produktnamen und die benötigte Menge.</p></article>"
   },
   "title": {
-    "tr": "HaşHaş | Burçak Baharat"
+    "tr": "HaşHaş | Burçak Baharat",
+    "en": "Poppy Seeds | Burçak Baharat",
+    "es": "Semillas de amapola | Burçak Baharat",
+    "fr": "Graines de pavot | Burçak Baharat",
+    "de": "Mohn | Burçak Baharat"
   },
   "date": "2026-11-10T15:09:45.322Z",
   "update": "2026-11-10T16:13:28.436Z",

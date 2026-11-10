@@ -1,13 +1,25 @@
 {
   "id": "uyeliksozlesmesi",
   "name": {
-    "tr": "Üyelik Sözleşmesi"
+    "tr": "Üyelik Sözleşmesi",
+    "en": "Membership Agreement",
+    "es": "Contrato de membresía",
+    "fr": "Contrat d'adhésion",
+    "de": "Mitgliedschaftsvertrag"
   },
   "description": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "keyword": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "path": "uyelik-sozlesmesi",
   "icon": "gavel",
@@ -21,10 +33,18 @@
   "index": 13,
   "url": "",
   "text": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "title": {
-    "tr": "Üyelik Sözleşmesi"
+    "tr": "Üyelik Sözleşmesi",
+    "en": "Membership Agreement",
+    "es": "Contrato de membresía",
+    "fr": "Contrat d'adhésion",
+    "de": "Mitgliedschaftsvertrag"
   },
   "date": "2026-11-10T15:05:24.984Z",
   "update": "2026-11-10T15:05:24.984Z"

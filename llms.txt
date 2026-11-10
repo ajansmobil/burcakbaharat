@@ -2,7 +2,7 @@
 
 > Burçak Baharat; 40 yılı aşkın tecrübesiyle, modern ve tam otomasyonlu tesisinde baharat, pastacılık ürünleri, sos ve sirke, kahve ile aromalı toz içecek gruplarında 90 çeşit ürün üretir. İslahiye / Gaziantep.
 
-Web: https://burcak.webyapar.com/tr/ · Adres: İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep / Türkiye · Telefon: +90 342 238 11 11 · E-posta: info@burcakbaharat.com.tr
+Web: https://burcak.webyapar.com/tr/ · Adres: İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep / Türkiye · Telefon: +90 342 238 11 11 · E-posta: info@burcakbaharat.com.tr · Diller: tr, en, es, fr, de (varsayilan: tr)
 
 ## Sayfalar
 - [Burçak Baharat](https://burcak.webyapar.com/tr/): Burçak Baharat; 40 yılı aşkın tecrübesiyle, modern ve tam otomasyonlu tesisinde baharat, pastacılık ürünleri, sos ve sirke, kahve ile aromalı toz içecek gruplarında 90 çeşit ürün üretir.

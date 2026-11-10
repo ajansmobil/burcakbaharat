@@ -1,13 +1,25 @@
 {
   "id": "usr_adres",
   "name": {
-    "tr": "Adreslerim"
+    "tr": "Adreslerim",
+    "en": "My Addresses",
+    "es": "Mis direcciones",
+    "fr": "Mes adresses",
+    "de": "Meine Adressen"
   },
   "description": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "keyword": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "path": "adreslerim",
   "icon": "location_on",
@@ -23,7 +35,11 @@
   "index": 2,
   "url": "",
   "title": {
-    "tr": "Adreslerim"
+    "tr": "Adreslerim",
+    "en": "My Addresses",
+    "es": "Mis direcciones",
+    "fr": "Mes adresses",
+    "de": "Meine Adressen"
   },
   "date": "2026-11-10T15:05:24.984Z",
   "update": "2026-11-10T15:06:39.052Z"

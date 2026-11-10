@@ -1,13 +1,25 @@
 {
   "id": "2lh75nf9v3",
   "name": {
-    "tr": "Galeta Unu"
+    "tr": "Galeta Unu",
+    "en": "Breadcrumbs",
+    "es": "Pan rallado",
+    "fr": "Chapelure",
+    "de": "Paniermehl"
   },
   "description": {
-    "tr": "Kızartma ve fırın yemeklerinde kullanılan, kıtır kaplama için hazır galeta unu. Köfte, schnitzel, tavuk ve sebze kızartmalarında kaplama olarak kullanılır. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr."
+    "tr": "Kızartma ve fırın yemeklerinde kullanılan, kıtır kaplama için hazır galeta unu. Köfte, schnitzel, tavuk ve sebze kızartmalarında kaplama olarak kullanılır. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "en": "Ready-made breadcrumbs for a crispy coating, used in frying and oven dishes. Used as a coating for meatballs, schnitzel, chicken, and fried vegetables. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "es": "Pan rallado listo para un rebozado crujiente, utilizado en frituras y platos al horno. Se emplea como rebozado en albóndigas, escalopes, pollo y frituras de verduras. Para precios al por mayor, existencias y spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "fr": "Chapelure prête à l'emploi pour un enrobage croustillant, utilisée pour les fritures et les plats au four. Sert d'enrobage pour les boulettes de viande, les escalopes, le poulet et les légumes frits. Prix de gros, stock et spec sheet : +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "de": "Gebrauchsfertiges Paniermehl für eine knusprige Panade bei Frittiertem und Ofengerichten. Wird als Panade für Köfte, Schnitzel, Hähnchen und frittiertes Gemüse verwendet. Für Großhandelspreis, Lagerbestand und Spec Sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr."
   },
   "keyword": {
-    "tr": "Galeta Unu, Burçak Baharat, Pasta Grubu, toptan pasta, Gaziantep"
+    "tr": "Galeta Unu, Burçak Baharat, Pasta Grubu, toptan pasta, Gaziantep",
+    "en": "Breadcrumbs, Burçak Baharat, Pastry Group, wholesale pastry, Gaziantep",
+    "es": "Pan rallado, Burçak Baharat, Grupo de repostería, repostería al por mayor, Gaziantep",
+    "fr": "Chapelure, Burçak Baharat, Gamme pâtisserie, pâtisserie en gros, Gaziantep",
+    "de": "Paniermehl, Burçak Baharat, Konditorei-Sortiment, Konditoreiprodukte Großhandel, Gaziantep"
   },
   "path": "galeta-unu",
   "icon": "restaurant",
@@ -21,10 +33,18 @@
   "index": 17,
   "url": "",
   "text": {
-    "tr": "<article class=\"wm-metin\"><h2>Ürün bilgileri</h2><ul><li><strong>Ürün grubu:</strong> Pasta Grubu</li><li><strong>Kullanım alanı:</strong> Köfte, schnitzel, tavuk ve sebze kızartmalarında kaplama olarak kullanılır.</li></ul><h3>Toptan satış ve teklif</h3><p>Fiyat, stok ve teknik bilgi (spec sheet) için <a href=\"tel:+903422381111\">+90 342 238 11 11</a> numaralı hattı arayabilir veya <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> adresine yazabilirsiniz.</p><p>Teklif talebinizde ürün adını ve ihtiyaç duyduğunuz miktarı iletmeniz yeterlidir.</p></article>"
+    "tr": "<article class=\"wm-metin\"><h2>Ürün bilgileri</h2><ul><li><strong>Ürün grubu:</strong> Pasta Grubu</li><li><strong>Kullanım alanı:</strong> Köfte, schnitzel, tavuk ve sebze kızartmalarında kaplama olarak kullanılır.</li></ul><h3>Toptan satış ve teklif</h3><p>Fiyat, stok ve teknik bilgi (spec sheet) için <a href=\"tel:+903422381111\">+90 342 238 11 11</a> numaralı hattı arayabilir veya <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> adresine yazabilirsiniz.</p><p>Teklif talebinizde ürün adını ve ihtiyaç duyduğunuz miktarı iletmeniz yeterlidir.</p></article>",
+    "en": "<article class=\"wm-metin\"><h2>Product information</h2><ul><li><strong>Product group:</strong> Pastry Group</li><li><strong>Applications:</strong> Used as a coating for meatballs, schnitzel, chicken, and fried vegetables.</li></ul><h3>Wholesale and quotations</h3><p>For pricing, stock, and technical information (spec sheet), you can call <a href=\"tel:+903422381111\">+90 342 238 11 11</a> or write to <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>In your quote request, it is enough to include the product name and the quantity you need.</p></article>",
+    "es": "<article class=\"wm-metin\"><h2>Información del producto</h2><ul><li><strong>Grupo de productos:</strong> Grupo de repostería</li><li><strong>Usos:</strong> Se emplea como rebozado en albóndigas, escalopes, pollo y frituras de verduras.</li></ul><h3>Venta al por mayor y cotización</h3><p>Para precios, existencias e información técnica (spec sheet), puede llamar al <a href=\"tel:+903422381111\">+90 342 238 11 11</a> o escribir a <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>En su solicitud de cotización, basta con indicar el nombre del producto y la cantidad que necesita.</p></article>",
+    "fr": "<article class=\"wm-metin\"><h2>Informations produit</h2><ul><li><strong>Gamme de produits :</strong> Gamme pâtisserie</li><li><strong>Utilisation :</strong> Sert d'enrobage pour les boulettes de viande, les escalopes, le poulet et les légumes frits.</li></ul><h3>Vente en gros et devis</h3><p>Pour les prix, le stock et la fiche technique (spec sheet), vous pouvez appeler le <a href=\"tel:+903422381111\">+90 342 238 11 11</a> ou écrire à <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>Pour votre demande de devis, il vous suffit d'indiquer le nom du produit et la quantité dont vous avez besoin.</p></article>",
+    "de": "<article class=\"wm-metin\"><h2>Produktinformationen</h2><ul><li><strong>Produktgruppe:</strong> Konditorei-Sortiment</li><li><strong>Verwendung:</strong> Wird als Panade für Köfte, Schnitzel, Hähnchen und frittiertes Gemüse verwendet.</li></ul><h3>Großhandel und Angebot</h3><p>Für Preis, Lagerbestand und technische Informationen (Spec Sheet) können Sie unter <a href=\"tel:+903422381111\">+90 342 238 11 11</a> anrufen oder an <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> schreiben.</p><p>Nennen Sie in Ihrer Angebotsanfrage einfach den Produktnamen und die benötigte Menge.</p></article>"
   },
   "title": {
-    "tr": "Galeta Unu | Burçak Baharat"
+    "tr": "Galeta Unu | Burçak Baharat",
+    "en": "Breadcrumbs | Burçak Baharat",
+    "es": "Pan rallado | Burçak Baharat",
+    "fr": "Chapelure | Burçak Baharat",
+    "de": "Paniermehl | Burçak Baharat"
   },
   "date": "2026-11-10T15:09:43.506Z",
   "update": "2026-11-10T16:13:27.777Z",

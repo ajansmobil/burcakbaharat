@@ -199,13 +199,19 @@
         },
         "noTitle": {
           "tr": "Başlık Yok",
-          "en": "No title",
-          "ar": "بدون عنوان"
+          "en": "No Title",
+          "ar": "بدون عنوان",
+          "es": "Sin título",
+          "fr": "Sans titre",
+          "de": "Kein Titel"
         },
         "productNavAria": {
           "tr": "Ürün navigasyonu",
           "en": "Product navigation",
-          "ar": "تنقل المنتج"
+          "ar": "تنقل المنتج",
+          "es": "Navegación de productos",
+          "fr": "Navigation des produits",
+          "de": "Produktnavigation"
         }
       },
       "version": "1.0.0",
@@ -2887,7 +2893,7 @@
         "max": "1200px",
         "bilgi_bandi": true,
         "sticky": true,
-        "showlang": false,
+        "showlang": true,
         "bg": "#FBF6EE",
         "text": "#2B2523",
         "muted": "#5E524C",
@@ -2899,7 +2905,11 @@
         "phone": "+90 342 238 11 11",
         "email": "info@burcakbaharat.com.tr",
         "hours": {
-          "tr": ""
+          "tr": "",
+          "en": "",
+          "es": "",
+          "fr": "",
+          "de": ""
         },
         "social": [
           {
@@ -2914,12 +2924,23 @@
             "ad": "YouTube",
             "url": "https://www.youtube.com/@burcakbaharat"
           }
-        ]
+        ],
+        "home_label": {
+          "tr": "Anasayfa",
+          "en": "Home",
+          "es": "Inicio",
+          "fr": "Accueil",
+          "de": "Startseite"
+        }
       },
       "data": [
         {
           "name": {
-            "tr": "İletişim"
+            "tr": "İletişim",
+            "en": "Contact",
+            "es": "Contacto",
+            "fr": "Contact",
+            "de": "Kontakt"
           },
           "url": "iletisim"
         }
@@ -2950,28 +2971,56 @@
         "shape2": "linear-gradient(135deg, rgba(255,255,255,0.10), rgba(255,255,255,0.02))",
         "shape3": "linear-gradient(135deg, rgba(255,255,255,0.14), rgba(255,255,255,0.04))",
         "title": {
-          "tr": "Tarladan sofranıza lezzet yolculuğu"
+          "tr": "Tarladan sofranıza lezzet yolculuğu",
+          "en": "A flavor journey from field to your table",
+          "es": "Un viaje de sabor del campo a su mesa",
+          "fr": "Du champ à votre table, un voyage gustatif",
+          "de": "Eine Geschmacksreise vom Feld auf Ihren Tisch"
         },
         "description": {
-          "tr": "Burçak Baharat; modern ve tam otomasyonlu tesisinde baharat, pastacılık ürünleri, sos ve sirke, kahve ile aromalı toz içecek gruplarında 90 çeşit ürün üretir."
+          "tr": "Burçak Baharat; modern ve tam otomasyonlu tesisinde baharat, pastacılık ürünleri, sos ve sirke, kahve ile aromalı toz içecek gruplarında 90 çeşit ürün üretir.",
+          "en": "Burçak Baharat produces 90 varieties of products in its modern, fully automated facility across spices, pastry products, sauces and vinegar, coffee, and flavored powdered drinks.",
+          "es": "Burçak Baharat produce 90 variedades de productos en sus grupos de especias, productos de repostería, salsas y vinagres, café y bebidas en polvo aromatizadas, en una planta moderna y totalmente automatizada.",
+          "fr": "Burçak Baharat produit 90 variétés de produits dans les gammes épices, produits de pâtisserie, sauces et vinaigres, café et boissons en poudre aromatisées, au sein d'une usine moderne et entièrement automatisée.",
+          "de": "Burçak Baharat produziert in einer modernen, vollautomatisierten Anlage 90 Produkte aus den Bereichen Gewürze, Konditoreiprodukte, Saucen und Essig, Kaffee sowie aromatisierte Getränkepulver."
         },
         "badge": {
-          "tr": "40 yılı aşkın tecrübe"
+          "tr": "40 yılı aşkın tecrübe",
+          "en": "Over 40 years of experience",
+          "es": "Más de 40 años de experiencia",
+          "fr": "Plus de 40 ans d'expérience",
+          "de": "Über 40 Jahre Erfahrung"
         },
         "image": "/img/hero.webp",
         "alt": {
-          "tr": "Burçak Baharat ürün grupları: pul biber, Türk kahvesi, sos, puding, limonata ve baharat"
+          "tr": "Burçak Baharat ürün grupları: pul biber, Türk kahvesi, sos, puding, limonata ve baharat",
+          "en": "Burçak Baharat product groups: chili flakes, Turkish coffee, sauce, pudding, lemonade, and spices",
+          "es": "Grupos de productos de Burçak Baharat: hojuelas de chile, café turco, salsas, pudín, limonada y especias",
+          "fr": "Gammes de produits Burçak Baharat : piment rouge en flocons, café turc, sauces, pudding, limonade et épices",
+          "de": "Produktgruppen von Burçak Baharat: Chiliflocken, Türkischer Kaffee, Sauce, Pudding, Limonade und Gewürze"
         },
         "btn1": {
-          "tr": "Ürünleri İncele"
+          "tr": "Ürünleri İncele",
+          "en": "Explore Products",
+          "es": "Ver productos",
+          "fr": "Découvrir les produits",
+          "de": "Produkte ansehen"
         },
         "btn1_url": "urunler",
         "btn2": {
-          "tr": "Fiyat Listesi İçin Arayın"
+          "tr": "Fiyat Listesi İçin Arayın",
+          "en": "Call for the Price List",
+          "es": "Llame para solicitar la lista de precios",
+          "fr": "Appelez pour la liste de prix",
+          "de": "Preisliste: Rufen Sie an"
         },
         "btn2_url": "iletisim",
         "stats": {
-          "tr": "40+|Yıllık tecrübe|90|Ürün çeşidi|15|Ülkeye ihracat"
+          "tr": "40+|Yıllık tecrübe|90|Ürün çeşidi|15|Ülkeye ihracat",
+          "en": "40+|Years of experience|90|Product varieties|15|Countries exported to",
+          "es": "40+|Años de experiencia|90|Variedades de productos|15|Países de exportación",
+          "fr": "40+|Années d'expérience|90|Variétés de produits|15|Pays d'exportation",
+          "de": "40+|Jahre Erfahrung|90|Produktsorten|15|Exportländer"
         }
       },
       "category": "hero",
@@ -2999,66 +3048,106 @@
         "accent": "#8F1D2C",
         "bordercolor": "#E8DCC8",
         "title": {
-          "tr": "Ürün Gruplarımız"
+          "tr": "Ürün Gruplarımız",
+          "en": "Our Product Groups",
+          "es": "Nuestros grupos de productos",
+          "fr": "Nos gammes de produits",
+          "de": "Unsere Produktgruppen"
         },
         "subtitle": {
-          "tr": "8 ürün grubunda 90 çeşit — kategoriye tıklayın, ürünleri görün"
+          "tr": "8 ürün grubunda 90 çeşit — kategoriye tıklayın, ürünleri görün",
+          "en": "90 varieties in 8 product groups — click a category to see the products",
+          "es": "90 variedades en 8 grupos de productos — haga clic en una categoría para ver los productos",
+          "fr": "90 variétés en 8 gammes de produits — cliquez sur une catégorie pour voir les produits",
+          "de": "90 Produkte in 8 Produktgruppen — Gruppe anklicken und Produkte ansehen"
         }
       },
       "data": [
         {
           "img": "/img/kategori/pul-biber-grubu.webp",
           "name": {
-            "tr": "Pul Biber Grubu"
+            "tr": "Pul Biber Grubu",
+            "en": "Chili Flakes Group",
+            "es": "Grupo de hojuelas de chile",
+            "fr": "Gamme piment rouge en flocons",
+            "de": "Chiliflocken-Sortiment"
           },
           "url": "pul-biber-grubu"
         },
         {
           "img": "/img/kategori/sos-ve-sirke-grubu.webp",
           "name": {
-            "tr": "Sos ve Sirke Grubu"
+            "tr": "Sos ve Sirke Grubu",
+            "en": "Sauce and Vinegar Group",
+            "es": "Grupo de salsas y vinagres",
+            "fr": "Gamme sauces et vinaigres",
+            "de": "Saucen- und Essig-Sortiment"
           },
           "url": "sos-ve-sirke-grubu"
         },
         {
           "img": "/img/kategori/kahve-grubu.webp",
           "name": {
-            "tr": "Kahve Grubu"
+            "tr": "Kahve Grubu",
+            "en": "Coffee Group",
+            "es": "Grupo de café",
+            "fr": "Gamme café",
+            "de": "Kaffee-Sortiment"
           },
           "url": "kahve-grubu"
         },
         {
           "img": "/img/kategori/pasta-grubu.webp",
           "name": {
-            "tr": "Pasta Grubu"
+            "tr": "Pasta Grubu",
+            "en": "Pastry Group",
+            "es": "Grupo de repostería",
+            "fr": "Gamme pâtisserie",
+            "de": "Konditorei-Sortiment"
           },
           "url": "pasta-grubu"
         },
         {
           "img": "/img/kategori/baharat-20-gr.webp",
           "name": {
-            "tr": "20 Gr Baharat Grubu"
+            "tr": "20 Gr Baharat Grubu",
+            "en": "20 Gr Spice Group",
+            "es": "Grupo de especias de 20 Gr",
+            "fr": "Gamme épices 20 Gr",
+            "de": "Gewürz-Sortiment 20 Gr"
           },
           "url": "baharat-20-gr"
         },
         {
           "img": "/img/kategori/burcak-drink.webp",
           "name": {
-            "tr": "Burçak Drink"
+            "tr": "Burçak Drink",
+            "en": "Burçak Drink",
+            "es": "Burçak Drink",
+            "fr": "Burçak Drink",
+            "de": "Burçak Drink"
           },
           "url": "burcak-drink"
         },
         {
           "img": "/img/kategori/aromali-toz-icecek.webp",
           "name": {
-            "tr": "Aromalı Toz İçecek"
+            "tr": "Aromalı Toz İçecek",
+            "en": "Flavored Powdered Drinks",
+            "es": "Bebida en polvo aromatizada",
+            "fr": "Boissons en poudre aromatisées",
+            "de": "Aromatisierte Getränkepulver"
           },
           "url": "aromali-toz-icecek"
         },
         {
           "img": "/img/kategori/diger-urunler.webp",
           "name": {
-            "tr": "Diğer Ürünler"
+            "tr": "Diğer Ürünler",
+            "en": "Other Products",
+            "es": "Otros productos",
+            "fr": "Autres produits",
+            "de": "Weitere Produkte"
           },
           "url": "diger-urunler"
         }
@@ -3087,66 +3176,106 @@
         "accent": "#8F1D2C",
         "bordercolor": "#E8DCC8",
         "title": {
-          "tr": "Öne Çıkan Ürünler"
+          "tr": "Öne Çıkan Ürünler",
+          "en": "Featured Products",
+          "es": "Productos destacados",
+          "fr": "Produits phares",
+          "de": "Ausgewählte Produkte"
         },
         "subtitle": {
-          "tr": "Fiyat listesi için bizi arayın: +90 342 238 11 11"
+          "tr": "Fiyat listesi için bizi arayın: +90 342 238 11 11",
+          "en": "Call us for the price list: +90 342 238 11 11",
+          "es": "Llámenos para solicitar la lista de precios: +90 342 238 11 11",
+          "fr": "Appelez-nous pour la liste de prix : +90 342 238 11 11",
+          "de": "Rufen Sie uns für die Preisliste an: +90 342 238 11 11"
         }
       },
       "data": [
         {
           "img": "/page/bwvinpvmrm/index.webp",
           "name": {
-            "tr": "Kırmızı Pul Biber (400g)"
+            "tr": "Kırmızı Pul Biber (400g)",
+            "en": "Red Chili Flakes (400g)",
+            "es": "Hojuelas de chile rojo (400g)",
+            "fr": "Piment rouge en flocons (400g)",
+            "de": "Chiliflocken rot (400g)"
           },
           "url": "kirmizi-pul-biber-400g"
         },
         {
           "img": "/page/z5szfqnzqn/index.webp",
           "name": {
-            "tr": "Türk Kahvesi"
+            "tr": "Türk Kahvesi",
+            "en": "Turkish Coffee",
+            "es": "Café turco",
+            "fr": "Café turc",
+            "de": "Türkischer Kaffee"
           },
           "url": "turk-kahvesi"
         },
         {
           "img": "/page/tlo5984eba/index.webp",
           "name": {
-            "tr": "Nar Ekşili Sos (500 ml)"
+            "tr": "Nar Ekşili Sos (500 ml)",
+            "en": "Pomegranate Sour Sauce (500 ml)",
+            "es": "Salsa de granada agria (500 ml)",
+            "fr": "Sauce à la mélasse de grenade (500 ml)",
+            "de": "Granatapfelsauce (500 ml)"
           },
           "url": "nar-eksili-sos-500-ml"
         },
         {
           "img": "/page/ep4zxxbtiz/index.webp",
           "name": {
-            "tr": "Puding (Çilekli)"
+            "tr": "Puding (Çilekli)",
+            "en": "Pudding (Strawberry)",
+            "es": "Pudín (de fresa)",
+            "fr": "Pudding (fraise)",
+            "de": "Pudding (Erdbeere)"
           },
           "url": "puding-cilekli"
         },
         {
           "img": "/page/3api9gi8oa/index.webp",
           "name": {
-            "tr": "Kakao Kutu"
+            "tr": "Kakao Kutu",
+            "en": "Boxed Cocoa",
+            "es": "Cacao en caja",
+            "fr": "Cacao (boîte)",
+            "de": "Kakao in Schachtel"
           },
           "url": "kakao-kutu"
         },
         {
           "img": "/page/2lh75nf9v3/index.webp",
           "name": {
-            "tr": "Galeta Unu"
+            "tr": "Galeta Unu",
+            "en": "Breadcrumbs",
+            "es": "Pan rallado",
+            "fr": "Chapelure",
+            "de": "Paniermehl"
           },
           "url": "galeta-unu"
         },
         {
           "img": "/page/lie9kh44oh/index.webp",
           "name": {
-            "tr": "Kimyon Toz"
+            "tr": "Kimyon Toz",
+            "en": "Ground Cumin",
+            "es": "Comino en polvo",
+            "fr": "Cumin moulu",
+            "de": "Kreuzkümmel, gemahlen"
           },
           "url": "kimyon-toz"
         },
         {
           "img": "/page/ge4cfbw1d7/index.webp",
           "name": {
-            "tr": "Turşukur"
+            "tr": "Turşukur",
+            "en": "Pickling Mix",
+            "es": "Turşukur (mezcla para encurtidos)",
+            "fr": "Turşukur (préparation pour pickles)",
+            "de": "Turşukur (Einlegemischung)"
           },
           "url": "tursukur"
         }
@@ -3176,16 +3305,32 @@
         "btnbg": "#8F1D2C",
         "btncolor": "#FFFFFF",
         "badge": {
-          "tr": "Biz Kimiz?"
+          "tr": "Biz Kimiz?",
+          "en": "Who Are We?",
+          "es": "¿Quiénes somos?",
+          "fr": "Qui sommes-nous ?",
+          "de": "Wer wir sind"
         },
         "title": {
-          "tr": "Burçak Baharat"
+          "tr": "Burçak Baharat",
+          "en": "Burçak Baharat",
+          "es": "Burçak Baharat",
+          "fr": "Burçak Baharat",
+          "de": "Burçak Baharat"
         },
         "description": {
-          "tr": "Gaziantep İslahiye Organize Sanayi Bölgesi'nde 25 bin metrekare üzerine kurulu, 10 bin metrekaresi kapalı alan olan tesisimizde baharat, pastacılık ürünleri, sos grubu, içecek grubu ve endüstriyel grupta üretim yapıyoruz. Kırmızı biber, kimyon, susam, çörek otu, sumak ve nane gibi tarımsal ürünleri bölge çiftçisinden temin ediyor, farklı kıtalarda 15 ülkeye ihracat yapıyoruz."
+          "tr": "Gaziantep İslahiye Organize Sanayi Bölgesi'nde 25 bin metrekare üzerine kurulu, 10 bin metrekaresi kapalı alan olan tesisimizde baharat, pastacılık ürünleri, sos grubu, içecek grubu ve endüstriyel grupta üretim yapıyoruz. Kırmızı biber, kimyon, susam, çörek otu, sumak ve nane gibi tarımsal ürünleri bölge çiftçisinden temin ediyor, farklı kıtalarda 15 ülkeye ihracat yapıyoruz.",
+          "en": "At our facility in the Gaziantep İslahiye Organized Industrial Zone, built on 25,000 square meters of land, 10,000 square meters of which is covered area, we produce in the spice, pastry products, sauce group, beverage group, and industrial group. We source agricultural products such as red pepper, cumin, sesame, nigella seeds, sumac, and mint from local farmers, and we export to 15 countries on different continents.",
+          "es": "En nuestra planta, instalada sobre 25 mil metros cuadrados en la Zona Industrial Organizada de İslahiye, Gaziantep, de los cuales 10 mil metros cuadrados son superficie cubierta, producimos en los grupos de especias, productos de repostería, salsas, bebidas e industrial. Obtenemos de los agricultores de la región productos agrícolas como chile rojo, comino, sésamo, comino negro, zumaque y menta, y exportamos a 15 países de distintos continentes.",
+          "fr": "Dans notre usine implantée sur 25 000 mètres carrés dans la zone industrielle organisée d'İslahiye (Gaziantep), dont 10 000 mètres carrés de surfaces couvertes, nous produisons des épices, des produits de pâtisserie, une gamme de sauces, une gamme de boissons et une gamme industrielle. Nous nous approvisionnons en produits agricoles tels que le piment rouge, le cumin, le sésame, la nigelle, le sumac et la menthe auprès des agriculteurs de la région, et nous exportons vers 15 pays sur différents continents.",
+          "de": "In unserer Anlage im Organisierten Industriegebiet İslahiye in Gaziantep, errichtet auf 25.000 Quadratmetern, davon 10.000 Quadratmeter überdachte Fläche, produzieren wir Gewürze, Konditoreiprodukte, Saucen, Getränke und Industrieprodukte. Landwirtschaftliche Erzeugnisse wie Paprika, Kreuzkümmel, Sesam, Schwarzkümmel, Sumach und Minze beziehen wir von Landwirten der Region und exportieren in 15 Länder auf verschiedenen Kontinenten."
         },
         "btn1Text": {
-          "tr": "Ürünleri İncele"
+          "tr": "Ürünleri İncele",
+          "en": "Explore Products",
+          "es": "Ver productos",
+          "fr": "Découvrir les produits",
+          "de": "Produkte ansehen"
         },
         "btn1Url": "urunler"
       },
@@ -3229,10 +3374,18 @@
         "radius": "16px",
         "sure": 1200,
         "title": {
-          "tr": "Rakamlarla Burçak"
+          "tr": "Rakamlarla Burçak",
+          "en": "Burçak in Numbers",
+          "es": "Burçak en cifras",
+          "fr": "Burçak en chiffres",
+          "de": "Burçak in Zahlen"
         },
         "description": {
-          "tr": "Baharat ve gıda sektöründe 40 yılı aşkın tecrübenin rakamları."
+          "tr": "Baharat ve gıda sektöründe 40 yılı aşkın tecrübenin rakamları.",
+          "en": "The numbers behind over 40 years of experience in the spice and food industry.",
+          "es": "Las cifras de más de 40 años de experiencia en el sector de las especias y los alimentos.",
+          "fr": "Les chiffres de plus de 40 ans d'expérience dans le secteur des épices et de l'alimentation.",
+          "de": "Die Zahlen von mehr als 40 Jahren Erfahrung in der Gewürz- und Lebensmittelbranche."
         }
       },
       "data": [
@@ -3242,10 +3395,18 @@
           "sonek": "+",
           "ikon": "workspace_premium",
           "etiket": {
-            "tr": "Yıllık tecrübe"
+            "tr": "Yıllık tecrübe",
+            "en": "Years of experience",
+            "es": "Años de experiencia",
+            "fr": "Années d'expérience",
+            "de": "Jahre Erfahrung"
           },
           "aciklama": {
-            "tr": "Baharat ve gıda sektöründe"
+            "tr": "Baharat ve gıda sektöründe",
+            "en": "In the spice and food industry",
+            "es": "En el sector de las especias y los alimentos",
+            "fr": "Dans le secteur des épices et de l'alimentation",
+            "de": "In der Gewürz- und Lebensmittelbranche"
           }
         },
         {
@@ -3254,10 +3415,18 @@
           "sonek": "",
           "ikon": "inventory_2",
           "etiket": {
-            "tr": "Ürün çeşidi"
+            "tr": "Ürün çeşidi",
+            "en": "Product varieties",
+            "es": "Variedades de productos",
+            "fr": "Variétés de produits",
+            "de": "Produktsorten"
           },
           "aciklama": {
-            "tr": "8 ürün grubunda"
+            "tr": "8 ürün grubunda",
+            "en": "Across 8 product groups",
+            "es": "En 8 grupos de productos",
+            "fr": "Réparties en 8 gammes de produits",
+            "de": "In 8 Produktgruppen"
           }
         },
         {
@@ -3266,10 +3435,18 @@
           "sonek": "",
           "ikon": "public",
           "etiket": {
-            "tr": "Ülkeye ihracat"
+            "tr": "Ülkeye ihracat",
+            "en": "Countries exported to",
+            "es": "Países de exportación",
+            "fr": "Pays d'exportation",
+            "de": "Exportländer"
           },
           "aciklama": {
-            "tr": "Farklı kıtalarda"
+            "tr": "Farklı kıtalarda",
+            "en": "On different continents",
+            "es": "En distintos continentes",
+            "fr": "Sur différents continents",
+            "de": "Auf verschiedenen Kontinenten"
           }
         },
         {
@@ -3278,10 +3455,18 @@
           "sonek": " bin m²",
           "ikon": "factory",
           "etiket": {
-            "tr": "Kapalı üretim alanı"
+            "tr": "Kapalı üretim alanı",
+            "en": "Covered production area",
+            "es": "Superficie de producción cubierta",
+            "fr": "Surface de production couverte",
+            "de": "Überdachte Produktionsfläche"
           },
           "aciklama": {
-            "tr": "Tam otomasyonlu tesis"
+            "tr": "Tam otomasyonlu tesis",
+            "en": "Fully automated facility",
+            "es": "Planta totalmente automatizada",
+            "fr": "Usine entièrement automatisée",
+            "de": "Vollautomatisierte Anlage"
           }
         }
       ],
@@ -3307,17 +3492,33 @@
         "accent": "#8F1D2C",
         "icon": "call",
         "title": {
-          "tr": "Fiyat listesi için bizi arayın"
+          "tr": "Fiyat listesi için bizi arayın",
+          "en": "Call us for the price list",
+          "es": "Llámenos para solicitar la lista de precios",
+          "fr": "Appelez-nous pour la liste de prix",
+          "de": "Rufen Sie uns für die Preisliste an"
         },
         "description": {
-          "tr": "Toptan satış, ihracat ve fiyat bilgisi için müşteri temsilcimizle görüşün: +90 342 238 11 11 · info@burcakbaharat.com.tr"
+          "tr": "Toptan satış, ihracat ve fiyat bilgisi için müşteri temsilcimizle görüşün: +90 342 238 11 11 · info@burcakbaharat.com.tr",
+          "en": "For wholesale, export, and pricing information, speak with our customer representative: +90 342 238 11 11 · info@burcakbaharat.com.tr",
+          "es": "Para venta al por mayor, exportación e información de precios, hable con nuestro representante de atención al cliente: +90 342 238 11 11 · info@burcakbaharat.com.tr",
+          "fr": "Pour la vente en gros, l'exportation et les informations tarifaires, échangez avec notre chargé de clientèle : +90 342 238 11 11 · info@burcakbaharat.com.tr",
+          "de": "Sprechen Sie mit unserem Kundenberater zu Großhandel, Export und Preisen: +90 342 238 11 11 · info@burcakbaharat.com.tr"
         },
         "btnText": {
-          "tr": "+90 342 238 11 11"
+          "tr": "+90 342 238 11 11",
+          "en": "+90 342 238 11 11",
+          "es": "+90 342 238 11 11",
+          "fr": "+90 342 238 11 11",
+          "de": "+90 342 238 11 11"
         },
         "btnUrl": "tel:+903422381111",
         "note": {
-          "tr": "İslahiye OSB, Gaziantep · info@burcakbaharat.com.tr"
+          "tr": "İslahiye OSB, Gaziantep · info@burcakbaharat.com.tr",
+          "en": "İslahiye OSB, Gaziantep · info@burcakbaharat.com.tr",
+          "es": "İslahiye OSB, Gaziantep · info@burcakbaharat.com.tr",
+          "fr": "İslahiye OSB, Gaziantep · info@burcakbaharat.com.tr",
+          "de": "OSB İslahiye, Gaziantep · info@burcakbaharat.com.tr"
         },
         "accentText": "#FFFFFF"
       },
@@ -3358,67 +3559,123 @@
         "showFilter": true,
         "descLength": 90,
         "title": {
-          "tr": "E-Katalog · Tüm Ürünler"
+          "tr": "E-Katalog · Tüm Ürünler",
+          "en": "E-Catalog · All Products",
+          "es": "E-catálogo · Todos los productos",
+          "fr": "E-catalogue · Tous les produits",
+          "de": "E-Katalog · Alle Produkte"
         },
         "allText": {
-          "tr": "Tümü"
+          "tr": "Tümü",
+          "en": "All",
+          "es": "Todos",
+          "fr": "Tous",
+          "de": "Alle"
         },
         "resultCount": {
-          "tr": "ürün"
+          "tr": "ürün",
+          "en": "products",
+          "es": "productos",
+          "fr": "produits",
+          "de": "Produkte"
         },
         "addToCart": {
-          "tr": "Fiyat için arayın"
+          "tr": "Fiyat için arayın",
+          "en": "Call for price",
+          "es": "Llame para conocer el precio",
+          "fr": "Appelez pour le prix",
+          "de": "Preis: anrufen"
         },
         "soldOutText": {
           "tr": "Tukendi",
-          "en": "Sold Out"
+          "en": "Sold out",
+          "es": "Agotado",
+          "fr": "Épuisé",
+          "de": "Ausverkauft"
         },
         "newText": {
           "tr": "Yeni",
-          "en": "New"
+          "en": "New",
+          "es": "Nuevo",
+          "fr": "Nouveau",
+          "de": "Neu"
         },
         "saleText": {
           "tr": "Indirim",
-          "en": "Sale"
+          "en": "Sale",
+          "es": "Descuento",
+          "fr": "Promo",
+          "de": "Rabatt"
         },
         "search": true,
         "sort": false,
         "searchLabel": {
-          "tr": "Ürün ara"
+          "tr": "Ürün ara",
+          "en": "Search products",
+          "es": "Buscar producto",
+          "fr": "Rechercher un produit",
+          "de": "Produkt suchen"
         },
         "searchPlaceholder": {
-          "tr": "Ürün adı veya kategori…"
+          "tr": "Ürün adı veya kategori…",
+          "en": "Product name or category…",
+          "es": "Nombre del producto o categoría…",
+          "fr": "Nom du produit ou catégorie…",
+          "de": "Produktname oder Kategorie…"
         },
         "sortLabel": {
           "tr": "Sirala",
-          "en": "Sort by",
-          "ar": "ترتيب حسب"
+          "en": "Sort",
+          "ar": "ترتيب حسب",
+          "es": "Ordenar",
+          "fr": "Trier",
+          "de": "Sortieren"
         },
         "sortDefault": {
           "tr": "Onerilen siralama",
-          "en": "Recommended",
-          "ar": "الترتيب الموصى به"
+          "en": "Recommended order",
+          "ar": "الترتيب الموصى به",
+          "es": "Orden recomendado",
+          "fr": "Tri recommandé",
+          "de": "Empfohlene Reihenfolge"
         },
         "sortPriceAsc": {
           "tr": "Fiyat: dusukten yuksege",
           "en": "Price: low to high",
-          "ar": "السعر: من الأقل إلى الأعلى"
+          "ar": "السعر: من الأقل إلى الأعلى",
+          "es": "Precio: de menor a mayor",
+          "fr": "Prix : du plus bas au plus élevé",
+          "de": "Preis: aufsteigend"
         },
         "sortPriceDesc": {
           "tr": "Fiyat: yuksekten dusuge",
           "en": "Price: high to low",
-          "ar": "السعر: من الأعلى إلى الأقل"
+          "ar": "السعر: من الأعلى إلى الأقل",
+          "es": "Precio: de mayor a menor",
+          "fr": "Prix : du plus élevé au plus bas",
+          "de": "Preis: absteigend"
         },
         "sortNew": {
           "tr": "En yeniler",
-          "en": "Newest first",
-          "ar": "الأحدث أولًا"
+          "en": "Newest",
+          "ar": "الأحدث أولًا",
+          "es": "Más recientes",
+          "fr": "Nouveautés",
+          "de": "Neueste"
         },
         "noResult": {
-          "tr": "Aramanıza uygun ürün bulunamadı."
+          "tr": "Aramanıza uygun ürün bulunamadı.",
+          "en": "No products matched your search.",
+          "es": "No se encontraron productos que coincidan con su búsqueda.",
+          "fr": "Aucun produit ne correspond à votre recherche.",
+          "de": "Zu Ihrer Suche wurden keine passenden Produkte gefunden."
         },
         "clearSearch": {
-          "tr": "Filtreleri temizle"
+          "tr": "Filtreleri temizle",
+          "en": "Clear filters",
+          "es": "Borrar filtros",
+          "fr": "Effacer les filtres",
+          "de": "Filter zurücksetzen"
         }
       },
       "data": [],
@@ -3451,11 +3708,17 @@
         "category": "category",
         "olcuTitle": {
           "tr": "Ölçüler",
-          "en": "Dimensions"
+          "en": "Dimensions",
+          "es": "Medidas",
+          "fr": "Dimensions",
+          "de": "Maße"
         },
         "olcuNote": {
           "tr": "Standart üretim referans ölçüsüdür; proje bazında özelleştirilebilir.",
-          "en": "Standard production reference; customizable per project."
+          "en": "Standard production reference dimensions; can be customized per project.",
+          "es": "Es una medida de referencia de la producción estándar; puede personalizarse según el proyecto.",
+          "fr": "Les dimensions de production standard sont données à titre indicatif ; elles peuvent être personnalisées selon le projet.",
+          "de": "Referenzmaß der Standardproduktion; kann projektbezogen angepasst werden."
         },
         "activetext": "#ffffff"
       },
@@ -3596,16 +3859,32 @@
         "btnbg": "#8F1D2C",
         "btncolor": "#FFFFFF",
         "badge": {
-          "tr": "Burçak Baharat"
+          "tr": "Burçak Baharat",
+          "en": "Burçak Baharat",
+          "es": "Burçak Baharat",
+          "fr": "Burçak Baharat",
+          "de": "Burçak Baharat"
         },
         "title": {
-          "tr": "Doğallığı ve lezzeti ambalaja taşıyoruz"
+          "tr": "Doğallığı ve lezzeti ambalaja taşıyoruz",
+          "en": "We bring naturalness and flavor to the package",
+          "es": "Llevamos la naturalidad y el sabor al envase",
+          "fr": "Nous mettons le naturel et la saveur dans l'emballage",
+          "de": "Wir bringen Natürlichkeit und Geschmack in die Verpackung"
         },
         "description": {
-          "tr": "40 yılı aşkın tecrübemiz ve modern, tam otomasyonlu tesisimizle baharattan pastacılık ürünlerine, sostan toz içeceğe kadar sofranızın ihtiyaç duyduğu 90 çeşit ürünü üretiyoruz."
+          "tr": "40 yılı aşkın tecrübemiz ve modern, tam otomasyonlu tesisimizle baharattan pastacılık ürünlerine, sostan toz içeceğe kadar sofranızın ihtiyaç duyduğu 90 çeşit ürünü üretiyoruz.",
+          "en": "With over 40 years of experience and our modern, fully automated facility, we produce the 90 varieties of products your table needs, from spices to pastry products, from sauces to powdered drinks.",
+          "es": "Con más de 40 años de experiencia y nuestra planta moderna y totalmente automatizada, producimos 90 variedades de productos que su mesa necesita, desde especias hasta productos de repostería, desde salsas hasta bebidas en polvo.",
+          "fr": "Forts de plus de 40 ans d'expérience et de notre usine moderne et entièrement automatisée, nous produisons les 90 variétés de produits dont votre table a besoin, des épices aux produits de pâtisserie, des sauces aux boissons en poudre.",
+          "de": "Mit mehr als 40 Jahren Erfahrung und unserer modernen, vollautomatisierten Anlage produzieren wir 90 Produkte, die Ihre Küche braucht – von Gewürzen und Konditoreiprodukten bis zu Saucen und Getränkepulvern."
         },
         "btn1Text": {
-          "tr": "Biz Kimiz?"
+          "tr": "Biz Kimiz?",
+          "en": "Who Are We?",
+          "es": "¿Quiénes somos?",
+          "fr": "Qui sommes-nous ?",
+          "de": "Wer wir sind"
         },
         "btn1Url": "kurumsal"
       },
@@ -3673,31 +3952,51 @@
         "accent": "#8F1D2C",
         "bordercolor": "#E8DCC8",
         "title": {
-          "tr": "E-Katalog · PDF İndir"
+          "tr": "E-Katalog · PDF İndir",
+          "en": "E-Catalog · Download PDF",
+          "es": "E-catálogo · Descargar PDF",
+          "fr": "E-catalogue · Télécharger le PDF",
+          "de": "E-Katalog · PDF herunterladen"
         },
         "subtitle": {
-          "tr": "Ürün gruplarımızın basılı katalogları — açmak için kapağa tıklayın"
+          "tr": "Ürün gruplarımızın basılı katalogları — açmak için kapağa tıklayın",
+          "en": "Printed catalogs of our product groups — click the cover to open",
+          "es": "Catálogos impresos de nuestros grupos de productos — haga clic en la portada para abrirlo",
+          "fr": "Catalogues imprimés de nos gammes de produits — cliquez sur la couverture pour l'ouvrir",
+          "de": "Gedruckte Kataloge unserer Produktgruppen — zum Öffnen auf das Cover klicken"
         }
       },
       "data": [
         {
           "img": "/img/katalog/sachet-spice-20gr.webp",
           "name": {
-            "tr": "Sachet Spice 20 gr Kataloğu"
+            "tr": "Sachet Spice 20 gr Kataloğu",
+            "en": "Sachet Spice 20 gr Catalog",
+            "es": "Catálogo Sachet Spice 20 gr",
+            "fr": "Catalogue Sachet Spice 20 gr",
+            "de": "Katalog Sachet Spice 20 gr"
           },
           "url": "https://burcak.webyapar.com/img/katalog/sachet-spice-20gr.pdf"
         },
         {
           "img": "/img/katalog/pudding.webp",
           "name": {
-            "tr": "Puding Kataloğu"
+            "tr": "Puding Kataloğu",
+            "en": "Pudding Catalog",
+            "es": "Catálogo de pudines",
+            "fr": "Catalogue Pudding",
+            "de": "Pudding-Katalog"
           },
           "url": "https://burcak.webyapar.com/img/katalog/pudding.pdf"
         },
         {
           "img": "/img/katalog/fruit-dance.webp",
           "name": {
-            "tr": "Fruit Dance Toz İçecek Kataloğu"
+            "tr": "Fruit Dance Toz İçecek Kataloğu",
+            "en": "Fruit Dance Powdered Drink Catalog",
+            "es": "Catálogo de bebidas en polvo Fruit Dance",
+            "fr": "Catalogue des boissons en poudre Fruit Dance",
+            "de": "Katalog Fruit Dance Getränkepulver"
           },
           "url": "https://burcak.webyapar.com/img/katalog/fruit-dance.pdf"
         }
@@ -3786,73 +4085,121 @@
         "privacyUrl": "cerez-politikasi",
         "rizaSurumu": "1",
         "title": {
-          "tr": "Çerez tercihleri"
+          "tr": "Çerez tercihleri",
+          "en": "Cookie preferences",
+          "es": "Preferencias de cookies",
+          "fr": "Préférences de cookies",
+          "de": "Cookie-Einstellungen"
         },
         "text": {
-          "tr": "Size daha iyi hizmet sunabilmek için KVKK’ya uygun ve sınırlı ölçüde veri topluyoruz. Zorunlu olmayan çerezler yalnızca onayınızla etkinleşir; tercihinizi dilediğiniz zaman değiştirebilirsiniz."
+          "tr": "Size daha iyi hizmet sunabilmek için KVKK’ya uygun ve sınırlı ölçüde veri topluyoruz. Zorunlu olmayan çerezler yalnızca onayınızla etkinleşir; tercihinizi dilediğiniz zaman değiştirebilirsiniz.",
+          "en": "To serve you better, we collect limited data in line with KVKK (Personal Data Protection Law No. 6698). Non-essential cookies are activated only with your consent; you can change your preference at any time.",
+          "es": "Para poder ofrecerle un mejor servicio, recopilamos datos de forma limitada y conforme a la KVKK. Las cookies no necesarias solo se activan con su consentimiento; puede cambiar su preferencia en cualquier momento.",
+          "fr": "Afin de mieux vous servir, nous collectons des données de manière limitée et conforme à la loi KVKK. Les cookies non essentiels ne sont activés qu'avec votre consentement ; vous pouvez modifier votre choix à tout moment.",
+          "de": "Um Ihnen besseren Service zu bieten, erheben wir im Einklang mit dem KVKK in begrenztem Umfang Daten. Nicht notwendige Cookies werden nur mit Ihrer Einwilligung aktiviert; Sie können Ihre Auswahl jederzeit ändern."
         },
         "acceptText": {
           "tr": "Tümünü kabul et",
           "en": "Accept all",
-          "ar": "قبول الكل"
+          "ar": "قبول الكل",
+          "es": "Aceptar todas",
+          "fr": "Tout accepter",
+          "de": "Alle akzeptieren"
         },
         "rejectText": {
           "tr": "Reddet",
           "en": "Reject",
-          "ar": "رفض"
+          "ar": "رفض",
+          "es": "Rechazar",
+          "fr": "Refuser",
+          "de": "Ablehnen"
         },
         "prefsText": {
           "tr": "Tercihler",
           "en": "Preferences",
-          "ar": "التفضيلات"
+          "ar": "التفضيلات",
+          "es": "Preferencias",
+          "fr": "Préférences",
+          "de": "Einstellungen"
         },
         "saveText": {
           "tr": "Seçimleri kaydet",
-          "en": "Save choices",
-          "ar": "حفظ الاختيارات"
+          "en": "Save selections",
+          "ar": "حفظ الاختيارات",
+          "es": "Guardar selección",
+          "fr": "Enregistrer les choix",
+          "de": "Auswahl speichern"
         },
         "moreText": {
-          "tr": "Çerez Politikası"
+          "tr": "Çerez Politikası",
+          "en": "Cookie Policy",
+          "es": "Política de cookies",
+          "fr": "Politique de cookies",
+          "de": "Cookie-Richtlinie"
         },
         "zorunluText": {
           "tr": "Zorunlu",
-          "en": "Strictly necessary",
-          "ar": "ضرورية"
+          "en": "Necessary",
+          "ar": "ضرورية",
+          "es": "Necesarias",
+          "fr": "Essentiels",
+          "de": "Notwendig"
         },
         "zorunluDesc": {
           "tr": "Oturum ve güvenlik için gerekir; kapatılamaz.",
-          "en": "Needed for session and security; cannot be turned off.",
-          "ar": "مطلوبة للجلسة والأمان؛ لا يمكن إيقافها."
+          "en": "Required for session and security; cannot be turned off.",
+          "ar": "مطلوبة للجلسة والأمان؛ لا يمكن إيقافها.",
+          "es": "Necesarias para la sesión y la seguridad; no se pueden desactivar.",
+          "fr": "Nécessaires à la session et à la sécurité ; ne peuvent pas être désactivés.",
+          "de": "Für Sitzung und Sicherheit erforderlich; kann nicht deaktiviert werden."
         },
         "islevselText": {
           "tr": "İşlevsel",
           "en": "Functional",
-          "ar": "وظيفية"
+          "ar": "وظيفية",
+          "es": "Funcionales",
+          "fr": "Fonctionnels",
+          "de": "Funktional"
         },
         "islevselDesc": {
           "tr": "Dil ve görünüm gibi tercihlerinizi hatırlar.",
-          "en": "Remembers preferences such as language and display.",
-          "ar": "تتذكر تفضيلاتك مثل اللغة والعرض."
+          "en": "Remembers your preferences such as language and appearance.",
+          "ar": "تتذكر تفضيلاتك مثل اللغة والعرض.",
+          "es": "Recuerdan sus preferencias, como el idioma y el aspecto.",
+          "fr": "Mémorisent vos préférences, comme la langue et l'affichage.",
+          "de": "Merkt sich Einstellungen wie Sprache und Darstellung."
         },
         "analitikText": {
           "tr": "Analitik",
           "en": "Analytics",
-          "ar": "تحليلية"
+          "ar": "تحليلية",
+          "es": "Analíticas",
+          "fr": "Analytiques",
+          "de": "Analyse"
         },
         "analitikDesc": {
           "tr": "Sitenin nasıl kullanıldığını ölçer.",
           "en": "Measures how the site is used.",
-          "ar": "تقيس كيفية استخدام الموقع."
+          "ar": "تقيس كيفية استخدام الموقع.",
+          "es": "Miden cómo se utiliza el sitio.",
+          "fr": "Mesurent la façon dont le site est utilisé.",
+          "de": "Misst, wie die Website genutzt wird."
         },
         "pazarlamaText": {
           "tr": "Pazarlama",
           "en": "Marketing",
-          "ar": "تسويقية"
+          "ar": "تسويقية",
+          "es": "Marketing",
+          "fr": "Marketing",
+          "de": "Marketing"
         },
         "pazarlamaDesc": {
           "tr": "İlgi alanınıza göre içerik ve reklam gösterir.",
           "en": "Shows content and ads based on your interests.",
-          "ar": "تعرض محتوى وإعلانات وفق اهتماماتك."
+          "ar": "تعرض محتوى وإعلانات وفق اهتماماتك.",
+          "es": "Muestran contenidos y anuncios según sus intereses.",
+          "fr": "Affichent du contenu et des publicités selon vos centres d'intérêt.",
+          "de": "Zeigt Inhalte und Werbung passend zu Ihren Interessen."
         },
         "kabulVurgu": false,
         "ince": false
@@ -3875,16 +4222,32 @@
         "logo_maxh": "72px",
         "logo_plate": false,
         "about": {
-          "tr": "40 yılı aşkın tecrübe ve tam otomasyonlu tesisle baharat, pastacılık ürünleri, sos ve sirke, kahve ve aromalı toz içecek gruplarında üretim."
+          "tr": "40 yılı aşkın tecrübe ve tam otomasyonlu tesisle baharat, pastacılık ürünleri, sos ve sirke, kahve ve aromalı toz içecek gruplarında üretim.",
+          "en": "Production in spices, pastry products, sauces and vinegar, coffee, and flavored powdered drinks with over 40 years of experience and a fully automated facility.",
+          "es": "Producción en los grupos de especias, productos de repostería, salsas y vinagres, café y bebidas en polvo aromatizadas, con más de 40 años de experiencia y una planta totalmente automatizada.",
+          "fr": "Production d'épices, de produits de pâtisserie, de sauces et vinaigres, de café et de boissons en poudre aromatisées, grâce à plus de 40 ans d'expérience et à une usine entièrement automatisée.",
+          "de": "Produktion von Gewürzen, Konditoreiprodukten, Saucen und Essig, Kaffee und aromatisierten Getränkepulvern mit mehr als 40 Jahren Erfahrung und einer vollautomatisierten Anlage."
         },
         "title_pages": {
-          "tr": "Sayfalar"
+          "tr": "Sayfalar",
+          "en": "Pages",
+          "es": "Páginas",
+          "fr": "Pages",
+          "de": "Seiten"
         },
         "title_contact": {
-          "tr": "İletişim"
+          "tr": "İletişim",
+          "en": "Contact",
+          "es": "Contacto",
+          "fr": "Contact",
+          "de": "Kontakt"
         },
         "title_social": {
-          "tr": "Bizi takip edin"
+          "tr": "Bizi takip edin",
+          "en": "Follow us",
+          "es": "Síganos",
+          "fr": "Suivez-nous",
+          "de": "Folgen Sie uns"
         },
         "address": "",
         "phone": "+90 342 238 11 11",
@@ -3910,87 +4273,147 @@
         "legal": [
           {
             "text": {
-              "tr": "Gizlilik Politikası"
+              "tr": "Gizlilik Politikası",
+              "en": "Privacy Policy",
+              "es": "Política de privacidad",
+              "fr": "Politique de confidentialité",
+              "de": "Datenschutzerklärung"
             },
             "href": "gizlilik-politikasi"
           },
           {
             "text": {
-              "tr": "Kişisel Veriler"
+              "tr": "Kişisel Veriler",
+              "en": "Personal Data",
+              "es": "Datos personales",
+              "fr": "Données personnelles",
+              "de": "Personenbezogene Daten"
             },
             "href": "kisiselveriler"
           },
           {
             "text": {
-              "tr": "Çerez Politikası"
+              "tr": "Çerez Politikası",
+              "en": "Cookie Policy",
+              "es": "Política de cookies",
+              "fr": "Politique de cookies",
+              "de": "Cookie-Richtlinie"
             },
             "href": "cerez-politikasi"
           },
           {
             "text": {
-              "tr": "Kullanıcı Hakları"
+              "tr": "Kullanıcı Hakları",
+              "en": "User Rights",
+              "es": "Derechos del usuario",
+              "fr": "Droits des utilisateurs",
+              "de": "Nutzerrechte"
             },
             "href": "kullanicahaklari"
           },
           {
             "text": {
-              "tr": "Yasal Uyarı"
+              "tr": "Yasal Uyarı",
+              "en": "Legal Notice",
+              "es": "Aviso legal",
+              "fr": "Mentions légales",
+              "de": "Rechtliche Hinweise"
             },
             "href": "yasaluyari"
           }
         ],
         "rightsText": {
-          "tr": "Tüm hakları saklıdır."
+          "tr": "Tüm hakları saklıdır.",
+          "en": "All rights reserved.",
+          "es": "Todos los derechos reservados.",
+          "fr": "Tous droits réservés.",
+          "de": "Alle Rechte vorbehalten."
         },
         "title_categories": {
-          "tr": "Ürün Grupları"
+          "tr": "Ürün Grupları",
+          "en": "Product Groups",
+          "es": "Grupos de productos",
+          "fr": "Gammes de produits",
+          "de": "Produktgruppen"
         },
         "pagelinks": [
           {
             "text": {
-              "tr": "Anasayfa"
+              "tr": "Anasayfa",
+              "en": "Home",
+              "es": "Inicio",
+              "fr": "Accueil",
+              "de": "Startseite"
             },
             "href": ""
           },
           {
             "text": {
-              "tr": "Kurumsal"
+              "tr": "Kurumsal",
+              "en": "Corporate",
+              "es": "Corporativo",
+              "fr": "Entreprise",
+              "de": "Unternehmen"
             },
             "href": "kurumsal"
           },
           {
             "text": {
-              "tr": "Ürünler · E-Katalog"
+              "tr": "Ürünler · E-Katalog",
+              "en": "Products · E-Catalog",
+              "es": "Productos · E-catálogo",
+              "fr": "Produits · E-catalogue",
+              "de": "Produkte · E-Katalog"
             },
             "href": "urunler"
           },
           {
             "text": {
-              "tr": "İletişim"
+              "tr": "İletişim",
+              "en": "Contact",
+              "es": "Contacto",
+              "fr": "Contact",
+              "de": "Kontakt"
             },
             "href": "iletisim"
           },
           {
             "text": {
-              "tr": "Hakkımızda"
+              "tr": "Hakkımızda",
+              "en": "About Us",
+              "es": "Quiénes somos",
+              "fr": "À propos de nous",
+              "de": "Über uns"
             },
             "href": "hakkimizda"
           },
           {
             "text": {
-              "tr": "Misyon"
+              "tr": "Misyon",
+              "en": "Mission",
+              "es": "Misión",
+              "fr": "Mission",
+              "de": "Mission"
             },
             "href": "misyon"
           },
           {
             "text": {
-              "tr": "Vizyon"
+              "tr": "Vizyon",
+              "en": "Vision",
+              "es": "Visión",
+              "fr": "Vision",
+              "de": "Vision"
             },
             "href": "vizyon"
           },
           {
             "text": {
-              "tr": "Kalite Politikamız"
+              "tr": "Kalite Politikamız",
+              "en": "Our Quality Policy",
+              "es": "Nuestra política de calidad",
+              "fr": "Notre politique qualité",
+              "de": "Unsere Qualitätspolitik"
             },
             "href": "kalitepolitikamiz"
           }
@@ -3998,49 +4421,81 @@
         "categories": [
           {
             "text": {
-              "tr": "Pul Biber Grubu"
+              "tr": "Pul Biber Grubu",
+              "en": "Chili Flakes Group",
+              "es": "Grupo de hojuelas de chile",
+              "fr": "Gamme piment rouge en flocons",
+              "de": "Chiliflocken-Sortiment"
             },
             "href": "pul-biber-grubu"
           },
           {
             "text": {
-              "tr": "Sos ve Sirke Grubu"
+              "tr": "Sos ve Sirke Grubu",
+              "en": "Sauce and Vinegar Group",
+              "es": "Grupo de salsas y vinagres",
+              "fr": "Gamme sauces et vinaigres",
+              "de": "Saucen- und Essig-Sortiment"
             },
             "href": "sos-ve-sirke-grubu"
           },
           {
             "text": {
-              "tr": "Kahve Grubu"
+              "tr": "Kahve Grubu",
+              "en": "Coffee Group",
+              "es": "Grupo de café",
+              "fr": "Gamme café",
+              "de": "Kaffee-Sortiment"
             },
             "href": "kahve-grubu"
           },
           {
             "text": {
-              "tr": "Pasta Grubu"
+              "tr": "Pasta Grubu",
+              "en": "Pastry Group",
+              "es": "Grupo de repostería",
+              "fr": "Gamme pâtisserie",
+              "de": "Konditorei-Sortiment"
             },
             "href": "pasta-grubu"
           },
           {
             "text": {
-              "tr": "20 Gr Baharat Grubu"
+              "tr": "20 Gr Baharat Grubu",
+              "en": "20 Gr Spice Group",
+              "es": "Grupo de especias de 20 Gr",
+              "fr": "Gamme épices 20 Gr",
+              "de": "Gewürz-Sortiment 20 Gr"
             },
             "href": "baharat-20-gr"
           },
           {
             "text": {
-              "tr": "Burçak Drink"
+              "tr": "Burçak Drink",
+              "en": "Burçak Drink",
+              "es": "Burçak Drink",
+              "fr": "Burçak Drink",
+              "de": "Burçak Drink"
             },
             "href": "burcak-drink"
           },
           {
             "text": {
-              "tr": "Aromalı Toz İçecek"
+              "tr": "Aromalı Toz İçecek",
+              "en": "Flavored Powdered Drinks",
+              "es": "Bebida en polvo aromatizada",
+              "fr": "Boissons en poudre aromatisées",
+              "de": "Aromatisierte Getränkepulver"
             },
             "href": "aromali-toz-icecek"
           },
           {
             "text": {
-              "tr": "Diğer Ürünler"
+              "tr": "Diğer Ürünler",
+              "en": "Other Products",
+              "es": "Otros productos",
+              "fr": "Autres produits",
+              "de": "Weitere Produkte"
             },
             "href": "diger-urunler"
           }
@@ -4048,22 +4503,80 @@
         "addresses": [
           {
             "label": {
-              "tr": "Fabrika"
+              "tr": "Fabrika",
+              "en": "Factory",
+              "es": "Fábrica",
+              "fr": "Usine",
+              "de": "Werk"
             },
             "text": {
-              "tr": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep"
+              "tr": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep",
+              "en": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep",
+              "es": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep",
+              "fr": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep",
+              "de": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep"
             }
           },
           {
             "label": {
-              "tr": "Merkez"
+              "tr": "Merkez",
+              "en": "Headquarters",
+              "es": "Sede central",
+              "fr": "Siège",
+              "de": "Zentrale"
             },
             "text": {
-              "tr": "Sanayi Mah. 60213 Nolu Cad. No:16/18 Gatem, 27060 Şehitkamil / Gaziantep"
+              "tr": "Sanayi Mah. 60213 Nolu Cad. No:16/18 Gatem, 27060 Şehitkamil / Gaziantep",
+              "en": "Sanayi Mah. 60213 Nolu Cad. No:16/18 Gatem, 27060 Şehitkamil / Gaziantep",
+              "es": "Sanayi Mah. 60213 Nolu Cad. No:16/18 Gatem, 27060 Şehitkamil / Gaziantep",
+              "fr": "Sanayi Mah. 60213 Nolu Cad. No:16/18 Gatem, 27060 Şehitkamil / Gaziantep",
+              "de": "Sanayi Mah. 60213 Nolu Cad. No:16/18 Gatem, 27060 Şehitkamil / Gaziantep"
             },
             "icon": "apartment"
           }
-        ]
+        ],
+        "bar_call": {
+          "tr": "Ara",
+          "en": "Call",
+          "es": "Llamar",
+          "fr": "Appeler",
+          "de": "Anrufen"
+        },
+        "bar_mail": {
+          "tr": "E-posta",
+          "en": "Email",
+          "es": "Correo electrónico",
+          "fr": "E-mail",
+          "de": "E-Mail"
+        },
+        "bar_aria": {
+          "tr": "Hızlı iletişim",
+          "en": "Quick contact",
+          "es": "Contacto rápido",
+          "fr": "Contact rapide",
+          "de": "Schnellkontakt"
+        },
+        "top_aria": {
+          "tr": "Başa dön",
+          "en": "Back to top",
+          "es": "Volver arriba",
+          "fr": "Retour en haut",
+          "de": "Nach oben"
+        },
+        "bc_aria": {
+          "tr": "Sayfa yolu",
+          "en": "Breadcrumb",
+          "es": "Ruta de navegación",
+          "fr": "Fil d’Ariane",
+          "de": "Brotkrümelnavigation"
+        },
+        "home_label": {
+          "tr": "Anasayfa",
+          "en": "Home",
+          "es": "Inicio",
+          "fr": "Accueil",
+          "de": "Startseite"
+        }
       },
       "category": "footer",
       "data": [],
@@ -4106,10 +4619,18 @@
         "radius": "16px",
         "sure": 1200,
         "title": {
-          "tr": "Rakamlarla Burçak"
+          "tr": "Rakamlarla Burçak",
+          "en": "Burçak in Numbers",
+          "es": "Burçak en cifras",
+          "fr": "Burçak en chiffres",
+          "de": "Burçak in Zahlen"
         },
         "description": {
-          "tr": "Tesisimizi ve ihracat ağımızı özetleyen rakamlar."
+          "tr": "Tesisimizi ve ihracat ağımızı özetleyen rakamlar.",
+          "en": "Figures that sum up our facility and export network.",
+          "es": "Cifras que resumen nuestras instalaciones y nuestra red de exportación.",
+          "fr": "Les chiffres qui résument notre usine et notre réseau d'exportation.",
+          "de": "Zahlen zu unserer Anlage und unserem Exportnetz im Überblick."
         }
       },
       "data": [
@@ -4119,10 +4640,18 @@
           "sonek": "+",
           "ikon": "workspace_premium",
           "etiket": {
-            "tr": "Yıllık tecrübe"
+            "tr": "Yıllık tecrübe",
+            "en": "Years of experience",
+            "es": "Años de experiencia",
+            "fr": "Années d'expérience",
+            "de": "Jahre Erfahrung"
           },
           "aciklama": {
-            "tr": "Baharat ve gıda sektöründe"
+            "tr": "Baharat ve gıda sektöründe",
+            "en": "In the spice and food industry",
+            "es": "En el sector de las especias y los alimentos",
+            "fr": "Dans le secteur des épices et de l'alimentation",
+            "de": "In der Gewürz- und Lebensmittelbranche"
           }
         },
         {
@@ -4131,10 +4660,18 @@
           "sonek": " m²",
           "ikon": "landscape",
           "etiket": {
-            "tr": "Arazi"
+            "tr": "Arazi",
+            "en": "Land",
+            "es": "Terreno",
+            "fr": "Terrain",
+            "de": "Grundstück"
           },
           "aciklama": {
-            "tr": "İslahiye OSB’de kurulu tesis"
+            "tr": "İslahiye OSB’de kurulu tesis",
+            "en": "Facility located in the İslahiye OSB",
+            "es": "Planta instalada en la OSB de İslahiye",
+            "fr": "Usine implantée dans l'OSB d'İslahiye",
+            "de": "Anlage im OSB İslahiye"
           }
         },
         {
@@ -4143,10 +4680,18 @@
           "sonek": " m²",
           "ikon": "factory",
           "etiket": {
-            "tr": "Kapalı alan"
+            "tr": "Kapalı alan",
+            "en": "Covered area",
+            "es": "Superficie cubierta",
+            "fr": "Surface couverte",
+            "de": "Überdachte Fläche"
           },
           "aciklama": {
-            "tr": "Tam otomasyonlu üretim"
+            "tr": "Tam otomasyonlu üretim",
+            "en": "Fully automated production",
+            "es": "Producción totalmente automatizada",
+            "fr": "Production entièrement automatisée",
+            "de": "Vollautomatisierte Produktion"
           }
         },
         {
@@ -4155,10 +4700,18 @@
           "sonek": "",
           "ikon": "public",
           "etiket": {
-            "tr": "Ülkeye ihracat"
+            "tr": "Ülkeye ihracat",
+            "en": "Countries exported to",
+            "es": "Países de exportación",
+            "fr": "Pays d'exportation",
+            "de": "Exportländer"
           },
           "aciklama": {
-            "tr": "Farklı kıtalarda"
+            "tr": "Farklı kıtalarda",
+            "en": "On different continents",
+            "es": "En distintos continentes",
+            "fr": "Sur différents continents",
+            "de": "Auf verschiedenen Kontinenten"
           }
         }
       ],
@@ -4199,56 +4752,108 @@
         "bordercolor": "#E8DCC8",
         "radius": "16px",
         "eyebrow": {
-          "tr": "Üretim"
+          "tr": "Üretim",
+          "en": "Production",
+          "es": "Producción",
+          "fr": "Production",
+          "de": "Produktion"
         },
         "title": {
-          "tr": "Tarladan sofraya dört adım"
+          "tr": "Tarladan sofraya dört adım",
+          "en": "Four steps from field to table",
+          "es": "Del campo a la mesa en cuatro pasos",
+          "fr": "Du champ à la table en quatre étapes",
+          "de": "Vier Schritte vom Feld auf den Tisch"
         },
         "description": {
-          "tr": "Hammadde seçiminden sevkiyata her aşama aromayı ve tazeliği korumak üzere kurgulanır."
+          "tr": "Hammadde seçiminden sevkiyata her aşama aromayı ve tazeliği korumak üzere kurgulanır.",
+          "en": "From raw material selection to shipment, every stage is designed to preserve aroma and freshness.",
+          "es": "Cada etapa, desde la selección de la materia prima hasta el envío, está concebida para preservar el aroma y la frescura.",
+          "fr": "De la sélection des matières premières à l'expédition, chaque étape est conçue pour préserver l'arôme et la fraîcheur.",
+          "de": "Von der Auswahl der Rohstoffe bis zum Versand ist jede Stufe darauf ausgelegt, Aroma und Frische zu bewahren."
         },
         "stepLabel": {
-          "tr": "Adım"
+          "tr": "Adım",
+          "en": "Step",
+          "es": "Paso",
+          "fr": "Étape",
+          "de": "Schritt"
         },
         "listLabel": {
-          "tr": "Üretim adımları"
+          "tr": "Üretim adımları",
+          "en": "Production steps",
+          "es": "Pasos de producción",
+          "fr": "Étapes de production",
+          "de": "Produktionsschritte"
         }
       },
       "data": [
         {
           "ikon": "grass",
           "baslik": {
-            "tr": "Hasat"
+            "tr": "Hasat",
+            "en": "Harvest",
+            "es": "Cosecha",
+            "fr": "Récolte",
+            "de": "Ernte"
           },
           "metin": {
-            "tr": "Ürün standartlarına en uygun hammaddeyi özenle seçerek alıyoruz."
+            "tr": "Ürün standartlarına en uygun hammaddeyi özenle seçerek alıyoruz.",
+            "en": "We carefully select and purchase the raw materials that best meet our product standards.",
+            "es": "Seleccionamos con esmero la materia prima que mejor se ajusta a los estándares de nuestros productos.",
+            "fr": "Nous sélectionnons avec soin les matières premières les mieux adaptées à nos standards de produit.",
+            "de": "Wir wählen sorgfältig die Rohstoffe aus, die den Produktstandards am besten entsprechen."
           }
         },
         {
           "ikon": "precision_manufacturing",
           "baslik": {
-            "tr": "İşleme"
+            "tr": "İşleme",
+            "en": "Processing",
+            "es": "Procesamiento",
+            "fr": "Transformation",
+            "de": "Verarbeitung"
           },
           "metin": {
-            "tr": "Kendi fabrikamızda hammaddeyi aromasını ve tazeliğini koruyan işleme sistemleriyle işliyoruz."
+            "tr": "Kendi fabrikamızda hammaddeyi aromasını ve tazeliğini koruyan işleme sistemleriyle işliyoruz.",
+            "en": "In our own factory, we process raw materials with systems that preserve their aroma and freshness.",
+            "es": "En nuestra propia fábrica procesamos la materia prima con sistemas que conservan su aroma y su frescura.",
+            "fr": "Dans notre propre usine, nous transformons les matières premières avec des systèmes de traitement qui préservent leur arôme et leur fraîcheur.",
+            "de": "In unserer eigenen Fabrik verarbeiten wir die Rohstoffe mit Verfahren, die Aroma und Frische bewahren."
           }
         },
         {
           "ikon": "inventory_2",
           "baslik": {
-            "tr": "Ambalajlama"
+            "tr": "Ambalajlama",
+            "en": "Packaging",
+            "es": "Envasado",
+            "fr": "Conditionnement",
+            "de": "Verpackung"
           },
           "metin": {
-            "tr": "Saklama koşullarına en uygun ambalajı belirliyor, ürünleri aromasını yitirmeyecek şekilde paketliyoruz."
+            "tr": "Saklama koşullarına en uygun ambalajı belirliyor, ürünleri aromasını yitirmeyecek şekilde paketliyoruz.",
+            "en": "We determine the packaging best suited to storage conditions and pack our products so that they do not lose their aroma.",
+            "es": "Determinamos el envase más adecuado para las condiciones de conservación y empaquetamos los productos de modo que no pierdan su aroma.",
+            "fr": "Nous déterminons l'emballage le mieux adapté aux conditions de conservation et conditionnons les produits de manière à ce qu'ils ne perdent pas leur arôme.",
+            "de": "Wir bestimmen die für die Lagerbedingungen am besten geeignete Verpackung und verpacken die Produkte so, dass sie ihr Aroma nicht verlieren."
           }
         },
         {
           "ikon": "local_shipping",
           "baslik": {
-            "tr": "Sevkiyat"
+            "tr": "Sevkiyat",
+            "en": "Shipment",
+            "es": "Envío",
+            "fr": "Expédition",
+            "de": "Versand"
           },
           "metin": {
-            "tr": "Ambalajlanan ürünler dikkatle sevkiyata hazırlanarak müşterilerimize ulaştırılır."
+            "tr": "Ambalajlanan ürünler dikkatle sevkiyata hazırlanarak müşterilerimize ulaştırılır.",
+            "en": "Packaged products are carefully prepared for shipment and delivered to our customers.",
+            "es": "Los productos envasados se preparan con cuidado para el envío y se hacen llegar a nuestros clientes.",
+            "fr": "Les produits conditionnés sont préparés avec soin pour l'expédition, puis acheminés jusqu'à nos clients.",
+            "de": "Die verpackten Produkte werden sorgfältig für den Versand vorbereitet und zu unseren Kunden geliefert."
           }
         }
       ],
@@ -4274,50 +4879,94 @@
         "badgebg": "#8F1D2C",
         "badgecolor": "#FFFFFF",
         "badge": {
-          "tr": "Kalite ve Belgeler"
+          "tr": "Kalite ve Belgeler",
+          "en": "Quality and Certificates",
+          "es": "Calidad y certificaciones",
+          "fr": "Qualité et certifications",
+          "de": "Qualität und Zertifikate"
         },
         "title": {
-          "tr": "Güvenli gıda, uluslararası standartlar"
+          "tr": "Güvenli gıda, uluslararası standartlar",
+          "en": "Safe food, international standards",
+          "es": "Alimentos seguros, estándares internacionales",
+          "fr": "Alimentation sûre, normes internationales",
+          "de": "Sichere Lebensmittel, internationale Standards"
         },
         "description": {
-          "tr": "Burçak Baharat; ABD pazarı için FDA’nın yanı sıra ISO 22000-2018 ve Helal Gıda sertifikalarına sahip olduğunu beyan eder. Güncel belge örnekleri için bizimle iletişime geçebilirsiniz."
+          "tr": "Burçak Baharat; ABD pazarı için FDA’nın yanı sıra ISO 22000-2018 ve Helal Gıda sertifikalarına sahip olduğunu beyan eder. Güncel belge örnekleri için bizimle iletişime geçebilirsiniz.",
+          "en": "Burçak Baharat declares that it holds FDA for the US market, as well as ISO 22000-2018 and Halal certificates. You can contact us for current sample documents.",
+          "es": "Burçak Baharat declara contar con las certificaciones FDA para el mercado de EE. UU., ISO 22000-2018 y Halal. Para obtener ejemplos de los documentos vigentes, puede ponerse en contacto con nosotros.",
+          "fr": "Burçak Baharat déclare détenir, outre la certification FDA pour le marché américain, les certificats ISO 22000-2018 et Halal. Pour obtenir des exemples de documents à jour, vous pouvez nous contacter.",
+          "de": "Burçak Baharat erklärt, für den US-Markt über FDA sowie über die Zertifikate ISO 22000-2018 und Halal zu verfügen. Aktuelle Beispiele der Dokumente erhalten Sie auf Anfrage."
         }
       },
       "data": [
         {
           "icon": "verified_user",
           "name": {
-            "tr": "FDA"
+            "tr": "FDA",
+            "en": "FDA",
+            "es": "FDA",
+            "fr": "FDA",
+            "de": "FDA"
           },
           "description": {
-            "tr": "ABD pazarı için"
+            "tr": "ABD pazarı için",
+            "en": "For the US market",
+            "es": "Para el mercado de EE. UU.",
+            "fr": "Pour le marché américain",
+            "de": "Für den US-Markt"
           }
         },
         {
           "icon": "workspace_premium",
           "name": {
-            "tr": "ISO 22000-2018"
+            "tr": "ISO 22000-2018",
+            "en": "ISO 22000-2018",
+            "es": "ISO 22000-2018",
+            "fr": "ISO 22000-2018",
+            "de": "ISO 22000-2018"
           },
           "description": {
-            "tr": "Gıda Güvenliği Yönetimi"
+            "tr": "Gıda Güvenliği Yönetimi",
+            "en": "Food Safety Management",
+            "es": "Gestión de la Inocuidad Alimentaria",
+            "fr": "Management de la sécurité des denrées alimentaires",
+            "de": "Lebensmittelsicherheitsmanagement"
           }
         },
         {
           "icon": "task_alt",
           "name": {
-            "tr": "Helal Gıda"
+            "tr": "Helal Gıda",
+            "en": "Halal",
+            "es": "Halal",
+            "fr": "Halal",
+            "de": "Halal"
           },
           "description": {
-            "tr": "Helal Gıda sertifikası"
+            "tr": "Helal Gıda sertifikası",
+            "en": "Halal certificate",
+            "es": "Certificación Halal",
+            "fr": "Certificat Halal",
+            "de": "Halal-Zertifikat"
           }
         },
         {
           "icon": "factory",
           "name": {
-            "tr": "Tam otomasyonlu tesis"
+            "tr": "Tam otomasyonlu tesis",
+            "en": "Fully automated facility",
+            "es": "Planta totalmente automatizada",
+            "fr": "Usine entièrement automatisée",
+            "de": "Vollautomatisierte Anlage"
           },
           "description": {
-            "tr": "10.000 m² kapalı alanda modern üretim"
+            "tr": "10.000 m² kapalı alanda modern üretim",
+            "en": "Modern production in 10,000 m² of covered area",
+            "es": "Producción moderna en 10.000 m² de superficie cubierta",
+            "fr": "Production moderne sur 10 000 m² de surface couverte",
+            "de": "Moderne Produktion auf 10.000 m² überdachter Fläche"
           }
         }
       ],
@@ -4370,74 +5019,129 @@
         "accentText": "#FFFFFF",
         "radius": "18px",
         "title": {
-          "tr": "Bize Ulaşın"
+          "tr": "Bize Ulaşın",
+          "en": "Contact Us",
+          "es": "Contáctenos",
+          "fr": "Contactez-nous",
+          "de": "Kontaktieren Sie uns"
         },
         "description": {
-          "tr": "Toptan satış, fiyat listesi, stok ve spec sheet talepleriniz için müşteri temsilcimize doğrudan ulaşabilirsiniz."
+          "tr": "Toptan satış, fiyat listesi, stok ve spec sheet talepleriniz için müşteri temsilcimize doğrudan ulaşabilirsiniz.",
+          "en": "For your wholesale, price list, stock, and spec sheet requests, you can reach our customer representative directly.",
+          "es": "Para sus solicitudes de venta al por mayor, lista de precios, existencias y fichas técnicas (spec sheet), puede comunicarse directamente con nuestro representante de atención al cliente.",
+          "fr": "Pour vos demandes de vente en gros, de liste de prix, de stock et de spec sheet, vous pouvez joindre directement notre chargé de clientèle.",
+          "de": "Für Anfragen zu Großhandel, Preisliste, Lagerbestand und Spec Sheets erreichen Sie unseren Kundenberater direkt."
         },
         "phone": "+90 342 238 11 11",
         "whatsapp": "",
         "email": "info@burcakbaharat.com.tr",
         "address": {
-          "tr": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep"
+          "tr": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep",
+          "en": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep",
+          "es": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep",
+          "fr": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep",
+          "de": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep"
         },
         "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bur%C3%A7ak%20Baharat%2C%20%C4%B0slahiye%20OSB%201%20Nolu%20Cad.%20No%3A2/1%2C%20%C4%B0slahiye%20/%20Gaziantep",
         "waMessage": {
           "tr": "Merhaba, web sitenizden ulaşıyorum. Bilgi almak istiyorum.",
-          "en": "Hello, I am reaching you from your website. I would like some information.",
-          "ar": "مرحبًا، أتواصل معكم من موقعكم الإلكتروني وأرغب في الحصول على معلومات."
+          "en": "Hello, I am reaching out through your website. I would like to get some information.",
+          "ar": "مرحبًا، أتواصل معكم من موقعكم الإلكتروني وأرغب في الحصول على معلومات.",
+          "es": "Hola, le escribo desde su sitio web. Quisiera recibir información.",
+          "fr": "Bonjour, je vous contacte depuis votre site Internet. Je souhaite obtenir des informations.",
+          "de": "Guten Tag, ich melde mich über Ihre Website. Ich möchte gern Informationen erhalten."
         },
         "callTitle": {
           "tr": "Bizi Arayın",
           "en": "Call Us",
-          "ar": "اتصل بنا"
+          "ar": "اتصل بنا",
+          "es": "Llámenos",
+          "fr": "Appelez-nous",
+          "de": "Rufen Sie uns an"
         },
         "callText": {
-          "tr": "Toptan satış ve fiyat bilgisi"
+          "tr": "Toptan satış ve fiyat bilgisi",
+          "en": "Wholesale and pricing information",
+          "es": "Venta al por mayor e información de precios",
+          "fr": "Vente en gros et informations tarifaires",
+          "de": "Großhandel und Preisinformationen"
         },
         "callBtn": {
           "tr": "Ara",
           "en": "Call",
-          "ar": "اتصال"
+          "ar": "اتصال",
+          "es": "Llamar",
+          "fr": "Appeler",
+          "de": "Anrufen"
         },
         "waTitle": {
           "tr": "WhatsApp",
           "en": "WhatsApp",
-          "ar": "واتساب"
+          "ar": "واتساب",
+          "es": "WhatsApp",
+          "fr": "WhatsApp",
+          "de": "WhatsApp"
         },
         "waText": {
           "tr": "Hızlı yanıt için yazın",
-          "en": "Message us for a quick reply",
-          "ar": "راسلنا للحصول على رد سريع"
+          "en": "Write to us for a quick response",
+          "ar": "راسلنا للحصول على رد سريع",
+          "es": "Escríbanos para una respuesta rápida",
+          "fr": "Écrivez-nous pour une réponse rapide",
+          "de": "Schreiben Sie uns für eine schnelle Antwort"
         },
         "waBtn": {
           "tr": "Mesaj gönder",
           "en": "Send message",
-          "ar": "إرسال رسالة"
+          "ar": "إرسال رسالة",
+          "es": "Enviar mensaje",
+          "fr": "Envoyer un message",
+          "de": "Nachricht senden"
         },
         "mailTitle": {
           "tr": "E-posta",
-          "en": "E-mail",
-          "ar": "البريد الإلكتروني"
+          "en": "Email",
+          "ar": "البريد الإلكتروني",
+          "es": "Correo electrónico",
+          "fr": "E-mail",
+          "de": "E-Mail"
         },
         "mailText": {
-          "tr": "Teklif ve spec sheet talepleri için"
+          "tr": "Teklif ve spec sheet talepleri için",
+          "en": "For quote and spec sheet requests",
+          "es": "Para solicitudes de cotización y spec sheet",
+          "fr": "Pour les demandes de devis et de spec sheet",
+          "de": "Für Angebots- und Spec-Sheet-Anfragen"
         },
         "mailBtn": {
           "tr": "E-posta gönder",
-          "en": "Send e-mail",
-          "ar": "إرسال بريد"
+          "en": "Send email",
+          "ar": "إرسال بريد",
+          "es": "Enviar correo",
+          "fr": "Envoyer un e-mail",
+          "de": "E-Mail senden"
         },
         "mapTitle": {
-          "tr": "Yol Tarifi"
+          "tr": "Yol Tarifi",
+          "en": "Directions",
+          "es": "Cómo llegar",
+          "fr": "Itinéraire",
+          "de": "Anfahrt"
         },
         "mapBtn": {
-          "tr": "Haritada Gör"
+          "tr": "Haritada Gör",
+          "en": "View on Map",
+          "es": "Ver en el mapa",
+          "fr": "Voir sur la carte",
+          "de": "Auf der Karte ansehen"
         },
         "groupLabel": {
           "tr": "Hızlı iletişim kanalları",
           "en": "Quick contact channels",
-          "ar": "قنوات الاتصال السريع"
+          "ar": "قنوات الاتصال السريع",
+          "es": "Canales de contacto rápido",
+          "fr": "Canaux de contact rapides",
+          "de": "Schnelle Kontaktwege"
         }
       },
       "data": [],
@@ -4457,45 +5161,89 @@
       "category": "code",
       "desing": {
         "badge": {
-          "tr": "Yerleşkelerimiz"
+          "tr": "Yerleşkelerimiz",
+          "en": "Our Locations",
+          "es": "Nuestras sedes",
+          "fr": "Nos sites",
+          "de": "Unsere Standorte"
         },
         "title": {
-          "tr": "Fabrika ve merkez adreslerimiz"
+          "tr": "Fabrika ve merkez adreslerimiz",
+          "en": "Our factory and headquarters addresses",
+          "es": "Direcciones de la fábrica y de la sede central",
+          "fr": "Adresses de l'usine et du siège",
+          "de": "Adressen von Werk und Zentrale"
         },
         "description": {
-          "tr": "Üretim tesisimiz İslahiye Organize Sanayi Bölgesi’nde, merkez ofisimiz Gaziantep Şehitkamil’dedir."
+          "tr": "Üretim tesisimiz İslahiye Organize Sanayi Bölgesi’nde, merkez ofisimiz Gaziantep Şehitkamil’dedir.",
+          "en": "Our production facility is in the İslahiye Organized Industrial Zone, and our headquarters office is in Şehitkamil, Gaziantep.",
+          "es": "Nuestra planta de producción se encuentra en la Zona Industrial Organizada de İslahiye y nuestra oficina central, en Şehitkamil, Gaziantep.",
+          "fr": "Notre site de production se trouve dans la zone industrielle organisée d'İslahiye ; notre siège se situe à Şehitkamil (Gaziantep).",
+          "de": "Unser Produktionsstandort befindet sich im Organisierten Industriegebiet İslahiye, unsere Zentrale in Şehitkamil, Gaziantep."
         },
         "addresses": [
           {
             "label": {
-              "tr": "Fabrika"
+              "tr": "Fabrika",
+              "en": "Factory",
+              "es": "Fábrica",
+              "fr": "Usine",
+              "de": "Werk"
             },
             "text": {
-              "tr": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep"
+              "tr": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep",
+              "en": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep",
+              "es": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep",
+              "fr": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep",
+              "de": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep"
             },
             "icon": "factory"
           },
           {
             "label": {
-              "tr": "Merkez"
+              "tr": "Merkez",
+              "en": "Headquarters",
+              "es": "Sede central",
+              "fr": "Siège",
+              "de": "Zentrale"
             },
             "text": {
-              "tr": "Sanayi Mah. 60213 Nolu Cad. No:16/18 Gatem, 27060 Şehitkamil / Gaziantep"
+              "tr": "Sanayi Mah. 60213 Nolu Cad. No:16/18 Gatem, 27060 Şehitkamil / Gaziantep",
+              "en": "Sanayi Mah. 60213 Nolu Cad. No:16/18 Gatem, 27060 Şehitkamil / Gaziantep",
+              "es": "Sanayi Mah. 60213 Nolu Cad. No:16/18 Gatem, 27060 Şehitkamil / Gaziantep",
+              "fr": "Sanayi Mah. 60213 Nolu Cad. No:16/18 Gatem, 27060 Şehitkamil / Gaziantep",
+              "de": "Sanayi Mah. 60213 Nolu Cad. No:16/18 Gatem, 27060 Şehitkamil / Gaziantep"
             },
             "icon": "apartment"
           }
         ],
         "mapQuery": {
-          "tr": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep"
+          "tr": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep",
+          "en": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep",
+          "es": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep",
+          "fr": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep",
+          "de": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep"
         },
         "mapTitle": {
-          "tr": "Burçak Baharat fabrika konumu"
+          "tr": "Burçak Baharat fabrika konumu",
+          "en": "Burçak Baharat factory location",
+          "es": "Ubicación de la fábrica de Burçak Baharat",
+          "fr": "Emplacement de l'usine Burçak Baharat",
+          "de": "Standort des Werks von Burçak Baharat"
         },
         "mapLink": {
-          "tr": "Haritada Gör"
+          "tr": "Haritada Gör",
+          "en": "View on Map",
+          "es": "Ver en el mapa",
+          "fr": "Voir sur la carte",
+          "de": "Auf der Karte ansehen"
         },
         "socialTitle": {
-          "tr": "Bizi takip edin"
+          "tr": "Bizi takip edin",
+          "en": "Follow us",
+          "es": "Síganos",
+          "fr": "Suivez-nous",
+          "de": "Folgen Sie uns"
         },
         "social": [
           {

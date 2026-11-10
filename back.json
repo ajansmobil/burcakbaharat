@@ -1,6 +1,10 @@
 {
   "name": {
-    "tr": "Back"
+    "tr": "Back",
+    "en": "Back",
+    "es": "Atrás",
+    "fr": "Back",
+    "de": "Back"
   },
   "path": "back",
   "desc": [],
@@ -8,10 +12,18 @@
     {
       "id": "bck_login",
       "name": {
-        "tr": "Üye Girişi"
+        "tr": "Üye Girişi",
+        "en": "Member Login",
+        "es": "Iniciar sesión",
+        "fr": "Connexion",
+        "de": "Anmelden"
       },
       "description": {
-        "tr": ""
+        "tr": "",
+        "en": "",
+        "es": "",
+        "fr": "",
+        "de": ""
       },
       "path": "login",
       "icon": "login",
@@ -29,10 +41,18 @@
     {
       "id": "bck_kayit",
       "name": {
-        "tr": "Üye Ol"
+        "tr": "Üye Ol",
+        "en": "Sign Up",
+        "es": "Registrarse",
+        "fr": "Créer un compte",
+        "de": "Registrieren"
       },
       "description": {
-        "tr": ""
+        "tr": "",
+        "en": "",
+        "es": "",
+        "fr": "",
+        "de": ""
       },
       "path": "kayit",
       "icon": "person_add",
@@ -50,10 +70,18 @@
     {
       "id": "bck_sifre",
       "name": {
-        "tr": "Şifremi Unuttum"
+        "tr": "Şifremi Unuttum",
+        "en": "Forgot My Password",
+        "es": "Olvidé mi contraseña",
+        "fr": "Mot de passe oublié",
+        "de": "Passwort vergessen"
       },
       "description": {
-        "tr": ""
+        "tr": "",
+        "en": "",
+        "es": "",
+        "fr": "",
+        "de": ""
       },
       "path": "sifre-sifirlama",
       "icon": "lock_reset",
@@ -71,10 +99,18 @@
     {
       "id": "bck_sepet",
       "name": {
-        "tr": "Sepetim"
+        "tr": "Sepetim",
+        "en": "My Cart",
+        "es": "Mi carrito",
+        "fr": "Mon panier",
+        "de": "Mein Warenkorb"
       },
       "description": {
-        "tr": ""
+        "tr": "",
+        "en": "",
+        "es": "",
+        "fr": "",
+        "de": ""
       },
       "path": "sepetim",
       "icon": "shopping_cart",
@@ -92,10 +128,18 @@
     {
       "id": "bck_odeme",
       "name": {
-        "tr": "Ödeme"
+        "tr": "Ödeme",
+        "en": "Checkout",
+        "es": "Pago",
+        "fr": "Paiement",
+        "de": "Zahlung"
       },
       "description": {
-        "tr": ""
+        "tr": "",
+        "en": "",
+        "es": "",
+        "fr": "",
+        "de": ""
       },
       "path": "odeme",
       "icon": "payment",
@@ -113,10 +157,18 @@
     {
       "id": "bck_onay",
       "name": {
-        "tr": "Sipariş Onayı"
+        "tr": "Sipariş Onayı",
+        "en": "Order Confirmation",
+        "es": "Confirmación del pedido",
+        "fr": "Confirmation de commande",
+        "de": "Bestellbestätigung"
       },
       "description": {
-        "tr": ""
+        "tr": "",
+        "en": "",
+        "es": "",
+        "fr": "",
+        "de": ""
       },
       "path": "siparis-onay",
       "icon": "task_alt",

@@ -1,13 +1,25 @@
 {
   "id": "tijpk7vq37",
   "name": {
-    "tr": "Zerdeçal"
+    "tr": "Zerdeçal",
+    "en": "Turmeric",
+    "es": "Cúrcuma",
+    "fr": "Curcuma",
+    "de": "Kurkuma"
   },
   "description": {
-    "tr": "Öğütülmüş zerdeçal. Pilav, tavuk, çorba ve sebze yemeklerine sarı renk ve hafif baharatlı bir tat verir. 20 g ambalaj. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr."
+    "tr": "Öğütülmüş zerdeçal. Pilav, tavuk, çorba ve sebze yemeklerine sarı renk ve hafif baharatlı bir tat verir. 20 g ambalaj. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "en": "Ground turmeric. Gives a yellow color and a mildly spicy flavor to rice, chicken, soup, and vegetable dishes. 20 g packaging. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "es": "Cúrcuma molida. Da un color amarillo y un sabor ligeramente especiado a platos de arroz, pollo, sopas y verduras. Envase de 20 g. Para precios al por mayor, existencias y spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "fr": "Curcuma moulu. Donne une couleur jaune et un goût légèrement épicé aux plats de riz, de poulet, de légumes et aux soupes. Conditionnement : 20 g. Prix de gros, stock et spec sheet : +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "de": "Gemahlene Kurkuma. Verleiht Reis-, Hähnchen-, Suppen- und Gemüsegerichten eine gelbe Farbe und einen mild würzigen Geschmack. Verpackung: 20 g. Für Großhandelspreis, Lagerbestand und Spec Sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr."
   },
   "keyword": {
-    "tr": "Zerdeçal, Burçak Baharat, 20 Gr Baharat Grubu, toptan 20 gr baharat, Gaziantep"
+    "tr": "Zerdeçal, Burçak Baharat, 20 Gr Baharat Grubu, toptan 20 gr baharat, Gaziantep",
+    "en": "Turmeric, Burçak Baharat, 20 Gr Spice Group, wholesale 20 gr spices, Gaziantep",
+    "es": "Cúrcuma, Burçak Baharat, Grupo de especias de 20 Gr, especias de 20 gr al por mayor, Gaziantep",
+    "fr": "Curcuma, Burçak Baharat, Gamme épices 20 Gr, épices 20 gr en gros, Gaziantep",
+    "de": "Kurkuma, Burçak Baharat, Gewürz-Sortiment 20 Gr, Gewürze 20 gr Großhandel, Gaziantep"
   },
   "path": "zerdecal",
   "icon": "restaurant",
@@ -21,10 +33,18 @@
   "index": 68,
   "url": "",
   "text": {
-    "tr": "<article class=\"wm-metin\"><h2>Ürün bilgileri</h2><ul><li><strong>Ürün grubu:</strong> 20 Gr Baharat Grubu</li><li><strong>Ambalaj:</strong> 20 g</li><li><strong>Kullanım alanı:</strong> Pilav, tavuk, çorba ve sebze yemeklerine sarı renk ve hafif baharatlı bir tat verir.</li></ul><h3>Toptan satış ve teklif</h3><p>Fiyat, stok ve teknik bilgi (spec sheet) için <a href=\"tel:+903422381111\">+90 342 238 11 11</a> numaralı hattı arayabilir veya <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> adresine yazabilirsiniz.</p><p>Teklif talebinizde ürün adını ve ihtiyaç duyduğunuz miktarı iletmeniz yeterlidir.</p></article>"
+    "tr": "<article class=\"wm-metin\"><h2>Ürün bilgileri</h2><ul><li><strong>Ürün grubu:</strong> 20 Gr Baharat Grubu</li><li><strong>Ambalaj:</strong> 20 g</li><li><strong>Kullanım alanı:</strong> Pilav, tavuk, çorba ve sebze yemeklerine sarı renk ve hafif baharatlı bir tat verir.</li></ul><h3>Toptan satış ve teklif</h3><p>Fiyat, stok ve teknik bilgi (spec sheet) için <a href=\"tel:+903422381111\">+90 342 238 11 11</a> numaralı hattı arayabilir veya <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> adresine yazabilirsiniz.</p><p>Teklif talebinizde ürün adını ve ihtiyaç duyduğunuz miktarı iletmeniz yeterlidir.</p></article>",
+    "en": "<article class=\"wm-metin\"><h2>Product information</h2><ul><li><strong>Product group:</strong> 20 Gr Spice Group</li><li><strong>Packaging:</strong> 20 g</li><li><strong>Applications:</strong> Gives a yellow color and a mildly spicy flavor to rice, chicken, soup, and vegetable dishes.</li></ul><h3>Wholesale and quotations</h3><p>For pricing, stock, and technical information (spec sheet), you can call <a href=\"tel:+903422381111\">+90 342 238 11 11</a> or write to <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>In your quote request, it is enough to include the product name and the quantity you need.</p></article>",
+    "es": "<article class=\"wm-metin\"><h2>Información del producto</h2><ul><li><strong>Grupo de productos:</strong> Grupo de especias de 20 Gr</li><li><strong>Envase:</strong> 20 g</li><li><strong>Usos:</strong> Da un color amarillo y un sabor ligeramente especiado a platos de arroz, pollo, sopas y verduras.</li></ul><h3>Venta al por mayor y cotización</h3><p>Para precios, existencias e información técnica (spec sheet), puede llamar al <a href=\"tel:+903422381111\">+90 342 238 11 11</a> o escribir a <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>En su solicitud de cotización, basta con indicar el nombre del producto y la cantidad que necesita.</p></article>",
+    "fr": "<article class=\"wm-metin\"><h2>Informations produit</h2><ul><li><strong>Gamme de produits :</strong> Gamme épices 20 Gr</li><li><strong>Conditionnement :</strong> 20 g</li><li><strong>Utilisation :</strong> Donne une couleur jaune et un goût légèrement épicé aux plats de riz, de poulet, de légumes et aux soupes.</li></ul><h3>Vente en gros et devis</h3><p>Pour les prix, le stock et la fiche technique (spec sheet), vous pouvez appeler le <a href=\"tel:+903422381111\">+90 342 238 11 11</a> ou écrire à <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>Pour votre demande de devis, il vous suffit d'indiquer le nom du produit et la quantité dont vous avez besoin.</p></article>",
+    "de": "<article class=\"wm-metin\"><h2>Produktinformationen</h2><ul><li><strong>Produktgruppe:</strong> Gewürz-Sortiment 20 Gr</li><li><strong>Verpackung:</strong> 20 g</li><li><strong>Verwendung:</strong> Verleiht Reis-, Hähnchen-, Suppen- und Gemüsegerichten eine gelbe Farbe und einen mild würzigen Geschmack.</li></ul><h3>Großhandel und Angebot</h3><p>Für Preis, Lagerbestand und technische Informationen (Spec Sheet) können Sie unter <a href=\"tel:+903422381111\">+90 342 238 11 11</a> anrufen oder an <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> schreiben.</p><p>Nennen Sie in Ihrer Angebotsanfrage einfach den Produktnamen und die benötigte Menge.</p></article>"
   },
   "title": {
-    "tr": "Zerdeçal | Burçak Baharat"
+    "tr": "Zerdeçal | Burçak Baharat",
+    "en": "Turmeric | Burçak Baharat",
+    "es": "Cúrcuma | Burçak Baharat",
+    "fr": "Curcuma | Burçak Baharat",
+    "de": "Kurkuma | Burçak Baharat"
   },
   "date": "2026-11-10T15:09:48.014Z",
   "update": "2026-11-10T16:13:29.209Z",

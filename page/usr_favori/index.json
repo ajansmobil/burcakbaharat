@@ -1,13 +1,25 @@
 {
   "id": "usr_favori",
   "name": {
-    "tr": "Favorilerim"
+    "tr": "Favorilerim",
+    "en": "My Favorites",
+    "es": "Mis favoritos",
+    "fr": "Mes favoris",
+    "de": "Meine Favoriten"
   },
   "description": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "keyword": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "path": "favorilerim",
   "icon": "favorite",
@@ -23,7 +35,11 @@
   "index": 1,
   "url": "",
   "title": {
-    "tr": "Favorilerim"
+    "tr": "Favorilerim",
+    "en": "My Favorites",
+    "es": "Mis favoritos",
+    "fr": "Mes favoris",
+    "de": "Meine Favoriten"
   },
   "date": "2026-11-10T15:05:24.984Z",
   "update": "2026-11-10T15:06:39.017Z"

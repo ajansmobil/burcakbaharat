@@ -2,7 +2,11 @@
   "data": [
     {
       "name": {
-        "tr": "Sayfalar"
+        "tr": "Sayfalar",
+        "en": "Pages",
+        "es": "Páginas",
+        "fr": "Pages",
+        "de": "Seiten"
       },
       "path": "page",
       "desc": [],
@@ -22,7 +26,11 @@
     },
     {
       "name": {
-        "tr": "Ürünler"
+        "tr": "Ürünler",
+        "en": "Products",
+        "es": "Productos",
+        "fr": "Produits",
+        "de": "Produkte"
       },
       "path": "products",
       "desc": [],
@@ -43,7 +51,11 @@
     },
     {
       "name": {
-        "tr": "Kurumsal"
+        "tr": "Kurumsal",
+        "en": "Corporate",
+        "es": "Corporativo",
+        "fr": "Entreprise",
+        "de": "Unternehmen"
       },
       "path": "kurumsal",
       "desc": [],
@@ -65,7 +77,11 @@
     },
     {
       "name": {
-        "tr": "User"
+        "tr": "User",
+        "en": "User",
+        "es": "Usuario",
+        "fr": "User",
+        "de": "User"
       },
       "path": "user",
       "desc": [],
@@ -86,7 +102,11 @@
     },
     {
       "name": {
-        "tr": "Back"
+        "tr": "Back",
+        "en": "Back",
+        "es": "Atrás",
+        "fr": "Back",
+        "de": "Back"
       },
       "path": "back",
       "desc": [],
@@ -107,7 +127,11 @@
     },
     {
       "name": {
-        "tr": "Ürün Grupları"
+        "tr": "Ürün Grupları",
+        "en": "Product Groups",
+        "es": "Grupos de productos",
+        "fr": "Gammes de produits",
+        "de": "Produktgruppen"
       },
       "path": "category",
       "icon": "category",

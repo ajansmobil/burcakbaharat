@@ -1,13 +1,25 @@
 {
   "id": "xjwsswgwup",
   "name": {
-    "tr": "Pudra Şekeri"
+    "tr": "Pudra Şekeri",
+    "en": "Powdered Sugar",
+    "es": "Azúcar glas",
+    "fr": "Sucre glace",
+    "de": "Puderzucker"
   },
   "description": {
-    "tr": "İnce öğütülmüş toz şeker. Kek, kurabiye ve tatlıların üzerine serpmek, krema ve glazür hazırlamak için kullanılır. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr."
+    "tr": "İnce öğütülmüş toz şeker. Kek, kurabiye ve tatlıların üzerine serpmek, krema ve glazür hazırlamak için kullanılır. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "en": "Finely ground sugar. Used for dusting over cakes, cookies, and desserts, and for making cream and glaze. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "es": "Azúcar en polvo molido finamente. Se utiliza para espolvorear sobre bizcochos, galletas y postres, y para preparar cremas y glaseados. Para precios al por mayor, existencias y spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "fr": "Sucre finement moulu. Utilisé pour saupoudrer les gâteaux, les biscuits et les desserts, et pour préparer crèmes et glaçages. Prix de gros, stock et spec sheet : +90 342 238 11 11 · info@burcakbaharat.com.tr.",
+    "de": "Fein gemahlener Zucker. Zum Bestäuben von Kuchen, Keksen und Desserts sowie zur Herstellung von Creme und Glasur. Für Großhandelspreis, Lagerbestand und Spec Sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr."
   },
   "keyword": {
-    "tr": "Pudra Şekeri, Burçak Baharat, Pasta Grubu, toptan pasta, Gaziantep"
+    "tr": "Pudra Şekeri, Burçak Baharat, Pasta Grubu, toptan pasta, Gaziantep",
+    "en": "Powdered Sugar, Burçak Baharat, Pastry Group, wholesale pastry, Gaziantep",
+    "es": "Azúcar glas, Burçak Baharat, Grupo de repostería, repostería al por mayor, Gaziantep",
+    "fr": "Sucre glace, Burçak Baharat, Gamme pâtisserie, pâtisserie en gros, Gaziantep",
+    "de": "Puderzucker, Burçak Baharat, Konditorei-Sortiment, Konditoreiprodukte Großhandel, Gaziantep"
   },
   "path": "pudra-sekeri",
   "icon": "restaurant",
@@ -21,10 +33,18 @@
   "index": 32,
   "url": "",
   "text": {
-    "tr": "<article class=\"wm-metin\"><h2>Ürün bilgileri</h2><ul><li><strong>Ürün grubu:</strong> Pasta Grubu</li><li><strong>Kullanım alanı:</strong> Kek, kurabiye ve tatlıların üzerine serpmek, krema ve glazür hazırlamak için kullanılır.</li></ul><h3>Toptan satış ve teklif</h3><p>Fiyat, stok ve teknik bilgi (spec sheet) için <a href=\"tel:+903422381111\">+90 342 238 11 11</a> numaralı hattı arayabilir veya <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> adresine yazabilirsiniz.</p><p>Teklif talebinizde ürün adını ve ihtiyaç duyduğunuz miktarı iletmeniz yeterlidir.</p></article>"
+    "tr": "<article class=\"wm-metin\"><h2>Ürün bilgileri</h2><ul><li><strong>Ürün grubu:</strong> Pasta Grubu</li><li><strong>Kullanım alanı:</strong> Kek, kurabiye ve tatlıların üzerine serpmek, krema ve glazür hazırlamak için kullanılır.</li></ul><h3>Toptan satış ve teklif</h3><p>Fiyat, stok ve teknik bilgi (spec sheet) için <a href=\"tel:+903422381111\">+90 342 238 11 11</a> numaralı hattı arayabilir veya <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> adresine yazabilirsiniz.</p><p>Teklif talebinizde ürün adını ve ihtiyaç duyduğunuz miktarı iletmeniz yeterlidir.</p></article>",
+    "en": "<article class=\"wm-metin\"><h2>Product information</h2><ul><li><strong>Product group:</strong> Pastry Group</li><li><strong>Applications:</strong> Used for dusting over cakes, cookies, and desserts, and for making cream and glaze.</li></ul><h3>Wholesale and quotations</h3><p>For pricing, stock, and technical information (spec sheet), you can call <a href=\"tel:+903422381111\">+90 342 238 11 11</a> or write to <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>In your quote request, it is enough to include the product name and the quantity you need.</p></article>",
+    "es": "<article class=\"wm-metin\"><h2>Información del producto</h2><ul><li><strong>Grupo de productos:</strong> Grupo de repostería</li><li><strong>Usos:</strong> Se utiliza para espolvorear sobre bizcochos, galletas y postres, y para preparar cremas y glaseados.</li></ul><h3>Venta al por mayor y cotización</h3><p>Para precios, existencias e información técnica (spec sheet), puede llamar al <a href=\"tel:+903422381111\">+90 342 238 11 11</a> o escribir a <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>En su solicitud de cotización, basta con indicar el nombre del producto y la cantidad que necesita.</p></article>",
+    "fr": "<article class=\"wm-metin\"><h2>Informations produit</h2><ul><li><strong>Gamme de produits :</strong> Gamme pâtisserie</li><li><strong>Utilisation :</strong> Utilisé pour saupoudrer les gâteaux, les biscuits et les desserts, et pour préparer crèmes et glaçages.</li></ul><h3>Vente en gros et devis</h3><p>Pour les prix, le stock et la fiche technique (spec sheet), vous pouvez appeler le <a href=\"tel:+903422381111\">+90 342 238 11 11</a> ou écrire à <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a>.</p><p>Pour votre demande de devis, il vous suffit d'indiquer le nom du produit et la quantité dont vous avez besoin.</p></article>",
+    "de": "<article class=\"wm-metin\"><h2>Produktinformationen</h2><ul><li><strong>Produktgruppe:</strong> Konditorei-Sortiment</li><li><strong>Verwendung:</strong> Zum Bestäuben von Kuchen, Keksen und Desserts sowie zur Herstellung von Creme und Glasur.</li></ul><h3>Großhandel und Angebot</h3><p>Für Preis, Lagerbestand und technische Informationen (Spec Sheet) können Sie unter <a href=\"tel:+903422381111\">+90 342 238 11 11</a> anrufen oder an <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> schreiben.</p><p>Nennen Sie in Ihrer Angebotsanfrage einfach den Produktnamen und die benötigte Menge.</p></article>"
   },
   "title": {
-    "tr": "Pudra Şekeri | Burçak Baharat"
+    "tr": "Pudra Şekeri | Burçak Baharat",
+    "en": "Powdered Sugar | Burçak Baharat",
+    "es": "Azúcar glas | Burçak Baharat",
+    "fr": "Sucre glace | Burçak Baharat",
+    "de": "Puderzucker | Burçak Baharat"
   },
   "date": "2026-11-10T15:09:44.668Z",
   "update": "2026-11-10T16:13:28.203Z",

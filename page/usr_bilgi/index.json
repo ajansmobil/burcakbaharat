@@ -1,13 +1,25 @@
 {
   "id": "usr_bilgi",
   "name": {
-    "tr": "Hesabim"
+    "tr": "Hesabim",
+    "en": "My Account",
+    "es": "Mi cuenta",
+    "fr": "Mon compte",
+    "de": "Mein Konto"
   },
   "description": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "keyword": {
-    "tr": ""
+    "tr": "",
+    "en": "",
+    "es": "",
+    "fr": "",
+    "de": ""
   },
   "path": "hesabim",
   "icon": "person",
@@ -23,7 +35,11 @@
   "index": 3,
   "url": "",
   "title": {
-    "tr": "Hesabim"
+    "tr": "Hesabim",
+    "en": "My Account",
+    "es": "Mi cuenta",
+    "fr": "Mon compte",
+    "de": "Mein Konto"
   },
   "date": "2026-11-10T15:05:24.984Z",
   "update": "2026-11-10T15:06:39.085Z"
