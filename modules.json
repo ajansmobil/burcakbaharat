@@ -247,20 +247,16 @@
         "category": "",
         "aspect-ratio": "1 / 1",
         "eyebrow": {
-          "tr": "",
-          "en": ""
+          "tr": "Burçak Baharat"
         },
         "sectionTitle": {
-          "tr": "",
-          "en": ""
+          "tr": "Ürünlerimiz"
         },
         "sectionSubtitle": {
-          "tr": "",
-          "en": ""
+          "tr": "Toptan fiyat ve stok bilgisi için +90 342 238 11 11"
         },
         "ctaLabel": {
-          "tr": "",
-          "en": ""
+          "tr": "Tüm ürünler"
         },
         "showAllProducts": false,
         "margin": "20px 0px 20px 0px",
@@ -428,20 +424,16 @@
         "category": "",
         "aspect-ratio": "1 / 1",
         "eyebrow": {
-          "tr": "",
-          "en": ""
+          "tr": "Burçak Baharat"
         },
         "sectionTitle": {
-          "tr": "",
-          "en": ""
+          "tr": "Ürünlerimiz"
         },
         "sectionSubtitle": {
-          "tr": "",
-          "en": ""
+          "tr": "Toptan fiyat ve stok bilgisi için +90 342 238 11 11"
         },
         "ctaLabel": {
-          "tr": "",
-          "en": ""
+          "tr": "Tüm ürünler"
         },
         "showAllProducts": false,
         "margin": "20px 0px 20px 0px",
@@ -2945,17 +2937,17 @@
     {
       "name": "Hero 1",
       "desing": {
-        "stil": "bolunmus",
+        "stil": "",
         "max": "1200px",
-        "gradient": "linear-gradient(135deg, #1e3046 0%, #2a4560 50%, #152a3d 100%)",
-        "overlay": "linear-gradient(135deg, rgba(30, 48, 70, 0.88) 0%, rgba(21, 42, 61, 0.82) 100%)",
-        "title_accent": "linear-gradient(135deg, #DE6D26, #e88a4a)",
-        "btn_primary_bg": "#8F1D2C",
-        "btn_primary_color": "#FFFFFF",
-        "stat_accent": "#DE6D26",
-        "shape1": "linear-gradient(135deg, rgba(222, 109, 38, 0.4), rgba(222, 109, 38, 0.12))",
-        "shape2": "linear-gradient(135deg, rgba(42, 69, 96, 0.55), rgba(30, 48, 70, 0.25))",
-        "shape3": "linear-gradient(135deg, rgba(255, 255, 255, 0.14), rgba(255, 255, 255, 0.04))",
+        "gradient": "linear-gradient(135deg, #5E0F1B 0%, #8F1D2C 52%, #6E1220 100%)",
+        "overlay": "linear-gradient(135deg, rgba(94,15,27,0.55) 0%, rgba(110,18,32,0.35) 100%)",
+        "title_accent": "linear-gradient(135deg, #F2C879, #E8A94A)",
+        "btn_primary_bg": "#F2C879",
+        "btn_primary_color": "#3B0A12",
+        "stat_accent": "#F2C879",
+        "shape1": "linear-gradient(135deg, rgba(242,200,121,0.35), rgba(242,200,121,0.08))",
+        "shape2": "linear-gradient(135deg, rgba(255,255,255,0.10), rgba(255,255,255,0.02))",
+        "shape3": "linear-gradient(135deg, rgba(255,255,255,0.14), rgba(255,255,255,0.04))",
         "title": {
           "tr": "Tarladan sofranıza lezzet yolculuğu"
         },
@@ -3130,32 +3122,32 @@
           "url": "puding-cilekli"
         },
         {
-          "img": "/page/z754jel3n4/index.webp",
+          "img": "/page/3api9gi8oa/index.webp",
           "name": {
-            "tr": "Köfte Baharatı (Beş Türlü)"
+            "tr": "Kakao Kutu"
           },
-          "url": "kofte-baharati-bes-turlu"
+          "url": "kakao-kutu"
         },
         {
-          "img": "/page/2xgmcj4tio/index.webp",
+          "img": "/page/2lh75nf9v3/index.webp",
           "name": {
-            "tr": "Burçak Limonata(1000ml)"
+            "tr": "Galeta Unu"
           },
-          "url": "burcak-limonata-1000ml"
+          "url": "galeta-unu"
         },
         {
-          "img": "/page/3bamjrnvqu/index.webp",
+          "img": "/page/lie9kh44oh/index.webp",
           "name": {
-            "tr": "Kokteyl Aromalı"
+            "tr": "Kimyon Toz"
           },
-          "url": "kokteyl-aromali"
+          "url": "kimyon-toz"
         },
         {
-          "img": "/page/sldosqjbme/index.webp",
+          "img": "/page/ge4cfbw1d7/index.webp",
           "name": {
-            "tr": "Çörek Otu"
+            "tr": "Turşukur"
           },
-          "url": "corek-otu"
+          "url": "tursukur"
         }
       ],
       "category": "page-category",
@@ -3239,7 +3231,7 @@
           "tr": "Rakamlarla Burçak"
         },
         "description": {
-          "tr": ""
+          "tr": "Baharat ve gıda sektöründe 40 yılı aşkın tecrübenin rakamları."
         }
       },
       "data": [
@@ -3751,6 +3743,791 @@
       "path": "whatsapp",
       "local": "footer",
       "index": 40
+    },
+    {
+      "name": {
+        "tr": "Çerez Bandı — Alt Şerit",
+        "en": "Cookie Banner — Bottom Bar",
+        "ar": "شريط ملفات الارتباط — شريط سفلي"
+      },
+      "description": "Ekranın altına yaslı tam genişlik tek satır çerez şeridi: solda başlık + metin + politika bağlantısı, sağda eşit ağırlıkta Reddet / Tercihler / Tümünü kabul et. Tercihler şeridin üstünde anahtar (switch) satırı olarak açılır. Rıza sözleşmesi cerez-banner ile birebir aynı: localStorage mxCerezRizaV1 + mxCookieV1, window «mx:cerez-riza» olayı, [data-mx-cerez-tercih] / window.mxCerezTercihAc ile yeniden açma; rizaSurumu değişince ya da 12 ay sonra yeniden sorar.",
+      "path": "cerez-banner-2",
+      "local": "footer",
+      "category": "e-commerce",
+      "subCategory": "alt-serit",
+      "version": "1.0.0",
+      "update": "2026-11-01",
+      "icon": "cookie",
+      "tags": [
+        "çerez",
+        "cookie",
+        "kvkk",
+        "rıza",
+        "consent",
+        "ar"
+      ],
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing; rıza: localStorage mxCerezRizaV1 + «mx:cerez-riza» olayı (cerez-banner ile aynı)"
+      },
+      "desing": {
+        "max": "1200px",
+        "bgcolor": "#FFFFFF",
+        "textcolor": "#2B2523",
+        "mutedcolor": "#5E524C",
+        "surface": "#FBF6EE",
+        "surface2": "#F3E9DA",
+        "accent": "#8F1D2C",
+        "accentText": "#FFFFFF",
+        "bordercolor": "#E8DCC8",
+        "radius": "16px",
+        "privacyUrl": "cerez-politikasi",
+        "rizaSurumu": "1",
+        "title": {
+          "tr": "Çerez tercihleri"
+        },
+        "text": {
+          "tr": "Size daha iyi hizmet sunabilmek için KVKK’ya uygun ve sınırlı ölçüde veri topluyoruz. Zorunlu olmayan çerezler yalnızca onayınızla etkinleşir; tercihinizi dilediğiniz zaman değiştirebilirsiniz."
+        },
+        "acceptText": {
+          "tr": "Tümünü kabul et",
+          "en": "Accept all",
+          "ar": "قبول الكل"
+        },
+        "rejectText": {
+          "tr": "Reddet",
+          "en": "Reject",
+          "ar": "رفض"
+        },
+        "prefsText": {
+          "tr": "Tercihler",
+          "en": "Preferences",
+          "ar": "التفضيلات"
+        },
+        "saveText": {
+          "tr": "Seçimleri kaydet",
+          "en": "Save choices",
+          "ar": "حفظ الاختيارات"
+        },
+        "moreText": {
+          "tr": "Çerez Politikası"
+        },
+        "zorunluText": {
+          "tr": "Zorunlu",
+          "en": "Strictly necessary",
+          "ar": "ضرورية"
+        },
+        "zorunluDesc": {
+          "tr": "Oturum ve güvenlik için gerekir; kapatılamaz.",
+          "en": "Needed for session and security; cannot be turned off.",
+          "ar": "مطلوبة للجلسة والأمان؛ لا يمكن إيقافها."
+        },
+        "islevselText": {
+          "tr": "İşlevsel",
+          "en": "Functional",
+          "ar": "وظيفية"
+        },
+        "islevselDesc": {
+          "tr": "Dil ve görünüm gibi tercihlerinizi hatırlar.",
+          "en": "Remembers preferences such as language and display.",
+          "ar": "تتذكر تفضيلاتك مثل اللغة والعرض."
+        },
+        "analitikText": {
+          "tr": "Analitik",
+          "en": "Analytics",
+          "ar": "تحليلية"
+        },
+        "analitikDesc": {
+          "tr": "Sitenin nasıl kullanıldığını ölçer.",
+          "en": "Measures how the site is used.",
+          "ar": "تقيس كيفية استخدام الموقع."
+        },
+        "pazarlamaText": {
+          "tr": "Pazarlama",
+          "en": "Marketing",
+          "ar": "تسويقية"
+        },
+        "pazarlamaDesc": {
+          "tr": "İlgi alanınıza göre içerik ve reklam gösterir.",
+          "en": "Shows content and ads based on your interests.",
+          "ar": "تعرض محتوى وإعلانات وفق اهتماماتك."
+        },
+        "kabulVurgu": false,
+        "ince": false
+      },
+      "data": [],
+      "id": "4edkm9",
+      "index": 41,
+      "siteOzel": true
+    },
+    {
+      "name": "Footer 9 — Kurumsal",
+      "desing": {
+        "showlang": false,
+        "maxpages": 8,
+        "bgcolor": "#2B2523",
+        "color": "#F3E9DA",
+        "mutedcolor": "#CDBFAE",
+        "accent": "#F2C879",
+        "bordercolor": "rgba(243,233,218,0.22)",
+        "logo_maxh": "72px",
+        "logo_plate": false,
+        "about": {
+          "tr": "40 yılı aşkın tecrübe ve tam otomasyonlu tesisle baharat, pastacılık ürünleri, sos ve sirke, kahve ve aromalı toz içecek gruplarında üretim."
+        },
+        "title_pages": {
+          "tr": "Sayfalar"
+        },
+        "title_contact": {
+          "tr": "İletişim"
+        },
+        "title_social": {
+          "tr": "Bizi takip edin"
+        },
+        "address": "",
+        "phone": "+90 342 238 11 11",
+        "email": "info@burcakbaharat.com.tr",
+        "social": [
+          {
+            "ad": "Instagram",
+            "url": "https://www.instagram.com/burcak.baharat/"
+          },
+          {
+            "ad": "Facebook",
+            "url": "https://www.facebook.com/profile.php?id=100070134073569"
+          },
+          {
+            "ad": "X (Twitter)",
+            "url": "https://twitter.com/burcakbaharat"
+          },
+          {
+            "ad": "YouTube",
+            "url": "https://www.youtube.com/@burcakbaharat"
+          }
+        ],
+        "legal": [
+          {
+            "text": {
+              "tr": "Gizlilik Politikası"
+            },
+            "href": "gizlilik-politikasi"
+          },
+          {
+            "text": {
+              "tr": "Kişisel Veriler"
+            },
+            "href": "kisiselveriler"
+          },
+          {
+            "text": {
+              "tr": "Çerez Politikası"
+            },
+            "href": "cerez-politikasi"
+          },
+          {
+            "text": {
+              "tr": "Kullanıcı Hakları"
+            },
+            "href": "kullanicahaklari"
+          },
+          {
+            "text": {
+              "tr": "Yasal Uyarı"
+            },
+            "href": "yasaluyari"
+          }
+        ],
+        "rightsText": {
+          "tr": "Tüm hakları saklıdır."
+        },
+        "title_categories": {
+          "tr": "Ürün Grupları"
+        },
+        "pagelinks": [
+          {
+            "text": {
+              "tr": "Anasayfa"
+            },
+            "href": ""
+          },
+          {
+            "text": {
+              "tr": "Kurumsal"
+            },
+            "href": "kurumsal"
+          },
+          {
+            "text": {
+              "tr": "Ürünler · E-Katalog"
+            },
+            "href": "urunler"
+          },
+          {
+            "text": {
+              "tr": "İletişim"
+            },
+            "href": "iletisim"
+          },
+          {
+            "text": {
+              "tr": "Hakkımızda"
+            },
+            "href": "hakkimizda"
+          },
+          {
+            "text": {
+              "tr": "Misyon"
+            },
+            "href": "misyon"
+          },
+          {
+            "text": {
+              "tr": "Vizyon"
+            },
+            "href": "vizyon"
+          },
+          {
+            "text": {
+              "tr": "Kalite Politikamız"
+            },
+            "href": "kalitepolitikamiz"
+          }
+        ],
+        "categories": [
+          {
+            "text": {
+              "tr": "Pul Biber Grubu"
+            },
+            "href": "pul-biber-grubu"
+          },
+          {
+            "text": {
+              "tr": "Sos ve Sirke Grubu"
+            },
+            "href": "sos-ve-sirke-grubu"
+          },
+          {
+            "text": {
+              "tr": "Kahve Grubu"
+            },
+            "href": "kahve-grubu"
+          },
+          {
+            "text": {
+              "tr": "Pasta Grubu"
+            },
+            "href": "pasta-grubu"
+          },
+          {
+            "text": {
+              "tr": "20 Gr Baharat Grubu"
+            },
+            "href": "baharat-20-gr"
+          },
+          {
+            "text": {
+              "tr": "Burçak Drink"
+            },
+            "href": "burcak-drink"
+          },
+          {
+            "text": {
+              "tr": "Aromalı Toz İçecek"
+            },
+            "href": "aromali-toz-icecek"
+          },
+          {
+            "text": {
+              "tr": "Diğer Ürünler"
+            },
+            "href": "diger-urunler"
+          }
+        ],
+        "addresses": [
+          {
+            "label": {
+              "tr": "Fabrika"
+            },
+            "text": {
+              "tr": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep"
+            }
+          },
+          {
+            "label": {
+              "tr": "Merkez"
+            },
+            "text": {
+              "tr": "Sanayi Mah. 60213 Nolu Cad. No:16/18 Gatem, 27060 Şehitkamil / Gaziantep"
+            },
+            "icon": "apartment"
+          }
+        ]
+      },
+      "category": "footer",
+      "data": [],
+      "description": "Kurumsal alt bilgi (footer): 4 sütun — marka (logo + kısa metin), sayfalar, iletişim (address/phone/email; boşsa setting.phone/email, hiçbiri yoksa sütun gizli), sosyal (social: [{ad,url}]; boşsa gizli). Alt şerit: telif (yıl otomatik), yasal bağlantılar (legal: [{text,href}], dil önekli), dil seçici. Renkler yalnız desing anahtarı + var(--mx-site-*, fallback): token'sız sitede fallback, colorScheme:auto sitede koyu mod uyumlu. logo_maxh / logo_plate footer-3 ile aynı.",
+      "version": "1.0.0",
+      "icon": "footer",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "vknv93",
+      "path": "footer-9",
+      "local": "footer",
+      "index": 42,
+      "siteOzel": true
+    },
+    {
+      "name": "Sayaç Şeridi (Stats 2)",
+      "description": "Tam genişlik renkli şerit (bgcolor/textcolor ÇİFT token), 3–5 sayaç: sayılar görünürken yukarı sayar (IntersectionObserver; reduced-motion ya da JS yoksa son değer doğrudan), önek/sonek (+, %, ₺), kısa açıklama, isteğe bağlı CSS desen (noktalar | cizgiler | yok). Sayı biçimi dile göre (Arapçada Latin hane). desing.stil: serit | kartli | ayrik-cizgili. Veri: data[] = [{deger, onek, sonek, ondalik?, etiket{tr,en,ar}, aciklama{}, ikon?}]. Koyu mod paletten; RTL mantıksal CSS.",
+      "version": "1.0.0",
+      "icon": "insights",
+      "category": "stats",
+      "tags": [
+        "istatistik",
+        "sayaç",
+        "stats",
+        "counter",
+        "şerit",
+        "ar"
+      ],
+      "desing": {
+        "stil": "serit",
+        "desen": "noktalar",
+        "max": "1200px",
+        "bgcolor": "#8F1D2C",
+        "textcolor": "#FFFFFF",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-primary-contrast, #ffffff) 90%, var(--mx-site-primary, #2563eb))",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-primary-contrast, #ffffff) 26%, transparent)",
+        "radius": "16px",
+        "sure": 1200,
+        "title": {
+          "tr": "Rakamlarla Burçak"
+        },
+        "description": {
+          "tr": "Tesisimizi ve ihracat ağımızı özetleyen rakamlar."
+        }
+      },
+      "data": [
+        {
+          "deger": 40,
+          "onek": "",
+          "sonek": "+",
+          "ikon": "workspace_premium",
+          "etiket": {
+            "tr": "Yıllık tecrübe"
+          },
+          "aciklama": {
+            "tr": "Baharat ve gıda sektöründe"
+          }
+        },
+        {
+          "deger": 25000,
+          "onek": "",
+          "sonek": " m²",
+          "ikon": "landscape",
+          "etiket": {
+            "tr": "Arazi"
+          },
+          "aciklama": {
+            "tr": "İslahiye OSB’de kurulu tesis"
+          }
+        },
+        {
+          "deger": 10000,
+          "onek": "",
+          "sonek": " m²",
+          "ikon": "factory",
+          "etiket": {
+            "tr": "Kapalı alan"
+          },
+          "aciklama": {
+            "tr": "Tam otomasyonlu üretim"
+          }
+        },
+        {
+          "deger": 15,
+          "onek": "",
+          "sonek": "",
+          "ikon": "public",
+          "etiket": {
+            "tr": "Ülkeye ihracat"
+          },
+          "aciklama": {
+            "tr": "Farklı kıtalarda"
+          }
+        }
+      ],
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "z7l8wm",
+      "path": "stats-2",
+      "local": "body",
+      "index": 43
+    },
+    {
+      "name": "Süreç Adımları",
+      "description": "3–6 adımlık süreç anlatımı: çizgi/ok ile bağlı daire numaralar, altında başlık + metin. Aktif adım vurgusu kaydırmayla ilerler (IntersectionObserver; JS yoksa tüm adımlar düz görünür). desing.stil: yatay (çizgiyle bağlı sıra; mobilde dikey zaman çizgisi) | dikey (iki yanlı zaman çizgisi) | kartli (kart + ok ayraç). Veri: data[] = [{no?, baslik{tr,en,ar}, metin{}, ikon?}]. Renkler yalnız token; koyu mod otomatik; RTL'de ok/çizgi yönü aynalanır.",
+      "version": "1.0.0",
+      "icon": "timeline",
+      "category": "surec",
+      "tags": [
+        "süreç",
+        "adım",
+        "zaman çizgisi",
+        "process",
+        "steps",
+        "ar"
+      ],
+      "desing": {
+        "stil": "yatay",
+        "max": "1200px",
+        "bgcolor": "#FBF6EE",
+        "textcolor": "#2B2523",
+        "mutedcolor": "#5E524C",
+        "surface": "#FFFFFF",
+        "surface2": "#F3E9DA",
+        "accent": "#8F1D2C",
+        "accentText": "#FFFFFF",
+        "bordercolor": "#E8DCC8",
+        "radius": "16px",
+        "eyebrow": {
+          "tr": "Üretim"
+        },
+        "title": {
+          "tr": "Tarladan sofraya dört adım"
+        },
+        "description": {
+          "tr": "Hammadde seçiminden sevkiyata her aşama aromayı ve tazeliği korumak üzere kurgulanır."
+        },
+        "stepLabel": {
+          "tr": "Adım"
+        },
+        "listLabel": {
+          "tr": "Üretim adımları"
+        }
+      },
+      "data": [
+        {
+          "ikon": "grass",
+          "baslik": {
+            "tr": "Hasat"
+          },
+          "metin": {
+            "tr": "Ürün standartlarına en uygun hammaddeyi özenle seçerek alıyoruz."
+          }
+        },
+        {
+          "ikon": "precision_manufacturing",
+          "baslik": {
+            "tr": "İşleme"
+          },
+          "metin": {
+            "tr": "Kendi fabrikamızda hammaddeyi aromasını ve tazeliğini koruyan işleme sistemleriyle işliyoruz."
+          }
+        },
+        {
+          "ikon": "inventory_2",
+          "baslik": {
+            "tr": "Ambalajlama"
+          },
+          "metin": {
+            "tr": "Saklama koşullarına en uygun ambalajı belirliyor, ürünleri aromasını yitirmeyecek şekilde paketliyoruz."
+          }
+        },
+        {
+          "ikon": "local_shipping",
+          "baslik": {
+            "tr": "Sevkiyat"
+          },
+          "metin": {
+            "tr": "Ambalajlanan ürünler dikkatle sevkiyata hazırlanarak müşterilerimize ulaştırılır."
+          }
+        }
+      ],
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "0nq169",
+      "path": "surec-adimlar",
+      "local": "body",
+      "index": 44
+    },
+    {
+      "name": "Kurumsal Değerler 1",
+      "desing": {
+        "max": "1200px",
+        "bgcolor": "#F3E9DA",
+        "accent": "#8F1D2C",
+        "titlecolor": "#6E1220",
+        "textcolor": "#5E524C",
+        "cardbg": "#FFFFFF",
+        "badgebg": "#8F1D2C",
+        "badgecolor": "#FFFFFF",
+        "badge": {
+          "tr": "Kalite ve Belgeler"
+        },
+        "title": {
+          "tr": "Güvenli gıda, uluslararası standartlar"
+        },
+        "description": {
+          "tr": "Burçak Baharat; ABD pazarı için FDA’nın yanı sıra ISO 22000-2018 ve Helal Gıda sertifikalarına sahip olduğunu beyan eder. Güncel belge örnekleri için bizimle iletişime geçebilirsiniz."
+        }
+      },
+      "data": [
+        {
+          "icon": "verified_user",
+          "name": {
+            "tr": "FDA"
+          },
+          "description": {
+            "tr": "ABD pazarı için"
+          }
+        },
+        {
+          "icon": "workspace_premium",
+          "name": {
+            "tr": "ISO 22000-2018"
+          },
+          "description": {
+            "tr": "Gıda Güvenliği Yönetimi"
+          }
+        },
+        {
+          "icon": "task_alt",
+          "name": {
+            "tr": "Helal Gıda"
+          },
+          "description": {
+            "tr": "Helal Gıda sertifikası"
+          }
+        },
+        {
+          "icon": "factory",
+          "name": {
+            "tr": "Tam otomasyonlu tesis"
+          },
+          "description": {
+            "tr": "10.000 m² kapalı alanda modern üretim"
+          }
+        }
+      ],
+      "category": "values",
+      "description": "Kurumsal değer kartları (MLA tarzı dört sütun). Rakam yok; ikon, başlık ve kısa açıklama. Animasyon, mobil tek sütun ve prefers-reduced-motion destekler.",
+      "version": "1.0.0",
+      "icon": "diamond",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "9fz0jm",
+      "path": "values-1",
+      "local": "body",
+      "index": 45,
+      "siteOzel": true
+    },
+    {
+      "name": {
+        "tr": "Hızlı İletişim Kartları",
+        "en": "Quick Contact Cards",
+        "ar": "بطاقات الاتصال السريع"
+      },
+      "description": {
+        "tr": "3–4 hızlı eylem kartı: Ara (tel:), WhatsApp (wa.me hazır mesaj), E-posta (mailto:), Yol tarifi (harita bağlantısı). Her kart ikon + başlık + değer + eylem düğmesi; hover'da yükselir. Veri boş olan kart basılmaz; phone/email boşsa setting'den. Üç varyant (desing.stil): kartli · ikon-serit · dikey-liste. Üç dil, RTL, koyu mod token'larla.",
+        "en": "3–4 quick action cards: Call (tel:), WhatsApp (wa.me prefilled), E-mail (mailto:), Directions (map link). Each card has icon + title + value + action button; lifts on hover. Cards without data are omitted; phone/email fall back to setting. Three variants (desing.stil): kartli · ikon-serit · dikey-liste. Three languages, RTL, dark mode via tokens.",
+        "ar": "3–4 بطاقات إجراء سريع: اتصال (tel:)، واتساب (رسالة جاهزة)، بريد إلكتروني (mailto:)، الاتجاهات (رابط خريطة). كل بطاقة: أيقونة + عنوان + قيمة + زر. البطاقات بلا بيانات لا تُعرض. ثلاثة أنماط، ثلاث لغات، RTL، وضع داكن."
+      },
+      "version": "1.0.0",
+      "icon": "contact_phone",
+      "category": "contact",
+      "tags": [
+        "iletisim",
+        "contact",
+        "whatsapp",
+        "telefon",
+        "harita",
+        "ar"
+      ],
+      "desing": {
+        "max": "1200px",
+        "stil": "kartli",
+        "bgcolor": "#FBF6EE",
+        "textcolor": "#2B2523",
+        "mutedcolor": "#5E524C",
+        "surface": "#FFFFFF",
+        "bordercolor": "#E8DCC8",
+        "accent": "#8F1D2C",
+        "accentText": "#FFFFFF",
+        "radius": "18px",
+        "title": {
+          "tr": "Bize Ulaşın"
+        },
+        "description": {
+          "tr": "Toptan satış, fiyat listesi, stok ve spec sheet talepleriniz için müşteri temsilcimize doğrudan ulaşabilirsiniz."
+        },
+        "phone": "+90 342 238 11 11",
+        "whatsapp": "",
+        "email": "info@burcakbaharat.com.tr",
+        "address": {
+          "tr": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep"
+        },
+        "mapsUrl": "https://www.google.com/maps/search/?api=1&query=Bur%C3%A7ak%20Baharat%2C%20%C4%B0slahiye%20OSB%201%20Nolu%20Cad.%20No%3A2/1%2C%20%C4%B0slahiye%20/%20Gaziantep",
+        "waMessage": {
+          "tr": "Merhaba, web sitenizden ulaşıyorum. Bilgi almak istiyorum.",
+          "en": "Hello, I am reaching you from your website. I would like some information.",
+          "ar": "مرحبًا، أتواصل معكم من موقعكم الإلكتروني وأرغب في الحصول على معلومات."
+        },
+        "callTitle": {
+          "tr": "Bizi Arayın",
+          "en": "Call Us",
+          "ar": "اتصل بنا"
+        },
+        "callText": {
+          "tr": "Toptan satış ve fiyat bilgisi"
+        },
+        "callBtn": {
+          "tr": "Ara",
+          "en": "Call",
+          "ar": "اتصال"
+        },
+        "waTitle": {
+          "tr": "WhatsApp",
+          "en": "WhatsApp",
+          "ar": "واتساب"
+        },
+        "waText": {
+          "tr": "Hızlı yanıt için yazın",
+          "en": "Message us for a quick reply",
+          "ar": "راسلنا للحصول على رد سريع"
+        },
+        "waBtn": {
+          "tr": "Mesaj gönder",
+          "en": "Send message",
+          "ar": "إرسال رسالة"
+        },
+        "mailTitle": {
+          "tr": "E-posta",
+          "en": "E-mail",
+          "ar": "البريد الإلكتروني"
+        },
+        "mailText": {
+          "tr": "Teklif ve spec sheet talepleri için"
+        },
+        "mailBtn": {
+          "tr": "E-posta gönder",
+          "en": "Send e-mail",
+          "ar": "إرسال بريد"
+        },
+        "mapTitle": {
+          "tr": "Yol Tarifi"
+        },
+        "mapBtn": {
+          "tr": "Haritada Gör"
+        },
+        "groupLabel": {
+          "tr": "Hızlı iletişim kanalları",
+          "en": "Quick contact channels",
+          "ar": "قنوات الاتصال السريع"
+        }
+      },
+      "data": [],
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "nxw7z2",
+      "path": "iletisim-kartlari",
+      "local": "body",
+      "index": 46,
+      "siteOzel": true
+    },
+    {
+      "name": "Code",
+      "category": "code",
+      "desing": {
+        "badge": {
+          "tr": "Yerleşkelerimiz"
+        },
+        "title": {
+          "tr": "Fabrika ve merkez adreslerimiz"
+        },
+        "description": {
+          "tr": "Üretim tesisimiz İslahiye Organize Sanayi Bölgesi’nde, merkez ofisimiz Gaziantep Şehitkamil’dedir."
+        },
+        "addresses": [
+          {
+            "label": {
+              "tr": "Fabrika"
+            },
+            "text": {
+              "tr": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep"
+            },
+            "icon": "factory"
+          },
+          {
+            "label": {
+              "tr": "Merkez"
+            },
+            "text": {
+              "tr": "Sanayi Mah. 60213 Nolu Cad. No:16/18 Gatem, 27060 Şehitkamil / Gaziantep"
+            },
+            "icon": "apartment"
+          }
+        ],
+        "mapQuery": {
+          "tr": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep"
+        },
+        "mapTitle": {
+          "tr": "Burçak Baharat fabrika konumu"
+        },
+        "mapLink": {
+          "tr": "Haritada Gör"
+        },
+        "socialTitle": {
+          "tr": "Bizi takip edin"
+        },
+        "social": [
+          {
+            "ad": "Instagram",
+            "url": "https://www.instagram.com/burcak.baharat/"
+          },
+          {
+            "ad": "Facebook",
+            "url": "https://www.facebook.com/profile.php?id=100070134073569"
+          },
+          {
+            "ad": "X (Twitter)",
+            "url": "https://twitter.com/burcakbaharat"
+          },
+          {
+            "ad": "YouTube",
+            "url": "https://www.youtube.com/@burcakbaharat"
+          }
+        ]
+      },
+      "description": "Projeye özel JavaScript custom kod modülü. Kargo takip sistemleri, özel hesaplamalar, API entegrasyonları gibi benzersiz fonksiyonları içerir. 3 farklı projede kullanılır: ajans, kargo ve medya sektörlerinde. Her projeye özgü özelleştirilmiş script içeriği, dinamik fonksiyon yükleme sistemi ile esnek yapı sunar.",
+      "version": "1.0.0",
+      "icon": "code",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "p74dnl",
+      "path": "code",
+      "local": "body",
+      "data": [],
+      "index": 47
     }
   ]
 }

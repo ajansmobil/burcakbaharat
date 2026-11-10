@@ -59,5 +59,6 @@
     "heading": "playfair-display",
     "body": "inter"
   },
-  "icon": "icon.png"
+  "icon": "icon.png",
+  "og_image": "og.jpg"
 }

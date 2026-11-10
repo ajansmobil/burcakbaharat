@@ -4,10 +4,10 @@
     "tr": "Türk Kahvesi"
   },
   "description": {
-    "tr": "Türk Kahvesi — Burçak Baharat Kahve Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+    "tr": "Kavrulmuş kahve çekirdeğinin ince öğütülmesiyle hazırlanan geleneksel kahve. Cezvede pişirilerek servis edilir; ikram ve kafe kullanımı için uygundur. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr."
   },
   "keyword": {
-    "tr": "Türk Kahvesi, Burçak Baharat, Kahve Grubu, baharat, toptan"
+    "tr": "Türk Kahvesi, Burçak Baharat, Kahve Grubu, toptan kahve, Gaziantep"
   },
   "path": "turk-kahvesi",
   "icon": "restaurant",
@@ -21,12 +21,12 @@
   "index": 12,
   "url": "",
   "text": {
-    "tr": "Ürün grubu: Kahve Grubu\nFiyat listesi ve toptan satış için bizi arayın: +90 342 238 11 11\nE-posta: info@burcakbaharat.com.tr"
+    "tr": "<article class=\"wm-metin\"><h2>Ürün bilgileri</h2><ul><li><strong>Ürün grubu:</strong> Kahve Grubu</li><li><strong>Kullanım alanı:</strong> Cezvede pişirilerek servis edilir; ikram ve kafe kullanımı için uygundur.</li></ul><h3>Toptan satış ve teklif</h3><p>Fiyat, stok ve teknik bilgi (spec sheet) için <a href=\"tel:+903422381111\">+90 342 238 11 11</a> numaralı hattı arayabilir veya <a href=\"mailto:info@burcakbaharat.com.tr\">info@burcakbaharat.com.tr</a> adresine yazabilirsiniz.</p><p>Teklif talebinizde ürün adını ve ihtiyaç duyduğunuz miktarı iletmeniz yeterlidir.</p></article>"
   },
   "title": {
     "tr": "Türk Kahvesi | Burçak Baharat"
   },
   "date": "2026-11-10T15:09:43.143Z",
-  "update": "2026-11-10T15:12:19.654Z",
+  "update": "2026-11-10T16:13:27.627Z",
   "img": "index.webp"
 }
