@@ -42,19 +42,19 @@
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-400-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-500-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-700-normal.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/fonts/inter.css?v=e07h8" />
-  <link rel="stylesheet" href="/src/fonts/playfair-display.css?v=e07h8" />
-  <link rel="stylesheet" href="/src/rubik.css?v=e07h8" />
-  <link rel="stylesheet" href="/src/css.css?v=e07h8" />
-  <link rel="stylesheet" href="/src/mx-ds.css?v=e07h8" />
+  <link rel="stylesheet" href="/src/fonts/inter.css?v=m155d" />
+  <link rel="stylesheet" href="/src/fonts/playfair-display.css?v=m155d" />
+  <link rel="stylesheet" href="/src/rubik.css?v=m155d" />
+  <link rel="stylesheet" href="/src/css.css?v=m155d" />
+  <link rel="stylesheet" href="/src/mx-ds.css?v=m155d" />
   
-  <link rel="stylesheet" href="/src/mx-ui.css?v=e07h8" />
+  <link rel="stylesheet" href="/src/mx-ui.css?v=m155d" />
   <link rel="preload" href="/src/material-symbols-outlined.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=e07h8" />
+  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=m155d" />
   
-  <link rel="stylesheet" href="/src/cookie.css?v=e07h8" />
-  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=e07h8" />
-  <link rel="shortcut icon" href="/img/icon.png?v=e07h8" type="image/png" />
+  <link rel="stylesheet" href="/src/cookie.css?v=m155d" />
+  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=m155d" />
+  <link rel="shortcut icon" href="/img/icon.png?v=m155d" type="image/png" />
   <link rel="apple-touch-icon" href="/img/icon.png" />
   <script type="application/ld+json">
 {
@@ -163,7 +163,7 @@
 }
 </script>
   
-<link rel="stylesheet" href="style.css?v=e07h8">
+<link rel="stylesheet" href="style.css?v=m155d">
 </head>
 
 <body>
@@ -199,7 +199,14 @@
       <nav class="h0000-m9-nav h0000-m9-nav--sag" aria-label="Navigation">
         <ul><li><a class="h0000-m9-oge" href="/en/urunler/">Products</a></li><li><a class="h0000-m9-oge" href="/en/iletisim/">Contact</a></li></ul>
       </nav>
-      <div class="h0000-m9-bar-dil"><nav class="wm-langbar" aria-label="Language Selector"><ul><li class="wm-lang-item"><a href="/tr/limon-tuzu-iri-tane/" hreflang="tr" lang="tr">TR</a></li><li class="wm-lang-item wm-lang-active"><a href="/en/limon-tuzu-iri-tane/" hreflang="en" lang="en" aria-current="true">EN</a></li><li class="wm-lang-item"><a href="/es/limon-tuzu-iri-tane/" hreflang="es" lang="es">ES</a></li><li class="wm-lang-item"><a href="/fr/limon-tuzu-iri-tane/" hreflang="fr" lang="fr">FR</a></li><li class="wm-lang-item"><a href="/de/limon-tuzu-iri-tane/" hreflang="de" lang="de">DE</a></li></ul></nav></div>
+      <div class="h0000-m9-bar-dil">
+        <button class="h0000-m9-dil-dugme" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="m9-ylit92-dil" aria-label="Language">
+          <span class="material-symbols-outlined" aria-hidden="true">language</span>
+          <span class="h0000-m9-dil-kod">en</span>
+          <span class="material-symbols-outlined h0000-m9-dil-ok" aria-hidden="true">expand_more</span>
+        </button>
+        <div class="h0000-m9-dil-acilir" id="m9-ylit92-dil"><nav class="wm-langbar" aria-label="Language Selector"><ul><li class="wm-lang-item"><a href="/tr/limon-tuzu-iri-tane/" hreflang="tr" lang="tr">TR</a></li><li class="wm-lang-item wm-lang-active"><a href="/en/limon-tuzu-iri-tane/" hreflang="en" lang="en" aria-current="true">EN</a></li><li class="wm-lang-item"><a href="/es/limon-tuzu-iri-tane/" hreflang="es" lang="es">ES</a></li><li class="wm-lang-item"><a href="/fr/limon-tuzu-iri-tane/" hreflang="fr" lang="fr">FR</a></li><li class="wm-lang-item"><a href="/de/limon-tuzu-iri-tane/" hreflang="de" lang="de">DE</a></li></ul></nav></div>
+      </div>
       <button class="h0000-m9-hamburger" type="button" aria-expanded="false" aria-controls="m9-ylit92-panel" aria-label="Toggle Menu">
         <span class="material-symbols-outlined" aria-hidden="true">menu</span>
       </button>
@@ -250,6 +257,19 @@
     }
     if (dugme) { dugme.addEventListener("click", function () { if (panel && panel.hidden) { ac(); } else { kapa(); } }); }
     if (kapat) { kapat.addEventListener("click", kapa); }
+    
+    var dilKutu = kok.querySelector(".h0000-m9-bar-dil");
+    var dilDugme = dilKutu ? dilKutu.querySelector(".h0000-m9-dil-dugme") : null;
+    function dilKapa() { if (dilKutu) { dilKutu.classList.remove("h0000-m9-dil-acik"); } if (dilDugme) { dilDugme.setAttribute("aria-expanded", "false"); } }
+    if (dilDugme) {
+      dilDugme.addEventListener("click", function (e) {
+        e.stopPropagation();
+        var acik = dilKutu.classList.toggle("h0000-m9-dil-acik");
+        dilDugme.setAttribute("aria-expanded", acik ? "true" : "false");
+      });
+      document.addEventListener("click", function (e) { if (dilKutu && !dilKutu.contains(e.target)) { dilKapa(); } });
+      document.addEventListener("keydown", function (e) { if (e.key === "Escape") { dilKapa(); } });
+    }
     document.addEventListener("keydown", function (e) { if (e.key === "Escape") { kapa(); } });
     
     if (panel) {
@@ -322,7 +342,7 @@
     <a class="b0000-menu-link" href="/en/pul-biber-grubu/"><span class="b0000-menu-link-text">Chili Flakes Group</span></a><a class="b0000-menu-link" href="/en/sos-ve-sirke-grubu/"><span class="b0000-menu-link-text">Sauce and Vinegar Group</span></a><a class="b0000-menu-link" href="/en/kahve-grubu/"><span class="b0000-menu-link-text">Coffee Group</span></a><a class="b0000-menu-link" href="/en/pasta-grubu/"><span class="b0000-menu-link-text">Pastry Group</span></a><a class="b0000-menu-link" href="/en/baharat-20-gr/"><span class="b0000-menu-link-text">20 Gr Spice Group</span></a><a class="b0000-menu-link" href="/en/burcak-drink/"><span class="b0000-menu-link-text">Burçak Drink</span></a><a class="b0000-menu-link" href="/en/aromali-toz-icecek/"><span class="b0000-menu-link-text">Flavored Powdered Drinks</span></a><a class="b0000-menu-link" href="/en/diger-urunler/"><span class="b0000-menu-link-text">Other Products</span></a>
   </nav>
   <div class="b0000-main">
-    <div class="b0000-row"><div class="b0000-row-media"><div class="b0000-img"><img src="/page/sq09o904yv/index.webp?v=bnrgc" alt="Lemon Salt (Coarse Grain)" loading="lazy" /></div></div><div class="b0000-row-desc"><p class="b0000-lead">Coarse-grain lemon salt that gives a lemony sour taste. Used in salads, pickles, soups, and dishes as a practical source of sourness in place of fresh lemon. 20 g packaging. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.</p></div></div>
+    <div class="b0000-row"><div class="b0000-row-media"><div class="b0000-img"><img src="/page/sq09o904yv/index.webp?v=qzvjr" alt="Lemon Salt (Coarse Grain)" loading="lazy" /></div></div><div class="b0000-row-desc"><p class="b0000-lead">Coarse-grain lemon salt that gives a lemony sour taste. Used in salads, pickles, soups, and dishes as a practical source of sourness in place of fresh lemon. 20 g packaging. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.</p></div></div>
     <div class="b0000-body"><article class="wm-metin"><h2>Product information</h2><ul><li><strong>Product group:</strong> 20 Gr Spice Group</li><li><strong>Packaging:</strong> 20 g</li><li><strong>Applications:</strong> Used in salads, pickles, soups, and dishes as a practical source of sourness in place of fresh lemon.</li></ul><h3>Wholesale and quotations</h3><p>For pricing, stock, and technical information (spec sheet), you can call <a href="tel:+903422381111">+90 342 238 11 11</a> or write to <a href="mailto:info@burcakbaharat.com.tr">info@burcakbaharat.com.tr</a>.</p><p>In your quote request, it is enough to include the product name and the quantity you need.</p></article></div>
   </div>
 </div>
@@ -629,10 +649,10 @@
   
 
   <script defer src="/src/swiper-bundle.min.js"></script>
-  <script defer src="/src/mx-ui.js?v=e07h8"></script>
-  <script defer src="/src/mx-store.js?v=e07h8"></script>
-  <script defer type="text/javascript" src="/src/js.js?v=e07h8"></script>
-  <script defer src="/src/cookie.js?v=e07h8"></script>
+  <script defer src="/src/mx-ui.js?v=m155d"></script>
+  <script defer src="/src/mx-store.js?v=m155d"></script>
+  <script defer type="text/javascript" src="/src/js.js?v=m155d"></script>
+  <script defer src="/src/cookie.js?v=m155d"></script>
 
 </body>
 

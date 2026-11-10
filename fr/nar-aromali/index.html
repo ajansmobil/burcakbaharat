@@ -42,19 +42,19 @@
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-400-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-500-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-700-normal.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/fonts/inter.css?v=lfonb" />
-  <link rel="stylesheet" href="/src/fonts/playfair-display.css?v=lfonb" />
-  <link rel="stylesheet" href="/src/rubik.css?v=lfonb" />
-  <link rel="stylesheet" href="/src/css.css?v=lfonb" />
-  <link rel="stylesheet" href="/src/mx-ds.css?v=lfonb" />
+  <link rel="stylesheet" href="/src/fonts/inter.css?v=ymc0i" />
+  <link rel="stylesheet" href="/src/fonts/playfair-display.css?v=ymc0i" />
+  <link rel="stylesheet" href="/src/rubik.css?v=ymc0i" />
+  <link rel="stylesheet" href="/src/css.css?v=ymc0i" />
+  <link rel="stylesheet" href="/src/mx-ds.css?v=ymc0i" />
   
-  <link rel="stylesheet" href="/src/mx-ui.css?v=lfonb" />
+  <link rel="stylesheet" href="/src/mx-ui.css?v=ymc0i" />
   <link rel="preload" href="/src/material-symbols-outlined.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=lfonb" />
+  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=ymc0i" />
   
-  <link rel="stylesheet" href="/src/cookie.css?v=lfonb" />
-  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=lfonb" />
-  <link rel="shortcut icon" href="/img/icon.png?v=lfonb" type="image/png" />
+  <link rel="stylesheet" href="/src/cookie.css?v=ymc0i" />
+  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=ymc0i" />
+  <link rel="shortcut icon" href="/img/icon.png?v=ymc0i" type="image/png" />
   <link rel="apple-touch-icon" href="/img/icon.png" />
   <script type="application/ld+json">
 {
@@ -163,7 +163,7 @@
 }
 </script>
   
-<link rel="stylesheet" href="style.css?v=lfonb">
+<link rel="stylesheet" href="style.css?v=ymc0i">
 </head>
 
 <body>
@@ -199,7 +199,14 @@
       <nav class="h0000-m9-nav h0000-m9-nav--sag" aria-label="Navigation">
         <ul><li><a class="h0000-m9-oge" href="/fr/urunler/">Produits</a></li><li><a class="h0000-m9-oge" href="/fr/iletisim/">Contact</a></li></ul>
       </nav>
-      <div class="h0000-m9-bar-dil"><nav class="wm-langbar" aria-label="Sélecteur de langue"><ul><li class="wm-lang-item"><a href="/tr/nar-aromali/" hreflang="tr" lang="tr">TR</a></li><li class="wm-lang-item"><a href="/en/nar-aromali/" hreflang="en" lang="en">EN</a></li><li class="wm-lang-item"><a href="/es/nar-aromali/" hreflang="es" lang="es">ES</a></li><li class="wm-lang-item wm-lang-active"><a href="/fr/nar-aromali/" hreflang="fr" lang="fr" aria-current="true">FR</a></li><li class="wm-lang-item"><a href="/de/nar-aromali/" hreflang="de" lang="de">DE</a></li></ul></nav></div>
+      <div class="h0000-m9-bar-dil">
+        <button class="h0000-m9-dil-dugme" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="m9-ylit92-dil" aria-label="Language">
+          <span class="material-symbols-outlined" aria-hidden="true">language</span>
+          <span class="h0000-m9-dil-kod">fr</span>
+          <span class="material-symbols-outlined h0000-m9-dil-ok" aria-hidden="true">expand_more</span>
+        </button>
+        <div class="h0000-m9-dil-acilir" id="m9-ylit92-dil"><nav class="wm-langbar" aria-label="Sélecteur de langue"><ul><li class="wm-lang-item"><a href="/tr/nar-aromali/" hreflang="tr" lang="tr">TR</a></li><li class="wm-lang-item"><a href="/en/nar-aromali/" hreflang="en" lang="en">EN</a></li><li class="wm-lang-item"><a href="/es/nar-aromali/" hreflang="es" lang="es">ES</a></li><li class="wm-lang-item wm-lang-active"><a href="/fr/nar-aromali/" hreflang="fr" lang="fr" aria-current="true">FR</a></li><li class="wm-lang-item"><a href="/de/nar-aromali/" hreflang="de" lang="de">DE</a></li></ul></nav></div>
+      </div>
       <button class="h0000-m9-hamburger" type="button" aria-expanded="false" aria-controls="m9-ylit92-panel" aria-label="Basculer le menu">
         <span class="material-symbols-outlined" aria-hidden="true">menu</span>
       </button>
@@ -250,6 +257,19 @@
     }
     if (dugme) { dugme.addEventListener("click", function () { if (panel && panel.hidden) { ac(); } else { kapa(); } }); }
     if (kapat) { kapat.addEventListener("click", kapa); }
+    
+    var dilKutu = kok.querySelector(".h0000-m9-bar-dil");
+    var dilDugme = dilKutu ? dilKutu.querySelector(".h0000-m9-dil-dugme") : null;
+    function dilKapa() { if (dilKutu) { dilKutu.classList.remove("h0000-m9-dil-acik"); } if (dilDugme) { dilDugme.setAttribute("aria-expanded", "false"); } }
+    if (dilDugme) {
+      dilDugme.addEventListener("click", function (e) {
+        e.stopPropagation();
+        var acik = dilKutu.classList.toggle("h0000-m9-dil-acik");
+        dilDugme.setAttribute("aria-expanded", acik ? "true" : "false");
+      });
+      document.addEventListener("click", function (e) { if (dilKutu && !dilKutu.contains(e.target)) { dilKapa(); } });
+      document.addEventListener("keydown", function (e) { if (e.key === "Escape") { dilKapa(); } });
+    }
     document.addEventListener("keydown", function (e) { if (e.key === "Escape") { kapa(); } });
     
     if (panel) {
@@ -322,7 +342,7 @@
     <a class="b0000-menu-link" href="/fr/pul-biber-grubu/"><span class="b0000-menu-link-text">Gamme piment rouge en flocons</span></a><a class="b0000-menu-link" href="/fr/sos-ve-sirke-grubu/"><span class="b0000-menu-link-text">Gamme sauces et vinaigres</span></a><a class="b0000-menu-link" href="/fr/kahve-grubu/"><span class="b0000-menu-link-text">Gamme café</span></a><a class="b0000-menu-link" href="/fr/pasta-grubu/"><span class="b0000-menu-link-text">Gamme pâtisserie</span></a><a class="b0000-menu-link" href="/fr/baharat-20-gr/"><span class="b0000-menu-link-text">Gamme épices 20 Gr</span></a><a class="b0000-menu-link" href="/fr/burcak-drink/"><span class="b0000-menu-link-text">Burçak Drink</span></a><a class="b0000-menu-link" href="/fr/aromali-toz-icecek/"><span class="b0000-menu-link-text">Boissons en poudre aromatisées</span></a><a class="b0000-menu-link" href="/fr/diger-urunler/"><span class="b0000-menu-link-text">Autres produits</span></a>
   </nav>
   <div class="b0000-main">
-    <div class="b0000-row"><div class="b0000-row-media"><div class="b0000-img"><img src="/page/sdn7ru41hk/index.webp?v=gw0nm" alt="Saveur grenade" loading="lazy" /></div></div><div class="b0000-row-desc"><p class="b0000-lead">Boisson en poudre à la saveur de grenade. Se prépare en mélangeant avec de l'eau ; se sert froide. Prix de gros, stock et spec sheet : +90 342 238 11 11 · info@burcakbaharat.com.tr.</p></div></div>
+    <div class="b0000-row"><div class="b0000-row-media"><div class="b0000-img"><img src="/page/sdn7ru41hk/index.webp?v=kljly" alt="Saveur grenade" loading="lazy" /></div></div><div class="b0000-row-desc"><p class="b0000-lead">Boisson en poudre à la saveur de grenade. Se prépare en mélangeant avec de l'eau ; se sert froide. Prix de gros, stock et spec sheet : +90 342 238 11 11 · info@burcakbaharat.com.tr.</p></div></div>
     <div class="b0000-body"><article class="wm-metin"><h2>Informations produit</h2><ul><li><strong>Gamme de produits :</strong> Boissons en poudre aromatisées</li><li><strong>Utilisation :</strong> Se prépare en mélangeant avec de l'eau ; se sert froide.</li></ul><h3>Vente en gros et devis</h3><p>Pour les prix, le stock et la fiche technique (spec sheet), vous pouvez appeler le <a href="tel:+903422381111">+90 342 238 11 11</a> ou écrire à <a href="mailto:info@burcakbaharat.com.tr">info@burcakbaharat.com.tr</a>.</p><p>Pour votre demande de devis, il vous suffit d'indiquer le nom du produit et la quantité dont vous avez besoin.</p></article></div>
   </div>
 </div>
@@ -629,10 +649,10 @@
   
 
   <script defer src="/src/swiper-bundle.min.js"></script>
-  <script defer src="/src/mx-ui.js?v=lfonb"></script>
-  <script defer src="/src/mx-store.js?v=lfonb"></script>
-  <script defer type="text/javascript" src="/src/js.js?v=lfonb"></script>
-  <script defer src="/src/cookie.js?v=lfonb"></script>
+  <script defer src="/src/mx-ui.js?v=ymc0i"></script>
+  <script defer src="/src/mx-store.js?v=ymc0i"></script>
+  <script defer type="text/javascript" src="/src/js.js?v=ymc0i"></script>
+  <script defer src="/src/cookie.js?v=ymc0i"></script>
 
 </body>
 

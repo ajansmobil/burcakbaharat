@@ -42,19 +42,19 @@
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-400-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-500-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-700-normal.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/fonts/inter.css?v=t6eiy" />
-  <link rel="stylesheet" href="/src/fonts/playfair-display.css?v=t6eiy" />
-  <link rel="stylesheet" href="/src/rubik.css?v=t6eiy" />
-  <link rel="stylesheet" href="/src/css.css?v=t6eiy" />
-  <link rel="stylesheet" href="/src/mx-ds.css?v=t6eiy" />
+  <link rel="stylesheet" href="/src/fonts/inter.css?v=bcx1t" />
+  <link rel="stylesheet" href="/src/fonts/playfair-display.css?v=bcx1t" />
+  <link rel="stylesheet" href="/src/rubik.css?v=bcx1t" />
+  <link rel="stylesheet" href="/src/css.css?v=bcx1t" />
+  <link rel="stylesheet" href="/src/mx-ds.css?v=bcx1t" />
   
-  <link rel="stylesheet" href="/src/mx-ui.css?v=t6eiy" />
+  <link rel="stylesheet" href="/src/mx-ui.css?v=bcx1t" />
   <link rel="preload" href="/src/material-symbols-outlined.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=t6eiy" />
+  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=bcx1t" />
   
-  <link rel="stylesheet" href="/src/cookie.css?v=t6eiy" />
-  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=t6eiy" />
-  <link rel="shortcut icon" href="/img/icon.png?v=t6eiy" type="image/png" />
+  <link rel="stylesheet" href="/src/cookie.css?v=bcx1t" />
+  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=bcx1t" />
+  <link rel="shortcut icon" href="/img/icon.png?v=bcx1t" type="image/png" />
   <link rel="apple-touch-icon" href="/img/icon.png" />
   <script type="application/ld+json">
 {
@@ -298,7 +298,7 @@
 }
 </script>
   
-<link rel="stylesheet" href="style.css?v=t6eiy">
+<link rel="stylesheet" href="style.css?v=bcx1t">
 </head>
 
 <body>
@@ -334,7 +334,14 @@
       <nav class="h0000-m9-nav h0000-m9-nav--sag" aria-label="Navigasyon">
         <ul><li><a class="h0000-m9-oge" href="/tr/urunler/">Ürünler</a></li><li><a class="h0000-m9-oge" href="/tr/iletisim/">İletişim</a></li></ul>
       </nav>
-      <div class="h0000-m9-bar-dil"><nav class="wm-langbar" aria-label="Dil Seçici"><ul><li class="wm-lang-item wm-lang-active"><a href="/tr/pasta-grubu/" hreflang="tr" lang="tr" aria-current="true">TR</a></li><li class="wm-lang-item"><a href="/en/pasta-grubu/" hreflang="en" lang="en">EN</a></li><li class="wm-lang-item"><a href="/es/pasta-grubu/" hreflang="es" lang="es">ES</a></li><li class="wm-lang-item"><a href="/fr/pasta-grubu/" hreflang="fr" lang="fr">FR</a></li><li class="wm-lang-item"><a href="/de/pasta-grubu/" hreflang="de" lang="de">DE</a></li></ul></nav></div>
+      <div class="h0000-m9-bar-dil">
+        <button class="h0000-m9-dil-dugme" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="m9-ylit92-dil" aria-label="Language">
+          <span class="material-symbols-outlined" aria-hidden="true">language</span>
+          <span class="h0000-m9-dil-kod">tr</span>
+          <span class="material-symbols-outlined h0000-m9-dil-ok" aria-hidden="true">expand_more</span>
+        </button>
+        <div class="h0000-m9-dil-acilir" id="m9-ylit92-dil"><nav class="wm-langbar" aria-label="Dil Seçici"><ul><li class="wm-lang-item wm-lang-active"><a href="/tr/pasta-grubu/" hreflang="tr" lang="tr" aria-current="true">TR</a></li><li class="wm-lang-item"><a href="/en/pasta-grubu/" hreflang="en" lang="en">EN</a></li><li class="wm-lang-item"><a href="/es/pasta-grubu/" hreflang="es" lang="es">ES</a></li><li class="wm-lang-item"><a href="/fr/pasta-grubu/" hreflang="fr" lang="fr">FR</a></li><li class="wm-lang-item"><a href="/de/pasta-grubu/" hreflang="de" lang="de">DE</a></li></ul></nav></div>
+      </div>
       <button class="h0000-m9-hamburger" type="button" aria-expanded="false" aria-controls="m9-ylit92-panel" aria-label="Menüyü Aç/Kapat">
         <span class="material-symbols-outlined" aria-hidden="true">menu</span>
       </button>
@@ -385,6 +392,19 @@
     }
     if (dugme) { dugme.addEventListener("click", function () { if (panel && panel.hidden) { ac(); } else { kapa(); } }); }
     if (kapat) { kapat.addEventListener("click", kapa); }
+    
+    var dilKutu = kok.querySelector(".h0000-m9-bar-dil");
+    var dilDugme = dilKutu ? dilKutu.querySelector(".h0000-m9-dil-dugme") : null;
+    function dilKapa() { if (dilKutu) { dilKutu.classList.remove("h0000-m9-dil-acik"); } if (dilDugme) { dilDugme.setAttribute("aria-expanded", "false"); } }
+    if (dilDugme) {
+      dilDugme.addEventListener("click", function (e) {
+        e.stopPropagation();
+        var acik = dilKutu.classList.toggle("h0000-m9-dil-acik");
+        dilDugme.setAttribute("aria-expanded", acik ? "true" : "false");
+      });
+      document.addEventListener("click", function (e) { if (dilKutu && !dilKutu.contains(e.target)) { dilKapa(); } });
+      document.addEventListener("keydown", function (e) { if (e.key === "Escape") { dilKapa(); } });
+    }
     document.addEventListener("keydown", function (e) { if (e.key === "Escape") { kapa(); } });
     
     if (panel) {
@@ -704,10 +724,10 @@
   
 
   <script defer src="/src/swiper-bundle.min.js"></script>
-  <script defer src="/src/mx-ui.js?v=t6eiy"></script>
-  <script defer src="/src/mx-store.js?v=t6eiy"></script>
-  <script defer type="text/javascript" src="/src/js.js?v=t6eiy"></script>
-  <script defer src="/src/cookie.js?v=t6eiy"></script>
+  <script defer src="/src/mx-ui.js?v=bcx1t"></script>
+  <script defer src="/src/mx-store.js?v=bcx1t"></script>
+  <script defer type="text/javascript" src="/src/js.js?v=bcx1t"></script>
+  <script defer src="/src/cookie.js?v=bcx1t"></script>
 
 </body>
 

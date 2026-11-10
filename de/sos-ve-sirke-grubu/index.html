@@ -42,19 +42,19 @@
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-400-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-500-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-700-normal.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/fonts/inter.css?v=edt2w" />
-  <link rel="stylesheet" href="/src/fonts/playfair-display.css?v=edt2w" />
-  <link rel="stylesheet" href="/src/rubik.css?v=edt2w" />
-  <link rel="stylesheet" href="/src/css.css?v=edt2w" />
-  <link rel="stylesheet" href="/src/mx-ds.css?v=edt2w" />
+  <link rel="stylesheet" href="/src/fonts/inter.css?v=lcptk" />
+  <link rel="stylesheet" href="/src/fonts/playfair-display.css?v=lcptk" />
+  <link rel="stylesheet" href="/src/rubik.css?v=lcptk" />
+  <link rel="stylesheet" href="/src/css.css?v=lcptk" />
+  <link rel="stylesheet" href="/src/mx-ds.css?v=lcptk" />
   
-  <link rel="stylesheet" href="/src/mx-ui.css?v=edt2w" />
+  <link rel="stylesheet" href="/src/mx-ui.css?v=lcptk" />
   <link rel="preload" href="/src/material-symbols-outlined.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=edt2w" />
+  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=lcptk" />
   
-  <link rel="stylesheet" href="/src/cookie.css?v=edt2w" />
-  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=edt2w" />
-  <link rel="shortcut icon" href="/img/icon.png?v=edt2w" type="image/png" />
+  <link rel="stylesheet" href="/src/cookie.css?v=lcptk" />
+  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=lcptk" />
+  <link rel="shortcut icon" href="/img/icon.png?v=lcptk" type="image/png" />
   <link rel="apple-touch-icon" href="/img/icon.png" />
   <script type="application/ld+json">
 {
@@ -196,7 +196,7 @@
 }
 </script>
   
-<link rel="stylesheet" href="style.css?v=edt2w">
+<link rel="stylesheet" href="style.css?v=lcptk">
 </head>
 
 <body>
@@ -232,7 +232,14 @@
       <nav class="h0000-m9-nav h0000-m9-nav--sag" aria-label="Navigation">
         <ul><li><a class="h0000-m9-oge" href="/de/urunler/">Produkte</a></li><li><a class="h0000-m9-oge" href="/de/iletisim/">Kontakt</a></li></ul>
       </nav>
-      <div class="h0000-m9-bar-dil"><nav class="wm-langbar" aria-label="Sprachauswahl"><ul><li class="wm-lang-item"><a href="/tr/sos-ve-sirke-grubu/" hreflang="tr" lang="tr">TR</a></li><li class="wm-lang-item"><a href="/en/sos-ve-sirke-grubu/" hreflang="en" lang="en">EN</a></li><li class="wm-lang-item"><a href="/es/sos-ve-sirke-grubu/" hreflang="es" lang="es">ES</a></li><li class="wm-lang-item"><a href="/fr/sos-ve-sirke-grubu/" hreflang="fr" lang="fr">FR</a></li><li class="wm-lang-item wm-lang-active"><a href="/de/sos-ve-sirke-grubu/" hreflang="de" lang="de" aria-current="true">DE</a></li></ul></nav></div>
+      <div class="h0000-m9-bar-dil">
+        <button class="h0000-m9-dil-dugme" type="button" aria-haspopup="true" aria-expanded="false" aria-controls="m9-ylit92-dil" aria-label="Language">
+          <span class="material-symbols-outlined" aria-hidden="true">language</span>
+          <span class="h0000-m9-dil-kod">de</span>
+          <span class="material-symbols-outlined h0000-m9-dil-ok" aria-hidden="true">expand_more</span>
+        </button>
+        <div class="h0000-m9-dil-acilir" id="m9-ylit92-dil"><nav class="wm-langbar" aria-label="Sprachauswahl"><ul><li class="wm-lang-item"><a href="/tr/sos-ve-sirke-grubu/" hreflang="tr" lang="tr">TR</a></li><li class="wm-lang-item"><a href="/en/sos-ve-sirke-grubu/" hreflang="en" lang="en">EN</a></li><li class="wm-lang-item"><a href="/es/sos-ve-sirke-grubu/" hreflang="es" lang="es">ES</a></li><li class="wm-lang-item"><a href="/fr/sos-ve-sirke-grubu/" hreflang="fr" lang="fr">FR</a></li><li class="wm-lang-item wm-lang-active"><a href="/de/sos-ve-sirke-grubu/" hreflang="de" lang="de" aria-current="true">DE</a></li></ul></nav></div>
+      </div>
       <button class="h0000-m9-hamburger" type="button" aria-expanded="false" aria-controls="m9-ylit92-panel" aria-label="Menü umschalten">
         <span class="material-symbols-outlined" aria-hidden="true">menu</span>
       </button>
@@ -283,6 +290,19 @@
     }
     if (dugme) { dugme.addEventListener("click", function () { if (panel && panel.hidden) { ac(); } else { kapa(); } }); }
     if (kapat) { kapat.addEventListener("click", kapa); }
+    
+    var dilKutu = kok.querySelector(".h0000-m9-bar-dil");
+    var dilDugme = dilKutu ? dilKutu.querySelector(".h0000-m9-dil-dugme") : null;
+    function dilKapa() { if (dilKutu) { dilKutu.classList.remove("h0000-m9-dil-acik"); } if (dilDugme) { dilDugme.setAttribute("aria-expanded", "false"); } }
+    if (dilDugme) {
+      dilDugme.addEventListener("click", function (e) {
+        e.stopPropagation();
+        var acik = dilKutu.classList.toggle("h0000-m9-dil-acik");
+        dilDugme.setAttribute("aria-expanded", acik ? "true" : "false");
+      });
+      document.addEventListener("click", function (e) { if (dilKutu && !dilKutu.contains(e.target)) { dilKapa(); } });
+      document.addEventListener("keydown", function (e) { if (e.key === "Escape") { dilKapa(); } });
+    }
     document.addEventListener("keydown", function (e) { if (e.key === "Escape") { kapa(); } });
     
     if (panel) {
@@ -602,10 +622,10 @@
   
 
   <script defer src="/src/swiper-bundle.min.js"></script>
-  <script defer src="/src/mx-ui.js?v=edt2w"></script>
-  <script defer src="/src/mx-store.js?v=edt2w"></script>
-  <script defer type="text/javascript" src="/src/js.js?v=edt2w"></script>
-  <script defer src="/src/cookie.js?v=edt2w"></script>
+  <script defer src="/src/mx-ui.js?v=lcptk"></script>
+  <script defer src="/src/mx-store.js?v=lcptk"></script>
+  <script defer type="text/javascript" src="/src/js.js?v=lcptk"></script>
+  <script defer src="/src/cookie.js?v=lcptk"></script>
 
 </body>
 
