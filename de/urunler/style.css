@@ -270,6 +270,13 @@
     .h0000-m9-dil-acilir .wm-langbar { display: block; margin: 0; font-size: 15px; }
     .h0000-m9-dil-acilir .wm-langbar ul { flex-direction: column; flex-wrap: nowrap; gap: 4px; }
     .h0000-m9-dil-acilir .wm-langbar li a { width: 100%; justify-content: flex-start; min-height: 44px; padding: 8px 14px; }
+    .h0000-m9-dil-acilir { min-width: 190px; }
+    .h0000-m9-dil-acilir .wm-langbar li a::after { font-weight: 400; margin-inline-start: 10px; opacity: 0.85; }
+    .h0000-m9-dil-acilir .wm-langbar li a[hreflang="tr"]::after { content: "Türkçe"; }
+    .h0000-m9-dil-acilir .wm-langbar li a[hreflang="en"]::after { content: "English"; }
+    .h0000-m9-dil-acilir .wm-langbar li a[hreflang="es"]::after { content: "Español"; }
+    .h0000-m9-dil-acilir .wm-langbar li a[hreflang="fr"]::after { content: "Français"; }
+    .h0000-m9-dil-acilir .wm-langbar li a[hreflang="de"]::after { content: "Deutsch"; }
     .h0000-m9-bar-ic,
     .h0000-m9-bandsiz .h0000-m9-bar-ic { grid-template-columns: 48px minmax(0, 1fr) auto 48px; gap: 10px; padding-block: 10px; }
     .h0000-m9-logo { grid-column: 2; }
