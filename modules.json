@@ -2932,7 +2932,8 @@
       "id": "ylit92",
       "path": "menu-9",
       "local": "header",
-      "index": 26
+      "index": 26,
+      "siteOzel": true
     },
     {
       "name": "Hero 1",

@@ -281,14 +281,6 @@
   }
 
   
-  @media (prefers-color-scheme: dark) {
-    .h0000-m9-logo:not([src*="acik"]) {
-      background: #ffffff;
-      padding: 4px 10px;
-      border-radius: 8px;
-      box-sizing: content-box;
-    }
-  }
 
 
   .b0000-hero {
