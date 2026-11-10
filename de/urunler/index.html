@@ -42,19 +42,19 @@
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-400-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-500-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-700-normal.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/fonts/inter.css?v=cjd7q" />
-  <link rel="stylesheet" href="/src/fonts/playfair-display.css?v=cjd7q" />
-  <link rel="stylesheet" href="/src/rubik.css?v=cjd7q" />
-  <link rel="stylesheet" href="/src/css.css?v=cjd7q" />
-  <link rel="stylesheet" href="/src/mx-ds.css?v=cjd7q" />
+  <link rel="stylesheet" href="/src/fonts/inter.css?v=avpd5" />
+  <link rel="stylesheet" href="/src/fonts/playfair-display.css?v=avpd5" />
+  <link rel="stylesheet" href="/src/rubik.css?v=avpd5" />
+  <link rel="stylesheet" href="/src/css.css?v=avpd5" />
+  <link rel="stylesheet" href="/src/mx-ds.css?v=avpd5" />
   
-  <link rel="stylesheet" href="/src/mx-ui.css?v=cjd7q" />
+  <link rel="stylesheet" href="/src/mx-ui.css?v=avpd5" />
   <link rel="preload" href="/src/material-symbols-outlined.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=cjd7q" />
+  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=avpd5" />
   
-  <link rel="stylesheet" href="/src/cookie.css?v=cjd7q" />
-  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=cjd7q" />
-  <link rel="shortcut icon" href="/img/icon.png?v=cjd7q" type="image/png" />
+  <link rel="stylesheet" href="/src/cookie.css?v=avpd5" />
+  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=avpd5" />
+  <link rel="shortcut icon" href="/img/icon.png?v=avpd5" type="image/png" />
   <link rel="apple-touch-icon" href="/img/icon.png" />
   <script type="application/ld+json">
 {
@@ -147,7 +147,7 @@
 }
 </script>
   
-<link rel="stylesheet" href="style.css?v=cjd7q">
+<link rel="stylesheet" href="style.css?v=avpd5">
 </head>
 
 <body>
@@ -647,11 +647,12 @@ function b0000AddCart(btn, ev) {
     tercihler(!!tercihAcik);
     yeniden.hidden = true;
   }
+  
   function gizle() {
     kok.hidden = true;
-    yeniden.hidden = false;
+    yeniden.hidden = true;
   }
-  function sec(secim) { kaydetRiza(secim); var odak = kok.contains(document.activeElement); gizle(); if (odak) { yeniden.focus(); } }
+  function sec(secim) { kaydetRiza(secim); gizle(); }
   kok.querySelector("[data-mx-cookie-accept]").addEventListener("click", function () { sec(hepsi(true)); });
   kok.querySelector("[data-mx-cookie-reject]").addEventListener("click", function () { sec(hepsi(false)); });
   kaydetBtn.addEventListener("click", function () { sec(kutulardan()); });
@@ -671,10 +672,10 @@ function b0000AddCart(btn, ev) {
   
 
   <script defer src="/src/swiper-bundle.min.js"></script>
-  <script defer src="/src/mx-ui.js?v=cjd7q"></script>
-  <script defer src="/src/mx-store.js?v=cjd7q"></script>
-  <script defer type="text/javascript" src="/src/js.js?v=cjd7q"></script>
-  <script defer src="/src/cookie.js?v=cjd7q"></script>
+  <script defer src="/src/mx-ui.js?v=avpd5"></script>
+  <script defer src="/src/mx-store.js?v=avpd5"></script>
+  <script defer type="text/javascript" src="/src/js.js?v=avpd5"></script>
+  <script defer src="/src/cookie.js?v=avpd5"></script>
 
 </body>
 

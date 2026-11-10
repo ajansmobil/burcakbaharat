@@ -790,6 +790,7 @@
   .f0001-cb2 *, .f0001-cb2 *::before, .f0001-cb2 *::after { box-sizing: border-box; }
   .f0001-cb2 :where(span:not(.material-symbols-outlined), bdi, b, em) { font: inherit; }
   .f0001-cb2[hidden], .f0001-cb2-prefs[hidden], .f0001-cb2-btn[hidden], .f0001-cb2-yeniden[hidden] { display: none !important; }
+  .f0001-cb2-yeniden { display: none !important; }
   .f0001-cb2-ic { max-width: 1200px; margin-inline: auto; padding: 14px 16px; }
   .f0001-cb2-satir { display: flex; align-items: center; gap: 16px 28px; }
   .f0001-cb2-metin { flex: 1; min-width: 0; }

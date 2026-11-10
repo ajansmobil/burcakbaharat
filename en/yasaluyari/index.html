@@ -42,19 +42,19 @@
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-400-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-500-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-700-normal.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/fonts/inter.css?v=imhkb" />
-  <link rel="stylesheet" href="/src/fonts/playfair-display.css?v=imhkb" />
-  <link rel="stylesheet" href="/src/rubik.css?v=imhkb" />
-  <link rel="stylesheet" href="/src/css.css?v=imhkb" />
-  <link rel="stylesheet" href="/src/mx-ds.css?v=imhkb" />
+  <link rel="stylesheet" href="/src/fonts/inter.css?v=nsj1y" />
+  <link rel="stylesheet" href="/src/fonts/playfair-display.css?v=nsj1y" />
+  <link rel="stylesheet" href="/src/rubik.css?v=nsj1y" />
+  <link rel="stylesheet" href="/src/css.css?v=nsj1y" />
+  <link rel="stylesheet" href="/src/mx-ds.css?v=nsj1y" />
   
-  <link rel="stylesheet" href="/src/mx-ui.css?v=imhkb" />
+  <link rel="stylesheet" href="/src/mx-ui.css?v=nsj1y" />
   <link rel="preload" href="/src/material-symbols-outlined.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=imhkb" />
+  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=nsj1y" />
   
-  <link rel="stylesheet" href="/src/cookie.css?v=imhkb" />
-  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=imhkb" />
-  <link rel="shortcut icon" href="/img/icon.png?v=imhkb" type="image/png" />
+  <link rel="stylesheet" href="/src/cookie.css?v=nsj1y" />
+  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=nsj1y" />
+  <link rel="shortcut icon" href="/img/icon.png?v=nsj1y" type="image/png" />
   <link rel="apple-touch-icon" href="/img/icon.png" />
   <script type="application/ld+json">
 {
@@ -147,7 +147,7 @@
 }
 </script>
   
-<link rel="stylesheet" href="style.css?v=imhkb">
+<link rel="stylesheet" href="style.css?v=nsj1y">
 </head>
 
 <body>
@@ -640,11 +640,12 @@
     tercihler(!!tercihAcik);
     yeniden.hidden = true;
   }
+  
   function gizle() {
     kok.hidden = true;
-    yeniden.hidden = false;
+    yeniden.hidden = true;
   }
-  function sec(secim) { kaydetRiza(secim); var odak = kok.contains(document.activeElement); gizle(); if (odak) { yeniden.focus(); } }
+  function sec(secim) { kaydetRiza(secim); gizle(); }
   kok.querySelector("[data-mx-cookie-accept]").addEventListener("click", function () { sec(hepsi(true)); });
   kok.querySelector("[data-mx-cookie-reject]").addEventListener("click", function () { sec(hepsi(false)); });
   kaydetBtn.addEventListener("click", function () { sec(kutulardan()); });
@@ -664,10 +665,10 @@
   
 
   <script defer src="/src/swiper-bundle.min.js"></script>
-  <script defer src="/src/mx-ui.js?v=imhkb"></script>
-  <script defer src="/src/mx-store.js?v=imhkb"></script>
-  <script defer type="text/javascript" src="/src/js.js?v=imhkb"></script>
-  <script defer src="/src/cookie.js?v=imhkb"></script>
+  <script defer src="/src/mx-ui.js?v=nsj1y"></script>
+  <script defer src="/src/mx-store.js?v=nsj1y"></script>
+  <script defer type="text/javascript" src="/src/js.js?v=nsj1y"></script>
+  <script defer src="/src/cookie.js?v=nsj1y"></script>
 
 </body>
 

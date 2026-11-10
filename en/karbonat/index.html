@@ -42,19 +42,19 @@
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-400-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-500-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-700-normal.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/fonts/inter.css?v=lulz3" />
-  <link rel="stylesheet" href="/src/fonts/playfair-display.css?v=lulz3" />
-  <link rel="stylesheet" href="/src/rubik.css?v=lulz3" />
-  <link rel="stylesheet" href="/src/css.css?v=lulz3" />
-  <link rel="stylesheet" href="/src/mx-ds.css?v=lulz3" />
+  <link rel="stylesheet" href="/src/fonts/inter.css?v=kyxkg" />
+  <link rel="stylesheet" href="/src/fonts/playfair-display.css?v=kyxkg" />
+  <link rel="stylesheet" href="/src/rubik.css?v=kyxkg" />
+  <link rel="stylesheet" href="/src/css.css?v=kyxkg" />
+  <link rel="stylesheet" href="/src/mx-ds.css?v=kyxkg" />
   
-  <link rel="stylesheet" href="/src/mx-ui.css?v=lulz3" />
+  <link rel="stylesheet" href="/src/mx-ui.css?v=kyxkg" />
   <link rel="preload" href="/src/material-symbols-outlined.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=lulz3" />
+  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=kyxkg" />
   
-  <link rel="stylesheet" href="/src/cookie.css?v=lulz3" />
-  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=lulz3" />
-  <link rel="shortcut icon" href="/img/icon.png?v=lulz3" type="image/png" />
+  <link rel="stylesheet" href="/src/cookie.css?v=kyxkg" />
+  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=kyxkg" />
+  <link rel="shortcut icon" href="/img/icon.png?v=kyxkg" type="image/png" />
   <link rel="apple-touch-icon" href="/img/icon.png" />
   <script type="application/ld+json">
 {
@@ -163,7 +163,7 @@
 }
 </script>
   
-<link rel="stylesheet" href="style.css?v=lulz3">
+<link rel="stylesheet" href="style.css?v=kyxkg">
 </head>
 
 <body>
@@ -322,7 +322,7 @@
     <a class="b0000-menu-link" href="/en/pul-biber-grubu/"><span class="b0000-menu-link-text">Chili Flakes Group</span></a><a class="b0000-menu-link" href="/en/sos-ve-sirke-grubu/"><span class="b0000-menu-link-text">Sauce and Vinegar Group</span></a><a class="b0000-menu-link" href="/en/kahve-grubu/"><span class="b0000-menu-link-text">Coffee Group</span></a><a class="b0000-menu-link" href="/en/pasta-grubu/"><span class="b0000-menu-link-text">Pastry Group</span></a><a class="b0000-menu-link" href="/en/baharat-20-gr/"><span class="b0000-menu-link-text">20 Gr Spice Group</span></a><a class="b0000-menu-link" href="/en/burcak-drink/"><span class="b0000-menu-link-text">Burçak Drink</span></a><a class="b0000-menu-link" href="/en/aromali-toz-icecek/"><span class="b0000-menu-link-text">Flavored Powdered Drinks</span></a><a class="b0000-menu-link" href="/en/diger-urunler/"><span class="b0000-menu-link-text">Other Products</span></a>
   </nav>
   <div class="b0000-main">
-    <div class="b0000-row"><div class="b0000-row-media"><div class="b0000-img"><img src="/page/g94vv8a64i/index.webp?v=vdrg7" alt="Baking Soda" loading="lazy" /></div></div><div class="b0000-row-desc"><p class="b0000-lead">Baking soda used in cooking and baked-goods preparation. Used in pastries and in cooking dried legumes. 20 g packaging. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.</p></div></div>
+    <div class="b0000-row"><div class="b0000-row-media"><div class="b0000-img"><img src="/page/g94vv8a64i/index.webp?v=rszw2" alt="Baking Soda" loading="lazy" /></div></div><div class="b0000-row-desc"><p class="b0000-lead">Baking soda used in cooking and baked-goods preparation. Used in pastries and in cooking dried legumes. 20 g packaging. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.</p></div></div>
     <div class="b0000-body"><article class="wm-metin"><h2>Product information</h2><ul><li><strong>Product group:</strong> 20 Gr Spice Group</li><li><strong>Packaging:</strong> 20 g</li><li><strong>Applications:</strong> Used in pastries and in cooking dried legumes.</li></ul><h3>Wholesale and quotations</h3><p>For pricing, stock, and technical information (spec sheet), you can call <a href="tel:+903422381111">+90 342 238 11 11</a> or write to <a href="mailto:info@burcakbaharat.com.tr">info@burcakbaharat.com.tr</a>.</p><p>In your quote request, it is enough to include the product name and the quantity you need.</p></article></div>
   </div>
 </div>
@@ -604,11 +604,12 @@
     tercihler(!!tercihAcik);
     yeniden.hidden = true;
   }
+  
   function gizle() {
     kok.hidden = true;
-    yeniden.hidden = false;
+    yeniden.hidden = true;
   }
-  function sec(secim) { kaydetRiza(secim); var odak = kok.contains(document.activeElement); gizle(); if (odak) { yeniden.focus(); } }
+  function sec(secim) { kaydetRiza(secim); gizle(); }
   kok.querySelector("[data-mx-cookie-accept]").addEventListener("click", function () { sec(hepsi(true)); });
   kok.querySelector("[data-mx-cookie-reject]").addEventListener("click", function () { sec(hepsi(false)); });
   kaydetBtn.addEventListener("click", function () { sec(kutulardan()); });
@@ -628,10 +629,10 @@
   
 
   <script defer src="/src/swiper-bundle.min.js"></script>
-  <script defer src="/src/mx-ui.js?v=lulz3"></script>
-  <script defer src="/src/mx-store.js?v=lulz3"></script>
-  <script defer type="text/javascript" src="/src/js.js?v=lulz3"></script>
-  <script defer src="/src/cookie.js?v=lulz3"></script>
+  <script defer src="/src/mx-ui.js?v=kyxkg"></script>
+  <script defer src="/src/mx-store.js?v=kyxkg"></script>
+  <script defer type="text/javascript" src="/src/js.js?v=kyxkg"></script>
+  <script defer src="/src/cookie.js?v=kyxkg"></script>
 
 </body>
 

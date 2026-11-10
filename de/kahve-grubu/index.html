@@ -42,19 +42,19 @@
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-400-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-500-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-700-normal.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/fonts/inter.css?v=mls1u" />
-  <link rel="stylesheet" href="/src/fonts/playfair-display.css?v=mls1u" />
-  <link rel="stylesheet" href="/src/rubik.css?v=mls1u" />
-  <link rel="stylesheet" href="/src/css.css?v=mls1u" />
-  <link rel="stylesheet" href="/src/mx-ds.css?v=mls1u" />
+  <link rel="stylesheet" href="/src/fonts/inter.css?v=kem2k" />
+  <link rel="stylesheet" href="/src/fonts/playfair-display.css?v=kem2k" />
+  <link rel="stylesheet" href="/src/rubik.css?v=kem2k" />
+  <link rel="stylesheet" href="/src/css.css?v=kem2k" />
+  <link rel="stylesheet" href="/src/mx-ds.css?v=kem2k" />
   
-  <link rel="stylesheet" href="/src/mx-ui.css?v=mls1u" />
+  <link rel="stylesheet" href="/src/mx-ui.css?v=kem2k" />
   <link rel="preload" href="/src/material-symbols-outlined.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=mls1u" />
+  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=kem2k" />
   
-  <link rel="stylesheet" href="/src/cookie.css?v=mls1u" />
-  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=mls1u" />
-  <link rel="shortcut icon" href="/img/icon.png?v=mls1u" type="image/png" />
+  <link rel="stylesheet" href="/src/cookie.css?v=kem2k" />
+  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=kem2k" />
+  <link rel="shortcut icon" href="/img/icon.png?v=kem2k" type="image/png" />
   <link rel="apple-touch-icon" href="/img/icon.png" />
   <script type="application/ld+json">
 {
@@ -172,7 +172,7 @@
 }
 </script>
   
-<link rel="stylesheet" href="style.css?v=mls1u">
+<link rel="stylesheet" href="style.css?v=kem2k">
 </head>
 
 <body>
@@ -553,11 +553,12 @@
     tercihler(!!tercihAcik);
     yeniden.hidden = true;
   }
+  
   function gizle() {
     kok.hidden = true;
-    yeniden.hidden = false;
+    yeniden.hidden = true;
   }
-  function sec(secim) { kaydetRiza(secim); var odak = kok.contains(document.activeElement); gizle(); if (odak) { yeniden.focus(); } }
+  function sec(secim) { kaydetRiza(secim); gizle(); }
   kok.querySelector("[data-mx-cookie-accept]").addEventListener("click", function () { sec(hepsi(true)); });
   kok.querySelector("[data-mx-cookie-reject]").addEventListener("click", function () { sec(hepsi(false)); });
   kaydetBtn.addEventListener("click", function () { sec(kutulardan()); });
@@ -577,10 +578,10 @@
   
 
   <script defer src="/src/swiper-bundle.min.js"></script>
-  <script defer src="/src/mx-ui.js?v=mls1u"></script>
-  <script defer src="/src/mx-store.js?v=mls1u"></script>
-  <script defer type="text/javascript" src="/src/js.js?v=mls1u"></script>
-  <script defer src="/src/cookie.js?v=mls1u"></script>
+  <script defer src="/src/mx-ui.js?v=kem2k"></script>
+  <script defer src="/src/mx-store.js?v=kem2k"></script>
+  <script defer type="text/javascript" src="/src/js.js?v=kem2k"></script>
+  <script defer src="/src/cookie.js?v=kem2k"></script>
 
 </body>
 
