@@ -1,0 +1,105 @@
+{
+  "name": {
+    "tr": "User"
+  },
+  "path": "user",
+  "desc": [],
+  "data": [
+    {
+      "id": "usr_siparis",
+      "name": {
+        "tr": "Siparislerim"
+      },
+      "description": {
+        "tr": ""
+      },
+      "path": "siparislerim",
+      "icon": "receipt_long",
+      "category": "",
+      "status": "pause",
+      "desing": {
+        "header": [],
+        "body": [
+          "kfclvl"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "id": "usr_favori",
+      "name": {
+        "tr": "Favorilerim"
+      },
+      "description": {
+        "tr": ""
+      },
+      "path": "favorilerim",
+      "icon": "favorite",
+      "category": "",
+      "status": "pause",
+      "desing": {
+        "header": [],
+        "body": [
+          "dmpilq"
+        ],
+        "footer": []
+      },
+      "index": 1
+    },
+    {
+      "id": "usr_adres",
+      "name": {
+        "tr": "Adreslerim"
+      },
+      "description": {
+        "tr": ""
+      },
+      "path": "adreslerim",
+      "icon": "location_on",
+      "category": "",
+      "status": "pause",
+      "desing": {
+        "header": [],
+        "body": [
+          "cot7ex"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "usr_bilgi",
+      "name": {
+        "tr": "Hesabim"
+      },
+      "description": {
+        "tr": ""
+      },
+      "path": "hesabim",
+      "icon": "person",
+      "category": "",
+      "status": "pause",
+      "desing": {
+        "header": [],
+        "body": [
+          "8kvdjd"
+        ],
+        "footer": []
+      },
+      "index": 3
+    }
+  ],
+  "index": 3,
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "modulestatus": {
+    "page": true,
+    "body": true,
+    "detail": true,
+    "img": false
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "q5dsfvmsr3",
+  "name": {
+    "tr": "Karanfil"
+  },
+  "description": {
+    "tr": "Karanfil — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+  },
+  "keyword": {
+    "tr": "Karanfil, Burçak Baharat, 20 Gr Baharat Grubu, baharat, toptan"
+  },
+  "path": "karanfil",
+  "icon": "restaurant",
+  "category": "c5baharat20",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 43,
+  "url": "",
+  "text": {
+    "tr": "Ürün grubu: 20 Gr Baharat Grubu\nFiyat listesi ve toptan satış için bizi arayın: +90 342 238 11 11\nE-posta: info@burcakbaharat.com.tr"
+  },
+  "title": {
+    "tr": "Karanfil | Burçak Baharat"
+  },
+  "date": "2026-11-10T15:09:45.576Z",
+  "update": "2026-11-10T15:12:21.250Z",
+  "img": "index.webp"
+}

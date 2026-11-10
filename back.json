@@ -1,0 +1,147 @@
+{
+  "name": {
+    "tr": "Back"
+  },
+  "path": "back",
+  "desc": [],
+  "data": [
+    {
+      "id": "bck_login",
+      "name": {
+        "tr": "Üye Girişi"
+      },
+      "description": {
+        "tr": ""
+      },
+      "path": "login",
+      "icon": "login",
+      "category": "",
+      "status": "pause",
+      "desing": {
+        "header": [],
+        "body": [
+          "8kkap4"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "id": "bck_kayit",
+      "name": {
+        "tr": "Üye Ol"
+      },
+      "description": {
+        "tr": ""
+      },
+      "path": "kayit",
+      "icon": "person_add",
+      "category": "",
+      "status": "pause",
+      "desing": {
+        "header": [],
+        "body": [
+          "qlymez"
+        ],
+        "footer": []
+      },
+      "index": 1
+    },
+    {
+      "id": "bck_sifre",
+      "name": {
+        "tr": "Şifremi Unuttum"
+      },
+      "description": {
+        "tr": ""
+      },
+      "path": "sifre-sifirlama",
+      "icon": "lock_reset",
+      "category": "",
+      "status": "pause",
+      "desing": {
+        "header": [],
+        "body": [
+          "s7goa9"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "bck_sepet",
+      "name": {
+        "tr": "Sepetim"
+      },
+      "description": {
+        "tr": ""
+      },
+      "path": "sepetim",
+      "icon": "shopping_cart",
+      "category": "",
+      "status": "pause",
+      "desing": {
+        "header": [],
+        "body": [
+          "0he73q"
+        ],
+        "footer": []
+      },
+      "index": 3
+    },
+    {
+      "id": "bck_odeme",
+      "name": {
+        "tr": "Ödeme"
+      },
+      "description": {
+        "tr": ""
+      },
+      "path": "odeme",
+      "icon": "payment",
+      "category": "",
+      "status": "pause",
+      "desing": {
+        "header": [],
+        "body": [
+          "hjj0c7"
+        ],
+        "footer": []
+      },
+      "index": 4
+    },
+    {
+      "id": "bck_onay",
+      "name": {
+        "tr": "Sipariş Onayı"
+      },
+      "description": {
+        "tr": ""
+      },
+      "path": "siparis-onay",
+      "icon": "task_alt",
+      "category": "",
+      "status": "pause",
+      "desing": {
+        "header": [],
+        "body": [
+          "qlsu2k"
+        ],
+        "footer": []
+      },
+      "index": 5
+    }
+  ],
+  "index": 4,
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "modulestatus": {
+    "page": true,
+    "body": true,
+    "detail": true,
+    "img": false
+  }
+}

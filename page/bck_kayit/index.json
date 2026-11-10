@@ -1,0 +1,30 @@
+{
+  "id": "bck_kayit",
+  "name": {
+    "tr": "Üye Ol"
+  },
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "path": "kayit",
+  "icon": "person_add",
+  "category": "",
+  "status": "pause",
+  "desing": {
+    "header": [],
+    "body": [
+      "qlymez"
+    ],
+    "footer": []
+  },
+  "index": 1,
+  "url": "",
+  "title": {
+    "tr": "Üye Ol"
+  },
+  "date": "2026-11-10T15:05:24.984Z",
+  "update": "2026-11-10T15:06:38.797Z"
+}

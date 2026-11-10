@@ -1,0 +1,32 @@
+{
+  "id": "xjwsswgwup",
+  "name": {
+    "tr": "Pudra Şekeri"
+  },
+  "description": {
+    "tr": "Pudra Şekeri — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+  },
+  "keyword": {
+    "tr": "Pudra Şekeri, Burçak Baharat, Pasta Grubu, baharat, toptan"
+  },
+  "path": "pudra-sekeri",
+  "icon": "restaurant",
+  "category": "c4pasta",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 32,
+  "url": "",
+  "text": {
+    "tr": "Ürün grubu: Pasta Grubu\nFiyat listesi ve toptan satış için bizi arayın: +90 342 238 11 11\nE-posta: info@burcakbaharat.com.tr"
+  },
+  "title": {
+    "tr": "Pudra Şekeri | Burçak Baharat"
+  },
+  "date": "2026-11-10T15:09:44.668Z",
+  "update": "2026-11-10T15:12:20.683Z",
+  "img": "index.webp"
+}

@@ -1,0 +1,1817 @@
+{
+  "data": [
+    {
+      "id": "1kujpw3fq2",
+      "name": {
+        "tr": "Kırmızı Pul Biber (200g)"
+      },
+      "description": {
+        "tr": "Kırmızı Pul Biber (200g) — Burçak Baharat Pul Biber Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "kirmizi-pul-biber-200g",
+      "icon": "restaurant",
+      "category": "c1pulbiber",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 0,
+      "img": "index.webp"
+    },
+    {
+      "id": "bwvinpvmrm",
+      "name": {
+        "tr": "Kırmızı Pul Biber (400g)"
+      },
+      "description": {
+        "tr": "Kırmızı Pul Biber (400g) — Burçak Baharat Pul Biber Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "kirmizi-pul-biber-400g",
+      "icon": "restaurant",
+      "category": "c1pulbiber",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 1,
+      "img": "index.webp"
+    },
+    {
+      "id": "h8xjg89e24",
+      "name": {
+        "tr": "Kırmızı Pul Biber (800g)"
+      },
+      "description": {
+        "tr": "Kırmızı Pul Biber (800g) — Burçak Baharat Pul Biber Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "kirmizi-pul-biber-800g",
+      "icon": "restaurant",
+      "category": "c1pulbiber",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 2,
+      "img": "index.webp"
+    },
+    {
+      "id": "gtaxw3wbpo",
+      "name": {
+        "tr": "Elma Sirkesi (1000ml)"
+      },
+      "description": {
+        "tr": "Elma Sirkesi (1000ml) — Burçak Baharat Sos ve Sirke Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "elma-sirkesi-1000ml",
+      "icon": "restaurant",
+      "category": "c2sosirke",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 3,
+      "img": "index.webp"
+    },
+    {
+      "id": "xbttn8xbsl",
+      "name": {
+        "tr": "Limon Sosu (1000 ml)"
+      },
+      "description": {
+        "tr": "Limon Sosu (1000 ml) — Burçak Baharat Sos ve Sirke Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "limon-sosu-1000-ml",
+      "icon": "restaurant",
+      "category": "c2sosirke",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 4,
+      "img": "index.webp"
+    },
+    {
+      "id": "ea4vx1q60g",
+      "name": {
+        "tr": "Limon Sosu (500 ml)"
+      },
+      "description": {
+        "tr": "Limon Sosu (500 ml) — Burçak Baharat Sos ve Sirke Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "limon-sosu-500-ml",
+      "icon": "restaurant",
+      "category": "c2sosirke",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 5,
+      "img": "index.webp"
+    },
+    {
+      "id": "p07q5zwjd2",
+      "name": {
+        "tr": "Nar Ekşili Sos (1000 ml)"
+      },
+      "description": {
+        "tr": "Nar Ekşili Sos (1000 ml) — Burçak Baharat Sos ve Sirke Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "nar-eksili-sos-1000-ml",
+      "icon": "restaurant",
+      "category": "c2sosirke",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 6,
+      "img": "index.webp"
+    },
+    {
+      "id": "f0s8171deb",
+      "name": {
+        "tr": "Nar Ekşili Sos (350 ml)"
+      },
+      "description": {
+        "tr": "Nar Ekşili Sos (350 ml) — Burçak Baharat Sos ve Sirke Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "nar-eksili-sos-350-ml",
+      "icon": "restaurant",
+      "category": "c2sosirke",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 7,
+      "img": "index.webp"
+    },
+    {
+      "id": "tlo5984eba",
+      "name": {
+        "tr": "Nar Ekşili Sos (500 ml)"
+      },
+      "description": {
+        "tr": "Nar Ekşili Sos (500 ml) — Burçak Baharat Sos ve Sirke Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "nar-eksili-sos-500-ml",
+      "icon": "restaurant",
+      "category": "c2sosirke",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 8,
+      "img": "index.webp"
+    },
+    {
+      "id": "qmxhbnhyxx",
+      "name": {
+        "tr": "Üzüm Sirkesi (1000ml)"
+      },
+      "description": {
+        "tr": "Üzüm Sirkesi (1000ml) — Burçak Baharat Sos ve Sirke Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "uzum-sirkesi-1000ml",
+      "icon": "restaurant",
+      "category": "c2sosirke",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 9,
+      "img": "index.webp"
+    },
+    {
+      "id": "jeet5og9bx",
+      "name": {
+        "tr": "Gold Kahve"
+      },
+      "description": {
+        "tr": "Gold Kahve — Burçak Baharat Kahve Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "gold-kahve",
+      "icon": "restaurant",
+      "category": "c3kahve",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 10,
+      "img": "index.webp"
+    },
+    {
+      "id": "7icp963tgg",
+      "name": {
+        "tr": "Kahve Kreması"
+      },
+      "description": {
+        "tr": "Kahve Kreması — Burçak Baharat Kahve Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "kahve-kremasi",
+      "icon": "restaurant",
+      "category": "c3kahve",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 11,
+      "img": "index.webp"
+    },
+    {
+      "id": "z5szfqnzqn",
+      "name": {
+        "tr": "Türk Kahvesi"
+      },
+      "description": {
+        "tr": "Türk Kahvesi — Burçak Baharat Kahve Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "turk-kahvesi",
+      "icon": "restaurant",
+      "category": "c3kahve",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 12,
+      "img": "index.webp"
+    },
+    {
+      "id": "ago021dtso",
+      "name": {
+        "tr": "Ananas Aromalı Jöle"
+      },
+      "description": {
+        "tr": "Ananas Aromalı Jöle — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "ananas-aromali-jole",
+      "icon": "restaurant",
+      "category": "c4pasta",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 13,
+      "img": "index.webp"
+    },
+    {
+      "id": "qku9mibror",
+      "name": {
+        "tr": "Buğday Nişastası"
+      },
+      "description": {
+        "tr": "Buğday Nişastası — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "bugday-nisastasi",
+      "icon": "restaurant",
+      "category": "c4pasta",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 14,
+      "img": "index.webp"
+    },
+    {
+      "id": "cktflbu0ze",
+      "name": {
+        "tr": "Erim Kabartma Tozu"
+      },
+      "description": {
+        "tr": "Erim Kabartma Tozu — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "erim-kabartma-tozu",
+      "icon": "restaurant",
+      "category": "c4pasta",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 15,
+      "img": "index.webp"
+    },
+    {
+      "id": "1cyeaftiap",
+      "name": {
+        "tr": "Erim Şekerli Vanilin"
+      },
+      "description": {
+        "tr": "Erim Şekerli Vanilin — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "erim-sekerli-vanilin",
+      "icon": "restaurant",
+      "category": "c4pasta",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 16,
+      "img": "index.webp"
+    },
+    {
+      "id": "2lh75nf9v3",
+      "name": {
+        "tr": "Galeta Unu"
+      },
+      "description": {
+        "tr": "Galeta Unu — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "galeta-unu",
+      "icon": "restaurant",
+      "category": "c4pasta",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 17,
+      "img": "index.webp"
+    },
+    {
+      "id": "rstochn0io",
+      "name": {
+        "tr": "Hamur Kabartma Tozu"
+      },
+      "description": {
+        "tr": "Hamur Kabartma Tozu — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "hamur-kabartma-tozu",
+      "icon": "restaurant",
+      "category": "c4pasta",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 18,
+      "img": "index.webp"
+    },
+    {
+      "id": "2u1dyqa2ng",
+      "name": {
+        "tr": "Kakao"
+      },
+      "description": {
+        "tr": "Kakao — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "kakao",
+      "icon": "restaurant",
+      "category": "c4pasta",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 19,
+      "img": "index.webp"
+    },
+    {
+      "id": "3api9gi8oa",
+      "name": {
+        "tr": "Kakao Kutu"
+      },
+      "description": {
+        "tr": "Kakao Kutu — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "kakao-kutu",
+      "icon": "restaurant",
+      "category": "c4pasta",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 20,
+      "img": "index.webp"
+    },
+    {
+      "id": "byx4o23o75",
+      "name": {
+        "tr": "Krem Şanti (Kakaolu)"
+      },
+      "description": {
+        "tr": "Krem Şanti (Kakaolu) — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "krem-santi-kakaolu",
+      "icon": "restaurant",
+      "category": "c4pasta",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 21,
+      "img": "index.webp"
+    },
+    {
+      "id": "fv9n0l2xf0",
+      "name": {
+        "tr": "Krem Şanti (Sade)"
+      },
+      "description": {
+        "tr": "Krem Şanti (Sade) — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "krem-santi-sade",
+      "icon": "restaurant",
+      "category": "c4pasta",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 22,
+      "img": "index.webp"
+    },
+    {
+      "id": "23lnz4wt3x",
+      "name": {
+        "tr": "Krem Şanti (Çilekli)"
+      },
+      "description": {
+        "tr": "Krem Şanti (Çilekli) — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "krem-santi-cilekli",
+      "icon": "restaurant",
+      "category": "c4pasta",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 23,
+      "img": "index.webp"
+    },
+    {
+      "id": "hacfodzxe9",
+      "name": {
+        "tr": "Mısır Nişastası"
+      },
+      "description": {
+        "tr": "Mısır Nişastası — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "misir-nisastasi",
+      "icon": "restaurant",
+      "category": "c4pasta",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 24,
+      "img": "index.webp"
+    },
+    {
+      "id": "6825ohd5l7",
+      "name": {
+        "tr": "Mısır Unu"
+      },
+      "description": {
+        "tr": "Mısır Unu — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "misir-unu",
+      "icon": "restaurant",
+      "category": "c4pasta",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 25,
+      "img": "index.webp"
+    },
+    {
+      "id": "lu2ohuoc1a",
+      "name": {
+        "tr": "Pirinç Unu"
+      },
+      "description": {
+        "tr": "Pirinç Unu — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "pirinc-unu",
+      "icon": "restaurant",
+      "category": "c4pasta",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 26,
+      "img": "index.webp"
+    },
+    {
+      "id": "f2z86do48s",
+      "name": {
+        "tr": "Puding (Kakaolu)"
+      },
+      "description": {
+        "tr": "Puding (Kakaolu) — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "puding-kakaolu",
+      "icon": "restaurant",
+      "category": "c4pasta",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 27,
+      "img": "index.webp"
+    },
+    {
+      "id": "89k7ako9k0",
+      "name": {
+        "tr": "Puding (Muzlu)"
+      },
+      "description": {
+        "tr": "Puding (Muzlu) — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "puding-muzlu",
+      "icon": "restaurant",
+      "category": "c4pasta",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 28,
+      "img": "index.webp"
+    },
+    {
+      "id": "vkd51tudg7",
+      "name": {
+        "tr": "Puding (Vanilyalı)"
+      },
+      "description": {
+        "tr": "Puding (Vanilyalı) — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "puding-vanilyali",
+      "icon": "restaurant",
+      "category": "c4pasta",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 29,
+      "img": "index.webp"
+    },
+    {
+      "id": "36djn1pf62",
+      "name": {
+        "tr": "Puding (Çikolatalı)"
+      },
+      "description": {
+        "tr": "Puding (Çikolatalı) — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "puding-cikolatali",
+      "icon": "restaurant",
+      "category": "c4pasta",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 30,
+      "img": "index.webp"
+    },
+    {
+      "id": "ep4zxxbtiz",
+      "name": {
+        "tr": "Puding (Çilekli)"
+      },
+      "description": {
+        "tr": "Puding (Çilekli) — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "puding-cilekli",
+      "icon": "restaurant",
+      "category": "c4pasta",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 31,
+      "img": "index.webp"
+    },
+    {
+      "id": "xjwsswgwup",
+      "name": {
+        "tr": "Pudra Şekeri"
+      },
+      "description": {
+        "tr": "Pudra Şekeri — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "pudra-sekeri",
+      "icon": "restaurant",
+      "category": "c4pasta",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 32,
+      "img": "index.webp"
+    },
+    {
+      "id": "jgytkqmgs4",
+      "name": {
+        "tr": "Vişne Aromalı Jöle"
+      },
+      "description": {
+        "tr": "Vişne Aromalı Jöle — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "visne-aromali-jole",
+      "icon": "restaurant",
+      "category": "c4pasta",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 33,
+      "img": "index.webp"
+    },
+    {
+      "id": "g6v0umrt7v",
+      "name": {
+        "tr": "Çikolatalı Sos"
+      },
+      "description": {
+        "tr": "Çikolatalı Sos — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "cikolatali-sos",
+      "icon": "restaurant",
+      "category": "c4pasta",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 34,
+      "img": "index.webp"
+    },
+    {
+      "id": "rcuqcjzrm1",
+      "name": {
+        "tr": "Çilek Aromalı Jöle"
+      },
+      "description": {
+        "tr": "Çilek Aromalı Jöle — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "cilek-aromali-jole",
+      "icon": "restaurant",
+      "category": "c4pasta",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 35,
+      "img": "index.webp"
+    },
+    {
+      "id": "6rou6ajseo",
+      "name": {
+        "tr": "Şekerli Vanilin"
+      },
+      "description": {
+        "tr": "Şekerli Vanilin — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "sekerli-vanilin",
+      "icon": "restaurant",
+      "category": "c4pasta",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 36,
+      "img": "index.webp"
+    },
+    {
+      "id": "vmbqyz9zu0",
+      "name": {
+        "tr": "Büryan Baharatı"
+      },
+      "description": {
+        "tr": "Büryan Baharatı — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "buryan-baharati",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 37,
+      "img": "index.webp"
+    },
+    {
+      "id": "7xe95hbovx",
+      "name": {
+        "tr": "Döner Baharatı"
+      },
+      "description": {
+        "tr": "Döner Baharatı — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "doner-baharati",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 38,
+      "img": "index.webp"
+    },
+    {
+      "id": "wzyr1j5efq",
+      "name": {
+        "tr": "Et Kebap Baharatı"
+      },
+      "description": {
+        "tr": "Et Kebap Baharatı — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "et-kebap-baharati",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 39,
+      "img": "index.webp"
+    },
+    {
+      "id": "mo86xkn3gh",
+      "name": {
+        "tr": "HaşHaş"
+      },
+      "description": {
+        "tr": "HaşHaş — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "hashas",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 40,
+      "img": "index.webp"
+    },
+    {
+      "id": "zyo3vrag23",
+      "name": {
+        "tr": "Hindistan Cevizi"
+      },
+      "description": {
+        "tr": "Hindistan Cevizi — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "hindistan-cevizi",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 41,
+      "img": "index.webp"
+    },
+    {
+      "id": "9p8w9m9nqz",
+      "name": {
+        "tr": "Karabiber Öğütülmüş"
+      },
+      "description": {
+        "tr": "Karabiber Öğütülmüş — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "karabiber-ogutulmus",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 42,
+      "img": "index.webp"
+    },
+    {
+      "id": "q5dsfvmsr3",
+      "name": {
+        "tr": "Karanfil"
+      },
+      "description": {
+        "tr": "Karanfil — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "karanfil",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 43,
+      "img": "index.webp"
+    },
+    {
+      "id": "g94vv8a64i",
+      "name": {
+        "tr": "Karbonat"
+      },
+      "description": {
+        "tr": "Karbonat — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "karbonat",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 44,
+      "img": "index.webp"
+    },
+    {
+      "id": "llvj1vfowt",
+      "name": {
+        "tr": "Kebze Baharatı"
+      },
+      "description": {
+        "tr": "Kebze Baharatı — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "kebze-baharati",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 45,
+      "img": "index.webp"
+    },
+    {
+      "id": "1j86gw5gjp",
+      "name": {
+        "tr": "Kekik"
+      },
+      "description": {
+        "tr": "Kekik — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "kekik",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 46,
+      "img": "index.webp"
+    },
+    {
+      "id": "lie9kh44oh",
+      "name": {
+        "tr": "Kimyon Toz"
+      },
+      "description": {
+        "tr": "Kimyon Toz — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "kimyon-toz",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 47,
+      "img": "index.webp"
+    },
+    {
+      "id": "wa8khd4oki",
+      "name": {
+        "tr": "Kişniş"
+      },
+      "description": {
+        "tr": "Kişniş — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "kisnis",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 48,
+      "img": "index.webp"
+    },
+    {
+      "id": "z754jel3n4",
+      "name": {
+        "tr": "Köfte Baharatı (Beş Türlü)"
+      },
+      "description": {
+        "tr": "Köfte Baharatı (Beş Türlü) — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "kofte-baharati-bes-turlu",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 49,
+      "img": "index.webp"
+    },
+    {
+      "id": "ksauyquf9q",
+      "name": {
+        "tr": "Köri"
+      },
+      "description": {
+        "tr": "Köri — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "kori",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 50,
+      "img": "index.webp"
+    },
+    {
+      "id": "60ldq5d2ii",
+      "name": {
+        "tr": "Kırmızı Acı Pul Biber"
+      },
+      "description": {
+        "tr": "Kırmızı Acı Pul Biber — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "kirmizi-aci-pul-biber",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 51,
+      "img": "index.webp"
+    },
+    {
+      "id": "fbqqqdv9fh",
+      "name": {
+        "tr": "Kırmızı Tatlı Toz Biber"
+      },
+      "description": {
+        "tr": "Kırmızı Tatlı Toz Biber — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "kirmizi-tatli-toz-biber",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 52,
+      "img": "index.webp"
+    },
+    {
+      "id": "zsql24klzw",
+      "name": {
+        "tr": "Limon Tuzu (Toz)"
+      },
+      "description": {
+        "tr": "Limon Tuzu (Toz) — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "limon-tuzu-toz",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 53,
+      "img": "index.webp"
+    },
+    {
+      "id": "sq09o904yv",
+      "name": {
+        "tr": "Limon Tuzu (İri Tane)"
+      },
+      "description": {
+        "tr": "Limon Tuzu (İri Tane) — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "limon-tuzu-iri-tane",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 54,
+      "img": "index.webp"
+    },
+    {
+      "id": "zqtb7prs71",
+      "name": {
+        "tr": "Meksikano Baharat"
+      },
+      "description": {
+        "tr": "Meksikano Baharat — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "meksikano-baharat",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 55,
+      "img": "index.webp"
+    },
+    {
+      "id": "t09mn2kbq0",
+      "name": {
+        "tr": "Mendi Baharatı"
+      },
+      "description": {
+        "tr": "Mendi Baharatı — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "mendi-baharati",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 56,
+      "img": "index.webp"
+    },
+    {
+      "id": "90ympyxvmx",
+      "name": {
+        "tr": "Nane"
+      },
+      "description": {
+        "tr": "Nane — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "nane",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 57,
+      "img": "index.webp"
+    },
+    {
+      "id": "60t6fpnzrv",
+      "name": {
+        "tr": "Pasta Süsü"
+      },
+      "description": {
+        "tr": "Pasta Süsü — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "pasta-susu",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 58,
+      "img": "index.webp"
+    },
+    {
+      "id": "lzx4ho2y41",
+      "name": {
+        "tr": "Patates Baharatı"
+      },
+      "description": {
+        "tr": "Patates Baharatı — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "patates-baharati",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 59,
+      "img": "index.webp"
+    },
+    {
+      "id": "7w44fr3ld9",
+      "name": {
+        "tr": "Sucuk Baharatı"
+      },
+      "description": {
+        "tr": "Sucuk Baharatı — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "sucuk-baharati",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 60,
+      "img": "index.webp"
+    },
+    {
+      "id": "qkmf4aeexx",
+      "name": {
+        "tr": "Sumak"
+      },
+      "description": {
+        "tr": "Sumak — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "sumak",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 61,
+      "img": "index.webp"
+    },
+    {
+      "id": "xkx2l1y11x",
+      "name": {
+        "tr": "Susam"
+      },
+      "description": {
+        "tr": "Susam — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "susam",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 62,
+      "img": "index.webp"
+    },
+    {
+      "id": "qff5bhaptn",
+      "name": {
+        "tr": "Tarçın Öğütülmüş"
+      },
+      "description": {
+        "tr": "Tarçın Öğütülmüş — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "tarcin-ogutulmus",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 63,
+      "img": "index.webp"
+    },
+    {
+      "id": "i3wevkgr1l",
+      "name": {
+        "tr": "Tavuk Baharatı"
+      },
+      "description": {
+        "tr": "Tavuk Baharatı — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "tavuk-baharati",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 64,
+      "img": "index.webp"
+    },
+    {
+      "id": "etsfnh5g64",
+      "name": {
+        "tr": "Tavuk Bulyon"
+      },
+      "description": {
+        "tr": "Tavuk Bulyon — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "tavuk-bulyon",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 65,
+      "img": "index.webp"
+    },
+    {
+      "id": "o46nmmaz0m",
+      "name": {
+        "tr": "Tavuk Kebap Baharatı"
+      },
+      "description": {
+        "tr": "Tavuk Kebap Baharatı — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "tavuk-kebap-baharati",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 66,
+      "img": "index.webp"
+    },
+    {
+      "id": "2f6h3221r0",
+      "name": {
+        "tr": "Zencefil"
+      },
+      "description": {
+        "tr": "Zencefil — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "zencefil",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 67,
+      "img": "index.webp"
+    },
+    {
+      "id": "tijpk7vq37",
+      "name": {
+        "tr": "Zerdeçal"
+      },
+      "description": {
+        "tr": "Zerdeçal — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "zerdecal",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 68,
+      "img": "index.webp"
+    },
+    {
+      "id": "sldosqjbme",
+      "name": {
+        "tr": "Çörek Otu"
+      },
+      "description": {
+        "tr": "Çörek Otu — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "corek-otu",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 69,
+      "img": "index.webp"
+    },
+    {
+      "id": "lw6hgql29g",
+      "name": {
+        "tr": "İsot Biber"
+      },
+      "description": {
+        "tr": "İsot Biber — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "isot-biber",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 70,
+      "img": "index.webp"
+    },
+    {
+      "id": "2xgmcj4tio",
+      "name": {
+        "tr": "Burçak Limonata(1000ml)"
+      },
+      "description": {
+        "tr": "Burçak Limonata(1000ml) — Burçak Baharat Burçak Drink ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "burcak-limonata-1000ml",
+      "icon": "restaurant",
+      "category": "c6drink",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 71,
+      "img": "index.webp"
+    },
+    {
+      "id": "6n7zy9i6d2",
+      "name": {
+        "tr": "Ananas Aromalı"
+      },
+      "description": {
+        "tr": "Ananas Aromalı — Burçak Baharat Aromalı Toz İçecek ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "ananas-aromali",
+      "icon": "restaurant",
+      "category": "c7aroma",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 72,
+      "img": "index.webp"
+    },
+    {
+      "id": "nai20wlxjv",
+      "name": {
+        "tr": "Elma Aromalı"
+      },
+      "description": {
+        "tr": "Elma Aromalı — Burçak Baharat Aromalı Toz İçecek ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "elma-aromali",
+      "icon": "restaurant",
+      "category": "c7aroma",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 73,
+      "img": "index.webp"
+    },
+    {
+      "id": "b07su4lolx",
+      "name": {
+        "tr": "Karadut Aromalı"
+      },
+      "description": {
+        "tr": "Karadut Aromalı — Burçak Baharat Aromalı Toz İçecek ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "karadut-aromali",
+      "icon": "restaurant",
+      "category": "c7aroma",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 74,
+      "img": "index.webp"
+    },
+    {
+      "id": "x46rmyqk79",
+      "name": {
+        "tr": "Karpuz Aromalı"
+      },
+      "description": {
+        "tr": "Karpuz Aromalı — Burçak Baharat Aromalı Toz İçecek ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "karpuz-aromali",
+      "icon": "restaurant",
+      "category": "c7aroma",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 75,
+      "img": "index.webp"
+    },
+    {
+      "id": "3bamjrnvqu",
+      "name": {
+        "tr": "Kokteyl Aromalı"
+      },
+      "description": {
+        "tr": "Kokteyl Aromalı — Burçak Baharat Aromalı Toz İçecek ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "kokteyl-aromali",
+      "icon": "restaurant",
+      "category": "c7aroma",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 76,
+      "img": "index.webp"
+    },
+    {
+      "id": "bbq2oq4p1n",
+      "name": {
+        "tr": "Kola Aromalı"
+      },
+      "description": {
+        "tr": "Kola Aromalı — Burçak Baharat Aromalı Toz İçecek ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "kola-aromali",
+      "icon": "restaurant",
+      "category": "c7aroma",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 77,
+      "img": "index.webp"
+    },
+    {
+      "id": "6w6d7tjo24",
+      "name": {
+        "tr": "Limon Aromalı"
+      },
+      "description": {
+        "tr": "Limon Aromalı — Burçak Baharat Aromalı Toz İçecek ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "limon-aromali",
+      "icon": "restaurant",
+      "category": "c7aroma",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 78,
+      "img": "index.webp"
+    },
+    {
+      "id": "tfuu9gy82h",
+      "name": {
+        "tr": "Mango Aromalı"
+      },
+      "description": {
+        "tr": "Mango Aromalı — Burçak Baharat Aromalı Toz İçecek ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "mango-aromali",
+      "icon": "restaurant",
+      "category": "c7aroma",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 79,
+      "img": "index.webp"
+    },
+    {
+      "id": "tikwy5laxk",
+      "name": {
+        "tr": "Muz Aromalı"
+      },
+      "description": {
+        "tr": "Muz Aromalı — Burçak Baharat Aromalı Toz İçecek ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "muz-aromali",
+      "icon": "restaurant",
+      "category": "c7aroma",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 80,
+      "img": "index.webp"
+    },
+    {
+      "id": "sdn7ru41hk",
+      "name": {
+        "tr": "Nar Aromalı"
+      },
+      "description": {
+        "tr": "Nar Aromalı — Burçak Baharat Aromalı Toz İçecek ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "nar-aromali",
+      "icon": "restaurant",
+      "category": "c7aroma",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 81,
+      "img": "index.webp"
+    },
+    {
+      "id": "gbssbe2b58",
+      "name": {
+        "tr": "Portakal Aromalı"
+      },
+      "description": {
+        "tr": "Portakal Aromalı — Burçak Baharat Aromalı Toz İçecek ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "portakal-aromali",
+      "icon": "restaurant",
+      "category": "c7aroma",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 82,
+      "img": "index.webp"
+    },
+    {
+      "id": "zroaxsz7zs",
+      "name": {
+        "tr": "Soursop Aromalı"
+      },
+      "description": {
+        "tr": "Soursop Aromalı — Burçak Baharat Aromalı Toz İçecek ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "soursop-aromali",
+      "icon": "restaurant",
+      "category": "c7aroma",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 83,
+      "img": "index.webp"
+    },
+    {
+      "id": "56g0bwkzqv",
+      "name": {
+        "tr": "Vişne Aromalı"
+      },
+      "description": {
+        "tr": "Vişne Aromalı — Burçak Baharat Aromalı Toz İçecek ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "visne-aromali",
+      "icon": "restaurant",
+      "category": "c7aroma",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 84,
+      "img": "index.webp"
+    },
+    {
+      "id": "2gvdp5vmre",
+      "name": {
+        "tr": "Çilek Aromalı"
+      },
+      "description": {
+        "tr": "Çilek Aromalı — Burçak Baharat Aromalı Toz İçecek ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "cilek-aromali",
+      "icon": "restaurant",
+      "category": "c7aroma",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 85,
+      "img": "index.webp"
+    },
+    {
+      "id": "cz2ic8csbi",
+      "name": {
+        "tr": "Şeftali Aromalı"
+      },
+      "description": {
+        "tr": "Şeftali Aromalı — Burçak Baharat Aromalı Toz İçecek ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "seftali-aromali",
+      "icon": "restaurant",
+      "category": "c7aroma",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 86,
+      "img": "index.webp"
+    },
+    {
+      "id": "fislacb8d0",
+      "name": {
+        "tr": "Beş Türlü Poşet"
+      },
+      "description": {
+        "tr": "Beş Türlü Poşet — Burçak Baharat Diğer Ürünler ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "bes-turlu-poset",
+      "icon": "restaurant",
+      "category": "c8diger",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 87,
+      "img": "index.webp"
+    },
+    {
+      "id": "jwkvuk2606",
+      "name": {
+        "tr": "Karbonat ( Poşet )"
+      },
+      "description": {
+        "tr": "Karbonat ( Poşet ) — Burçak Baharat Diğer Ürünler ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "karbonat-poset",
+      "icon": "restaurant",
+      "category": "c8diger",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 88,
+      "img": "index.webp"
+    },
+    {
+      "id": "ge4cfbw1d7",
+      "name": {
+        "tr": "Turşukur"
+      },
+      "description": {
+        "tr": "Turşukur — Burçak Baharat Diğer Ürünler ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+      },
+      "path": "tursukur",
+      "icon": "restaurant",
+      "category": "c8diger",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 89,
+      "img": "index.webp"
+    }
+  ],
+  "desc": [],
+  "desing": {
+    "header": [],
+    "body": [
+      "025rlc"
+    ],
+    "footer": []
+  },
+  "modulestatus": {
+    "img": true,
+    "bgimg": true,
+    "detail": true
+  }
+}

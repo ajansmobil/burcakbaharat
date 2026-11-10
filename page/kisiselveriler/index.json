@@ -1,0 +1,32 @@
+{
+  "name": {
+    "tr": "Kişisel Veriler"
+  },
+  "status": "play",
+  "id": "kisiselveriler",
+  "path": "kisiselveriler",
+  "category": "",
+  "text": {
+    "tr": "<article class=\"wm-metin\">\n<h2>KVKK Kişisel Verilerin Korunması ve Aydınlatma Metni</h2>\n<p class=\"lead\">Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu’nun 10. maddesi ve Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul ve Esaslar Hakkında Tebliğ uyarınca, veri sorumlusu sıfatıyla Burçak Baharat tarafından hazırlanmıştır.</p>\n<h3>İşleme amaçları</h3>\n<p>Kişisel verileriniz, aşağıdaki amaçlarla ve bu amaçlarla bağlantılı, sınırlı ve ölçülü biçimde işlenir:</p>\n<ul>\n<li>Talep ve şikâyetlerinizin alınması ve yanıtlanması</li>\n<li>Ürün ve hizmetlerin sunulması, sözleşme süreçlerinin yürütülmesi</li>\n<li>Mevzuattan doğan yükümlülüklerin yerine getirilmesi ve yetkili kurumlara bilgi verilmesi</li>\n<li>Bilgi güvenliğinin ve site işleyişinin sağlanması</li>\n<li>Açık rızanız bulunması hâlinde tanıtım ve bilgilendirme iletişiminin yapılması</li>\n</ul>\n<h3>Hukuki sebepler ve toplama yöntemi</h3>\n<p>Verileriniz; site formları, e-posta, telefon, fiziki başvurular ve çerezler aracılığıyla otomatik veya kısmen otomatik yollarla toplanır ve Kanun’un 5. maddesindeki sözleşmenin kurulması veya ifası, hukuki yükümlülük, bir hakkın tesisi, kullanılması veya korunması ve meşru menfaat sebeplerine; bunların bulunmadığı hâllerde açık rızanıza dayanılarak işlenir. Özel nitelikli kişisel veriler yalnızca Kanun’un 6. maddesindeki şartlar sağlandığında işlenir.</p>\n<h3>Aktarım</h3>\n<p>Verileriniz, amaçlarla sınırlı olarak yetkili kamu kurumlarına ve barındırma, yazılım, kargo, muhasebe gibi tedarikçilerimize Kanun’un 8. ve 9. maddelerine uygun olarak aktarılabilir.</p>\n<h3>Kanun’un 11. maddesi kapsamındaki haklarınız</h3>\n<p>Veri sorumlusuna başvurarak:</p>\n<ul>\n<li>Verilerinizin işlenip işlenmediğini öğrenme, işlenmişse bilgi talep etme</li>\n<li>İşlenme amacını ve amacına uygun kullanılıp kullanılmadığını öğrenme</li>\n<li>Yurt içinde veya yurt dışında aktarıldığı üçüncü kişileri bilme</li>\n<li>Eksik veya yanlış işlenmişse düzeltilmesini, Kanun’un 7. maddesi çerçevesinde silinmesini veya yok edilmesini ve bu işlemlerin aktarıldığı üçüncü kişilere bildirilmesini isteme</li>\n<li>Münhasıran otomatik sistemlerle analiz edilmesi sonucu aleyhinize bir sonucun ortaya çıkmasına itiraz etme</li>\n<li>Kanuna aykırı işlenme sebebiyle zarara uğramanız hâlinde zararın giderilmesini talep etme</li>\n</ul>\n<p>haklarına sahipsiniz.</p>\n<h3>Başvuru yöntemi</h3>\n<p>Başvurularınızı, Veri Sorumlusuna Başvuru Usul ve Esasları Hakkında Tebliğ’e uygun olarak yazılı şekilde İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep / Türkiye adresine veya sistemimizde kayıtlı e-posta adresinizden info@burcakbaharat.com.tr adresine iletebilirsiniz. Başvurular, Kanun’un 13. maddesi uyarınca en geç otuz gün içinde ücretsiz sonuçlandırılır; işlem ayrıca maliyet gerektirirse Kurul tarifesindeki ücret alınabilir.</p>\n<aside class=\"vurgu-kutusu\"><strong>Son güncelleme:</strong> 2026-11-10.</aside>\n</article>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 5,
+  "icon": "home",
+  "title": {
+    "tr": "Kişisel Veriler"
+  },
+  "description": {
+    "tr": "Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu’nun 10. maddesi ve Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul ve Esaslar…"
+  },
+  "keyword": {
+    "tr": "Kişisel Veriler"
+  },
+  "update": "2026-11-10T15:12:10.330Z",
+  "date": "2026-05-19",
+  "sablonIzi": "4476c20b0e5a956f"
+}

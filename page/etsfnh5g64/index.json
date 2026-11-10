@@ -1,0 +1,32 @@
+{
+  "id": "etsfnh5g64",
+  "name": {
+    "tr": "Tavuk Bulyon"
+  },
+  "description": {
+    "tr": "Tavuk Bulyon — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+  },
+  "keyword": {
+    "tr": "Tavuk Bulyon, Burçak Baharat, 20 Gr Baharat Grubu, baharat, toptan"
+  },
+  "path": "tavuk-bulyon",
+  "icon": "restaurant",
+  "category": "c5baharat20",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 65,
+  "url": "",
+  "text": {
+    "tr": "Ürün grubu: 20 Gr Baharat Grubu\nFiyat listesi ve toptan satış için bizi arayın: +90 342 238 11 11\nE-posta: info@burcakbaharat.com.tr"
+  },
+  "title": {
+    "tr": "Tavuk Bulyon | Burçak Baharat"
+  },
+  "date": "2026-11-10T15:09:47.690Z",
+  "update": "2026-11-10T15:12:22.387Z",
+  "img": "index.webp"
+}

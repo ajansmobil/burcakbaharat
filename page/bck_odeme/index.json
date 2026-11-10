@@ -1,0 +1,30 @@
+{
+  "id": "bck_odeme",
+  "name": {
+    "tr": "Ödeme"
+  },
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "path": "odeme",
+  "icon": "payment",
+  "category": "",
+  "status": "pause",
+  "desing": {
+    "header": [],
+    "body": [
+      "hjj0c7"
+    ],
+    "footer": []
+  },
+  "index": 4,
+  "url": "",
+  "title": {
+    "tr": "Ödeme"
+  },
+  "date": "2026-11-10T15:05:24.984Z",
+  "update": "2026-11-10T15:06:38.912Z"
+}

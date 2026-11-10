@@ -1,0 +1,129 @@
+{
+  "data": [
+    {
+      "name": {
+        "tr": "Sayfalar"
+      },
+      "path": "page",
+      "desc": [],
+      "data": [],
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "modulestatus": {
+        "page": true,
+        "bgimg": true,
+        "detail": true,
+        "body": true
+      }
+    },
+    {
+      "name": {
+        "tr": "Ürünler"
+      },
+      "path": "products",
+      "desc": [],
+      "data": [],
+      "index": 1,
+      "desing": {
+        "header": [],
+        "body": [
+          "025rlc"
+        ],
+        "footer": []
+      },
+      "modulestatus": {
+        "img": true,
+        "bgimg": true,
+        "detail": true
+      }
+    },
+    {
+      "name": {
+        "tr": "Kurumsal"
+      },
+      "path": "kurumsal",
+      "desc": [],
+      "data": [],
+      "index": 2,
+      "desing": {
+        "header": [],
+        "body": [
+          "tp5jo4"
+        ],
+        "footer": []
+      },
+      "modulestatus": {
+        "page": true,
+        "bgimg": true,
+        "detail": true,
+        "body": true
+      }
+    },
+    {
+      "name": {
+        "tr": "User"
+      },
+      "path": "user",
+      "desc": [],
+      "data": [],
+      "index": 3,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "modulestatus": {
+        "page": true,
+        "body": true,
+        "detail": true,
+        "img": false
+      },
+      "active": true
+    },
+    {
+      "name": {
+        "tr": "Back"
+      },
+      "path": "back",
+      "desc": [],
+      "data": [],
+      "index": 4,
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "modulestatus": {
+        "page": true,
+        "body": true,
+        "detail": true,
+        "img": false
+      },
+      "active": true
+    },
+    {
+      "name": {
+        "tr": "Ürün Grupları"
+      },
+      "path": "category",
+      "icon": "category",
+      "active": true,
+      "desc": [],
+      "desing": {
+        "header": [],
+        "body": [
+          "m9w7xf"
+        ],
+        "footer": []
+      },
+      "modulestatus": {
+        "body": true
+      },
+      "index": 5
+    }
+  ]
+}

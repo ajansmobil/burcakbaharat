@@ -1,0 +1,32 @@
+{
+  "name": {
+    "tr": "Vizyon"
+  },
+  "status": "play",
+  "id": "vizyon",
+  "path": "vizyon",
+  "category": "",
+  "text": {
+    "tr": "<article class=\"wm-metin\">\n<h2>Vizyonumuz</h2>\n<p class=\"lead\">Vizyonumuz; kalitesi, güvenilirliği ve müşteri odaklı yaklaşımıyla tercih edilen, değişime hızla uyum sağlayan ve çevresine değer katan bir kuruluş olmaktır.</p>\n<h3>Geleceğe bakışımız</h3>\n<p>Sektörümüzdeki gelişmeleri yakından izliyor, yeni yöntem ve teknolojileri müşterilerimize gerçek fayda sağlayacak biçimde işimize katmayı hedefliyoruz. Büyümeyi yalnızca ölçek olarak değil, sunduğumuz hizmetin derinliği ve kalitesi olarak tanımlıyoruz. Değişimi bir risk olarak değil, daha iyisini yapabilmek için bir fırsat olarak görüyoruz.</p>\n<h3>Hedeflerimiz</h3>\n<p>Vizyonumuza ulaşmak için odaklandığımız başlıca alanlar şunlardır:</p>\n<ul>\n<li>Müşteri deneyimini her temas noktasında iyileştirmek</li>\n<li>Süreçlerimizi ölçülebilir ve sürekli gelişen bir yapıya kavuşturmak</li>\n<li>Ekibimizin yetkinliklerini yeni ihtiyaçlara göre geliştirmek</li>\n<li>Çevreye ve topluma duyarlı iş yapış biçimlerini yaygınlaştırmak</li>\n</ul>\n<h3>Kalıcı değer</h3>\n<p>Kısa vadeli kazanımlar yerine uzun soluklu güven ilişkileri kurmayı önemsiyoruz. Müşterilerimizin, çalışanlarımızın ve iş ortaklarımızın bizimle çalışmaktan memnun olduğu, birlikte büyüdüğümüz bir gelecek tasarlıyoruz.</p>\n<aside class=\"vurgu-kutusu\"><strong>Yolumuzu belirleyen:</strong> Değişime açık olmak, ama değerlerimizden ödün vermemek.</aside>\n</article>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 2,
+  "icon": "home",
+  "title": {
+    "tr": "Vizyon"
+  },
+  "description": {
+    "tr": "Vizyonumuz; kalitesi, güvenilirliği ve müşteri odaklı yaklaşımıyla tercih edilen, değişime hızla uyum sağlayan ve çevresine değer katan bir kuruluş olmaktır."
+  },
+  "keyword": {
+    "tr": "Vizyon"
+  },
+  "update": "2026-11-10T15:12:10.215Z",
+  "date": "2026-05-19",
+  "sablonIzi": "c3ebee5f049bdfb4"
+}

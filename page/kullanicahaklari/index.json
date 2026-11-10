@@ -1,0 +1,32 @@
+{
+  "name": {
+    "tr": "Kullanıcı Hakları"
+  },
+  "status": "play",
+  "id": "kullanicahaklari",
+  "path": "kullanicahaklari",
+  "category": "",
+  "text": {
+    "tr": "<article class=\"wm-metin\">\n<h2>Kullanıcı Hakları</h2>\n<p class=\"lead\">https://burcak.webyapar.com internet sitesini kullanan herkes, yürürlükteki mevzuattan doğan haklara sahiptir. Bu sayfa, Burçak Baharat ile ilişkinizde başlıca haklarınızı ve bunları nasıl kullanabileceğinizi özetler.</p>\n<h3>Kişisel verilere ilişkin haklar</h3>\n<p>6698 sayılı Kişisel Verilerin Korunması Kanunu’nun 11. maddesi kapsamında kişisel verilerinizin işlenip işlenmediğini öğrenme, bilgi talep etme, düzeltme, silme veya yok edilmesini isteme, itiraz etme ve zararın giderilmesini talep etme haklarına sahipsiniz. Bu hakları kullanma yöntemi Aydınlatma Metnimizde açıklanmıştır.</p>\n<h3>Tüketici olarak haklarınız</h3>\n<p>Sitemiz üzerinden mal veya hizmet satın almanız hâlinde 6502 sayılı Tüketicinin Korunması Hakkında Kanun ve Mesafeli Sözleşmeler Yönetmeliği kapsamındaki haklarınız saklıdır. Bunlar arasında şunlar yer alır:</p>\n<ul>\n<li>Sözleşme kurulmadan önce açık ve anlaşılır biçimde bilgilendirilme</li>\n<li>Yönetmelikte belirtilen istisnalar dışında on dört gün içinde cayma hakkı</li>\n<li>Ayıplı mal veya hizmet durumunda Kanun’da sayılan seçimlik haklar</li>\n<li>Uyuşmazlıklarda Tüketici Hakem Heyeti veya Tüketici Mahkemesine başvurma</li>\n</ul>\n<h3>Ticari elektronik iletiler</h3>\n<p>6563 sayılı Elektronik Ticaretin Düzenlenmesi Hakkında Kanun uyarınca, onayınız olmadan size ticari elektronik ileti gönderilmez. Onay verdiyseniz, herhangi bir gerekçe göstermeksizin dilediğiniz zaman ret hakkınızı kullanarak ileti almayı durdurabilirsiniz.</p>\n<h3>Başvuru ve iletişim</h3>\n<p>Haklarınızla ilgili taleplerinizi info@burcakbaharat.com.tr adresine veya İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep / Türkiye adresine yazılı olarak iletebilirsiniz. Başvurularınız mevzuatta öngörülen süreler içinde değerlendirilir.</p>\n<aside class=\"vurgu-kutusu\"><strong>Önemli:</strong> Bu sayfa bilgilendirme amaçlıdır; haklarınızın kapsamını ilgili mevzuat belirler.</aside>\n</article>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 6,
+  "icon": "home",
+  "title": {
+    "tr": "Kullanıcı Hakları"
+  },
+  "description": {
+    "tr": "https://burcak.webyapar.com internet sitesini kullanan herkes, yürürlükteki mevzuattan doğan haklara sahiptir. Bu sayfa, Burçak Baharat ile ilişkinizde…"
+  },
+  "keyword": {
+    "tr": "Kullanıcı Hakları"
+  },
+  "update": "2026-11-10T15:12:10.368Z",
+  "date": "2026-05-19",
+  "sablonIzi": "3b17ed37af999962"
+}

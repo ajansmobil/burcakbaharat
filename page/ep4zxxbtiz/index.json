@@ -1,0 +1,32 @@
+{
+  "id": "ep4zxxbtiz",
+  "name": {
+    "tr": "Puding (Çilekli)"
+  },
+  "description": {
+    "tr": "Puding (Çilekli) — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+  },
+  "keyword": {
+    "tr": "Puding (Çilekli), Burçak Baharat, Pasta Grubu, baharat, toptan"
+  },
+  "path": "puding-cilekli",
+  "icon": "restaurant",
+  "category": "c4pasta",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 31,
+  "url": "",
+  "text": {
+    "tr": "Ürün grubu: Pasta Grubu\nFiyat listesi ve toptan satış için bizi arayın: +90 342 238 11 11\nE-posta: info@burcakbaharat.com.tr"
+  },
+  "title": {
+    "tr": "Puding (Çilekli) | Burçak Baharat"
+  },
+  "date": "2026-11-10T15:09:44.588Z",
+  "update": "2026-11-10T15:12:20.628Z",
+  "img": "index.webp"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "saticibilgileri",
+  "name": {
+    "tr": "Satıcı Bilgileri"
+  },
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "path": "satici-bilgileri",
+  "icon": "gavel",
+  "category": "",
+  "status": "pause",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 14,
+  "url": "",
+  "text": {
+    "tr": ""
+  },
+  "title": {
+    "tr": "Satıcı Bilgileri"
+  },
+  "date": "2026-11-10T15:05:24.984Z",
+  "update": "2026-11-10T15:05:24.984Z"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "2f6h3221r0",
+  "name": {
+    "tr": "Zencefil"
+  },
+  "description": {
+    "tr": "Zencefil — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+  },
+  "keyword": {
+    "tr": "Zencefil, Burçak Baharat, 20 Gr Baharat Grubu, baharat, toptan"
+  },
+  "path": "zencefil",
+  "icon": "restaurant",
+  "category": "c5baharat20",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 67,
+  "url": "",
+  "text": {
+    "tr": "Ürün grubu: 20 Gr Baharat Grubu\nFiyat listesi ve toptan satış için bizi arayın: +90 342 238 11 11\nE-posta: info@burcakbaharat.com.tr"
+  },
+  "title": {
+    "tr": "Zencefil | Burçak Baharat"
+  },
+  "date": "2026-11-10T15:09:47.909Z",
+  "update": "2026-11-10T15:12:22.487Z",
+  "img": "index.webp"
+}

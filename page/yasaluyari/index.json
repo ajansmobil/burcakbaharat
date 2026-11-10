@@ -1,0 +1,32 @@
+{
+  "name": {
+    "tr": "Yasal Uyarı"
+  },
+  "status": "play",
+  "id": "yasaluyari",
+  "path": "yasaluyari",
+  "category": "",
+  "text": {
+    "tr": "<article class=\"wm-metin\">\n<h2>Yasal Uyarı</h2>\n<p class=\"lead\">https://burcak.webyapar.com internet sitesi Burçak Baharat tarafından işletilmektedir. Siteyi ziyaret eden veya kullanan herkes, aşağıdaki koşulları okumuş ve kabul etmiş sayılır. Koşulları kabul etmiyorsanız lütfen siteyi kullanmayınız.</p>\n<h3>Fikri ve sınai haklar</h3>\n<p>Sitede yer alan metin, görsel, logo, tasarım, yazılım ve diğer tüm içerikler, aksi belirtilmedikçe Burçak Baharat adına korunmaktadır ve 5846 sayılı Fikir ve Sanat Eserleri Kanunu ile ilgili mevzuat kapsamındadır. Bu içerikler önceden yazılı izin alınmaksızın kopyalanamaz, çoğaltılamaz, dağıtılamaz veya ticari amaçla kullanılamaz.</p>\n<h3>Bilgilerin doğruluğu</h3>\n<p>Sitedeki bilgiler genel bilgilendirme amacı taşır ve özenle hazırlanır; ancak bilgilerin her zaman eksiksiz ve güncel olacağı garanti edilmez. Firmamız, önceden bildirimde bulunmaksızın içerikte değişiklik yapma hakkını saklı tutar. Özellikle şu hususlara dikkat edilmesini rica ederiz:</p>\n<ul>\n<li>Ürün, hizmet ve fiyat bilgileri değişiklik gösterebilir; bağlayıcı bilgiler sözleşme aşamasında sunulur</li>\n<li>Sitedeki içerikler profesyonel danışmanlık yerine geçmez</li>\n<li>Siteye erişimde yaşanabilecek teknik kesintilerden doğan zararlardan, mevzuatın izin verdiği ölçüde sorumluluk kabul edilmez</li>\n</ul>\n<h3>Üçüncü taraf içerikler</h3>\n<p>Sitede başka internet sitelerine yönlendirme bulunması hâlinde, bu sitelerin içerik ve gizlilik uygulamalarından ilgili site işletenleri sorumludur. 5651 sayılı Kanun kapsamında, bağlantı verilen içeriklerin benimsendiği açıkça anlaşılmadıkça bu içeriklerden sorumluluk doğmaz.</p>\n<h3>Uygulanacak hukuk</h3>\n<p>Bu koşulların yorumlanmasında ve uygulanmasında Türkiye Cumhuriyeti hukuku uygulanır. Tüketici işlemlerinden doğan uyuşmazlıklarda tüketicinin kanuni hakları saklıdır.</p>\n<aside class=\"vurgu-kutusu\"><strong>İletişim:</strong> Sorularınız için info@burcakbaharat.com.tr adresine yazabilirsiniz. Son güncelleme: 2026-11-10.</aside>\n</article>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 7,
+  "icon": "home",
+  "title": {
+    "tr": "Yasal Uyarı"
+  },
+  "description": {
+    "tr": "https://burcak.webyapar.com internet sitesi Burçak Baharat tarafından işletilmektedir. Siteyi ziyaret eden veya kullanan herkes, aşağıdaki koşulları…"
+  },
+  "keyword": {
+    "tr": "Yasal Uyarı"
+  },
+  "update": "2026-11-10T15:12:10.403Z",
+  "date": "2026-05-19",
+  "sablonIzi": "0c46b90bd4193a09"
+}

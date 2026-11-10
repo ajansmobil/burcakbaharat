@@ -1,0 +1,30 @@
+{
+  "id": "bck_sepet",
+  "name": {
+    "tr": "Sepetim"
+  },
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "path": "sepetim",
+  "icon": "shopping_cart",
+  "category": "",
+  "status": "pause",
+  "desing": {
+    "header": [],
+    "body": [
+      "0he73q"
+    ],
+    "footer": []
+  },
+  "index": 3,
+  "url": "",
+  "title": {
+    "tr": "Sepetim"
+  },
+  "date": "2026-11-10T15:05:24.984Z",
+  "update": "2026-11-10T15:06:38.873Z"
+}

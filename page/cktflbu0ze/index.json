@@ -1,0 +1,32 @@
+{
+  "id": "cktflbu0ze",
+  "name": {
+    "tr": "Erim Kabartma Tozu"
+  },
+  "description": {
+    "tr": "Erim Kabartma Tozu — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+  },
+  "keyword": {
+    "tr": "Erim Kabartma Tozu, Burçak Baharat, Pasta Grubu, baharat, toptan"
+  },
+  "path": "erim-kabartma-tozu",
+  "icon": "restaurant",
+  "category": "c4pasta",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 15,
+  "url": "",
+  "text": {
+    "tr": "Ürün grubu: Pasta Grubu\nFiyat listesi ve toptan satış için bizi arayın: +90 342 238 11 11\nE-posta: info@burcakbaharat.com.tr"
+  },
+  "title": {
+    "tr": "Erim Kabartma Tozu | Burçak Baharat"
+  },
+  "date": "2026-11-10T15:09:43.360Z",
+  "update": "2026-11-10T15:12:19.812Z",
+  "img": "index.webp"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "usr_favori",
+  "name": {
+    "tr": "Favorilerim"
+  },
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "path": "favorilerim",
+  "icon": "favorite",
+  "category": "",
+  "status": "pause",
+  "desing": {
+    "header": [],
+    "body": [
+      "dmpilq"
+    ],
+    "footer": []
+  },
+  "index": 1,
+  "url": "",
+  "title": {
+    "tr": "Favorilerim"
+  },
+  "date": "2026-11-10T15:05:24.984Z",
+  "update": "2026-11-10T15:06:39.017Z"
+}

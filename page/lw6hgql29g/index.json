@@ -1,0 +1,32 @@
+{
+  "id": "lw6hgql29g",
+  "name": {
+    "tr": "İsot Biber"
+  },
+  "description": {
+    "tr": "İsot Biber — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+  },
+  "keyword": {
+    "tr": "İsot Biber, Burçak Baharat, 20 Gr Baharat Grubu, baharat, toptan"
+  },
+  "path": "isot-biber",
+  "icon": "restaurant",
+  "category": "c5baharat20",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 70,
+  "url": "",
+  "text": {
+    "tr": "Ürün grubu: 20 Gr Baharat Grubu\nFiyat listesi ve toptan satış için bizi arayın: +90 342 238 11 11\nE-posta: info@burcakbaharat.com.tr"
+  },
+  "title": {
+    "tr": "İsot Biber | Burçak Baharat"
+  },
+  "date": "2026-11-10T15:09:48.237Z",
+  "update": "2026-11-10T15:12:22.643Z",
+  "img": "index.webp"
+}

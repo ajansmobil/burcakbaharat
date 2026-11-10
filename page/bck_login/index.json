@@ -1,0 +1,30 @@
+{
+  "id": "bck_login",
+  "name": {
+    "tr": "Üye Girişi"
+  },
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "path": "login",
+  "icon": "login",
+  "category": "",
+  "status": "pause",
+  "desing": {
+    "header": [],
+    "body": [
+      "8kkap4"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "title": {
+    "tr": "Üye Girişi"
+  },
+  "date": "2026-11-10T15:05:24.984Z",
+  "update": "2026-11-10T15:06:38.758Z"
+}

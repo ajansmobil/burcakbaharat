@@ -1,0 +1,32 @@
+{
+  "id": "2u1dyqa2ng",
+  "name": {
+    "tr": "Kakao"
+  },
+  "description": {
+    "tr": "Kakao — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+  },
+  "keyword": {
+    "tr": "Kakao, Burçak Baharat, Pasta Grubu, baharat, toptan"
+  },
+  "path": "kakao",
+  "icon": "restaurant",
+  "category": "c4pasta",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 19,
+  "url": "",
+  "text": {
+    "tr": "Ürün grubu: Pasta Grubu\nFiyat listesi ve toptan satış için bizi arayın: +90 342 238 11 11\nE-posta: info@burcakbaharat.com.tr"
+  },
+  "title": {
+    "tr": "Kakao | Burçak Baharat"
+  },
+  "date": "2026-11-10T15:09:43.657Z",
+  "update": "2026-11-10T15:12:20.016Z",
+  "img": "index.webp"
+}

@@ -1,0 +1,32 @@
+{
+  "name": {
+    "tr": "Gizlilik Politikası"
+  },
+  "status": "play",
+  "id": "gizlilikpolitikasi",
+  "path": "gizlilik-politikasi",
+  "category": "",
+  "text": {
+    "tr": "<article class=\"wm-metin\">\n<h2>Gizlilik Politikası</h2>\n<p class=\"lead\">Bu Gizlilik Politikası, Burçak Baharat tarafından işletilen https://burcak.webyapar.com internet sitesini ziyaret ettiğinizde ve hizmetlerimizi kullandığınızda bilgilerinizin nasıl ele alındığını açıklar. Kişisel verileriniz 6698 sayılı Kişisel Verilerin Korunması Kanunu ve ilgili mevzuata uygun olarak işlenir.</p>\n<h3>Toplanan bilgiler</h3>\n<p>Sitemizi kullanımınıza bağlı olarak aşağıdaki bilgi türleri işlenebilir:</p>\n<ul>\n<li>İletişim formları aracılığıyla ilettiğiniz ad, e-posta, telefon ve mesaj içeriği</li>\n<li>Site güvenliği ve ilgili mevzuattan doğan yükümlülükler için gerekli IP adresi, tarayıcı ve erişim kayıtları</li>\n<li>Tercihlerinize bağlı olarak çerezler aracılığıyla elde edilen kullanım bilgileri</li>\n<li>Sipariş veya hizmet talebi oluşturmanız hâlinde işlemin gerektirdiği bilgiler</li>\n</ul>\n<h3>Bilgilerin kullanımı ve paylaşımı</h3>\n<p>Bilgileriniz; taleplerinizi yanıtlamak, hizmetlerimizi sunmak, siteyi güvenli ve çalışır durumda tutmak ve yasal yükümlülüklerimizi yerine getirmek amacıyla kullanılır. Bilgileriniz satılmaz; yalnızca hizmetin sağlanması için gerekli olan hizmet sağlayıcılarla veya yasal olarak yetkili kurum ve kuruluşlarla, mevzuatın izin verdiği ölçüde paylaşılır.</p>\n<h3>Güvenlik ve saklama</h3>\n<p>Bilgilerinizi yetkisiz erişime, kayba ve kötüye kullanıma karşı korumak için makul teknik ve idari tedbirleri alırız. Bilgiler, işlenme amacının gerektirdiği veya mevzuatın öngördüğü süre boyunca saklanır; bu süre sonunda silinir, yok edilir ya da anonim hâle getirilir.</p>\n<h3>Haklarınız ve iletişim</h3>\n<p>Kişisel verilerinize ilişkin haklarınızı 6698 sayılı Kanun çerçevesinde kullanabilirsiniz. Ayrıntılı bilgi için Kişisel Verilerin Korunması ve Aydınlatma Metni sayfamızı inceleyebilir, sorularınızı info@burcakbaharat.com.tr adresine iletebilirsiniz.</p>\n<aside class=\"vurgu-kutusu\"><strong>Değişiklikler:</strong> Bu politika gerektiğinde güncellenebilir; güncel sürüm her zaman bu sayfada yayımlanır. Son güncelleme: 2026-11-10.</aside>\n</article>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 4,
+  "icon": "home",
+  "title": {
+    "tr": "Gizlilik Politikası"
+  },
+  "description": {
+    "tr": "Bu Gizlilik Politikası, Burçak Baharat tarafından işletilen https://burcak.webyapar.com internet sitesini ziyaret ettiğinizde ve hizmetlerimizi…"
+  },
+  "keyword": {
+    "tr": "Gizlilik Politikası"
+  },
+  "update": "2026-11-10T15:12:10.285Z",
+  "date": "2026-05-19",
+  "sablonIzi": "89ac7b2fe43e8801"
+}

@@ -1,0 +1,63 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Burçak Baharat; 40 yılı aşkın tecrübesiyle, modern ve tam otomasyonlu tesisinde baharat, pastacılık ürünleri, sos ve sirke, kahve ile aromalı toz içecek gruplarında 90 çeşit ürün üretir. İslahiye / Gaziantep."
+  },
+  "keyword": {
+    "tr": "Burçak Baharat, baharat, pul biber, toz içecek, pastacılık ürünleri, sos ve sirke, Gaziantep, İslahiye, toptan baharat, e-katalog"
+  },
+  "category": "Kurumsal",
+  "name": "Burçak Baharat",
+  "domain": "burcak.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": false,
+    "ar": false,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "yapi": "katalog",
+  "sektor": "tarim-gida",
+  "firma": {
+    "unvan": "Burçak Baharat",
+    "adres": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep / Türkiye",
+    "eposta": "info@burcakbaharat.com.tr",
+    "telefon": "+90 342 238 11 11",
+    "site": "https://burcak.webyapar.com"
+  },
+  "siteType": "katalog",
+  "publishMode": "static",
+  "eticaret": false,
+  "modSepet": false,
+  "modSiparis": false,
+  "modOdeme": false,
+  "modKargo": false,
+  "modUyeler": false,
+  "modUyeAdres": false,
+  "phone": "+90 342 238 11 11",
+  "email": "info@burcakbaharat.com.tr",
+  "address": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep / Türkiye",
+  "city": "Gaziantep",
+  "country": "TR",
+  "social": {
+    "instagram": "https://www.instagram.com/burcak.baharat/",
+    "facebook": "https://www.facebook.com/profile.php?id=100070134073569",
+    "x": "https://twitter.com/burcakbaharat",
+    "youtube": "https://www.youtube.com/@burcakbaharat"
+  },
+  "font": {
+    "heading": "playfair-display",
+    "body": "inter"
+  },
+  "icon": "icon.png"
+}

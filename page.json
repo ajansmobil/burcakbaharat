@@ -1,0 +1,88 @@
+{
+  "data": [
+    {
+      "id": "69cmq4rvmg",
+      "name": {
+        "tr": "Teklif / Fiyat İste"
+      },
+      "description": {
+        "tr": ""
+      },
+      "path": "teklif-al",
+      "icon": "article",
+      "category": "",
+      "status": "pause",
+      "desing": {
+        "header": [],
+        "body": [
+          "lm4nyg"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "name": {
+        "tr": "Kurumsal"
+      },
+      "status": "play",
+      "category": "",
+      "id": "yvi9dlb59o",
+      "url": "",
+      "path": "kurumsal",
+      "index": 1,
+      "desing": {
+        "header": [],
+        "body": [
+          "0tr024",
+          "sb2uvr",
+          "14w40y",
+          "6ouezv",
+          "1569r1"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Burçak Baharat: 40 yılı aşkın tecrübe, 25 bin m² arazide kurulu tam otomasyonlu tesis, 15 ülkeye ihracat, FDA · ISO 22000 · Helal Gıda."
+      }
+    },
+    {
+      "name": {
+        "tr": "Ürünler"
+      },
+      "status": "play",
+      "category": "",
+      "id": "hs54qzyeyo",
+      "url": "",
+      "path": "urunler",
+      "index": 2,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "8ofrtf",
+          "tbc5mm",
+          "1569r1"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Burçak Baharat e-katalog: pul biber, baharat, sos ve sirke, kahve, pasta grubu ve aromalı toz içecek — 90 ürün, kategori filtresi ve arama."
+      }
+    }
+  ],
+  "desc": [],
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "modulestatus": {
+    "page": true,
+    "bgimg": true,
+    "detail": true,
+    "body": true
+  }
+}

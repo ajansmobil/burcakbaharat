@@ -1,0 +1,32 @@
+{
+  "id": "qff5bhaptn",
+  "name": {
+    "tr": "Tarçın Öğütülmüş"
+  },
+  "description": {
+    "tr": "Tarçın Öğütülmüş — Burçak Baharat 20 Gr Baharat Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+  },
+  "keyword": {
+    "tr": "Tarçın Öğütülmüş, Burçak Baharat, 20 Gr Baharat Grubu, baharat, toptan"
+  },
+  "path": "tarcin-ogutulmus",
+  "icon": "restaurant",
+  "category": "c5baharat20",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 63,
+  "url": "",
+  "text": {
+    "tr": "Ürün grubu: 20 Gr Baharat Grubu\nFiyat listesi ve toptan satış için bizi arayın: +90 342 238 11 11\nE-posta: info@burcakbaharat.com.tr"
+  },
+  "title": {
+    "tr": "Tarçın Öğütülmüş | Burçak Baharat"
+  },
+  "date": "2026-11-10T15:09:47.490Z",
+  "update": "2026-11-10T15:12:22.286Z",
+  "img": "index.webp"
+}

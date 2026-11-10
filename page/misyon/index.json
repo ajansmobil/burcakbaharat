@@ -1,0 +1,32 @@
+{
+  "name": {
+    "tr": "Misyon"
+  },
+  "status": "play",
+  "id": "misyon",
+  "path": "misyon",
+  "category": "",
+  "text": {
+    "tr": "<article class=\"wm-metin\">\n<h2>Misyonumuz</h2>\n<p class=\"lead\">Misyonumuz; müşterilerimize ihtiyaçlarına gerçekten karşılık veren, anlaşılır ve güvenilir ürün ve hizmetler sunmak, bunu yaparken çalışanlarımıza, iş ortaklarımıza ve içinde bulunduğumuz topluma karşı sorumluluklarımızı gözetmektir.</p>\n<h3>Müşterilerimiz için</h3>\n<p>Her müşterimizin beklentisini dikkatle dinler, ona uygun çözümü birlikte belirleriz. Söz verdiğimiz kalitede ve zamanda teslim etmeyi, sonrasında da destek olmayı işimizin doğal bir parçası sayarız.</p>\n<h3>Ekibimiz ve iş ortaklarımız için</h3>\n<p>Güvenli, saygılı ve öğrenmeye açık bir çalışma ortamı oluşturmak misyonumuzun ayrılmaz bir parçasıdır. Bu doğrultuda şu ilkeleri benimseriz:</p>\n<ul>\n<li>Çalışanlarımızın mesleki gelişimini desteklemek</li>\n<li>İş ortaklarımızla açık, adil ve sürdürülebilir ilişkiler kurmak</li>\n<li>Sorumlulukları netleştirmek ve başarıyı birlikte paylaşmak</li>\n<li>Geri bildirimi bir gelişim aracı olarak görmek</li>\n</ul>\n<h3>Topluma ve çevreye karşı</h3>\n<p>Faaliyetlerimizi yürürlükteki mevzuata uygun biçimde sürdürmeyi, kaynakları verimli kullanmayı ve çevresel etkilerimizi azaltacak uygulamaları benimsemeyi taahhüt ederiz. Toplumsal sorumluluğu, gündelik kararlarımıza yansıyan bir tutum olarak görürüz.</p>\n<aside class=\"vurgu-kutusu\"><strong>Kısaca:</strong> Yaptığımız her işte güvenilir olmak, anlaşılır olmak ve sözümüzü tutmak misyonumuzun özüdür.</aside>\n</article>"
+  },
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "desc": {},
+  "index": 1,
+  "icon": "home",
+  "title": {
+    "tr": "Misyon"
+  },
+  "description": {
+    "tr": "Misyonumuz; müşterilerimize ihtiyaçlarına gerçekten karşılık veren, anlaşılır ve güvenilir ürün ve hizmetler sunmak, bunu yaparken çalışanlarımıza, iş…"
+  },
+  "keyword": {
+    "tr": "Misyon"
+  },
+  "update": "2026-11-10T15:12:10.180Z",
+  "date": "2026-05-19",
+  "sablonIzi": "a8a6ac234dced5af"
+}

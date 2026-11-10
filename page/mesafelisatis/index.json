@@ -1,0 +1,31 @@
+{
+  "id": "mesafelisatis",
+  "name": {
+    "tr": "Mesafeli Satış Sözleşmesi"
+  },
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "path": "mesafeli-satis-sozlesmesi",
+  "icon": "gavel",
+  "category": "",
+  "status": "pause",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 11,
+  "url": "",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">Mesafeli Satış Sözleşmesi</h2>\n<p style=\"font-size: 16px;\">İşbu sözleşme, satıcı ile alıcı arasında, alıcının elektronik ortamda sipariş verdiği ürünlerin satışı ve teslimi ile ilgili olarak 6502 sayılı Tüketicinin Korunması Hakkında Kanun ve Mesafeli Sözleşmeler Yönetmeliği hükümleri gereğince tarafların hak ve yükümlülüklerini düzenler.</p>\n<p style=\"font-size: 16px;\">Alıcı, satışa konu ürünlerin temel nitelikleri, satış fiyatı, ödeme şekli ve teslimat koşulları hakkında bilgi sahibi olduğunu, elektronik ortamda gerekli teyidi verdiğini kabul eder. Sipariş onayı ile birlikte işbu sözleşme hükümleri yürürlüğe girer.</p>\n<p style=\"font-size: 16px;\">Teslimat, siparişin satıcıya ulaşmasından itibaren taahhüt edilen süre içinde yapılır. Ürünün teslim edilememesi veya gecikmesi durumunda alıcı bilgilendirilir. Bu metin örnek şablondur; firmanıza özel koşulları ekleyerek düzenleyiniz.</p>"
+  },
+  "title": {
+    "tr": "Mesafeli Satış Sözleşmesi"
+  },
+  "date": "2026-11-10T15:05:24.984Z",
+  "update": "2026-11-10T15:06:39.120Z"
+}

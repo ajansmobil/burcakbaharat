@@ -1,0 +1,30 @@
+{
+  "id": "usr_bilgi",
+  "name": {
+    "tr": "Hesabim"
+  },
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "path": "hesabim",
+  "icon": "person",
+  "category": "",
+  "status": "pause",
+  "desing": {
+    "header": [],
+    "body": [
+      "8kvdjd"
+    ],
+    "footer": []
+  },
+  "index": 3,
+  "url": "",
+  "title": {
+    "tr": "Hesabim"
+  },
+  "date": "2026-11-10T15:05:24.984Z",
+  "update": "2026-11-10T15:06:39.085Z"
+}

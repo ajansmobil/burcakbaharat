@@ -1,0 +1,32 @@
+{
+  "id": "6rou6ajseo",
+  "name": {
+    "tr": "Şekerli Vanilin"
+  },
+  "description": {
+    "tr": "Şekerli Vanilin — Burçak Baharat Pasta Grubu ürünü. Toptan satış ve fiyat listesi için bizi arayın: +90 342 238 11 11."
+  },
+  "keyword": {
+    "tr": "Şekerli Vanilin, Burçak Baharat, Pasta Grubu, baharat, toptan"
+  },
+  "path": "sekerli-vanilin",
+  "icon": "restaurant",
+  "category": "c4pasta",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 36,
+  "url": "",
+  "text": {
+    "tr": "Ürün grubu: Pasta Grubu\nFiyat listesi ve toptan satış için bizi arayın: +90 342 238 11 11\nE-posta: info@burcakbaharat.com.tr"
+  },
+  "title": {
+    "tr": "Şekerli Vanilin | Burçak Baharat"
+  },
+  "date": "2026-11-10T15:09:44.995Z",
+  "update": "2026-11-10T15:12:20.887Z",
+  "img": "index.webp"
+}

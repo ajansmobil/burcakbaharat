@@ -1,0 +1,305 @@
+{
+  "name": "Kurumsal",
+  "path": "kurumsal",
+  "desc": [],
+  "data": [
+    {
+      "name": {
+        "tr": "Hakkımızda"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 0,
+      "icon": "home",
+      "description": {
+        "tr": "Burçak Baharat hakkında: 40 yılı aşkın tecrübe, İslahiye OSB'de tam otomasyonlu tesis, 15 ülkeye ihracat."
+      }
+    },
+    {
+      "name": {
+        "tr": "Misyon"
+      },
+      "status": "play",
+      "id": "misyon",
+      "path": "misyon",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 1,
+      "icon": "home",
+      "description": {
+        "tr": "Misyonumuz; müşterilerimize ihtiyaçlarına gerçekten karşılık veren, anlaşılır ve güvenilir ürün ve hizmetler sunmak, bunu yaparken çalışanlarımıza, iş…"
+      }
+    },
+    {
+      "name": {
+        "tr": "Vizyon"
+      },
+      "status": "play",
+      "id": "vizyon",
+      "path": "vizyon",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 2,
+      "icon": "home",
+      "description": {
+        "tr": "Vizyonumuz; kalitesi, güvenilirliği ve müşteri odaklı yaklaşımıyla tercih edilen, değişime hızla uyum sağlayan ve çevresine değer katan bir kuruluş olmaktır."
+      }
+    },
+    {
+      "name": {
+        "tr": "Kalite Politikamız"
+      },
+      "status": "play",
+      "id": "kalitepolitikamiz",
+      "path": "kalitepolitikamiz",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 3,
+      "icon": "home",
+      "description": {
+        "tr": "Kalite, firmamız için yalnızca bir sonuç değil, işin her aşamasına yerleştirilmiş bir çalışma biçimidir. Müşteri memnuniyetini, yasal gerekliliklere uyumu…"
+      }
+    },
+    {
+      "name": {
+        "tr": "Gizlilik Politikası"
+      },
+      "status": "play",
+      "id": "gizlilikpolitikasi",
+      "path": "gizlilik-politikasi",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 4,
+      "icon": "home",
+      "description": {
+        "tr": "Bu Gizlilik Politikası, Burçak Baharat tarafından işletilen https://burcak.webyapar.com internet sitesini ziyaret ettiğinizde ve hizmetlerimizi…"
+      }
+    },
+    {
+      "name": {
+        "tr": "Kişisel Veriler"
+      },
+      "status": "play",
+      "id": "kisiselveriler",
+      "path": "kisiselveriler",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 5,
+      "icon": "home",
+      "description": {
+        "tr": "Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu’nun 10. maddesi ve Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul ve Esaslar…"
+      }
+    },
+    {
+      "name": {
+        "tr": "Kullanıcı Hakları"
+      },
+      "status": "play",
+      "id": "kullanicahaklari",
+      "path": "kullanicahaklari",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 6,
+      "icon": "home",
+      "description": {
+        "tr": "https://burcak.webyapar.com internet sitesini kullanan herkes, yürürlükteki mevzuattan doğan haklara sahiptir. Bu sayfa, Burçak Baharat ile ilişkinizde…"
+      }
+    },
+    {
+      "name": {
+        "tr": "Yasal Uyarı"
+      },
+      "status": "play",
+      "id": "yasaluyari",
+      "path": "yasaluyari",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 7,
+      "icon": "home",
+      "description": {
+        "tr": "https://burcak.webyapar.com internet sitesi Burçak Baharat tarafından işletilmektedir. Siteyi ziyaret eden veya kullanan herkes, aşağıdaki koşulları…"
+      }
+    },
+    {
+      "id": "cerez-politikasi",
+      "name": {
+        "tr": "Çerez Politikası"
+      },
+      "description": {
+        "tr": "Bu politika, Burçak Baharat tarafından işletilen bu internet sitesinde kullanılan çerezleri, hangi amaçlarla kullanıldığını ve tercihlerinizi nasıl yönetebileceğinizi açıklar."
+      },
+      "path": "cerez-politikasi",
+      "icon": "cookie",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 8
+    },
+    {
+      "name": {
+        "tr": "İletişim"
+      },
+      "status": "play",
+      "category": "",
+      "id": "xnzu5au0ag",
+      "url": "",
+      "path": "iletisim",
+      "index": 9,
+      "icon": "home",
+      "desing": {
+        "header": [],
+        "body": [
+          "fhxr98",
+          "1569r1"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Burçak Baharat iletişim: +90 342 238 11 11 · info@burcakbaharat.com.tr · İslahiye OSB, Gaziantep."
+      }
+    },
+    {
+      "id": "onbilgilendirmeformu",
+      "name": {
+        "tr": "Ön Bilgilendirme Formu"
+      },
+      "description": {
+        "tr": ""
+      },
+      "path": "on-bilgilendirme-formu",
+      "icon": "gavel",
+      "category": "",
+      "status": "pause",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 10
+    },
+    {
+      "id": "mesafelisatis",
+      "name": {
+        "tr": "Mesafeli Satış Sözleşmesi"
+      },
+      "description": {
+        "tr": ""
+      },
+      "path": "mesafeli-satis-sozlesmesi",
+      "icon": "gavel",
+      "category": "",
+      "status": "pause",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 11
+    },
+    {
+      "id": "iadeveteslimat",
+      "name": {
+        "tr": "İade ve Teslimat Koşulları"
+      },
+      "description": {
+        "tr": ""
+      },
+      "path": "iade-ve-teslimat",
+      "icon": "gavel",
+      "category": "",
+      "status": "pause",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 12
+    },
+    {
+      "id": "uyeliksozlesmesi",
+      "name": {
+        "tr": "Üyelik Sözleşmesi"
+      },
+      "description": {
+        "tr": ""
+      },
+      "path": "uyelik-sozlesmesi",
+      "icon": "gavel",
+      "category": "",
+      "status": "pause",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 13
+    },
+    {
+      "id": "saticibilgileri",
+      "name": {
+        "tr": "Satıcı Bilgileri"
+      },
+      "description": {
+        "tr": ""
+      },
+      "path": "satici-bilgileri",
+      "icon": "gavel",
+      "category": "",
+      "status": "pause",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 14
+    }
+  ],
+  "index": 2,
+  "desing": {
+    "header": [],
+    "body": [
+      "tp5jo4"
+    ],
+    "footer": []
+  }
+}

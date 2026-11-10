@@ -1,0 +1,31 @@
+{
+  "id": "iadeveteslimat",
+  "name": {
+    "tr": "İade ve Teslimat Koşulları"
+  },
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "path": "iade-ve-teslimat",
+  "icon": "gavel",
+  "category": "",
+  "status": "pause",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 12,
+  "url": "",
+  "text": {
+    "tr": "<h2 style=\"font-size: 24px;\">İade ve Teslimat Koşulları</h2>\n<p style=\"font-size: 16px;\">Alıcı, teslim tarihinden itibaren 14 gün içinde herhangi bir gerekçe göstermeksizin ve cezai şart ödemeksizin sözleşmeden cayma hakkına sahiptir. Cayma hakkının kullanılması için bu süre içinde satıcıya yazılı bildirimde bulunulması gerekir.</p>\n<p style=\"font-size: 16px;\">İade edilecek ürünlerin kutusu, ambalajı ve varsa standart aksesuarları ile birlikte eksiksiz ve hasarsız olarak teslim edilmesi gerekmektedir. İade kargo bedeline ilişkin koşullar sipariş sırasında belirtilir.</p>\n<p style=\"font-size: 16px;\">Siparişler, ödeme onayını takiben kargoya verilir ve teslimat adresinize ulaştırılır. Bu metin örnek şablondur; firmanıza özel koşulları ekleyerek düzenleyiniz.</p>"
+  },
+  "title": {
+    "tr": "İade ve Teslimat Koşulları"
+  },
+  "date": "2026-11-10T15:05:24.984Z",
+  "update": "2026-11-10T15:06:39.158Z"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "usr_siparis",
+  "name": {
+    "tr": "Siparislerim"
+  },
+  "description": {
+    "tr": ""
+  },
+  "keyword": {
+    "tr": ""
+  },
+  "path": "siparislerim",
+  "icon": "receipt_long",
+  "category": "",
+  "status": "pause",
+  "desing": {
+    "header": [],
+    "body": [
+      "kfclvl"
+    ],
+    "footer": []
+  },
+  "index": 0,
+  "url": "",
+  "title": {
+    "tr": "Siparislerim"
+  },
+  "date": "2026-11-10T15:05:24.984Z",
+  "update": "2026-11-10T15:06:38.983Z"
+}

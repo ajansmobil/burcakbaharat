@@ -1,0 +1,183 @@
+{
+  "data": [
+    {
+      "name": {
+        "tr": "Pul Biber Grubu"
+      },
+      "id": "c1pulbiber",
+      "index": 0,
+      "path": "pul-biber-grubu",
+      "category": "",
+      "status": "play",
+      "icon": "category",
+      "img": "pul-biber-grubu.webp",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Burçak Baharat Pul Biber Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11."
+      }
+    },
+    {
+      "name": {
+        "tr": "Sos ve Sirke Grubu"
+      },
+      "id": "c2sosirke",
+      "index": 1,
+      "path": "sos-ve-sirke-grubu",
+      "category": "",
+      "status": "play",
+      "icon": "category",
+      "img": "sos-ve-sirke-grubu.webp",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Burçak Baharat Sos ve Sirke Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11."
+      }
+    },
+    {
+      "name": {
+        "tr": "Kahve Grubu"
+      },
+      "id": "c3kahve",
+      "index": 2,
+      "path": "kahve-grubu",
+      "category": "",
+      "status": "play",
+      "icon": "category",
+      "img": "kahve-grubu.webp",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Burçak Baharat Kahve Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11."
+      }
+    },
+    {
+      "name": {
+        "tr": "Pasta Grubu"
+      },
+      "id": "c4pasta",
+      "index": 3,
+      "path": "pasta-grubu",
+      "category": "",
+      "status": "play",
+      "icon": "category",
+      "img": "pasta-grubu.webp",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Burçak Baharat Pasta Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11."
+      }
+    },
+    {
+      "name": {
+        "tr": "20 Gr Baharat Grubu"
+      },
+      "id": "c5baharat20",
+      "index": 4,
+      "path": "baharat-20-gr",
+      "category": "",
+      "status": "play",
+      "icon": "category",
+      "img": "baharat-20-gr.webp",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Burçak Baharat 20 Gr Baharat Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11."
+      }
+    },
+    {
+      "name": {
+        "tr": "Burçak Drink"
+      },
+      "id": "c6drink",
+      "index": 5,
+      "path": "burcak-drink",
+      "category": "",
+      "status": "play",
+      "icon": "category",
+      "img": "burcak-drink.webp",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Burçak Baharat Burçak Drink ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11."
+      }
+    },
+    {
+      "name": {
+        "tr": "Aromalı Toz İçecek"
+      },
+      "id": "c7aroma",
+      "index": 6,
+      "path": "aromali-toz-icecek",
+      "category": "",
+      "status": "play",
+      "icon": "category",
+      "img": "aromali-toz-icecek.webp",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Burçak Baharat Aromalı Toz İçecek ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11."
+      }
+    },
+    {
+      "name": {
+        "tr": "Diğer Ürünler"
+      },
+      "id": "c8diger",
+      "index": 7,
+      "path": "diger-urunler",
+      "category": "",
+      "status": "play",
+      "icon": "category",
+      "img": "diger-urunler.webp",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Burçak Baharat Diğer Ürünler ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11."
+      }
+    }
+  ],
+  "desc": [],
+  "desing": {
+    "header": [],
+    "body": [
+      "m9w7xf"
+    ],
+    "footer": []
+  },
+  "modulestatus": {
+    "body": true
+  }
+}
