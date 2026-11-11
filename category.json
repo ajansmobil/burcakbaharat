@@ -17,10 +17,13 @@
       "img": "pul-biber-grubu.webp",
       "desing": {
         "header": [],
-        "body": [],
+        "body": [
+          "k8ekat",
+          "1569r1"
+        ],
         "footer": []
       },
-      "pathnext": "",
+      "pathnext": "ekatalog-pul-biber",
       "description": {
         "tr": "Burçak Baharat Pul Biber Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.",
         "en": "Burçak Baharat Chili Flakes Group products — call +90 342 238 11 11 for wholesale and the price list.",
@@ -46,10 +49,13 @@
       "img": "sos-ve-sirke-grubu.webp",
       "desing": {
         "header": [],
-        "body": [],
+        "body": [
+          "k8ekat",
+          "1569r1"
+        ],
         "footer": []
       },
-      "pathnext": "",
+      "pathnext": "ekatalog-sos-sirke",
       "description": {
         "tr": "Burçak Baharat Sos ve Sirke Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.",
         "en": "Burçak Baharat Sauce and Vinegar Group products — call +90 342 238 11 11 for wholesale and the price list.",
@@ -75,10 +81,13 @@
       "img": "kahve-grubu.webp",
       "desing": {
         "header": [],
-        "body": [],
+        "body": [
+          "k8ekat",
+          "1569r1"
+        ],
         "footer": []
       },
-      "pathnext": "",
+      "pathnext": "ekatalog-kahve",
       "description": {
         "tr": "Burçak Baharat Kahve Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.",
         "en": "Burçak Baharat Coffee Group products — call +90 342 238 11 11 for wholesale and the price list.",
@@ -104,10 +113,13 @@
       "img": "pasta-grubu.webp",
       "desing": {
         "header": [],
-        "body": [],
+        "body": [
+          "k8ekat",
+          "1569r1"
+        ],
         "footer": []
       },
-      "pathnext": "",
+      "pathnext": "ekatalog-pasta",
       "description": {
         "tr": "Burçak Baharat Pasta Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.",
         "en": "Burçak Baharat Pastry Group products — call +90 342 238 11 11 for wholesale and the price list.",
@@ -133,10 +145,13 @@
       "img": "baharat-20-gr.webp",
       "desing": {
         "header": [],
-        "body": [],
+        "body": [
+          "k8ekat",
+          "1569r1"
+        ],
         "footer": []
       },
-      "pathnext": "",
+      "pathnext": "ekatalog-baharat",
       "description": {
         "tr": "Burçak Baharat 20 Gr Baharat Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.",
         "en": "Burçak Baharat 20 Gr Spice Group products — call +90 342 238 11 11 for wholesale and the price list.",
@@ -162,10 +177,13 @@
       "img": "burcak-drink.webp",
       "desing": {
         "header": [],
-        "body": [],
+        "body": [
+          "k8ekat",
+          "1569r1"
+        ],
         "footer": []
       },
-      "pathnext": "",
+      "pathnext": "ekatalog-drink",
       "description": {
         "tr": "Burçak Baharat Burçak Drink ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.",
         "en": "Burçak Baharat Burçak Drink products — call +90 342 238 11 11 for wholesale and the price list.",
@@ -191,10 +209,13 @@
       "img": "aromali-toz-icecek.webp",
       "desing": {
         "header": [],
-        "body": [],
+        "body": [
+          "k8ekat",
+          "1569r1"
+        ],
         "footer": []
       },
-      "pathnext": "",
+      "pathnext": "ekatalog-fruit-dance",
       "description": {
         "tr": "Burçak Baharat Aromalı Toz İçecek ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.",
         "en": "Burçak Baharat Flavored Powdered Drinks — call +90 342 238 11 11 for wholesale and the price list.",
@@ -220,10 +241,13 @@
       "img": "diger-urunler.webp",
       "desing": {
         "header": [],
-        "body": [],
+        "body": [
+          "k8ekat",
+          "1569r1"
+        ],
         "footer": []
       },
-      "pathnext": "",
+      "pathnext": "ekatalog-diger",
       "description": {
         "tr": "Burçak Baharat Diğer Ürünler ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.",
         "en": "Burçak Baharat Other Products — call +90 342 238 11 11 for wholesale and the price list.",
@@ -236,9 +260,7 @@
   "desc": [],
   "desing": {
     "header": [],
-    "body": [
-      "m9w7xf"
-    ],
+    "body": [],
     "footer": []
   },
   "modulestatus": {

@@ -112,14 +112,14 @@ Web: https://burcak.webyapar.com/tr/ · Adres: İslahiye OSB 1 Nolu Cad. No:2/1,
 - [Turşukur](https://burcak.webyapar.com/tr/tursukur/): Turşu kurmak için hazırlanmış salamura toz karışım.
 
 ## Kategoriler
-- [Pul Biber Grubu](https://burcak.webyapar.com/tr/pul-biber-grubu/): Burçak Baharat Pul Biber Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
-- [Sos ve Sirke Grubu](https://burcak.webyapar.com/tr/sos-ve-sirke-grubu/): Burçak Baharat Sos ve Sirke Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
-- [Kahve Grubu](https://burcak.webyapar.com/tr/kahve-grubu/): Burçak Baharat Kahve Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
-- [Pasta Grubu](https://burcak.webyapar.com/tr/pasta-grubu/): Burçak Baharat Pasta Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
-- [20 Gr Baharat Grubu](https://burcak.webyapar.com/tr/baharat-20-gr/): Burçak Baharat 20 Gr Baharat Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
-- [Burçak Drink](https://burcak.webyapar.com/tr/burcak-drink/): Burçak Baharat Burçak Drink ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
-- [Aromalı Toz İçecek](https://burcak.webyapar.com/tr/aromali-toz-icecek/): Burçak Baharat Aromalı Toz İçecek ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
-- [Diğer Ürünler](https://burcak.webyapar.com/tr/diger-urunler/): Burçak Baharat Diğer Ürünler ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
+- [Pul Biber Grubu](https://burcak.webyapar.com/tr/ekatalog-pul-biber/): Burçak Baharat Pul Biber Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
+- [Sos ve Sirke Grubu](https://burcak.webyapar.com/tr/ekatalog-sos-sirke/): Burçak Baharat Sos ve Sirke Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
+- [Kahve Grubu](https://burcak.webyapar.com/tr/ekatalog-kahve/): Burçak Baharat Kahve Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
+- [Pasta Grubu](https://burcak.webyapar.com/tr/ekatalog-pasta/): Burçak Baharat Pasta Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
+- [20 Gr Baharat Grubu](https://burcak.webyapar.com/tr/ekatalog-baharat/): Burçak Baharat 20 Gr Baharat Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
+- [Burçak Drink](https://burcak.webyapar.com/tr/ekatalog-drink/): Burçak Baharat Burçak Drink ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
+- [Aromalı Toz İçecek](https://burcak.webyapar.com/tr/ekatalog-fruit-dance/): Burçak Baharat Aromalı Toz İçecek ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
+- [Diğer Ürünler](https://burcak.webyapar.com/tr/ekatalog-diger/): Burçak Baharat Diğer Ürünler ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
 
 ## Diger
 - [sitemap.xml](https://burcak.webyapar.com/sitemap.xml): tum URL listesi

@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "eski": "pul-biber-grubu",
+      "yeni": "ekatalog-pul-biber",
+      "tarih": "2026-11-11T07:41:40.766Z"
+    },
+    {
+      "eski": "sos-ve-sirke-grubu",
+      "yeni": "ekatalog-sos-sirke",
+      "tarih": "2026-11-11T07:41:40.774Z"
+    },
+    {
+      "eski": "kahve-grubu",
+      "yeni": "ekatalog-kahve",
+      "tarih": "2026-11-11T07:41:40.780Z"
+    },
+    {
+      "eski": "pasta-grubu",
+      "yeni": "ekatalog-pasta",
+      "tarih": "2026-11-11T07:41:40.788Z"
+    },
+    {
+      "eski": "baharat-20-gr",
+      "yeni": "ekatalog-baharat",
+      "tarih": "2026-11-11T07:41:40.795Z"
+    },
+    {
+      "eski": "burcak-drink",
+      "yeni": "ekatalog-drink",
+      "tarih": "2026-11-11T07:41:40.802Z"
+    },
+    {
+      "eski": "aromali-toz-icecek",
+      "yeni": "ekatalog-fruit-dance",
+      "tarih": "2026-11-11T07:41:40.809Z"
+    },
+    {
+      "eski": "diger-urunler",
+      "yeni": "ekatalog-diger",
+      "tarih": "2026-11-11T07:41:40.816Z"
+    }
+  ]
+}

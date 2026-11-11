@@ -3072,7 +3072,7 @@
             "fr": "Gamme piment rouge en flocons",
             "de": "Chiliflocken-Sortiment"
           },
-          "url": "pul-biber-grubu"
+          "url": "ekatalog-pul-biber"
         },
         {
           "img": "/img/kategori/sos-ve-sirke-grubu.webp",
@@ -3083,7 +3083,7 @@
             "fr": "Gamme sauces et vinaigres",
             "de": "Saucen- und Essig-Sortiment"
           },
-          "url": "sos-ve-sirke-grubu"
+          "url": "ekatalog-sos-sirke"
         },
         {
           "img": "/img/kategori/kahve-grubu.webp",
@@ -3094,7 +3094,7 @@
             "fr": "Gamme café",
             "de": "Kaffee-Sortiment"
           },
-          "url": "kahve-grubu"
+          "url": "ekatalog-kahve"
         },
         {
           "img": "/img/kategori/pasta-grubu.webp",
@@ -3105,7 +3105,7 @@
             "fr": "Gamme pâtisserie",
             "de": "Konditorei-Sortiment"
           },
-          "url": "pasta-grubu"
+          "url": "ekatalog-pasta"
         },
         {
           "img": "/img/kategori/baharat-20-gr.webp",
@@ -3116,7 +3116,7 @@
             "fr": "Gamme épices 20 Gr",
             "de": "Gewürz-Sortiment 20 Gr"
           },
-          "url": "baharat-20-gr"
+          "url": "ekatalog-baharat"
         },
         {
           "img": "/img/kategori/burcak-drink.webp",
@@ -3127,7 +3127,7 @@
             "fr": "Burçak Drink",
             "de": "Burçak Drink"
           },
-          "url": "burcak-drink"
+          "url": "ekatalog-drink"
         },
         {
           "img": "/img/kategori/aromali-toz-icecek.webp",
@@ -3138,7 +3138,7 @@
             "fr": "Boissons en poudre aromatisées",
             "de": "Aromatisierte Getränkepulver"
           },
-          "url": "aromali-toz-icecek"
+          "url": "ekatalog-fruit-dance"
         },
         {
           "img": "/img/kategori/diger-urunler.webp",
@@ -3149,7 +3149,7 @@
             "fr": "Autres produits",
             "de": "Weitere Produkte"
           },
-          "url": "diger-urunler"
+          "url": "ekatalog-diger"
         }
       ],
       "category": "page-category",
@@ -4427,7 +4427,7 @@
               "fr": "Gamme piment rouge en flocons",
               "de": "Chiliflocken-Sortiment"
             },
-            "href": "pul-biber-grubu"
+            "href": "ekatalog-pul-biber"
           },
           {
             "text": {
@@ -4437,7 +4437,7 @@
               "fr": "Gamme sauces et vinaigres",
               "de": "Saucen- und Essig-Sortiment"
             },
-            "href": "sos-ve-sirke-grubu"
+            "href": "ekatalog-sos-sirke"
           },
           {
             "text": {
@@ -4447,7 +4447,7 @@
               "fr": "Gamme café",
               "de": "Kaffee-Sortiment"
             },
-            "href": "kahve-grubu"
+            "href": "ekatalog-kahve"
           },
           {
             "text": {
@@ -4457,7 +4457,7 @@
               "fr": "Gamme pâtisserie",
               "de": "Konditorei-Sortiment"
             },
-            "href": "pasta-grubu"
+            "href": "ekatalog-pasta"
           },
           {
             "text": {
@@ -4467,7 +4467,7 @@
               "fr": "Gamme épices 20 Gr",
               "de": "Gewürz-Sortiment 20 Gr"
             },
-            "href": "baharat-20-gr"
+            "href": "ekatalog-baharat"
           },
           {
             "text": {
@@ -4477,7 +4477,7 @@
               "fr": "Burçak Drink",
               "de": "Burçak Drink"
             },
-            "href": "burcak-drink"
+            "href": "ekatalog-drink"
           },
           {
             "text": {
@@ -4487,7 +4487,7 @@
               "fr": "Boissons en poudre aromatisées",
               "de": "Aromatisierte Getränkepulver"
             },
-            "href": "aromali-toz-icecek"
+            "href": "ekatalog-fruit-dance"
           },
           {
             "text": {
@@ -4497,7 +4497,7 @@
               "fr": "Autres produits",
               "de": "Weitere Produkte"
             },
-            "href": "diger-urunler"
+            "href": "ekatalog-diger"
           }
         ],
         "addresses": [
@@ -5277,6 +5277,134 @@
       "local": "body",
       "data": [],
       "index": 47
+    },
+    {
+      "name": "E-Katalog Kategori Sayfası (ürünler + PDF kartı)",
+      "desing": {
+        "max": "1200px",
+        "bgcolor": "#FBF6EE",
+        "cardbg": "#FFFFFF",
+        "color": "#2B2523",
+        "muted": "#5C514B",
+        "accent": "#8F1D2C",
+        "bordercolor": "#E8DCC8",
+        "soft": "#F3E9DA",
+        "t": {
+          "eyebrow": {
+            "tr": "E-Katalog",
+            "en": "E-Catalog",
+            "es": "E-catálogo",
+            "fr": "E-catalogue",
+            "de": "E-Katalog"
+          },
+          "count": {
+            "tr": "{n} ürün",
+            "en": "{n} products",
+            "es": "{n} productos",
+            "fr": "{n} produits",
+            "de": "{n} Produkte"
+          },
+          "pdfLabel": {
+            "tr": "PDF Katalog",
+            "en": "PDF Catalog",
+            "es": "Catálogo en PDF",
+            "fr": "Catalogue PDF",
+            "de": "PDF-Katalog"
+          },
+          "pdfNote": {
+            "tr": "Bu ürün grubunun basılı kataloğu — yeni sekmede açılır.",
+            "en": "The printed catalog of this product group — opens in a new tab.",
+            "es": "El catálogo impreso de este grupo de productos: se abre en una pestaña nueva.",
+            "fr": "Le catalogue imprimé de cette gamme — s'ouvre dans un nouvel onglet.",
+            "de": "Der gedruckte Katalog dieser Produktgruppe – öffnet in einem neuen Tab."
+          },
+          "pdfOpen": {
+            "tr": "PDF'i aç",
+            "en": "Open PDF",
+            "es": "Abrir PDF",
+            "fr": "Ouvrir le PDF",
+            "de": "PDF öffnen"
+          },
+          "listTitle": {
+            "tr": "Bu gruptaki ürünler",
+            "en": "Products in this group",
+            "es": "Productos de este grupo",
+            "fr": "Produits de cette gamme",
+            "de": "Produkte dieser Gruppe"
+          },
+          "otherTitle": {
+            "tr": "Diğer ürün grupları",
+            "en": "Other product groups",
+            "es": "Otros grupos de productos",
+            "fr": "Autres gammes de produits",
+            "de": "Weitere Produktgruppen"
+          },
+          "all": {
+            "tr": "Tüm ürünleri gör",
+            "en": "View all products",
+            "es": "Ver todos los productos",
+            "fr": "Voir tous les produits",
+            "de": "Alle Produkte ansehen"
+          },
+          "empty": {
+            "tr": "Bu grupta şu an ürün yok.",
+            "en": "There are no products in this group right now.",
+            "es": "Ahora mismo no hay productos en este grupo.",
+            "fr": "Aucun produit dans cette gamme pour le moment.",
+            "de": "In dieser Gruppe gibt es derzeit keine Produkte."
+          }
+        },
+        "pdf": {
+          "c5baharat20": {
+            "file": "sachet-spice-20gr",
+            "mb": "12.2",
+            "title": {
+              "tr": "Sachet Spice 20 gr Kataloğu",
+              "en": "Sachet Spice 20 gr Catalog",
+              "es": "Catálogo Sachet Spice 20 gr",
+              "fr": "Catalogue Sachet Spice 20 gr",
+              "de": "Katalog Sachet Spice 20 gr"
+            }
+          },
+          "c7aroma": {
+            "file": "fruit-dance",
+            "mb": "7.3",
+            "title": {
+              "tr": "Fruit Dance Toz İçecek Kataloğu",
+              "en": "Fruit Dance Powdered Drink Catalog",
+              "es": "Catálogo de bebidas en polvo Fruit Dance",
+              "fr": "Catalogue boissons en poudre Fruit Dance",
+              "de": "Fruit Dance Getränkepulver-Katalog"
+            }
+          },
+          "c4pasta": {
+            "file": "pudding",
+            "mb": "22.4",
+            "title": {
+              "tr": "Puding Kataloğu",
+              "en": "Pudding Catalog",
+              "es": "Catálogo de pudines",
+              "fr": "Catalogue Pudding",
+              "de": "Pudding-Katalog"
+            }
+          }
+        }
+      },
+      "data": [],
+      "category": "page-category",
+      "description": "Burçak Baharat'a özel (siteOzel): kategori sayfasında o kategorinin TÜM ürünlerini (görsel + ad + mevcut açıklama; fiyat yok), kategoriye bağlı PDF katalog kartını ve diğer ürün gruplarına bağlantıları basar. Kategori, render edilen kategori satırının id'sinden (page.id) çözülür; ürünler products.json'dan (category alanı) gelir. Beş dil, mobilde tek sütun.",
+      "version": "1.0.0",
+      "icon": "menu_book",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "webmakerdata.products + desing"
+      },
+      "id": "k8ekat",
+      "path": "ekatalog",
+      "local": "body",
+      "index": 48,
+      "siteOzel": true
     }
   ]
 }
