@@ -2957,94 +2957,6 @@
       "siteOzel": true
     },
     {
-      "name": "Hero 1",
-      "desing": {
-        "stil": "",
-        "max": "1200px",
-        "gradient": "linear-gradient(135deg, #5E0F1B 0%, #8F1D2C 52%, #6E1220 100%)",
-        "overlay": "linear-gradient(135deg, rgba(94,15,27,0.55) 0%, rgba(110,18,32,0.35) 100%)",
-        "title_accent": "linear-gradient(135deg, #F2C879, #E8A94A)",
-        "btn_primary_bg": "#F2C879",
-        "btn_primary_color": "#3B0A12",
-        "stat_accent": "#F2C879",
-        "shape1": "linear-gradient(135deg, rgba(242,200,121,0.35), rgba(242,200,121,0.08))",
-        "shape2": "linear-gradient(135deg, rgba(255,255,255,0.10), rgba(255,255,255,0.02))",
-        "shape3": "linear-gradient(135deg, rgba(255,255,255,0.14), rgba(255,255,255,0.04))",
-        "title": {
-          "tr": "Tarladan sofranıza lezzet yolculuğu",
-          "en": "A flavor journey from field to your table",
-          "es": "Un viaje de sabor del campo a su mesa",
-          "fr": "Du champ à votre table, un voyage gustatif",
-          "de": "Eine Geschmacksreise vom Feld auf Ihren Tisch"
-        },
-        "description": {
-          "tr": "Burçak Baharat; modern ve tam otomasyonlu tesisinde baharat, pastacılık ürünleri, sos ve sirke, kahve ile aromalı toz içecek gruplarında 90 çeşit ürün üretir.",
-          "en": "Burçak Baharat produces 90 varieties of products in its modern, fully automated facility across spices, pastry products, sauces and vinegar, coffee, and flavored powdered drinks.",
-          "es": "Burçak Baharat produce 90 variedades de productos en sus grupos de especias, productos de repostería, salsas y vinagres, café y bebidas en polvo aromatizadas, en una planta moderna y totalmente automatizada.",
-          "fr": "Burçak Baharat produit 90 variétés de produits dans les gammes épices, produits de pâtisserie, sauces et vinaigres, café et boissons en poudre aromatisées, au sein d'une usine moderne et entièrement automatisée.",
-          "de": "Burçak Baharat produziert in einer modernen, vollautomatisierten Anlage 90 Produkte aus den Bereichen Gewürze, Konditoreiprodukte, Saucen und Essig, Kaffee sowie aromatisierte Getränkepulver."
-        },
-        "badge": {
-          "tr": "40 yılı aşkın tecrübe",
-          "en": "Over 40 years of experience",
-          "es": "Más de 40 años de experiencia",
-          "fr": "Plus de 40 ans d'expérience",
-          "de": "Über 40 Jahre Erfahrung"
-        },
-        "image": "/img/hero.webp",
-        "alt": {
-          "tr": "Burçak Baharat ürün grupları: pul biber, Türk kahvesi, sos, puding, limonata ve baharat",
-          "en": "Burçak Baharat product groups: chili flakes, Turkish coffee, sauce, pudding, lemonade, and spices",
-          "es": "Grupos de productos de Burçak Baharat: hojuelas de chile, café turco, salsas, pudín, limonada y especias",
-          "fr": "Gammes de produits Burçak Baharat : piment rouge en flocons, café turc, sauces, pudding, limonade et épices",
-          "de": "Produktgruppen von Burçak Baharat: Chiliflocken, Türkischer Kaffee, Sauce, Pudding, Limonade und Gewürze"
-        },
-        "btn1": {
-          "tr": "Dijital Katalog",
-          "en": "Digital Catalog",
-          "es": "Catálogo digital",
-          "fr": "Catalogue numérique",
-          "de": "Digitaler Katalog"
-        },
-        "btn1_url": {
-          "tr": "/tr/ekatalog/",
-          "en": "/en/ekatalog/",
-          "es": "/es/ekatalog/",
-          "fr": "/fr/ekatalog/",
-          "de": "/de/ekatalog/"
-        },
-        "btn2": {
-          "tr": "Fiyat Listesi İçin Arayın",
-          "en": "Call for the Price List",
-          "es": "Llame para solicitar la lista de precios",
-          "fr": "Appelez pour la liste de prix",
-          "de": "Preisliste: Rufen Sie an"
-        },
-        "btn2_url": "iletisim",
-        "stats": {
-          "tr": "40+|Yıllık tecrübe|90|Ürün çeşidi|15|Ülkeye ihracat",
-          "en": "40+|Years of experience|90|Product varieties|15|Countries exported to",
-          "es": "40+|Años de experiencia|90|Variedades de productos|15|Países de exportación",
-          "fr": "40+|Années d'expérience|90|Variétés de produits|15|Pays d'exportation",
-          "de": "40+|Jahre Erfahrung|90|Produktsorten|15|Exportländer"
-        }
-      },
-      "category": "hero",
-      "description": "Gradient hero: istatistikler, CTA, görsel alanı. Metinler cok dilli (tr/en/ar); renkler --gradient--, --btn_primary_bg-- ile markaya uyumlanır. Buton URL pathnext (urunler, iletisim). Görsel varyant desing.stil (31 Eki 2026): \"\" klasik (koyu gradient, görsel + şekiller, bugünkü görünüm) · \"bolunmus\" (sayfa zemini, metin sol/RTL sağ, görsel yuvarlak köşeli dik kart, arkasında kaymış primary plaka) · \"alt-kart\" (görsel tam genişlik geniş bant, metin alttan binen ortalı yüzey kartı). Varyantlarda yazı var(--mx-site-text), zemin bg/surface token; birincil düğme btn_primary_bg/btn_primary_color çifti kalır.",
-      "version": "1.2.0",
-      "icon": "hero",
-      "veri": {
-        "statik": true,
-        "dinamik": false,
-        "kaynak": "desing/data"
-      },
-      "id": "kb64l3",
-      "path": "hero-1",
-      "local": "body",
-      "data": [],
-      "index": 27
-    },
-    {
       "name": "Kategori Vitrin (Görselli Ürün Grupları)",
       "desing": {
         "max": "1200px",
@@ -3061,11 +2973,11 @@
           "de": "Unsere Produktgruppen"
         },
         "subtitle": {
-          "tr": "8 ürün grubunda 90 çeşit — kategoriye tıklayın, ürünleri görün",
-          "en": "90 varieties in 8 product groups — click a category to see the products",
-          "es": "90 variedades en 8 grupos de productos — haga clic en una categoría para ver los productos",
-          "fr": "90 variétés en 8 gammes de produits — cliquez sur une catégorie pour voir les produits",
-          "de": "90 Produkte in 8 Produktgruppen — Gruppe anklicken und Produkte ansehen"
+          "tr": "7 ürün grubunda 77 çeşit — kategoriye tıklayın, ürünleri görün",
+          "en": "77 varieties in 7 product groups — click a category to see the products",
+          "es": "77 variedades en 7 grupos de productos — haga clic en una categoría para ver los productos",
+          "fr": "77 variétés en 7 gammes de produits — cliquez sur une catégorie pour voir les produits",
+          "de": "77 Produkte in 7 Produktgruppen — Gruppe anklicken und Produkte ansehen"
         }
       },
       "data": [
@@ -3145,17 +3057,6 @@
             "de": "Aromatisierte Getränkepulver"
           },
           "url": "ekatalog-fruit-dance"
-        },
-        {
-          "img": "/img/kategori/diger-urunler.webp",
-          "name": {
-            "tr": "Diğer Ürünler",
-            "en": "Other Products",
-            "es": "Otros productos",
-            "fr": "Autres produits",
-            "de": "Weitere Produkte"
-          },
-          "url": "ekatalog-diger"
         }
       ],
       "category": "page-category",
@@ -3220,17 +3121,6 @@
           "url": "turk-kahvesi"
         },
         {
-          "img": "/page/tlo5984eba/index.webp",
-          "name": {
-            "tr": "Nar Ekşili Sos (500 ml)",
-            "en": "Pomegranate Sour Sauce (500 ml)",
-            "es": "Salsa de granada agria (500 ml)",
-            "fr": "Sauce à la mélasse de grenade (500 ml)",
-            "de": "Granatapfelsauce (500 ml)"
-          },
-          "url": "nar-eksili-sos-500-ml"
-        },
-        {
           "img": "/page/ep4zxxbtiz/index.webp",
           "name": {
             "tr": "Puding (Çilekli)",
@@ -3253,17 +3143,6 @@
           "url": "kakao-kutu"
         },
         {
-          "img": "/page/2lh75nf9v3/index.webp",
-          "name": {
-            "tr": "Galeta Unu",
-            "en": "Breadcrumbs",
-            "es": "Pan rallado",
-            "fr": "Chapelure",
-            "de": "Paniermehl"
-          },
-          "url": "galeta-unu"
-        },
-        {
           "img": "/page/lie9kh44oh/index.webp",
           "name": {
             "tr": "Kimyon Toz",
@@ -3273,17 +3152,6 @@
             "de": "Kreuzkümmel, gemahlen"
           },
           "url": "kimyon-toz"
-        },
-        {
-          "img": "/page/ge4cfbw1d7/index.webp",
-          "name": {
-            "tr": "Turşukur",
-            "en": "Pickling Mix",
-            "es": "Turşukur (mezcla para encurtidos)",
-            "fr": "Turşukur (préparation pour pickles)",
-            "de": "Turşukur (Einlegemischung)"
-          },
-          "url": "tursukur"
         }
       ],
       "category": "page-category",
@@ -3416,7 +3284,7 @@
           }
         },
         {
-          "deger": 90,
+          "deger": 77,
           "onek": "",
           "sonek": "",
           "ikon": "inventory_2",
@@ -3428,11 +3296,11 @@
             "de": "Produktsorten"
           },
           "aciklama": {
-            "tr": "8 ürün grubunda",
-            "en": "Across 8 product groups",
-            "es": "En 8 grupos de productos",
-            "fr": "Réparties en 8 gammes de produits",
-            "de": "In 8 Produktgruppen"
+            "tr": "7 ürün grubunda",
+            "en": "Across 7 product groups",
+            "es": "En 7 grupos de productos",
+            "fr": "Réparties en 7 gammes de produits",
+            "de": "In 7 Produktgruppen"
           }
         },
         {
@@ -3879,11 +3747,11 @@
           "de": "Wir bringen Natürlichkeit und Geschmack in die Verpackung"
         },
         "description": {
-          "tr": "40 yılı aşkın tecrübemiz ve modern, tam otomasyonlu tesisimizle baharattan pastacılık ürünlerine, sostan toz içeceğe kadar sofranızın ihtiyaç duyduğu 90 çeşit ürünü üretiyoruz.",
-          "en": "With over 40 years of experience and our modern, fully automated facility, we produce the 90 varieties of products your table needs, from spices to pastry products, from sauces to powdered drinks.",
-          "es": "Con más de 40 años de experiencia y nuestra planta moderna y totalmente automatizada, producimos 90 variedades de productos que su mesa necesita, desde especias hasta productos de repostería, desde salsas hasta bebidas en polvo.",
-          "fr": "Forts de plus de 40 ans d'expérience et de notre usine moderne et entièrement automatisée, nous produisons les 90 variétés de produits dont votre table a besoin, des épices aux produits de pâtisserie, des sauces aux boissons en poudre.",
-          "de": "Mit mehr als 40 Jahren Erfahrung und unserer modernen, vollautomatisierten Anlage produzieren wir 90 Produkte, die Ihre Küche braucht – von Gewürzen und Konditoreiprodukten bis zu Saucen und Getränkepulvern."
+          "tr": "40 yılı aşkın tecrübemiz ve modern, tam otomasyonlu tesisimizle baharattan pastacılık ürünlerine, sostan toz içeceğe kadar sofranızın ihtiyaç duyduğu 77 çeşit ürünü üretiyoruz.",
+          "en": "With over 40 years of experience and our modern, fully automated facility, we produce the 77 varieties of products your table needs, from spices to pastry products, from sauces to powdered drinks.",
+          "es": "Con más de 40 años de experiencia y nuestra planta moderna y totalmente automatizada, producimos 77 variedades de productos que su mesa necesita, desde especias hasta productos de repostería, desde salsas hasta bebidas en polvo.",
+          "fr": "Forts de plus de 40 ans d'expérience et de notre usine moderne et entièrement automatisée, nous produisons les 77 variétés de produits dont votre table a besoin, des épices aux produits de pâtisserie, des sauces aux boissons en poudre.",
+          "de": "Mit mehr als 40 Jahren Erfahrung und unserer modernen, vollautomatisierten Anlage produzieren wir 77 Produkte, die Ihre Küche braucht – von Gewürzen und Konditoreiprodukten bis zu Saucen und Getränkepulvern."
         },
         "btn1Text": {
           "tr": "Biz Kimiz?",
@@ -4494,16 +4362,6 @@
               "de": "Aromatisierte Getränkepulver"
             },
             "href": "ekatalog-fruit-dance"
-          },
-          {
-            "text": {
-              "tr": "Diğer Ürünler",
-              "en": "Other Products",
-              "es": "Otros productos",
-              "fr": "Autres produits",
-              "de": "Weitere Produkte"
-            },
-            "href": "ekatalog-diger"
           }
         ],
         "addresses": [
@@ -5419,7 +5277,7 @@
       "index": 49,
       "siteOzel": true,
       "data": [],
-      "name": "E-Katalog Ana Sayfa (8 kategori kartı + tüm ürünler)",
+      "name": "E-Katalog Ana Sayfa (kategori kartları + tüm ürünler)",
       "desing": {
         "max": "1200px",
         "bgcolor": "#FBF6EE",
@@ -5503,13 +5361,120 @@
         }
       },
       "category": "page-category",
-      "description": "Burçak Baharat'a özel (siteOzel): sitenin ana dijital kataloğu. 8 kategori kartı (görsel + ad + ürün sayısı, temiz kategori URL'sine bağlı) ve altında kategoriye göre gruplu TAM ürün ızgarası (görsel + ad + mevcut açıklama; fiyat yok). Veri category.json + products.json'dan; beş dil, mobilde tek sütun.",
+      "description": "Burçak Baharat'a özel (siteOzel): sitenin ana dijital kataloğu. kategori kartları (görsel + ad + ürün sayısı, temiz kategori URL'sine bağlı) ve altında kategoriye göre gruplu TAM ürün ızgarası (görsel + ad + mevcut açıklama; fiyat yok). Veri category.json + products.json'dan; beş dil, mobilde tek sütun.",
       "version": "1.0.0",
       "icon": "menu_book",
       "veri": {
         "statik": true,
         "dinamik": false,
         "kaynak": "webmakerdata.category + webmakerdata.products"
+      }
+    },
+    {
+      "id": "k8slider",
+      "path": "slider-urun",
+      "local": "body",
+      "index": 50,
+      "siteOzel": true,
+      "data": [],
+      "name": "Ürün Görsel Slider (yazısız, gerçek ürün fotoğrafları)",
+      "description": "Burçak Baharat'a özel (siteOzel) yazısız görsel slider: yalnız mevcut ürünlerin kendi fotoğraflarından hazırlanmış kompozitler (web 1920×1000, mobil 960×1200 / 4:5). Kaydırma-yakalama (dokunmatik swipe), 5 sn otomatik geçiş (hover/odak/dokunma ve sekme gizliyken duraklar, hareket azaltma tercihine uyar), ok + nokta göstergeleri (yalnız simge, metin yok), klavye okları. Her slayt ilgili kategori sayfasına bağlanır. Slayt başına desing.slides: wide/tall görsel + slug + 5 dilli alt metin.",
+      "version": "1.0.0",
+      "icon": "view_carousel",
+      "category": "slider",
+      "desing": {
+        "max": "1920px",
+        "bgcolor": "#FBF6EE",
+        "accent": "#8F1D2C",
+        "interval": 5000,
+        "tallMax": 600,
+        "slides": [
+          {
+            "slug": "ekatalog-baharat",
+            "wide": "/img/slider/baharat-wide.webp",
+            "tall": "/img/slider/baharat-tall.webp",
+            "alt": {
+              "tr": "Burçak pul biber ve 20 gr baharat poşetleri",
+              "en": "Burçak red chili flakes and 20 g spice sachets",
+              "es": "Hojuelas de chile rojo Burçak y sobres de especias de 20 g",
+              "fr": "Piment rouge en flocons Burçak et sachets d'épices de 20 g",
+              "de": "Burçak Chiliflocken und 20-g-Gewürzbeutel"
+            }
+          },
+          {
+            "slug": "ekatalog-pasta",
+            "wide": "/img/slider/pasta-wide.webp",
+            "tall": "/img/slider/pasta-tall.webp",
+            "alt": {
+              "tr": "Burçak puding, krem şanti ve kakao ürünleri",
+              "en": "Burçak pudding, whipped cream mix and cocoa products",
+              "es": "Productos Burçak de pudín, crema batida y cacao",
+              "fr": "Produits Burçak : pudding, crème chantilly et cacao",
+              "de": "Burçak Pudding, Sahnecreme und Kakao"
+            }
+          },
+          {
+            "slug": "ekatalog-fruit-dance",
+            "wide": "/img/slider/icecek-wide.webp",
+            "tall": "/img/slider/icecek-tall.webp",
+            "alt": {
+              "tr": "Burçak Limonata ve Fruit Dance aromalı toz içecekler",
+              "en": "Burçak Lemonade and Fruit Dance flavored powdered drinks",
+              "es": "Limonada Burçak y bebidas en polvo aromatizadas Fruit Dance",
+              "fr": "Limonade Burçak et boissons en poudre aromatisées Fruit Dance",
+              "de": "Burçak Limonade und Fruit Dance Getränkepulver"
+            }
+          }
+        ],
+        "t": {
+          "region": {
+            "tr": "Burçak Baharat ürün görselleri",
+            "en": "Burçak Baharat product images",
+            "es": "Imágenes de productos de Burçak Baharat",
+            "fr": "Images des produits Burçak Baharat",
+            "de": "Produktbilder von Burçak Baharat"
+          },
+          "h1": {
+            "tr": "Burçak Baharat — baharat, pasta ürünleri ve içecek",
+            "en": "Burçak Baharat — spices, pastry products and drinks",
+            "es": "Burçak Baharat — especias, productos de repostería y bebidas",
+            "fr": "Burçak Baharat — épices, produits de pâtisserie et boissons",
+            "de": "Burçak Baharat — Gewürze, Konditoreiprodukte und Getränke"
+          },
+          "slide": {
+            "tr": "Slayt {n} / {t}",
+            "en": "Slide {n} of {t}",
+            "es": "Diapositiva {n} de {t}",
+            "fr": "Diapositive {n} sur {t}",
+            "de": "Folie {n} von {t}"
+          },
+          "prev": {
+            "tr": "Önceki slayt",
+            "en": "Previous slide",
+            "es": "Diapositiva anterior",
+            "fr": "Diapositive précédente",
+            "de": "Vorherige Folie"
+          },
+          "next": {
+            "tr": "Sonraki slayt",
+            "en": "Next slide",
+            "es": "Diapositiva siguiente",
+            "fr": "Diapositive suivante",
+            "de": "Nächste Folie"
+          },
+          "go": {
+            "tr": "Slayt {n}",
+            "en": "Slide {n}",
+            "es": "Diapositiva {n}",
+            "fr": "Diapositive {n}",
+            "de": "Folie {n}"
+          }
+        }
+      },
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/slides"
       }
     }
   ]

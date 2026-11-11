@@ -223,38 +223,6 @@
         "fr": "Boissons en poudre aromatisées de Burçak Baharat — pour la vente en gros et la liste de prix, appelez le +90 342 238 11 11.",
         "de": "Burçak Baharat aromatisierte Getränkepulver — Produkte im Großhandel; für die Preisliste: +90 342 238 11 11."
       }
-    },
-    {
-      "name": {
-        "tr": "Diğer Ürünler",
-        "en": "Other Products",
-        "es": "Otros productos",
-        "fr": "Autres produits",
-        "de": "Weitere Produkte"
-      },
-      "id": "c8diger",
-      "index": 7,
-      "path": "diger-urunler",
-      "category": "",
-      "status": "play",
-      "icon": "category",
-      "img": "diger-urunler.webp",
-      "desing": {
-        "header": [],
-        "body": [
-          "k8ekat",
-          "1569r1"
-        ],
-        "footer": []
-      },
-      "pathnext": "ekatalog-diger",
-      "description": {
-        "tr": "Burçak Baharat Diğer Ürünler ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.",
-        "en": "Burçak Baharat Other Products — call +90 342 238 11 11 for wholesale and the price list.",
-        "es": "Otros productos de Burçak Baharat — para venta al por mayor y lista de precios, llame al +90 342 238 11 11.",
-        "fr": "Autres produits de Burçak Baharat — pour la vente en gros et la liste de prix, appelez le +90 342 238 11 11.",
-        "de": "Burçak Baharat weitere Produkte — Produkte im Großhandel; für die Preisliste: +90 342 238 11 11."
-      }
     }
   ],
   "desc": [],

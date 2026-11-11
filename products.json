@@ -113,146 +113,6 @@
       "img": "index.webp"
     },
     {
-      "id": "xbttn8xbsl",
-      "name": {
-        "tr": "Limon Sosu (1000 ml)",
-        "en": "Lemon Sauce (1000 ml)",
-        "es": "Salsa de limón (1000 ml)",
-        "fr": "Sauce au citron (1000 ml)",
-        "de": "Zitronensauce (1000 ml)"
-      },
-      "description": {
-        "tr": "Limon ekşisi tadını yemeklere kolayca taşıyan hazır sos. Salata, balık, tavuk ve et yemeklerinde taze limon yerine pratik kullanım sunar; toplu mutfaklar için büyük boy. 1000 ml ambalaj. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "en": "A ready-made sauce that easily brings the tangy taste of lemon to dishes. Offers a practical alternative to fresh lemon in salads, fish, chicken, and meat dishes; large size for catering kitchens. 1000 ml packaging. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "es": "Salsa lista que lleva con facilidad el sabor ácido del limón a los platos. Ofrece un uso práctico en lugar del limón fresco en ensaladas, pescados, pollo y carnes; formato grande para cocinas colectivas. Envase de 1000 ml. Para precios al por mayor, existencias y spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "fr": "Sauce prête à l'emploi qui apporte facilement aux plats le goût acidulé du citron. Une alternative pratique au citron frais dans les salades, les plats de poisson, de volaille et de viande ; grand format pour les cuisines collectives. Conditionnement : 1000 ml. Prix de gros, stock et spec sheet : +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "de": "Fertige Sauce, die den säuerlichen Geschmack von Zitrone einfach in Gerichte bringt. Praktischer Ersatz für frische Zitrone in Salaten sowie Fisch-, Hähnchen- und Fleischgerichten; große Packung für Großküchen. Verpackung: 1000 ml. Für Großhandelspreis, Lagerbestand und Spec Sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr."
-      },
-      "path": "limon-sosu-1000-ml",
-      "icon": "restaurant",
-      "category": "c2sosirke",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 4,
-      "img": "index.webp"
-    },
-    {
-      "id": "ea4vx1q60g",
-      "name": {
-        "tr": "Limon Sosu (500 ml)",
-        "en": "Lemon Sauce (500 ml)",
-        "es": "Salsa de limón (500 ml)",
-        "fr": "Sauce au citron (500 ml)",
-        "de": "Zitronensauce (500 ml)"
-      },
-      "description": {
-        "tr": "Limon ekşisi tadını yemeklere kolayca taşıyan hazır sos. Salata, balık, tavuk ve et yemeklerinde taze limon yerine pratik kullanım sunar. 500 ml ambalaj. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "en": "A ready-made sauce that easily brings the tangy taste of lemon to dishes. Offers a practical alternative to fresh lemon in salads, fish, chicken, and meat dishes. 500 ml packaging. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "es": "Salsa lista que lleva con facilidad el sabor ácido del limón a los platos. Ofrece un uso práctico en lugar del limón fresco en ensaladas, pescados, pollo y carnes. Envase de 500 ml. Para precios al por mayor, existencias y spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "fr": "Sauce prête à l'emploi qui apporte facilement aux plats le goût acidulé du citron. Une alternative pratique au citron frais dans les salades, les plats de poisson, de volaille et de viande. Conditionnement : 500 ml. Prix de gros, stock et spec sheet : +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "de": "Fertige Sauce, die den säuerlichen Geschmack von Zitrone einfach in Gerichte bringt. Praktischer Ersatz für frische Zitrone in Salaten sowie Fisch-, Hähnchen- und Fleischgerichten. Verpackung: 500 ml. Für Großhandelspreis, Lagerbestand und Spec Sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr."
-      },
-      "path": "limon-sosu-500-ml",
-      "icon": "restaurant",
-      "category": "c2sosirke",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 5,
-      "img": "index.webp"
-    },
-    {
-      "id": "p07q5zwjd2",
-      "name": {
-        "tr": "Nar Ekşili Sos (1000 ml)",
-        "en": "Pomegranate Sour Sauce (1000 ml)",
-        "es": "Salsa de granada agria (1000 ml)",
-        "fr": "Sauce à la mélasse de grenade (1000 ml)",
-        "de": "Granatapfelsauce (1000 ml)"
-      },
-      "description": {
-        "tr": "Nar ekşisi tadındaki geleneksel sos. Salatalara, etli yemeklere ve mezelere ekşi-tatlı bir lezzet katar; toplu mutfaklar için büyük boy. 1000 ml ambalaj. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "en": "A traditional sauce with the taste of sour pomegranate. Adds a sweet-and-sour flavor to salads, meat dishes, and mezes; large size for catering kitchens. 1000 ml packaging. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "es": "Salsa tradicional con el sabor de la granada agria. Aporta un sabor agridulce a ensaladas, platos de carne y mezes; formato grande para cocinas colectivas. Envase de 1000 ml. Para precios al por mayor, existencias y spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "fr": "Sauce traditionnelle au goût de mélasse de grenade. Apporte une saveur aigre-douce aux salades, aux plats de viande et aux mezzés ; grand format pour les cuisines collectives. Conditionnement : 1000 ml. Prix de gros, stock et spec sheet : +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "de": "Traditionelle Sauce mit dem Geschmack von saurem Granatapfel. Verleiht Salaten, Fleischgerichten und Vorspeisen (Meze) einen süß-sauren Geschmack; große Packung für Großküchen. Verpackung: 1000 ml. Für Großhandelspreis, Lagerbestand und Spec Sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr."
-      },
-      "path": "nar-eksili-sos-1000-ml",
-      "icon": "restaurant",
-      "category": "c2sosirke",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 6,
-      "img": "index.webp"
-    },
-    {
-      "id": "f0s8171deb",
-      "name": {
-        "tr": "Nar Ekşili Sos (350 ml)",
-        "en": "Pomegranate Sour Sauce (350 ml)",
-        "es": "Salsa de granada agria (350 ml)",
-        "fr": "Sauce à la mélasse de grenade (350 ml)",
-        "de": "Granatapfelsauce (350 ml)"
-      },
-      "description": {
-        "tr": "Nar ekşisi tadındaki geleneksel sos. Salatalara, etli yemeklere ve mezelere ekşi-tatlı bir lezzet katar; küçük boy ambalaj. 350 ml ambalaj. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "en": "A traditional sauce with the taste of sour pomegranate. Adds a sweet-and-sour flavor to salads, meat dishes, and mezes; small-size pack. 350 ml packaging. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "es": "Salsa tradicional con el sabor de la granada agria. Aporta un sabor agridulce a ensaladas, platos de carne y mezes; envase de tamaño pequeño. Envase de 350 ml. Para precios al por mayor, existencias y spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "fr": "Sauce traditionnelle au goût de mélasse de grenade. Apporte une saveur aigre-douce aux salades, aux plats de viande et aux mezzés ; petit format. Conditionnement : 350 ml. Prix de gros, stock et spec sheet : +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "de": "Traditionelle Sauce mit dem Geschmack von saurem Granatapfel. Verleiht Salaten, Fleischgerichten und Vorspeisen (Meze) einen süß-sauren Geschmack; kleine Packung. Verpackung: 350 ml. Für Großhandelspreis, Lagerbestand und Spec Sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr."
-      },
-      "path": "nar-eksili-sos-350-ml",
-      "icon": "restaurant",
-      "category": "c2sosirke",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 7,
-      "img": "index.webp"
-    },
-    {
-      "id": "tlo5984eba",
-      "name": {
-        "tr": "Nar Ekşili Sos (500 ml)",
-        "en": "Pomegranate Sour Sauce (500 ml)",
-        "es": "Salsa de granada agria (500 ml)",
-        "fr": "Sauce à la mélasse de grenade (500 ml)",
-        "de": "Granatapfelsauce (500 ml)"
-      },
-      "description": {
-        "tr": "Nar ekşisi tadındaki geleneksel sos. Salatalara, etli yemeklere ve mezelere ekşi-tatlı bir lezzet katar. 500 ml ambalaj. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "en": "A traditional sauce with the taste of sour pomegranate. Adds a sweet-and-sour flavor to salads, meat dishes, and mezes. 500 ml packaging. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "es": "Salsa tradicional con el sabor de la granada agria. Aporta un sabor agridulce a ensaladas, platos de carne y mezes. Envase de 500 ml. Para precios al por mayor, existencias y spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "fr": "Sauce traditionnelle au goût de mélasse de grenade. Apporte une saveur aigre-douce aux salades, aux plats de viande et aux mezzés. Conditionnement : 500 ml. Prix de gros, stock et spec sheet : +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "de": "Traditionelle Sauce mit dem Geschmack von saurem Granatapfel. Verleiht Salaten, Fleischgerichten und Vorspeisen (Meze) einen süß-sauren Geschmack. Verpackung: 500 ml. Für Großhandelspreis, Lagerbestand und Spec Sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr."
-      },
-      "path": "nar-eksili-sos-500-ml",
-      "icon": "restaurant",
-      "category": "c2sosirke",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 8,
-      "img": "index.webp"
-    },
-    {
       "id": "qmxhbnhyxx",
       "name": {
         "tr": "Üzüm Sirkesi (1000ml)",
@@ -277,63 +137,7 @@
         "body": [],
         "footer": []
       },
-      "index": 9,
-      "img": "index.webp"
-    },
-    {
-      "id": "jeet5og9bx",
-      "name": {
-        "tr": "Gold Kahve",
-        "en": "Gold Coffee",
-        "es": "Café Gold",
-        "fr": "Café Gold",
-        "de": "Gold Kaffee"
-      },
-      "description": {
-        "tr": "Hızlı hazırlanan, suda çözünen hazır (instant) kahve. Sıcak içecek servisi için pratik bir seçenek; ofis, otel ve kafe kullanımına uygundur. 100 g ambalaj. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "en": "Quick-to-prepare, water-soluble instant coffee. A practical option for hot beverage service; suitable for office, hotel, and café use. 100 g packaging. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "es": "Café instantáneo soluble en agua, de preparación rápida. Una opción práctica para el servicio de bebidas calientes; apto para uso en oficinas, hoteles y cafeterías. Envase de 100 g. Para precios al por mayor, existencias y spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "fr": "Café instantané, soluble dans l'eau et rapide à préparer. Une option pratique pour le service de boissons chaudes ; convient à un usage en bureau, en hôtel et en café. Conditionnement : 100 g. Prix de gros, stock et spec sheet : +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "de": "Schnell zubereiteter, wasserlöslicher Instantkaffee. Praktische Wahl für den Heißgetränkeservice; geeignet für Büro, Hotel und Café. Verpackung: 100 g. Für Großhandelspreis, Lagerbestand und Spec Sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr."
-      },
-      "path": "gold-kahve",
-      "icon": "restaurant",
-      "category": "c3kahve",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 10,
-      "img": "index.webp"
-    },
-    {
-      "id": "7icp963tgg",
-      "name": {
-        "tr": "Kahve Kreması",
-        "en": "Coffee Creamer",
-        "es": "Crema para café",
-        "fr": "Crème pour café",
-        "de": "Kaffeeweißer"
-      },
-      "description": {
-        "tr": "Kahveye ve sıcak içeceklere eklenen toz krema. Kahvenin sertliğini yumuşatır ve içeceğe daha kremsi bir doku verir. 200 g ambalaj. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "en": "Powdered creamer added to coffee and hot drinks. Softens the harshness of coffee and gives the drink a creamier texture. 200 g packaging. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "es": "Crema en polvo que se añade al café y a las bebidas calientes. Suaviza la intensidad del café y da a la bebida una textura más cremosa. Envase de 200 g. Para precios al por mayor, existencias y spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "fr": "Crème en poudre à ajouter au café et aux boissons chaudes. Adoucit l'amertume du café et donne à la boisson une texture plus onctueuse. Conditionnement : 200 g. Prix de gros, stock et spec sheet : +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "de": "Cremepulver zum Hinzufügen zu Kaffee und Heißgetränken. Mildert die Schärfe des Kaffees und verleiht dem Getränk eine cremigere Textur. Verpackung: 200 g. Für Großhandelspreis, Lagerbestand und Spec Sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr."
-      },
-      "path": "kahve-kremasi",
-      "icon": "restaurant",
-      "category": "c3kahve",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 11,
+      "index": 4,
       "img": "index.webp"
     },
     {
@@ -361,7 +165,7 @@
         "body": [],
         "footer": []
       },
-      "index": 12,
+      "index": 5,
       "img": "index.webp"
     },
     {
@@ -389,7 +193,7 @@
         "body": [],
         "footer": []
       },
-      "index": 13,
+      "index": 6,
       "img": "index.webp"
     },
     {
@@ -417,7 +221,7 @@
         "body": [],
         "footer": []
       },
-      "index": 14,
+      "index": 7,
       "img": "index.webp"
     },
     {
@@ -445,7 +249,7 @@
         "body": [],
         "footer": []
       },
-      "index": 15,
+      "index": 8,
       "img": "index.webp"
     },
     {
@@ -473,35 +277,7 @@
         "body": [],
         "footer": []
       },
-      "index": 16,
-      "img": "index.webp"
-    },
-    {
-      "id": "2lh75nf9v3",
-      "name": {
-        "tr": "Galeta Unu",
-        "en": "Breadcrumbs",
-        "es": "Pan rallado",
-        "fr": "Chapelure",
-        "de": "Paniermehl"
-      },
-      "description": {
-        "tr": "Kızartma ve fırın yemeklerinde kullanılan, kıtır kaplama için hazır galeta unu. Köfte, schnitzel, tavuk ve sebze kızartmalarında kaplama olarak kullanılır. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "en": "Ready-made breadcrumbs for a crispy coating, used in frying and oven dishes. Used as a coating for meatballs, schnitzel, chicken, and fried vegetables. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "es": "Pan rallado listo para un rebozado crujiente, utilizado en frituras y platos al horno. Se emplea como rebozado en albóndigas, escalopes, pollo y frituras de verduras. Para precios al por mayor, existencias y spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "fr": "Chapelure prête à l'emploi pour un enrobage croustillant, utilisée pour les fritures et les plats au four. Sert d'enrobage pour les boulettes de viande, les escalopes, le poulet et les légumes frits. Prix de gros, stock et spec sheet : +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "de": "Gebrauchsfertiges Paniermehl für eine knusprige Panade bei Frittiertem und Ofengerichten. Wird als Panade für Köfte, Schnitzel, Hähnchen und frittiertes Gemüse verwendet. Für Großhandelspreis, Lagerbestand und Spec Sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr."
-      },
-      "path": "galeta-unu",
-      "icon": "restaurant",
-      "category": "c4pasta",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 17,
+      "index": 9,
       "img": "index.webp"
     },
     {
@@ -529,7 +305,7 @@
         "body": [],
         "footer": []
       },
-      "index": 18,
+      "index": 10,
       "img": "index.webp"
     },
     {
@@ -557,7 +333,7 @@
         "body": [],
         "footer": []
       },
-      "index": 19,
+      "index": 11,
       "img": "index.webp"
     },
     {
@@ -585,7 +361,7 @@
         "body": [],
         "footer": []
       },
-      "index": 20,
+      "index": 12,
       "img": "index.webp"
     },
     {
@@ -613,7 +389,7 @@
         "body": [],
         "footer": []
       },
-      "index": 21,
+      "index": 13,
       "img": "index.webp"
     },
     {
@@ -641,7 +417,7 @@
         "body": [],
         "footer": []
       },
-      "index": 22,
+      "index": 14,
       "img": "index.webp"
     },
     {
@@ -669,63 +445,7 @@
         "body": [],
         "footer": []
       },
-      "index": 23,
-      "img": "index.webp"
-    },
-    {
-      "id": "hacfodzxe9",
-      "name": {
-        "tr": "Mısır Nişastası",
-        "en": "Corn Starch",
-        "es": "Almidón de maíz",
-        "fr": "Amidon de maïs",
-        "de": "Maisstärke"
-      },
-      "description": {
-        "tr": "Mısırdan elde edilen toz nişasta. Puding, krema, sos ve çorbaların kıvamlandırılmasında kullanılır. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "en": "Powdered starch obtained from corn. Used to thicken pudding, cream, sauces, and soups. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "es": "Almidón en polvo obtenido del maíz. Se utiliza para espesar pudines, cremas, salsas y sopas. Para precios al por mayor, existencias y spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "fr": "Amidon en poudre obtenu à partir du maïs. Utilisé pour lier les puddings, les crèmes, les sauces et les soupes. Prix de gros, stock et spec sheet : +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "de": "Aus Mais gewonnene Stärke in Pulverform. Zum Andicken von Pudding, Creme, Saucen und Suppen. Für Großhandelspreis, Lagerbestand und Spec Sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr."
-      },
-      "path": "misir-nisastasi",
-      "icon": "restaurant",
-      "category": "c4pasta",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 24,
-      "img": "index.webp"
-    },
-    {
-      "id": "6825ohd5l7",
-      "name": {
-        "tr": "Mısır Unu",
-        "en": "Corn Flour",
-        "es": "Harina de maíz",
-        "fr": "Farine de maïs",
-        "de": "Maismehl"
-      },
-      "description": {
-        "tr": "Mısırın öğütülmesiyle elde edilen ince un. Mısır ekmeği, kızartma kaplaması, çorba ve tatlı hazırlıklarında kullanılır. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "en": "A fine flour obtained by grinding corn. Used in cornbread, frying coatings, soups, and dessert preparations. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "es": "Harina fina obtenida de la molienda del maíz. Se utiliza en pan de maíz, rebozados para frituras, sopas y preparaciones de postres. Para precios al por mayor, existencias y spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "fr": "Farine fine obtenue par mouture du maïs. Utilisée pour le pain de maïs, l'enrobage des fritures, les soupes et les préparations de desserts. Prix de gros, stock et spec sheet : +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "de": "Aus gemahlenem Mais gewonnenes feines Mehl. Wird für Maisbrot, Panaden, Suppen und Dessertzubereitungen verwendet. Für Großhandelspreis, Lagerbestand und Spec Sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr."
-      },
-      "path": "misir-unu",
-      "icon": "restaurant",
-      "category": "c4pasta",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 25,
+      "index": 15,
       "img": "index.webp"
     },
     {
@@ -753,7 +473,7 @@
         "body": [],
         "footer": []
       },
-      "index": 26,
+      "index": 16,
       "img": "index.webp"
     },
     {
@@ -781,7 +501,7 @@
         "body": [],
         "footer": []
       },
-      "index": 27,
+      "index": 17,
       "img": "index.webp"
     },
     {
@@ -809,7 +529,7 @@
         "body": [],
         "footer": []
       },
-      "index": 28,
+      "index": 18,
       "img": "index.webp"
     },
     {
@@ -837,7 +557,7 @@
         "body": [],
         "footer": []
       },
-      "index": 29,
+      "index": 19,
       "img": "index.webp"
     },
     {
@@ -865,7 +585,7 @@
         "body": [],
         "footer": []
       },
-      "index": 30,
+      "index": 20,
       "img": "index.webp"
     },
     {
@@ -893,7 +613,7 @@
         "body": [],
         "footer": []
       },
-      "index": 31,
+      "index": 21,
       "img": "index.webp"
     },
     {
@@ -921,7 +641,7 @@
         "body": [],
         "footer": []
       },
-      "index": 32,
+      "index": 22,
       "img": "index.webp"
     },
     {
@@ -949,7 +669,7 @@
         "body": [],
         "footer": []
       },
-      "index": 33,
+      "index": 23,
       "img": "index.webp"
     },
     {
@@ -977,7 +697,7 @@
         "body": [],
         "footer": []
       },
-      "index": 34,
+      "index": 24,
       "img": "index.webp"
     },
     {
@@ -1005,7 +725,7 @@
         "body": [],
         "footer": []
       },
-      "index": 35,
+      "index": 25,
       "img": "index.webp"
     },
     {
@@ -1033,7 +753,7 @@
         "body": [],
         "footer": []
       },
-      "index": 36,
+      "index": 26,
       "img": "index.webp"
     },
     {
@@ -1061,7 +781,7 @@
         "body": [],
         "footer": []
       },
-      "index": 37,
+      "index": 27,
       "img": "index.webp"
     },
     {
@@ -1089,7 +809,7 @@
         "body": [],
         "footer": []
       },
-      "index": 38,
+      "index": 28,
       "img": "index.webp"
     },
     {
@@ -1117,7 +837,7 @@
         "body": [],
         "footer": []
       },
-      "index": 39,
+      "index": 29,
       "img": "index.webp"
     },
     {
@@ -1145,7 +865,7 @@
         "body": [],
         "footer": []
       },
-      "index": 40,
+      "index": 30,
       "img": "index.webp"
     },
     {
@@ -1173,7 +893,7 @@
         "body": [],
         "footer": []
       },
-      "index": 41,
+      "index": 31,
       "img": "index.webp"
     },
     {
@@ -1201,7 +921,7 @@
         "body": [],
         "footer": []
       },
-      "index": 42,
+      "index": 32,
       "img": "index.webp"
     },
     {
@@ -1229,7 +949,7 @@
         "body": [],
         "footer": []
       },
-      "index": 43,
+      "index": 33,
       "img": "index.webp"
     },
     {
@@ -1257,7 +977,7 @@
         "body": [],
         "footer": []
       },
-      "index": 44,
+      "index": 34,
       "img": "index.webp"
     },
     {
@@ -1285,7 +1005,7 @@
         "body": [],
         "footer": []
       },
-      "index": 45,
+      "index": 35,
       "img": "index.webp"
     },
     {
@@ -1313,7 +1033,7 @@
         "body": [],
         "footer": []
       },
-      "index": 46,
+      "index": 36,
       "img": "index.webp"
     },
     {
@@ -1341,7 +1061,7 @@
         "body": [],
         "footer": []
       },
-      "index": 47,
+      "index": 37,
       "img": "index.webp"
     },
     {
@@ -1369,7 +1089,7 @@
         "body": [],
         "footer": []
       },
-      "index": 48,
+      "index": 38,
       "img": "index.webp"
     },
     {
@@ -1397,7 +1117,7 @@
         "body": [],
         "footer": []
       },
-      "index": 49,
+      "index": 39,
       "img": "index.webp"
     },
     {
@@ -1425,7 +1145,7 @@
         "body": [],
         "footer": []
       },
-      "index": 50,
+      "index": 40,
       "img": "index.webp"
     },
     {
@@ -1453,7 +1173,7 @@
         "body": [],
         "footer": []
       },
-      "index": 51,
+      "index": 41,
       "img": "index.webp"
     },
     {
@@ -1481,7 +1201,7 @@
         "body": [],
         "footer": []
       },
-      "index": 52,
+      "index": 42,
       "img": "index.webp"
     },
     {
@@ -1509,7 +1229,7 @@
         "body": [],
         "footer": []
       },
-      "index": 53,
+      "index": 43,
       "img": "index.webp"
     },
     {
@@ -1537,7 +1257,7 @@
         "body": [],
         "footer": []
       },
-      "index": 54,
+      "index": 44,
       "img": "index.webp"
     },
     {
@@ -1565,7 +1285,7 @@
         "body": [],
         "footer": []
       },
-      "index": 55,
+      "index": 45,
       "img": "index.webp"
     },
     {
@@ -1593,7 +1313,7 @@
         "body": [],
         "footer": []
       },
-      "index": 56,
+      "index": 46,
       "img": "index.webp"
     },
     {
@@ -1621,7 +1341,7 @@
         "body": [],
         "footer": []
       },
-      "index": 57,
+      "index": 47,
       "img": "index.webp"
     },
     {
@@ -1649,7 +1369,7 @@
         "body": [],
         "footer": []
       },
-      "index": 58,
+      "index": 48,
       "img": "index.webp"
     },
     {
@@ -1677,7 +1397,7 @@
         "body": [],
         "footer": []
       },
-      "index": 59,
+      "index": 49,
       "img": "index.webp"
     },
     {
@@ -1705,7 +1425,7 @@
         "body": [],
         "footer": []
       },
-      "index": 60,
+      "index": 50,
       "img": "index.webp"
     },
     {
@@ -1733,7 +1453,7 @@
         "body": [],
         "footer": []
       },
-      "index": 61,
+      "index": 51,
       "img": "index.webp"
     },
     {
@@ -1761,7 +1481,7 @@
         "body": [],
         "footer": []
       },
-      "index": 62,
+      "index": 52,
       "img": "index.webp"
     },
     {
@@ -1789,7 +1509,7 @@
         "body": [],
         "footer": []
       },
-      "index": 63,
+      "index": 53,
       "img": "index.webp"
     },
     {
@@ -1817,7 +1537,7 @@
         "body": [],
         "footer": []
       },
-      "index": 64,
+      "index": 54,
       "img": "index.webp"
     },
     {
@@ -1845,7 +1565,7 @@
         "body": [],
         "footer": []
       },
-      "index": 65,
+      "index": 55,
       "img": "index.webp"
     },
     {
@@ -1873,7 +1593,7 @@
         "body": [],
         "footer": []
       },
-      "index": 66,
+      "index": 56,
       "img": "index.webp"
     },
     {
@@ -1901,7 +1621,7 @@
         "body": [],
         "footer": []
       },
-      "index": 67,
+      "index": 57,
       "img": "index.webp"
     },
     {
@@ -1929,7 +1649,7 @@
         "body": [],
         "footer": []
       },
-      "index": 68,
+      "index": 58,
       "img": "index.webp"
     },
     {
@@ -1957,7 +1677,7 @@
         "body": [],
         "footer": []
       },
-      "index": 69,
+      "index": 59,
       "img": "index.webp"
     },
     {
@@ -1985,7 +1705,7 @@
         "body": [],
         "footer": []
       },
-      "index": 70,
+      "index": 60,
       "img": "index.webp"
     },
     {
@@ -2013,7 +1733,7 @@
         "body": [],
         "footer": []
       },
-      "index": 71,
+      "index": 61,
       "img": "index.webp"
     },
     {
@@ -2041,7 +1761,7 @@
         "body": [],
         "footer": []
       },
-      "index": 72,
+      "index": 62,
       "img": "index.webp"
     },
     {
@@ -2069,7 +1789,7 @@
         "body": [],
         "footer": []
       },
-      "index": 73,
+      "index": 63,
       "img": "index.webp"
     },
     {
@@ -2097,7 +1817,7 @@
         "body": [],
         "footer": []
       },
-      "index": 74,
+      "index": 64,
       "img": "index.webp"
     },
     {
@@ -2125,7 +1845,7 @@
         "body": [],
         "footer": []
       },
-      "index": 75,
+      "index": 65,
       "img": "index.webp"
     },
     {
@@ -2153,7 +1873,7 @@
         "body": [],
         "footer": []
       },
-      "index": 76,
+      "index": 66,
       "img": "index.webp"
     },
     {
@@ -2181,7 +1901,7 @@
         "body": [],
         "footer": []
       },
-      "index": 77,
+      "index": 67,
       "img": "index.webp"
     },
     {
@@ -2209,7 +1929,7 @@
         "body": [],
         "footer": []
       },
-      "index": 78,
+      "index": 68,
       "img": "index.webp"
     },
     {
@@ -2237,7 +1957,7 @@
         "body": [],
         "footer": []
       },
-      "index": 79,
+      "index": 69,
       "img": "index.webp"
     },
     {
@@ -2265,7 +1985,7 @@
         "body": [],
         "footer": []
       },
-      "index": 80,
+      "index": 70,
       "img": "index.webp"
     },
     {
@@ -2293,7 +2013,7 @@
         "body": [],
         "footer": []
       },
-      "index": 81,
+      "index": 71,
       "img": "index.webp"
     },
     {
@@ -2321,7 +2041,7 @@
         "body": [],
         "footer": []
       },
-      "index": 82,
+      "index": 72,
       "img": "index.webp"
     },
     {
@@ -2349,7 +2069,7 @@
         "body": [],
         "footer": []
       },
-      "index": 83,
+      "index": 73,
       "img": "index.webp"
     },
     {
@@ -2377,7 +2097,7 @@
         "body": [],
         "footer": []
       },
-      "index": 84,
+      "index": 74,
       "img": "index.webp"
     },
     {
@@ -2405,7 +2125,7 @@
         "body": [],
         "footer": []
       },
-      "index": 85,
+      "index": 75,
       "img": "index.webp"
     },
     {
@@ -2433,91 +2153,7 @@
         "body": [],
         "footer": []
       },
-      "index": 86,
-      "img": "index.webp"
-    },
-    {
-      "id": "fislacb8d0",
-      "name": {
-        "tr": "Beş Türlü Poşet",
-        "en": "Five-Spice Blend Sachet",
-        "es": "Cinco especias (sobre)",
-        "fr": "Cinq épices (sachet)",
-        "de": "Fünf-Gewürze-Mischung (Beutel)"
-      },
-      "description": {
-        "tr": "Köfte için hazırlanmış beş çeşit baharat karışımı, tek kullanımlık poşette. Kıyma ve köfte harcına karıştırılarak kullanılır. 5 g ambalaj. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "en": "A blend of five spices prepared for meatballs, in a single-use sachet. Used by mixing into ground meat and meatball mixture. 5 g packaging. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "es": "Mezcla de cinco tipos de especias preparada para köfte, en sobre de un solo uso. Se utiliza mezclada con la carne picada y la masa de köfte. Envase de 5 g. Para precios al por mayor, existencias y spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "fr": "Mélange de cinq épices préparé pour les boulettes de viande (köfte), en sachet à usage unique. S'incorpore à la viande hachée et à la farce des boulettes. Conditionnement : 5 g. Prix de gros, stock et spec sheet : +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "de": "Mischung aus fünf Gewürzen für Köfte im Einwegbeutel. Wird unter Hackfleisch bzw. die Köfte-Masse gemischt. Verpackung: 5 g. Für Großhandelspreis, Lagerbestand und Spec Sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr."
-      },
-      "path": "bes-turlu-poset",
-      "icon": "restaurant",
-      "category": "c8diger",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 87,
-      "img": "index.webp"
-    },
-    {
-      "id": "jwkvuk2606",
-      "name": {
-        "tr": "Karbonat ( Poşet )",
-        "en": "Baking Soda ( Sachet )",
-        "es": "Bicarbonato ( Sobre )",
-        "fr": "Bicarbonate de soude (sachet)",
-        "de": "Natron ( Beutel )"
-      },
-      "description": {
-        "tr": "Yemek ve unlu mamul hazırlıklarında kullanılan karbonat; poşet ambalajda. Hamur işlerinde ve kuru baklagillerin pişirilmesinde kullanılır. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "en": "Baking soda used in cooking and baked-goods preparation; in a sachet pack. Used in pastries and in cooking dried legumes. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "es": "Bicarbonato utilizado en la preparación de comidas y productos de panadería; en envase de sobre. Se utiliza en masas y en la cocción de legumbres secas. Para precios al por mayor, existencias y spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "fr": "Bicarbonate de soude utilisé pour la préparation des plats et des produits de boulangerie ; en sachet. Utilisé dans les pâtisseries et pour la cuisson des légumineuses sèches. Prix de gros, stock et spec sheet : +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "de": "Natron für die Zubereitung von Speisen und Backwaren; in Beutelverpackung. Für Teigwaren und zum Garen von getrockneten Hülsenfrüchten. Für Großhandelspreis, Lagerbestand und Spec Sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr."
-      },
-      "path": "karbonat-poset",
-      "icon": "restaurant",
-      "category": "c8diger",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 88,
-      "img": "index.webp"
-    },
-    {
-      "id": "ge4cfbw1d7",
-      "name": {
-        "tr": "Turşukur",
-        "en": "Pickling Mix",
-        "es": "Turşukur (mezcla para encurtidos)",
-        "fr": "Turşukur (préparation pour pickles)",
-        "de": "Turşukur (Einlegemischung)"
-      },
-      "description": {
-        "tr": "Turşu kurmak için hazırlanmış salamura toz karışım. Ev ve işletme turşu hazırlıklarında kullanılır. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "en": "A brine powder mix prepared for making pickles. Used in home and commercial pickle preparations. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "es": "Mezcla en polvo para salmuera preparada para hacer encurtidos. Se utiliza en la preparación de encurtidos en el hogar y en negocios. Para precios al por mayor, existencias y spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "fr": "Mélange de saumure en poudre préparé pour la fabrication de pickles. Utilisé pour les préparations de pickles à la maison et en entreprise. Prix de gros, stock et spec sheet : +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "de": "Salzlake-Pulvermischung für das Einlegen von Pickles. Für die Pickle-Zubereitung im Haushalt und im Betrieb. Für Großhandelspreis, Lagerbestand und Spec Sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr."
-      },
-      "path": "tursukur",
-      "icon": "restaurant",
-      "category": "c8diger",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 89,
+      "index": 76,
       "img": "index.webp"
     }
   ],
