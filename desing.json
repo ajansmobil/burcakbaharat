@@ -32,49 +32,49 @@
       },
       {
         "name": "--color2--",
-        "value": "#F3E9DA"
+        "value": "#F0EBE3"
       },
       {
         "name": "--bg--",
-        "value": "#FBF6EE"
+        "value": "#FAF7F2"
       },
       {
         "name": "--text--",
-        "value": "#2B2523"
+        "value": "#1B3A4B"
       },
       {
         "name": "--button--",
-        "value": "#8F1D2C"
+        "value": "#C4A035"
       },
       {
         "name": "--buttonText--",
-        "value": "#FFFFFF"
+        "value": "#1B3A4B"
       }
     ],
     "dark": [
       {
         "name": "--color1--",
-        "value": "#2A201D"
+        "value": "#1B3A4B"
       },
       {
         "name": "--color2--",
-        "value": "#38292A"
+        "value": "#243F4F"
       },
       {
         "name": "--bg--",
-        "value": "#1C1513"
+        "value": "#0F2430"
       },
       {
         "name": "--text--",
-        "value": "#F3E9DA"
+        "value": "#FAF7F2"
       },
       {
         "name": "--button--",
-        "value": "#C42B42"
+        "value": "#C4A035"
       },
       {
         "name": "--buttonText--",
-        "value": "#FFFFFF"
+        "value": "#0F2430"
       }
     ]
   }

@@ -1,59 +1,34 @@
 {
   "name": {
-    "tr": "Ürünler",
-    "en": "Products",
-    "es": "Productos",
-    "fr": "Produits",
-    "de": "Produkte"
+    "tr": "Ürünler"
   },
   "status": "play",
   "category": "",
   "id": "hs54qzyeyo",
   "url": "",
   "path": "urunler",
-  "index": 3,
+  "index": 1,
   "icon": "home",
   "desing": {
     "header": [],
     "body": [
-      "p6xdnn",
-      "8ofrtf",
-      "tbc5mm",
-      "1569r1"
+      "t6plpr"
     ],
     "footer": []
   },
   "pathnext": "",
   "description": {
-    "tr": "Burçak Baharat e-katalog: pul biber, baharat, sos ve sirke, kahve, pasta grubu ve aromalı toz içecek — 77 ürün, kategori filtresi ve arama.",
-    "en": "Burçak Baharat e-catalog: chili flakes, spices, sauces and vinegar, coffee, pastry group, and flavored powdered drinks — 77 products, category filter, and search.",
-    "es": "E-catálogo de Burçak Baharat: hojuelas de chile, especias, salsas y vinagres, café, grupo de repostería y bebidas en polvo aromatizadas — 77 productos, filtro por categoría y buscador.",
-    "fr": "E-catalogue Burçak Baharat : piment rouge en flocons, épices, sauces et vinaigres, café, gamme pâtisserie et boissons en poudre aromatisées — 77 produits, filtre par catégorie et recherche.",
-    "de": "Burçak Baharat E-Katalog: Chiliflocken, Gewürze, Saucen und Essig, Kaffee, Konditoreiprodukte und aromatisierte Getränkepulver — 77 Produkte, Kategoriefilter und Suche."
+    "tr": ""
   },
   "spot": {
-    "tr": "",
-    "en": "",
-    "es": "",
-    "fr": "",
-    "de": ""
+    "tr": ""
   },
   "desc": {},
   "title": {
-    "tr": "Ürünler · E-Katalog | Burçak Baharat",
-    "en": "Products · E-Catalog | Burçak Baharat",
-    "es": "Productos · E-catálogo | Burçak Baharat",
-    "fr": "Produits · E-catalogue | Burçak Baharat",
-    "de": "Produkte · E-Katalog | Burçak Baharat"
+    "tr": "Ürünler"
   },
-  "keyword": {
-    "tr": "Burçak Baharat e-katalog, toptan baharat, pul biber, pastacılık ürünleri, sos ve sirke, kahve, aromalı toz içecek",
-    "en": "Burçak Baharat e-catalog, wholesale spices, chili flakes, pastry products, sauces and vinegar, coffee, flavored powdered drinks",
-    "es": "Burçak Baharat e-catálogo, especias al por mayor, hojuelas de chile, productos de repostería, salsas y vinagres, café, bebida en polvo aromatizada",
-    "fr": "Burçak Baharat e-catalogue, épices en gros, piment rouge en flocons, produits de pâtisserie, sauces et vinaigres, café, boissons en poudre aromatisées",
-    "de": "Burçak Baharat E-Katalog, Gewürze Großhandel, Chiliflocken, Konditoreiprodukte, Saucen und Essig, Kaffee, aromatisierte Getränkepulver"
-  },
+  "keyword": {},
   "text": {},
-  "update": "2026-11-10T16:13:20.917Z",
+  "update": "2026-05-19",
   "date": "2026-05-19"
 }

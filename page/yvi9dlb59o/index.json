@@ -1,59 +1,34 @@
 {
   "name": {
-    "tr": "Kurumsal",
-    "en": "Corporate",
-    "es": "Corporativo",
-    "fr": "Entreprise",
-    "de": "Unternehmen"
+    "tr": "Kurumsal"
   },
   "status": "play",
   "category": "",
   "id": "yvi9dlb59o",
   "url": "",
   "path": "kurumsal",
-  "index": 1,
+  "index": 0,
   "desing": {
     "header": [],
     "body": [
-      "0tr024",
-      "z7l8wm",
-      "0nq169",
-      "9fz0jm",
-      "1569r1"
+      "t6in01",
+      "t6pd01"
     ],
     "footer": []
   },
-  "pathnext": "",
+  "pathnext": "hakkimizda",
   "description": {
-    "tr": "Burçak Baharat: 40 yılı aşkın tecrübe, 25 bin m² arazide kurulu tam otomasyonlu tesis, 15 ülkeye ihracat, FDA · ISO 22000 · Helal Gıda.",
-    "en": "Burçak Baharat: over 40 years of experience, a fully automated facility on 25,000 m² of land, exports to 15 countries, FDA · ISO 22000 · Halal.",
-    "es": "Burçak Baharat: más de 40 años de experiencia, planta totalmente automatizada instalada en 25 mil m² de terreno, exportación a 15 países, FDA · ISO 22000 · Halal.",
-    "fr": "Burçak Baharat : plus de 40 ans d'expérience, usine entièrement automatisée sur un terrain de 25 000 m², exportations vers 15 pays, FDA · ISO 22000 · Halal.",
-    "de": "Burçak Baharat: mehr als 40 Jahre Erfahrung, vollautomatisierte Anlage auf 25.000 m² Grundstück, Export in 15 Länder, FDA · ISO 22000 · Halal."
+    "tr": ""
   },
   "spot": {
-    "tr": "",
-    "en": "",
-    "es": "",
-    "fr": "",
-    "de": ""
+    "tr": ""
   },
   "desc": {},
   "title": {
-    "tr": "Kurumsal",
-    "en": "Corporate",
-    "es": "Corporativo",
-    "fr": "Entreprise",
-    "de": "Unternehmen"
+    "tr": "Kurumsal"
   },
-  "keyword": {
-    "tr": "Burçak Baharat kurumsal, İslahiye OSB, baharat üreticisi, 15 ülkeye ihracat, FDA, ISO 22000, Helal Gıda",
-    "en": "Burçak Baharat corporate, İslahiye OSB, spice manufacturer, exports to 15 countries, FDA, ISO 22000, Halal",
-    "es": "Burçak Baharat corporativo, OSB de İslahiye, fabricante de especias, exportación a 15 países, FDA, ISO 22000, Halal",
-    "fr": "Burçak Baharat entreprise, İslahiye OSB, fabricant d'épices, exportations vers 15 pays, FDA, ISO 22000, Halal",
-    "de": "Burçak Baharat Unternehmen, OSB İslahiye, Gewürzhersteller, Export in 15 Länder, FDA, ISO 22000, Halal"
-  },
+  "keyword": {},
   "text": {},
-  "update": "2026-11-10T16:13:20.914Z",
+  "update": "2026-05-19",
   "date": "2026-05-19"
 }
