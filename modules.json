@@ -5391,8 +5391,8 @@
         "slides": [
           {
             "slug": "ekatalog-baharat",
-            "wide": "/img/slider/baharat-wide.webp",
-            "tall": "/img/slider/baharat-tall.webp",
+            "wide": "/img/slider/baharat-wide.webp?v=2",
+            "tall": "/img/slider/baharat-tall.webp?v=2",
             "alt": {
               "tr": "Burçak pul biber ve 20 gr baharat poşetleri",
               "en": "Burçak red chili flakes and 20 g spice sachets",
@@ -5403,8 +5403,8 @@
           },
           {
             "slug": "ekatalog-pasta",
-            "wide": "/img/slider/pasta-wide.webp",
-            "tall": "/img/slider/pasta-tall.webp",
+            "wide": "/img/slider/pasta-wide.webp?v=2",
+            "tall": "/img/slider/pasta-tall.webp?v=2",
             "alt": {
               "tr": "Burçak puding, krem şanti ve kakao ürünleri",
               "en": "Burçak pudding, whipped cream mix and cocoa products",
@@ -5415,8 +5415,8 @@
           },
           {
             "slug": "ekatalog-fruit-dance",
-            "wide": "/img/slider/icecek-wide.webp",
-            "tall": "/img/slider/icecek-tall.webp",
+            "wide": "/img/slider/icecek-wide.webp?v=2",
+            "tall": "/img/slider/icecek-tall.webp?v=2",
             "alt": {
               "tr": "Burçak Limonata ve Fruit Dance aromalı toz içecekler",
               "en": "Burçak Lemonade and Fruit Dance flavored powdered drinks",
