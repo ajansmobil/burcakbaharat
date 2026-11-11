@@ -23,11 +23,11 @@
       "index": 0,
       "icon": "home",
       "description": {
-        "tr": "Firmamız, müşterilerinin ihtiyaçlarını doğru anlamayı ve bu ihtiyaçlara sade, güvenilir ve sürdürülebilir çözümler üretmeyi temel çalışma biçimi olarak…",
-        "en": "Learn who we are, how we work and the values that guide our relationships with customers and partners.",
-        "es": "Conozca quiénes somos, cómo trabajamos y los valores que guían nuestras relaciones con clientes y socios.",
-        "fr": "Découvrez qui nous sommes, notre manière de travailler et les valeurs qui guident nos relations avec les clients et les partenaires.",
-        "de": "Erfahren Sie, wer wir sind, wie wir arbeiten und welche Werte unsere Beziehungen zu Kunden und Partnern prägen."
+        "tr": "Burçak Baharat hakkında: 40 yılı aşkın tecrübe, İslahiye OSB'de tam otomasyonlu tesis, 15 ülkeye ihracat.",
+        "en": "About Burçak Baharat: over 40 years of experience, a fully automated facility in the İslahiye OSB, exports to 15 countries.",
+        "es": "Sobre Burçak Baharat: más de 40 años de experiencia, planta totalmente automatizada en la OSB de İslahiye, exportación a 15 países.",
+        "fr": "À propos de Burçak Baharat : plus de 40 ans d'expérience, usine entièrement automatisée à l'OSB d'İslahiye, exportations vers 15 pays.",
+        "de": "Über Burçak Baharat: mehr als 40 Jahre Erfahrung, vollautomatisierte Anlage im Organisierten Industriegebiet İslahiye, Export in 15 Länder."
       }
     },
     {
@@ -50,11 +50,11 @@
       "index": 1,
       "icon": "home",
       "description": {
-        "tr": "Misyonumuz; müşterilerimize ihtiyaçlarına gerçekten karşılık veren, anlaşılır ve güvenilir ürün ve hizmetler sunmak, bunu yaparken çalışanlarımıza, iş…",
-        "en": "Our mission: reliable, understandable products and services, delivered responsibly towards employees, partners and society.",
-        "es": "Nuestra misión: productos y servicios fiables y comprensibles, entregados de manera responsable hacia los empleados, los socios y la sociedad.",
-        "fr": "Notre mission : des produits et des services fiables et compréhensibles, livrés de manière responsable envers les employés, les partenaires et la société.",
-        "de": "Unsere Mission: zuverlässige, verständliche Produkte und Dienstleistungen, verantwortungsvoll gegenüber Mitarbeitern, Partnern und der Gesellschaft."
+        "tr": "Misyonumuz: müşterilerimize anlaşılır ve güvenilir ürünler sunmak; çalışanlarımıza, iş ortaklarımıza ve topluma karşı sorumluluklarımızı gözetmek.",
+        "en": "Our mission: to offer our customers clear and reliable products, while upholding our responsibilities toward our employees, business partners, and society.",
+        "es": "Nuestra misión: ofrecer a nuestros clientes productos claros y confiables, y velar por nuestras responsabilidades con nuestros empleados, nuestros socios comerciales y la sociedad.",
+        "fr": "Notre mission : proposer à nos clients des produits clairs et fiables, tout en assumant nos responsabilités envers nos collaborateurs, nos partenaires commerciaux et la société.",
+        "de": "Unsere Mission: unseren Kunden verständliche und verlässliche Produkte anzubieten und dabei unserer Verantwortung gegenüber Mitarbeitenden, Geschäftspartnern und der Gesellschaft gerecht zu werden."
       }
     },
     {
@@ -78,10 +78,10 @@
       "icon": "home",
       "description": {
         "tr": "Vizyonumuz; kalitesi, güvenilirliği ve müşteri odaklı yaklaşımıyla tercih edilen, değişime hızla uyum sağlayan ve çevresine değer katan bir kuruluş olmaktır.",
-        "en": "Our vision: to be a preferred organisation known for quality, reliability and a customer-focused approach.",
-        "es": "Nuestra visión: ser una organización preferida, reconocida por su calidad, fiabilidad y enfoque centrado en el cliente.",
-        "fr": "Notre vision : être une organisation de référence, reconnue pour sa qualité, sa fiabilité et son approche axée sur le client.",
-        "de": "Unsere Vision: eine bevorzugte Organisation zu sein, die für Qualität, Zuverlässigkeit und einen kundenorientierten Ansatz bekannt ist."
+        "en": "Our vision is to be an organization that is preferred for its quality, reliability, and customer-focused approach, adapts quickly to change, and adds value to its surroundings.",
+        "es": "Nuestra visión es ser una organización preferida por su calidad, su fiabilidad y su enfoque centrado en el cliente, que se adapta con rapidez al cambio y aporta valor a su entorno.",
+        "fr": "Notre vision : être une entreprise recherchée pour sa qualité, sa fiabilité et son approche centrée sur le client, qui s'adapte rapidement au changement et crée de la valeur autour d'elle.",
+        "de": "Unsere Vision ist es, ein Unternehmen zu sein, das wegen seiner Qualität, Verlässlichkeit und Kundenorientierung geschätzt wird, sich schnell an Veränderungen anpasst und sein Umfeld bereichert."
       }
     },
     {
@@ -104,11 +104,11 @@
       "index": 3,
       "icon": "home",
       "description": {
-        "tr": "Kalite, firmamız için yalnızca bir sonuç değil, işin her aşamasına yerleştirilmiş bir çalışma biçimidir. Müşteri memnuniyetini, yasal gerekliliklere uyumu…",
-        "en": "Our quality policy rests on customer satisfaction, compliance with legal requirements and continuous improvement.",
-        "es": "Nuestra política de calidad se basa en la satisfacción del cliente, el cumplimiento de los requisitos legales y la mejora continua.",
-        "fr": "Notre politique de qualité repose sur la satisfaction du client, le respect des exigences légales et l'amélioration continue.",
-        "de": "Unsere Qualitätsrichtlinie basiert auf Kundenzufriedenheit, Einhaltung gesetzlicher Anforderungen und kontinuierlicher Verbesserung."
+        "tr": "Burçak Baharat Kalite Politikası: müşteri memnuniyeti, yasal gerekliliklere uyum ve sürekli iyileştirme ilkelerimiz.",
+        "en": "Burçak Baharat Quality Policy: our principles of customer satisfaction, compliance with legal requirements, and continuous improvement.",
+        "es": "Política de calidad de Burçak Baharat: nuestros principios de satisfacción del cliente, cumplimiento de los requisitos legales y mejora continua.",
+        "fr": "Politique qualité de Burçak Baharat : nos principes de satisfaction client, de conformité aux exigences légales et d'amélioration continue.",
+        "de": "Qualitätspolitik von Burçak Baharat: unsere Grundsätze Kundenzufriedenheit, Einhaltung gesetzlicher Anforderungen und kontinuierliche Verbesserung."
       }
     },
     {
@@ -131,11 +131,11 @@
       "index": 4,
       "icon": "home",
       "description": {
-        "tr": "Bu Gizlilik Politikası, Burçak Baharat tarafından işletilen burcak.webyapar.com internet sitesini ziyaret ettiğinizde ve hizmetlerimizi kullandığınızda…",
-        "en": "How your information is collected, used, shared and protected when you visit this website and use our services.",
-        "es": "Cómo se recopila, utiliza, comparte y protege su información cuando visita este sitio web y utiliza nuestros servicios.",
-        "fr": "Comment vos informations sont collectées, utilisées, partagées et protégées lorsque vous visitez ce site Web et utilisez nos services.",
-        "de": "Wie Ihre Informationen gesammelt, verwendet, geteilt und geschützt werden, wenn Sie diese Website besuchen und unsere Dienste nutzen."
+        "tr": "Burçak Baharat Gizlilik Politikası: internet sitemizi ziyaret ettiğinizde işlenen kişisel verileriniz, amaçları ve haklarınız.",
+        "en": "Burçak Baharat Privacy Policy: the personal data processed when you visit our website, the purposes of processing, and your rights.",
+        "es": "Política de privacidad de Burçak Baharat: los datos personales que se tratan cuando visita nuestro sitio web, sus finalidades y sus derechos.",
+        "fr": "Politique de confidentialité de Burçak Baharat : les données personnelles traitées lors de votre visite de notre site Internet, leurs finalités et vos droits.",
+        "de": "Datenschutzerklärung von Burçak Baharat: welche personenbezogenen Daten beim Besuch unserer Website verarbeitet werden, zu welchen Zwecken und welche Rechte Sie haben."
       }
     },
     {
@@ -158,11 +158,11 @@
       "index": 5,
       "icon": "home",
       "description": {
-        "tr": "Bu metin, 6698 sayılı Kişisel Verilerin Korunması Kanunu’nun 10. maddesi ve Aydınlatma Yükümlülüğünün Yerine Getirilmesinde Uyulacak Usul ve Esaslar…",
-        "en": "Privacy notice under Law No. 6698 on the Protection of Personal Data: purposes, legal grounds, transfers and your rights.",
-        "es": "Aviso de privacidad conforme a la Ley n.º 6698 sobre la Protección de Datos Personales: finalidades, bases legales, transferencias y sus derechos.",
-        "fr": "Avis de confidentialité au titre de la loi n° 6698 relative à la protection des données personnelles : finalités, bases juridiques, transferts et vos droits.",
-        "de": "Datenschutzerklärung gemäß dem Gesetz Nr. 6698 über den Schutz personenbezogener Daten: Zwecke, Rechtsgrundlagen, Übertragungen und Ihre Rechte."
+        "tr": "Burçak Baharat KVKK Aydınlatma Metni: 6698 sayılı Kanun kapsamında kişisel verilerinizin işlenme amaçları ve haklarınız.",
+        "en": "Burçak Baharat KVKK Disclosure Notice: the purposes for which your personal data is processed under Law No. 6698, and your rights.",
+        "es": "Texto informativo KVKK de Burçak Baharat: finalidades del tratamiento de sus datos personales y sus derechos conforme a la Ley n.º 6698.",
+        "fr": "Notice d'information KVKK de Burçak Baharat : finalités du traitement de vos données personnelles et vos droits au titre de la loi n° 6698 relative à la protection des données personnelles.",
+        "de": "KVKK-Informationstext von Burçak Baharat: Zwecke der Verarbeitung Ihrer personenbezogenen Daten nach dem türkischen Gesetz Nr. 6698 zum Schutz personenbezogener Daten (KVKK) und Ihre Rechte."
       }
     },
     {
@@ -185,11 +185,11 @@
       "index": 6,
       "icon": "home",
       "description": {
-        "tr": "burcak.webyapar.com internet sitesini kullanan herkes, yürürlükteki mevzuattan doğan haklara sahiptir. Bu sayfa, Burçak Baharat ile ilişkinizde başlıca…",
-        "en": "A summary of your rights concerning personal data, consumer protection and commercial electronic messages, and how to exercise them.",
-        "es": "Un resumen de sus derechos en materia de datos personales, protección al consumidor y mensajes comerciales electrónicos, así como de cómo ejercerlos.",
-        "fr": "Un résumé de vos droits concernant les données personnelles, la protection des consommateurs et les messages électroniques commerciaux, ainsi que les modalités de leur exercice.",
-        "de": "Eine Zusammenfassung Ihrer Rechte im Zusammenhang mit personenbezogenen Daten, Verbraucherschutz und kommerziellen elektronischen Nachrichten sowie deren Ausübung."
+        "tr": "Burçak Baharat ile ilişkinizde kullanıcı olarak sahip olduğunuz haklar ve bunları nasıl kullanabileceğiniz.",
+        "en": "The rights you hold as a user in your relationship with Burçak Baharat and how you can exercise them.",
+        "es": "Los derechos que le asisten como usuario en su relación con Burçak Baharat y cómo puede ejercerlos.",
+        "fr": "Les droits dont vous disposez en tant qu'utilisateur dans vos relations avec Burçak Baharat et la manière de les exercer.",
+        "de": "Ihre Rechte als Nutzer in der Beziehung zu Burçak Baharat und wie Sie diese ausüben können."
       }
     },
     {
@@ -212,11 +212,11 @@
       "index": 7,
       "icon": "home",
       "description": {
-        "tr": "burcak.webyapar.com internet sitesi Burçak Baharat tarafından işletilmektedir. Siteyi ziyaret eden veya kullanan herkes, aşağıdaki koşulları okumuş ve…",
-        "en": "Terms of use of this website: intellectual property, accuracy of information, third-party content and applicable law.",
-        "es": "Términos de uso de este sitio web: propiedad intelectual, exactitud de la información, contenido de terceros y legislación aplicable.",
-        "fr": "Conditions d'utilisation de ce site web : propriété intellectuelle, exactitude des informations, contenu de tiers et loi applicable.",
-        "de": "Nutzungsbedingungen dieser Website: Geistiges Eigentum, Richtigkeit der Informationen, Inhalte Dritter und anwendbares Recht."
+        "tr": "Burçak Baharat internet sitesini kullanım koşulları ve yasal uyarılar.",
+        "en": "Terms of use and legal notices for the Burçak Baharat website.",
+        "es": "Condiciones de uso y avisos legales del sitio web de Burçak Baharat.",
+        "fr": "Conditions d'utilisation et mentions légales du site Internet de Burçak Baharat.",
+        "de": "Nutzungsbedingungen und rechtliche Hinweise zur Website von Burçak Baharat."
       }
     },
     {
@@ -229,11 +229,11 @@
         "de": "Cookie-Richtlinie"
       },
       "description": {
-        "tr": "Bu politika, Burçak Baharat tarafından işletilen burcak.webyapar.com internet sitesinde kullanılan çerezleri, bunların hangi amaçlarla kullanıldığını ve…",
-        "en": "Which cookies are used on this website, for what purposes, and how you can manage your preferences.",
-        "es": "Qué cookies se utilizan en este sitio web, con qué fines y cómo puede gestionar sus preferencias.",
-        "fr": "Les cookies utilisés sur ce site web, leurs finalités et la manière de gérer vos préférences.",
-        "de": "Welche Cookies auf dieser Website verwendet werden, zu welchen Zwecken und wie Sie Ihre Einstellungen verwalten können."
+        "tr": "Bu politika, Burçak Baharat tarafından işletilen bu internet sitesinde kullanılan çerezleri, hangi amaçlarla kullanıldığını ve tercihlerinizi nasıl yönetebileceğinizi açıklar.",
+        "en": "This policy explains the cookies used on this website operated by Burçak Baharat, the purposes for which they are used, and how you can manage your preferences.",
+        "es": "Esta política explica las cookies utilizadas en este sitio web, operado por Burçak Baharat, con qué fines se utilizan y cómo puede gestionar sus preferencias.",
+        "fr": "Cette politique explique quels cookies sont utilisés sur ce site Internet exploité par Burçak Baharat, à quelles fins ils sont utilisés et comment vous pouvez gérer vos préférences.",
+        "de": "Diese Richtlinie erläutert, welche Cookies auf dieser von Burçak Baharat betriebenen Website verwendet werden, zu welchen Zwecken sie dienen und wie Sie Ihre Einstellungen verwalten können."
       },
       "path": "cerez-politikasi",
       "icon": "cookie",
