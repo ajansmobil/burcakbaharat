@@ -3006,7 +3006,13 @@
           "fr": "Catalogue numérique",
           "de": "Digitaler Katalog"
         },
-        "btn1_url": "ekatalog",
+        "btn1_url": {
+          "tr": "/tr/ekatalog/",
+          "en": "/en/ekatalog/",
+          "es": "/es/ekatalog/",
+          "fr": "/fr/ekatalog/",
+          "de": "/de/ekatalog/"
+        },
         "btn2": {
           "tr": "Fiyat Listesi İçin Arayın",
           "en": "Call for the Price List",
