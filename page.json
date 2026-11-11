@@ -65,6 +65,38 @@
     },
     {
       "name": {
+        "tr": "Dijital Katalog",
+        "en": "Digital Catalog",
+        "es": "Catálogo digital",
+        "fr": "Catalogue numérique",
+        "de": "Digitaler Katalog"
+      },
+      "status": "play",
+      "category": "",
+      "id": "ekatlgana1",
+      "url": "",
+      "path": "ekatalog",
+      "index": 2,
+      "icon": "menu_book",
+      "desing": {
+        "header": [],
+        "body": [
+          "k8ekana",
+          "1569r1"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Burçak Baharat dijital kataloğu: 8 ürün grubu ve 90 ürün tek sayfada — pul biber, baharat, sos ve sirke, kahve, pasta grubu, aromalı toz içecek.",
+        "en": "Burçak Baharat digital catalog: 8 product groups and 90 products on one page — chili flakes, spices, sauces and vinegar, coffee, pastry group, flavored powdered drinks.",
+        "es": "Catálogo digital de Burçak Baharat: 8 grupos de productos y 90 productos en una sola página: hojuelas de chile, especias, salsas y vinagres, café, repostería y bebidas en polvo aromatizadas.",
+        "fr": "Catalogue numérique Burçak Baharat : 8 gammes et 90 produits sur une seule page — piment rouge en flocons, épices, sauces et vinaigres, café, pâtisserie, boissons en poudre aromatisées.",
+        "de": "Burçak Baharat Digitaler Katalog: 8 Produktgruppen und 90 Produkte auf einer Seite – Chiliflocken, Gewürze, Saucen und Essig, Kaffee, Konditorei, aromatisierte Getränkepulver."
+      }
+    },
+    {
+      "name": {
         "tr": "Ürünler",
         "en": "Products",
         "es": "Productos",
@@ -76,7 +108,7 @@
       "id": "hs54qzyeyo",
       "url": "",
       "path": "urunler",
-      "index": 2,
+      "index": 3,
       "icon": "home",
       "desing": {
         "header": [],

@@ -3000,13 +3000,13 @@
           "de": "Produktgruppen von Burçak Baharat: Chiliflocken, Türkischer Kaffee, Sauce, Pudding, Limonade und Gewürze"
         },
         "btn1": {
-          "tr": "Ürünleri İncele",
-          "en": "Explore Products",
-          "es": "Ver productos",
-          "fr": "Découvrir les produits",
-          "de": "Produkte ansehen"
+          "tr": "Dijital Katalog",
+          "en": "Digital Catalog",
+          "es": "Catálogo digital",
+          "fr": "Catalogue numérique",
+          "de": "Digitaler Katalog"
         },
-        "btn1_url": "urunler",
+        "btn1_url": "ekatalog",
         "btn2": {
           "tr": "Fiyat Listesi İçin Arayın",
           "en": "Call for the Price List",
@@ -5405,6 +5405,106 @@
       "local": "body",
       "index": 48,
       "siteOzel": true
+    },
+    {
+      "id": "k8ekana",
+      "path": "ekatalog-ana",
+      "local": "body",
+      "index": 49,
+      "siteOzel": true,
+      "data": [],
+      "name": "E-Katalog Ana Sayfa (8 kategori kartı + tüm ürünler)",
+      "desing": {
+        "max": "1200px",
+        "bgcolor": "#FBF6EE",
+        "cardbg": "#FFFFFF",
+        "color": "#2B2523",
+        "muted": "#5C514B",
+        "accent": "#8F1D2C",
+        "bordercolor": "#E8DCC8",
+        "soft": "#F3E9DA",
+        "t": {
+          "eyebrow": {
+            "tr": "Dijital Katalog",
+            "en": "Digital Catalog",
+            "es": "Catálogo digital",
+            "fr": "Catalogue numérique",
+            "de": "Digitaler Katalog"
+          },
+          "title": {
+            "tr": "Burçak Baharat Dijital Katalog",
+            "en": "Burçak Baharat Digital Catalog",
+            "es": "Catálogo digital de Burçak Baharat",
+            "fr": "Catalogue numérique Burçak Baharat",
+            "de": "Burçak Baharat Digitaler Katalog"
+          },
+          "lead": {
+            "tr": "Tüm ürün gruplarımız ve ürünlerimiz tek sayfada. Bir ürün grubunu açarak ürünlerini ve varsa PDF kataloğunu inceleyin.",
+            "en": "All our product groups and products on a single page. Open a product group to browse its products and, where available, its PDF catalog.",
+            "es": "Todos nuestros grupos de productos y productos en una sola página. Abra un grupo para ver sus productos y, si existe, su catálogo en PDF.",
+            "fr": "Toutes nos gammes et tous nos produits sur une seule page. Ouvrez une gamme pour voir ses produits et, le cas échéant, son catalogue PDF.",
+            "de": "Alle Produktgruppen und Produkte auf einer Seite. Öffnen Sie eine Produktgruppe, um die Produkte und – falls vorhanden – den PDF-Katalog anzusehen."
+          },
+          "summary": {
+            "tr": "{c} ürün grubu · {n} ürün",
+            "en": "{c} product groups · {n} products",
+            "es": "{c} grupos de productos · {n} productos",
+            "fr": "{c} gammes · {n} produits",
+            "de": "{c} Produktgruppen · {n} Produkte"
+          },
+          "catsTitle": {
+            "tr": "Ürün grupları",
+            "en": "Product groups",
+            "es": "Grupos de productos",
+            "fr": "Gammes de produits",
+            "de": "Produktgruppen"
+          },
+          "allTitle": {
+            "tr": "Tüm ürünler",
+            "en": "All products",
+            "es": "Todos los productos",
+            "fr": "Tous les produits",
+            "de": "Alle Produkte"
+          },
+          "jump": {
+            "tr": "Ürün grubuna git",
+            "en": "Jump to a product group",
+            "es": "Ir a un grupo de productos",
+            "fr": "Aller à une gamme",
+            "de": "Zur Produktgruppe springen"
+          },
+          "count": {
+            "tr": "{n} ürün",
+            "en": "{n} products",
+            "es": "{n} productos",
+            "fr": "{n} produits",
+            "de": "{n} Produkte"
+          },
+          "groupPage": {
+            "tr": "Grup sayfası",
+            "en": "Group page",
+            "es": "Página del grupo",
+            "fr": "Page de la gamme",
+            "de": "Gruppenseite"
+          },
+          "empty": {
+            "tr": "Bu grupta şu an ürün yok.",
+            "en": "There are no products in this group right now.",
+            "es": "Ahora mismo no hay productos en este grupo.",
+            "fr": "Aucun produit dans cette gamme pour le moment.",
+            "de": "In dieser Gruppe gibt es derzeit keine Produkte."
+          }
+        }
+      },
+      "category": "page-category",
+      "description": "Burçak Baharat'a özel (siteOzel): sitenin ana dijital kataloğu. 8 kategori kartı (görsel + ad + ürün sayısı, temiz kategori URL'sine bağlı) ve altında kategoriye göre gruplu TAM ürün ızgarası (görsel + ad + mevcut açıklama; fiyat yok). Veri category.json + products.json'dan; beş dil, mobilde tek sütun.",
+      "version": "1.0.0",
+      "icon": "menu_book",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "webmakerdata.category + webmakerdata.products"
+      }
     }
   ]
 }

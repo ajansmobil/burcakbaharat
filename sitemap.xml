@@ -135,6 +135,66 @@
         <priority>0.8</priority>
     </url>
     <url>
+        <loc>https://burcak.webyapar.com/tr/ekatalog/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://burcak.webyapar.com/tr/ekatalog/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://burcak.webyapar.com/en/ekatalog/" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://burcak.webyapar.com/es/ekatalog/" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://burcak.webyapar.com/fr/ekatalog/" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://burcak.webyapar.com/de/ekatalog/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://burcak.webyapar.com/tr/ekatalog/" />
+        <lastmod>2026-11-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://burcak.webyapar.com/en/ekatalog/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://burcak.webyapar.com/tr/ekatalog/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://burcak.webyapar.com/en/ekatalog/" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://burcak.webyapar.com/es/ekatalog/" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://burcak.webyapar.com/fr/ekatalog/" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://burcak.webyapar.com/de/ekatalog/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://burcak.webyapar.com/tr/ekatalog/" />
+        <lastmod>2026-11-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://burcak.webyapar.com/es/ekatalog/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://burcak.webyapar.com/tr/ekatalog/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://burcak.webyapar.com/en/ekatalog/" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://burcak.webyapar.com/es/ekatalog/" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://burcak.webyapar.com/fr/ekatalog/" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://burcak.webyapar.com/de/ekatalog/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://burcak.webyapar.com/tr/ekatalog/" />
+        <lastmod>2026-11-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://burcak.webyapar.com/fr/ekatalog/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://burcak.webyapar.com/tr/ekatalog/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://burcak.webyapar.com/en/ekatalog/" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://burcak.webyapar.com/es/ekatalog/" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://burcak.webyapar.com/fr/ekatalog/" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://burcak.webyapar.com/de/ekatalog/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://burcak.webyapar.com/tr/ekatalog/" />
+        <lastmod>2026-11-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://burcak.webyapar.com/de/ekatalog/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://burcak.webyapar.com/tr/ekatalog/" />
+        <xhtml:link rel="alternate" hreflang="en" href="https://burcak.webyapar.com/en/ekatalog/" />
+        <xhtml:link rel="alternate" hreflang="es" href="https://burcak.webyapar.com/es/ekatalog/" />
+        <xhtml:link rel="alternate" hreflang="fr" href="https://burcak.webyapar.com/fr/ekatalog/" />
+        <xhtml:link rel="alternate" hreflang="de" href="https://burcak.webyapar.com/de/ekatalog/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://burcak.webyapar.com/tr/ekatalog/" />
+        <lastmod>2026-11-10</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
         <loc>https://burcak.webyapar.com/tr/urunler/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://burcak.webyapar.com/tr/urunler/" />
         <xhtml:link rel="alternate" hreflang="en" href="https://burcak.webyapar.com/en/urunler/" />
