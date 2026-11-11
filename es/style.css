@@ -336,8 +336,30 @@
   .ksDot { pointer-events: auto; width: 36px; height: 36px; padding: 0; border: 0; background: transparent; cursor: pointer; display: inline-flex; align-items: center; justify-content: center; -webkit-tap-highlight-color: transparent; }
   .ksDotMark { display: block; width: 10px; height: 10px; border-radius: 999px; background: rgba(143, 29, 44, .28); border: 1px solid rgba(143, 29, 44, .5); transition: width .3s ease, background .3s ease; }
   .ksDot[aria-current="true"] .ksDotMark { width: 28px; background: #8F1D2C; border-color: #8F1D2C; }
+@font-face { font-family: "Playfair Display"; src: url("/img/font/playfair-display.woff2") format("woff2"); font-weight: 400 900; font-style: normal; font-display: swap; }
+  .ksSlide { position: relative; }
+  .ksCap { position: absolute; inset: 0; z-index: 2; display: flex; align-items: center; pointer-events: none; padding: 0 0 0 clamp(24px, 6vw, 110px); }
+  .ksCapIn { width: min(42%, 620px); pointer-events: none; }
+  .ksTitle { margin: 0 0 clamp(10px, 1.4vw, 20px); font-family: "Playfair Display", "Cormorant Garamond", Georgia, "Times New Roman", serif; font-weight: 800; font-size: clamp(28px, 4.1vw, 66px); line-height: 1.08; letter-spacing: -.01em; color: #1f2a30; }
+  .ksTitle span, .ksTitle em { display: block; font-style: normal; font: inherit; font-family: inherit; font-weight: inherit; font-size: inherit; line-height: inherit; }
+  .ksTitle em { color: #8F1D2C; }
+  .ksSub { margin: 0 0 clamp(14px, 1.9vw, 28px); font-size: clamp(14px, 1.3vw, 20px); line-height: 1.5; color: #3b3530; max-width: 22em; }
+  .ksBtns { display: flex; flex-wrap: wrap; gap: 12px; }
+  .ksBtn { pointer-events: auto; display: inline-flex; align-items: center; gap: 8px; padding: clamp(10px, 1vw, 14px) clamp(18px, 1.9vw, 30px); border-radius: 999px; font-weight: 700; font-size: clamp(13px, 1.05vw, 16px); text-decoration: none; border: 2px solid #8F1D2C; transition: background .2s ease, color .2s ease, transform .2s ease; }
+  .ksBtnA { background: #8F1D2C; color: #fff; box-shadow: 0 6px 18px rgba(143, 29, 44, .28); }
+  .ksBtnB { background: rgba(255, 255, 255, .7); color: #8F1D2C; }
+  .ksBtn:hover { transform: translateY(-2px); }
+  .ksBtnA:hover { background: #721623; border-color: #721623; }
+  .ksBtnB:hover { background: #8F1D2C; color: #fff; }
+  .ksBtn:focus-visible { outline: 3px solid #1f2a30; outline-offset: 3px; }
   @media (max-width: 600px) {
     .ksLink { aspect-ratio: 960 / 1200; }
+    .ksCap { align-items: flex-start; padding: 22px 20px 0; justify-content: center; text-align: center; }
+    .ksCapIn { width: 100%; }
+    .ksTitle { font-size: 28px; margin-bottom: 8px; }
+    .ksSub { font-size: 13px; margin: 0 auto 12px; }
+    .ksBtns { justify-content: center; gap: 8px; }
+    .ksBtn { padding: 9px 16px; font-size: 13px; }
     .ksArrow { width: 44px; height: 44px; background: rgba(255, 255, 255, .78); }
     .ksArrowPrev { left: 8px; }
     .ksArrowNext { right: 8px; }

@@ -5391,38 +5391,161 @@
         "slides": [
           {
             "slug": "ekatalog-baharat",
-            "wide": "/img/slider/baharat-wide.webp?v=4",
-            "tall": "/img/slider/baharat-tall.webp?v=4",
+            "wide": "/img/slider/hero-baharat-wide.webp?v=5",
+            "tall": "/img/slider/hero-baharat-tall.webp?v=5",
             "alt": {
               "tr": "Burçak pul biber ve 20 gr baharat poşetleri",
               "en": "Burçak red chili flakes and 20 g spice sachets",
               "es": "Hojuelas de chile rojo Burçak y sobres de especias de 20 g",
               "fr": "Piment rouge en flocons Burçak et sachets d'épices de 20 g",
               "de": "Burçak Chiliflocken und 20-g-Gewürzbeutel"
+            },
+            "title": {
+              "tr": "Tarladan Sofranıza",
+              "en": "From Field to Table",
+              "es": "Del campo a su mesa",
+              "fr": "Du champ à votre table",
+              "de": "Vom Feld auf den Tisch"
+            },
+            "accent": {
+              "tr": "Lezzet Yolculuğu",
+              "en": "A Journey of Flavor",
+              "es": "Un viaje de sabor",
+              "fr": "Un voyage de saveurs",
+              "de": "Eine Reise des Geschmacks"
+            },
+            "sub": {
+              "tr": "40 yılı aşkın tecrübeyle baharat ve gıda ürünlerinde güvenilir üretim.",
+              "en": "Trusted production in spices and food products with over 40 years of experience.",
+              "es": "Producción confiable de especias y alimentos con más de 40 años de experiencia.",
+              "fr": "Une production fiable d'épices et de produits alimentaires, forte de plus de 40 ans d'expérience.",
+              "de": "Zuverlässige Herstellung von Gewürzen und Lebensmitteln mit über 40 Jahren Erfahrung."
+            },
+            "btn1": {
+              "slug": "urunler",
+              "text": {
+                "tr": "Ürünleri Keşfet",
+                "en": "Explore Products",
+                "es": "Descubrir productos",
+                "fr": "Découvrir les produits",
+                "de": "Produkte entdecken"
+              }
+            },
+            "btn2": {
+              "slug": "ekatalog-baharat",
+              "text": {
+                "tr": "Kataloğu İncele",
+                "en": "View Catalog",
+                "es": "Ver catálogo",
+                "fr": "Voir le catalogue",
+                "de": "Katalog ansehen"
+              }
             }
           },
           {
             "slug": "ekatalog-pasta",
-            "wide": "/img/slider/pasta-wide.webp?v=4",
-            "tall": "/img/slider/pasta-tall.webp?v=4",
+            "wide": "/img/slider/hero-pasta-wide.webp?v=5",
+            "tall": "/img/slider/hero-pasta-tall.webp?v=5",
             "alt": {
               "tr": "Burçak puding, krem şanti ve kakao ürünleri",
               "en": "Burçak pudding, whipped cream mix and cocoa products",
               "es": "Productos Burçak de pudín, crema batida y cacao",
               "fr": "Produits Burçak : pudding, crème chantilly et cacao",
               "de": "Burçak Pudding, Sahnecreme und Kakao"
+            },
+            "title": {
+              "tr": "Her Tarife",
+              "en": "For Every Recipe",
+              "es": "Para cada receta",
+              "fr": "Pour chaque recette",
+              "de": "Für jedes Rezept"
+            },
+            "accent": {
+              "tr": "Tatlı Bir Dokunuş",
+              "en": "A Sweet Touch",
+              "es": "Un toque dulce",
+              "fr": "Une touche sucrée",
+              "de": "Eine süße Note"
+            },
+            "sub": {
+              "tr": "Puding, krem şanti, kakao ve pasta yardımcı ürünleri.",
+              "en": "Pudding, whipped cream mix, cocoa and baking helpers.",
+              "es": "Pudín, crema batida, cacao y auxiliares de repostería.",
+              "fr": "Pudding, crème chantilly, cacao et auxiliaires de pâtisserie.",
+              "de": "Pudding, Sahnecreme, Kakao und Backhelfer."
+            },
+            "btn1": {
+              "slug": "urunler",
+              "text": {
+                "tr": "Ürünleri Keşfet",
+                "en": "Explore Products",
+                "es": "Descubrir productos",
+                "fr": "Découvrir les produits",
+                "de": "Produkte entdecken"
+              }
+            },
+            "btn2": {
+              "slug": "ekatalog-pasta",
+              "text": {
+                "tr": "Kataloğu İncele",
+                "en": "View Catalog",
+                "es": "Ver catálogo",
+                "fr": "Voir le catalogue",
+                "de": "Katalog ansehen"
+              }
             }
           },
           {
             "slug": "ekatalog-fruit-dance",
-            "wide": "/img/slider/icecek-wide.webp?v=4",
-            "tall": "/img/slider/icecek-tall.webp?v=4",
+            "wide": "/img/slider/hero-icecek-wide.webp?v=5",
+            "tall": "/img/slider/hero-icecek-tall.webp?v=5",
             "alt": {
               "tr": "Burçak Limonata ve Fruit Dance aromalı toz içecekler",
               "en": "Burçak Lemonade and Fruit Dance flavored powdered drinks",
               "es": "Limonada Burçak y bebidas en polvo aromatizadas Fruit Dance",
               "fr": "Limonade Burçak et boissons en poudre aromatisées Fruit Dance",
               "de": "Burçak Limonade und Fruit Dance Getränkepulver"
+            },
+            "title": {
+              "tr": "Ferahlatan",
+              "en": "Refreshing",
+              "es": "Refrescantes",
+              "fr": "Rafraîchissantes",
+              "de": "Erfrischende"
+            },
+            "accent": {
+              "tr": "Meyve Tatları",
+              "en": "Fruit Flavors",
+              "es": "Sabores de fruta",
+              "fr": "Saveurs de fruits",
+              "de": "Fruchtaromen"
+            },
+            "sub": {
+              "tr": "Fruit Dance ve Limonata aromalı toz içecekler.",
+              "en": "Fruit Dance and Lemonade flavored powdered drinks.",
+              "es": "Bebidas en polvo con sabor Fruit Dance y limonada.",
+              "fr": "Boissons en poudre aromatisées Fruit Dance et limonade.",
+              "de": "Getränkepulver mit Fruit-Dance- und Limonadenaroma."
+            },
+            "btn1": {
+              "slug": "urunler",
+              "text": {
+                "tr": "Ürünleri Keşfet",
+                "en": "Explore Products",
+                "es": "Descubrir productos",
+                "fr": "Découvrir les produits",
+                "de": "Produkte entdecken"
+              }
+            },
+            "btn2": {
+              "slug": "ekatalog-fruit-dance",
+              "text": {
+                "tr": "Kataloğu İncele",
+                "en": "View Catalog",
+                "es": "Ver catálogo",
+                "fr": "Voir le catalogue",
+                "de": "Katalog ansehen"
+              }
             }
           }
         ],
