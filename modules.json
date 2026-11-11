@@ -2982,7 +2982,7 @@
       },
       "data": [
         {
-          "img": "/img/kategori/pul-biber-grubu.webp",
+          "img": "/img/kategori/pul-biber-grubu.webp?v=7",
           "name": {
             "tr": "Pul Biber Grubu",
             "en": "Chili Flakes Group",
@@ -2993,7 +2993,7 @@
           "url": "ekatalog-pul-biber"
         },
         {
-          "img": "/img/kategori/sos-ve-sirke-grubu.webp",
+          "img": "/img/kategori/sos-ve-sirke-grubu.webp?v=7",
           "name": {
             "tr": "Sos ve Sirke Grubu",
             "en": "Sauce and Vinegar Group",
@@ -3004,7 +3004,7 @@
           "url": "ekatalog-sos-sirke"
         },
         {
-          "img": "/img/kategori/kahve-grubu.webp",
+          "img": "/img/kategori/kahve-grubu.webp?v=7",
           "name": {
             "tr": "Kahve Grubu",
             "en": "Coffee Group",
@@ -3015,7 +3015,7 @@
           "url": "ekatalog-kahve"
         },
         {
-          "img": "/img/kategori/pasta-grubu.webp",
+          "img": "/img/kategori/pasta-grubu.webp?v=7",
           "name": {
             "tr": "Pasta Grubu",
             "en": "Pastry Group",
@@ -3026,7 +3026,7 @@
           "url": "ekatalog-pasta"
         },
         {
-          "img": "/img/kategori/baharat-20-gr.webp",
+          "img": "/img/kategori/baharat-20-gr.webp?v=7",
           "name": {
             "tr": "20 Gr Baharat Grubu",
             "en": "20 Gr Spice Group",
@@ -3037,7 +3037,7 @@
           "url": "ekatalog-baharat"
         },
         {
-          "img": "/img/kategori/burcak-drink.webp",
+          "img": "/img/kategori/burcak-drink.webp?v=7",
           "name": {
             "tr": "Burçak Drink",
             "en": "Burçak Drink",
@@ -3048,7 +3048,7 @@
           "url": "ekatalog-drink"
         },
         {
-          "img": "/img/kategori/aromali-toz-icecek.webp",
+          "img": "/img/kategori/aromali-toz-icecek.webp?v=7",
           "name": {
             "tr": "Aromalı Toz İçecek",
             "en": "Flavored Powdered Drinks",
