@@ -34,38 +34,6 @@
     },
     {
       "name": {
-        "tr": "Sos ve Sirke Grubu",
-        "en": "Sauce and Vinegar Group",
-        "es": "Grupo de salsas y vinagres",
-        "fr": "Gamme sauces et vinaigres",
-        "de": "Saucen- und Essig-Sortiment"
-      },
-      "id": "c2sosirke",
-      "index": 1,
-      "path": "sos-ve-sirke-grubu",
-      "category": "",
-      "status": "play",
-      "icon": "category",
-      "img": "sos-ve-sirke-grubu.webp",
-      "desing": {
-        "header": [],
-        "body": [
-          "k8ekat",
-          "1569r1"
-        ],
-        "footer": []
-      },
-      "pathnext": "ekatalog-sos-sirke",
-      "description": {
-        "tr": "Burçak Baharat Sos ve Sirke Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.",
-        "en": "Burçak Baharat Sauce and Vinegar Group products — call +90 342 238 11 11 for wholesale and the price list.",
-        "es": "Productos del Grupo de salsas y vinagres de Burçak Baharat — para venta al por mayor y lista de precios, llame al +90 342 238 11 11.",
-        "fr": "Produits de la gamme Sauces et vinaigres de Burçak Baharat — pour la vente en gros et la liste de prix, appelez le +90 342 238 11 11.",
-        "de": "Burçak Baharat Saucen- und Essig-Sortiment — Produkte im Großhandel; für die Preisliste: +90 342 238 11 11."
-      }
-    },
-    {
-      "name": {
         "tr": "Kahve Grubu",
         "en": "Coffee Group",
         "es": "Grupo de café",
@@ -73,7 +41,7 @@
         "de": "Kaffee-Sortiment"
       },
       "id": "c3kahve",
-      "index": 2,
+      "index": 1,
       "path": "kahve-grubu",
       "category": "",
       "status": "play",
@@ -105,7 +73,7 @@
         "de": "Konditorei-Sortiment"
       },
       "id": "c4pasta",
-      "index": 3,
+      "index": 2,
       "path": "pasta-grubu",
       "category": "",
       "status": "play",
@@ -137,7 +105,7 @@
         "de": "Gewürz-Sortiment 20 Gr"
       },
       "id": "c5baharat20",
-      "index": 4,
+      "index": 3,
       "path": "baharat-20-gr",
       "category": "",
       "status": "play",
@@ -169,7 +137,7 @@
         "de": "Burçak Drink"
       },
       "id": "c6drink",
-      "index": 5,
+      "index": 4,
       "path": "burcak-drink",
       "category": "",
       "status": "play",
@@ -201,7 +169,7 @@
         "de": "Aromatisierte Getränkepulver"
       },
       "id": "c7aroma",
-      "index": 6,
+      "index": 5,
       "path": "aromali-toz-icecek",
       "category": "",
       "status": "play",

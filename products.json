@@ -85,62 +85,6 @@
       "img": "index.webp"
     },
     {
-      "id": "gtaxw3wbpo",
-      "name": {
-        "tr": "Elma Sirkesi (1000ml)",
-        "en": "Apple Vinegar (1000ml)",
-        "es": "Vinagre de manzana (1000ml)",
-        "fr": "Vinaigre de pomme (1000ml)",
-        "de": "Apfelessig (1000ml)"
-      },
-      "description": {
-        "tr": "Elmadan elde edilen, hafif ekşi tadıyla bilinen sirke çeşidi. Salata, turşu, marinasyon ve yemeklerde kullanılır. 1000 ml ambalaj. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "en": "A type of vinegar made from apples, known for its mildly sour taste. Used in salads, pickles, marinades, and cooking. 1000 ml packaging. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "es": "Tipo de vinagre obtenido de la manzana, conocido por su sabor ligeramente ácido. Se utiliza en ensaladas, encurtidos, adobos y platos cocinados. Envase de 1000 ml. Para precios al por mayor, existencias y spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "fr": "Vinaigre obtenu à partir de pommes, connu pour son goût légèrement acidulé. Utilisé dans les salades, les pickles, les marinades et les plats. Conditionnement : 1000 ml. Prix de gros, stock et spec sheet : +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "de": "Aus Äpfeln gewonnene Essigsorte, bekannt für ihren leicht säuerlichen Geschmack. Wird für Salate, Pickles, Marinaden und Gerichte verwendet. Verpackung: 1000 ml. Für Großhandelspreis, Lagerbestand und Spec Sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr."
-      },
-      "path": "elma-sirkesi-1000ml",
-      "icon": "restaurant",
-      "category": "c2sosirke",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 3,
-      "img": "index.webp"
-    },
-    {
-      "id": "qmxhbnhyxx",
-      "name": {
-        "tr": "Üzüm Sirkesi (1000ml)",
-        "en": "Grape Vinegar (1000ml)",
-        "es": "Vinagre de uva (1000ml)",
-        "fr": "Vinaigre de raisin (1000ml)",
-        "de": "Traubenessig (1000ml)"
-      },
-      "description": {
-        "tr": "Üzümden elde edilen, yumuşak ekşi tadıyla bilinen sirke çeşidi. Salata, turşu, sos ve marinasyonlarda kullanılır. 1000 ml ambalaj. Toptan fiyat, stok ve spec sheet için +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "en": "A type of vinegar made from grapes, known for its soft sour taste. Used in salads, pickles, sauces, and marinades. 1000 ml packaging. For wholesale pricing, stock, and spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "es": "Tipo de vinagre obtenido de la uva, conocido por su sabor suavemente ácido. Se utiliza en ensaladas, encurtidos, salsas y adobos. Envase de 1000 ml. Para precios al por mayor, existencias y spec sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "fr": "Vinaigre obtenu à partir de raisin, connu pour son goût doucement acidulé. Utilisé dans les salades, les pickles, les sauces et les marinades. Conditionnement : 1000 ml. Prix de gros, stock et spec sheet : +90 342 238 11 11 · info@burcakbaharat.com.tr.",
-        "de": "Aus Trauben gewonnene Essigsorte, bekannt für ihren milden, säuerlichen Geschmack. Wird für Salate, Pickles, Saucen und Marinaden verwendet. Verpackung: 1000 ml. Für Großhandelspreis, Lagerbestand und Spec Sheet: +90 342 238 11 11 · info@burcakbaharat.com.tr."
-      },
-      "path": "uzum-sirkesi-1000ml",
-      "icon": "restaurant",
-      "category": "c2sosirke",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 4,
-      "img": "index.webp"
-    },
-    {
       "id": "z5szfqnzqn",
       "name": {
         "tr": "Türk Kahvesi",
@@ -165,7 +109,7 @@
         "body": [],
         "footer": []
       },
-      "index": 5,
+      "index": 3,
       "img": "index.webp"
     },
     {
@@ -193,7 +137,7 @@
         "body": [],
         "footer": []
       },
-      "index": 6,
+      "index": 4,
       "img": "index.webp"
     },
     {
@@ -221,7 +165,7 @@
         "body": [],
         "footer": []
       },
-      "index": 7,
+      "index": 5,
       "img": "index.webp"
     },
     {
@@ -249,7 +193,7 @@
         "body": [],
         "footer": []
       },
-      "index": 8,
+      "index": 6,
       "img": "index.webp"
     },
     {
@@ -277,7 +221,7 @@
         "body": [],
         "footer": []
       },
-      "index": 9,
+      "index": 7,
       "img": "index.webp"
     },
     {
@@ -305,7 +249,7 @@
         "body": [],
         "footer": []
       },
-      "index": 10,
+      "index": 8,
       "img": "index.webp"
     },
     {
@@ -333,7 +277,7 @@
         "body": [],
         "footer": []
       },
-      "index": 11,
+      "index": 9,
       "img": "index.webp"
     },
     {
@@ -361,7 +305,7 @@
         "body": [],
         "footer": []
       },
-      "index": 12,
+      "index": 10,
       "img": "index.webp"
     },
     {
@@ -389,7 +333,7 @@
         "body": [],
         "footer": []
       },
-      "index": 13,
+      "index": 11,
       "img": "index.webp"
     },
     {
@@ -417,7 +361,7 @@
         "body": [],
         "footer": []
       },
-      "index": 14,
+      "index": 12,
       "img": "index.webp"
     },
     {
@@ -445,7 +389,7 @@
         "body": [],
         "footer": []
       },
-      "index": 15,
+      "index": 13,
       "img": "index.webp"
     },
     {
@@ -473,7 +417,7 @@
         "body": [],
         "footer": []
       },
-      "index": 16,
+      "index": 14,
       "img": "index.webp"
     },
     {
@@ -501,7 +445,7 @@
         "body": [],
         "footer": []
       },
-      "index": 17,
+      "index": 15,
       "img": "index.webp"
     },
     {
@@ -529,7 +473,7 @@
         "body": [],
         "footer": []
       },
-      "index": 18,
+      "index": 16,
       "img": "index.webp"
     },
     {
@@ -557,7 +501,7 @@
         "body": [],
         "footer": []
       },
-      "index": 19,
+      "index": 17,
       "img": "index.webp"
     },
     {
@@ -585,7 +529,7 @@
         "body": [],
         "footer": []
       },
-      "index": 20,
+      "index": 18,
       "img": "index.webp"
     },
     {
@@ -613,7 +557,7 @@
         "body": [],
         "footer": []
       },
-      "index": 21,
+      "index": 19,
       "img": "index.webp"
     },
     {
@@ -641,7 +585,7 @@
         "body": [],
         "footer": []
       },
-      "index": 22,
+      "index": 20,
       "img": "index.webp"
     },
     {
@@ -669,7 +613,7 @@
         "body": [],
         "footer": []
       },
-      "index": 23,
+      "index": 21,
       "img": "index.webp"
     },
     {
@@ -697,7 +641,7 @@
         "body": [],
         "footer": []
       },
-      "index": 24,
+      "index": 22,
       "img": "index.webp"
     },
     {
@@ -725,7 +669,7 @@
         "body": [],
         "footer": []
       },
-      "index": 25,
+      "index": 23,
       "img": "index.webp"
     },
     {
@@ -753,7 +697,7 @@
         "body": [],
         "footer": []
       },
-      "index": 26,
+      "index": 24,
       "img": "index.webp"
     },
     {
@@ -781,7 +725,7 @@
         "body": [],
         "footer": []
       },
-      "index": 27,
+      "index": 25,
       "img": "index.webp"
     },
     {
@@ -809,7 +753,7 @@
         "body": [],
         "footer": []
       },
-      "index": 28,
+      "index": 26,
       "img": "index.webp"
     },
     {
@@ -837,7 +781,7 @@
         "body": [],
         "footer": []
       },
-      "index": 29,
+      "index": 27,
       "img": "index.webp"
     },
     {
@@ -865,7 +809,7 @@
         "body": [],
         "footer": []
       },
-      "index": 30,
+      "index": 28,
       "img": "index.webp"
     },
     {
@@ -893,7 +837,7 @@
         "body": [],
         "footer": []
       },
-      "index": 31,
+      "index": 29,
       "img": "index.webp"
     },
     {
@@ -921,7 +865,7 @@
         "body": [],
         "footer": []
       },
-      "index": 32,
+      "index": 30,
       "img": "index.webp"
     },
     {
@@ -949,7 +893,7 @@
         "body": [],
         "footer": []
       },
-      "index": 33,
+      "index": 31,
       "img": "index.webp"
     },
     {
@@ -977,7 +921,7 @@
         "body": [],
         "footer": []
       },
-      "index": 34,
+      "index": 32,
       "img": "index.webp"
     },
     {
@@ -1005,7 +949,7 @@
         "body": [],
         "footer": []
       },
-      "index": 35,
+      "index": 33,
       "img": "index.webp"
     },
     {
@@ -1033,7 +977,7 @@
         "body": [],
         "footer": []
       },
-      "index": 36,
+      "index": 34,
       "img": "index.webp"
     },
     {
@@ -1061,7 +1005,7 @@
         "body": [],
         "footer": []
       },
-      "index": 37,
+      "index": 35,
       "img": "index.webp"
     },
     {
@@ -1089,7 +1033,7 @@
         "body": [],
         "footer": []
       },
-      "index": 38,
+      "index": 36,
       "img": "index.webp"
     },
     {
@@ -1117,7 +1061,7 @@
         "body": [],
         "footer": []
       },
-      "index": 39,
+      "index": 37,
       "img": "index.webp"
     },
     {
@@ -1145,7 +1089,7 @@
         "body": [],
         "footer": []
       },
-      "index": 40,
+      "index": 38,
       "img": "index.webp"
     },
     {
@@ -1173,7 +1117,7 @@
         "body": [],
         "footer": []
       },
-      "index": 41,
+      "index": 39,
       "img": "index.webp"
     },
     {
@@ -1201,7 +1145,7 @@
         "body": [],
         "footer": []
       },
-      "index": 42,
+      "index": 40,
       "img": "index.webp"
     },
     {
@@ -1229,7 +1173,7 @@
         "body": [],
         "footer": []
       },
-      "index": 43,
+      "index": 41,
       "img": "index.webp"
     },
     {
@@ -1257,7 +1201,7 @@
         "body": [],
         "footer": []
       },
-      "index": 44,
+      "index": 42,
       "img": "index.webp"
     },
     {
@@ -1285,7 +1229,7 @@
         "body": [],
         "footer": []
       },
-      "index": 45,
+      "index": 43,
       "img": "index.webp"
     },
     {
@@ -1313,7 +1257,7 @@
         "body": [],
         "footer": []
       },
-      "index": 46,
+      "index": 44,
       "img": "index.webp"
     },
     {
@@ -1341,7 +1285,7 @@
         "body": [],
         "footer": []
       },
-      "index": 47,
+      "index": 45,
       "img": "index.webp"
     },
     {
@@ -1369,7 +1313,7 @@
         "body": [],
         "footer": []
       },
-      "index": 48,
+      "index": 46,
       "img": "index.webp"
     },
     {
@@ -1397,7 +1341,7 @@
         "body": [],
         "footer": []
       },
-      "index": 49,
+      "index": 47,
       "img": "index.webp"
     },
     {
@@ -1425,7 +1369,7 @@
         "body": [],
         "footer": []
       },
-      "index": 50,
+      "index": 48,
       "img": "index.webp"
     },
     {
@@ -1453,7 +1397,7 @@
         "body": [],
         "footer": []
       },
-      "index": 51,
+      "index": 49,
       "img": "index.webp"
     },
     {
@@ -1481,7 +1425,7 @@
         "body": [],
         "footer": []
       },
-      "index": 52,
+      "index": 50,
       "img": "index.webp"
     },
     {
@@ -1509,7 +1453,7 @@
         "body": [],
         "footer": []
       },
-      "index": 53,
+      "index": 51,
       "img": "index.webp"
     },
     {
@@ -1537,7 +1481,7 @@
         "body": [],
         "footer": []
       },
-      "index": 54,
+      "index": 52,
       "img": "index.webp"
     },
     {
@@ -1565,7 +1509,7 @@
         "body": [],
         "footer": []
       },
-      "index": 55,
+      "index": 53,
       "img": "index.webp"
     },
     {
@@ -1593,7 +1537,7 @@
         "body": [],
         "footer": []
       },
-      "index": 56,
+      "index": 54,
       "img": "index.webp"
     },
     {
@@ -1621,7 +1565,7 @@
         "body": [],
         "footer": []
       },
-      "index": 57,
+      "index": 55,
       "img": "index.webp"
     },
     {
@@ -1649,7 +1593,7 @@
         "body": [],
         "footer": []
       },
-      "index": 58,
+      "index": 56,
       "img": "index.webp"
     },
     {
@@ -1677,7 +1621,7 @@
         "body": [],
         "footer": []
       },
-      "index": 59,
+      "index": 57,
       "img": "index.webp"
     },
     {
@@ -1705,7 +1649,7 @@
         "body": [],
         "footer": []
       },
-      "index": 60,
+      "index": 58,
       "img": "index.webp"
     },
     {
@@ -1733,7 +1677,7 @@
         "body": [],
         "footer": []
       },
-      "index": 61,
+      "index": 59,
       "img": "index.webp"
     },
     {
@@ -1761,7 +1705,7 @@
         "body": [],
         "footer": []
       },
-      "index": 62,
+      "index": 60,
       "img": "index.webp"
     },
     {
@@ -1789,7 +1733,7 @@
         "body": [],
         "footer": []
       },
-      "index": 63,
+      "index": 61,
       "img": "index.webp"
     },
     {
@@ -1817,7 +1761,7 @@
         "body": [],
         "footer": []
       },
-      "index": 64,
+      "index": 62,
       "img": "index.webp"
     },
     {
@@ -1845,7 +1789,7 @@
         "body": [],
         "footer": []
       },
-      "index": 65,
+      "index": 63,
       "img": "index.webp"
     },
     {
@@ -1873,7 +1817,7 @@
         "body": [],
         "footer": []
       },
-      "index": 66,
+      "index": 64,
       "img": "index.webp"
     },
     {
@@ -1901,7 +1845,7 @@
         "body": [],
         "footer": []
       },
-      "index": 67,
+      "index": 65,
       "img": "index.webp"
     },
     {
@@ -1929,7 +1873,7 @@
         "body": [],
         "footer": []
       },
-      "index": 68,
+      "index": 66,
       "img": "index.webp"
     },
     {
@@ -1957,7 +1901,7 @@
         "body": [],
         "footer": []
       },
-      "index": 69,
+      "index": 67,
       "img": "index.webp"
     },
     {
@@ -1985,7 +1929,7 @@
         "body": [],
         "footer": []
       },
-      "index": 70,
+      "index": 68,
       "img": "index.webp"
     },
     {
@@ -2013,7 +1957,7 @@
         "body": [],
         "footer": []
       },
-      "index": 71,
+      "index": 69,
       "img": "index.webp"
     },
     {
@@ -2041,7 +1985,7 @@
         "body": [],
         "footer": []
       },
-      "index": 72,
+      "index": 70,
       "img": "index.webp"
     },
     {
@@ -2069,7 +2013,7 @@
         "body": [],
         "footer": []
       },
-      "index": 73,
+      "index": 71,
       "img": "index.webp"
     },
     {
@@ -2097,7 +2041,7 @@
         "body": [],
         "footer": []
       },
-      "index": 74,
+      "index": 72,
       "img": "index.webp"
     },
     {
@@ -2125,7 +2069,7 @@
         "body": [],
         "footer": []
       },
-      "index": 75,
+      "index": 73,
       "img": "index.webp"
     },
     {
@@ -2153,7 +2097,7 @@
         "body": [],
         "footer": []
       },
-      "index": 76,
+      "index": 74,
       "img": "index.webp"
     }
   ],
