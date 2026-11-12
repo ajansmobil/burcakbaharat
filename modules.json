@@ -3249,32 +3249,32 @@
           "de": "Burçak in Zahlen"
         },
         "description": {
-          "tr": "Baharat ve gıda sektöründe 40 yılı aşkın tecrübenin rakamları.",
-          "en": "The numbers behind over 40 years of experience in the spice and food industry.",
-          "es": "Las cifras de más de 40 años de experiencia en el sector de las especias y los alimentos.",
-          "fr": "Les chiffres de plus de 40 ans d'expérience dans le secteur des épices et de l'alimentation.",
-          "de": "Die Zahlen von mehr als 40 Jahren Erfahrung in der Gewürz- und Lebensmittelbranche."
+          "tr": "Baharat ve gıda sektöründe köklü deneyimin ve tam otomasyonlu tesisin rakamları.",
+          "en": "The numbers behind our proven experience and fully automated facility in the spice and food industry.",
+          "es": "Las cifras de nuestra sólida trayectoria y planta totalmente automatizada en el sector de las especias y los alimentos.",
+          "fr": "Les chiffres de notre expérience solide et de notre usine entièrement automatisée dans le secteur des épices et de l'alimentation.",
+          "de": "Die Zahlen unserer langjährigen Erfahrung und vollautomatisierten Anlage in der Gewürz- und Lebensmittelbranche."
         }
       },
       "data": [
         {
-          "deger": 40,
+          "deger": 100,
           "onek": "",
-          "sonek": "+",
+          "sonek": "%",
           "ikon": "workspace_premium",
           "etiket": {
-            "tr": "Yıllık tecrübe",
-            "en": "Years of experience",
-            "es": "Años de experiencia",
-            "fr": "Années d'expérience",
-            "de": "Jahre Erfahrung"
+            "tr": "Otomasyon",
+            "en": "Automation",
+            "es": "Automatización",
+            "fr": "Automatisation",
+            "de": "Automatisierung"
           },
           "aciklama": {
-            "tr": "Baharat ve gıda sektöründe",
-            "en": "In the spice and food industry",
-            "es": "En el sector de las especias y los alimentos",
-            "fr": "Dans le secteur des épices et de l'alimentation",
-            "de": "In der Gewürz- und Lebensmittelbranche"
+            "tr": "Modern, tam otomasyonlu tesis",
+            "en": "Modern, fully automated facility",
+            "es": "Planta moderna y totalmente automatizada",
+            "fr": "Usine moderne et entièrement automatisée",
+            "de": "Moderne, vollautomatisierte Anlage"
           }
         },
         {
@@ -3741,11 +3741,11 @@
           "de": "Wir bringen Natürlichkeit und Geschmack in die Verpackung"
         },
         "description": {
-          "tr": "40 yılı aşkın tecrübemiz ve modern, tam otomasyonlu tesisimizle baharattan pastacılık ürünlerine, sostan toz içeceğe kadar sofranızın ihtiyaç duyduğu 75 çeşit ürünü üretiyoruz.",
-          "en": "With over 40 years of experience and our modern, fully automated facility, we produce the 75 varieties of products your table needs, from spices to pastry products, from sauces to powdered drinks.",
-          "es": "Con más de 40 años de experiencia y nuestra planta moderna y totalmente automatizada, producimos 75 variedades de productos que su mesa necesita, desde especias hasta productos de repostería, desde salsas hasta bebidas en polvo.",
-          "fr": "Forts de plus de 40 ans d'expérience et de notre usine moderne et entièrement automatisée, nous produisons les 75 variétés de produits dont votre table a besoin, des épices aux produits de pâtisserie, des sauces aux boissons en poudre.",
-          "de": "Mit mehr als 40 Jahren Erfahrung und unserer modernen, vollautomatisierten Anlage produzieren wir 75 Produkte, die Ihre Küche braucht – von Gewürzen und Konditoreiprodukten bis zu Saucen und Getränkepulvern."
+          "tr": "Köklü deneyimimiz ve modern, tam otomasyonlu tesisimizle baharattan pastacılık ürünlerine, sostan toz içeceğe kadar sofranızın ihtiyaç duyduğu 75 çeşit ürünü üretiyoruz.",
+          "en": "With our proven experience and our modern, fully automated facility, we produce the 75 varieties of products your table needs, from spices to pastry products, from sauces to powdered drinks.",
+          "es": "Con nuestra sólida trayectoria y nuestra planta moderna y totalmente automatizada, producimos 75 variedades de productos que su mesa necesita, desde especias hasta productos de repostería, desde salsas hasta bebidas en polvo.",
+          "fr": "Fort de notre expérience solide et de notre usine moderne et entièrement automatisée, nous produisons les 75 variétés de produits dont votre table a besoin, des épices aux produits de pâtisserie, des sauces aux boissons en poudre.",
+          "de": "Mit langjähriger Erfahrung und unserer modernen, vollautomatisierten Anlage produzieren wir 75 Produkte, die Ihre Küche braucht – von Gewürzen und Konditoreiprodukten bis zu Saucen und Getränkepulvern."
         },
         "btn1Text": {
           "tr": "Biz Kimiz?",
@@ -4090,11 +4090,11 @@
         "logo_maxh": "72px",
         "logo_plate": false,
         "about": {
-          "tr": "40 yılı aşkın tecrübe ve tam otomasyonlu tesisle baharat, pastacılık ürünleri, sos ve sirke, kahve ve aromalı toz içecek gruplarında üretim.",
-          "en": "Production in spices, pastry products, sauces and vinegar, coffee, and flavored powdered drinks with over 40 years of experience and a fully automated facility.",
-          "es": "Producción en los grupos de especias, productos de repostería, salsas y vinagres, café y bebidas en polvo aromatizadas, con más de 40 años de experiencia y una planta totalmente automatizada.",
-          "fr": "Production d'épices, de produits de pâtisserie, de sauces et vinaigres, de café et de boissons en poudre aromatisées, grâce à plus de 40 ans d'expérience et à une usine entièrement automatisée.",
-          "de": "Produktion von Gewürzen, Konditoreiprodukten, Saucen und Essig, Kaffee und aromatisierten Getränkepulvern mit mehr als 40 Jahren Erfahrung und einer vollautomatisierten Anlage."
+          "tr": "Köklü deneyim ve tam otomasyonlu tesisle baharat, pastacılık ürünleri, sos ve sirke, kahve ve aromalı toz içecek gruplarında üretim.",
+          "en": "Production in spices, pastry products, sauces and vinegar, coffee, and flavored powdered drinks with our proven experience and a fully automated facility.",
+          "es": "Producción en los grupos de especias, productos de repostería, salsas y vinagres, café y bebidas en polvo aromatizadas, con nuestra sólida trayectoria y una planta totalmente automatizada.",
+          "fr": "Production d'épices, de produits de pâtisserie, de sauces et vinaigres, de café et de boissons en poudre aromatisées, grâce à notre expérience solide et à une usine entièrement automatisée.",
+          "de": "Produktion von Gewürzen, Konditoreiprodukten, Saucen und Essig, Kaffee und aromatisierten Getränkepulvern mit langjähriger Erfahrung und einer vollautomatisierten Anlage."
         },
         "title_pages": {
           "tr": "Sayfalar",
@@ -4483,23 +4483,23 @@
       },
       "data": [
         {
-          "deger": 40,
+          "deger": 100,
           "onek": "",
-          "sonek": "+",
+          "sonek": "%",
           "ikon": "workspace_premium",
           "etiket": {
-            "tr": "Yıllık tecrübe",
-            "en": "Years of experience",
-            "es": "Años de experiencia",
-            "fr": "Années d'expérience",
-            "de": "Jahre Erfahrung"
+            "tr": "Otomasyon",
+            "en": "Automation",
+            "es": "Automatización",
+            "fr": "Automatisation",
+            "de": "Automatisierung"
           },
           "aciklama": {
-            "tr": "Baharat ve gıda sektöründe",
-            "en": "In the spice and food industry",
-            "es": "En el sector de las especias y los alimentos",
-            "fr": "Dans le secteur des épices et de l'alimentation",
-            "de": "In der Gewürz- und Lebensmittelbranche"
+            "tr": "Modern, tam otomasyonlu tesis",
+            "en": "Modern, fully automated facility",
+            "es": "Planta moderna y totalmente automatizada",
+            "fr": "Usine moderne et entièrement automatisée",
+            "de": "Moderne, vollautomatisierte Anlage"
           }
         },
         {
