@@ -4358,11 +4358,11 @@
               "de": "Werk"
             },
             "text": {
-              "tr": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep",
-              "en": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep",
-              "es": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep",
-              "fr": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep",
-              "de": "İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep"
+              "tr": "İslahiye OSB, İslahiye / Gaziantep",
+              "en": "İslahiye OSB, İslahiye / Gaziantep",
+              "es": "İslahiye OSB, İslahiye / Gaziantep",
+              "fr": "İslahiye OSB, İslahiye / Gaziantep",
+              "de": "İslahiye OSB, İslahiye / Gaziantep"
             }
           },
           {
@@ -4374,11 +4374,11 @@
               "de": "Zentrale"
             },
             "text": {
-              "tr": "Sanayi Mah. 60213 Nolu Cad. No:16/18 Gatem, 27060 Şehitkamil / Gaziantep",
-              "en": "Sanayi Mah. 60213 Nolu Cad. No:16/18 Gatem, 27060 Şehitkamil / Gaziantep",
-              "es": "Sanayi Mah. 60213 Nolu Cad. No:16/18 Gatem, 27060 Şehitkamil / Gaziantep",
-              "fr": "Sanayi Mah. 60213 Nolu Cad. No:16/18 Gatem, 27060 Şehitkamil / Gaziantep",
-              "de": "Sanayi Mah. 60213 Nolu Cad. No:16/18 Gatem, 27060 Şehitkamil / Gaziantep"
+              "tr": "Sanayi Mah., 27060 Şehitkamil / Gaziantep",
+              "en": "Sanayi Mah., 27060 Şehitkamil / Gaziantep",
+              "es": "Sanayi Mah., 27060 Şehitkamil / Gaziantep",
+              "fr": "Sanayi Mah., 27060 Şehitkamil / Gaziantep",
+              "de": "Sanayi Mah., 27060 Şehitkamil / Gaziantep"
             },
             "icon": "apartment"
           }
@@ -5398,13 +5398,6 @@
               "fr": "Un voyage de saveurs",
               "de": "Eine Reise des Geschmacks"
             },
-            "sub": {
-              "tr": "40 yılı aşkın tecrübeyle baharat ve gıda ürünlerinde güvenilir üretim.",
-              "en": "Trusted production in spices and food products with over 40 years of experience.",
-              "es": "Producción confiable de especias y alimentos con más de 40 años de experiencia.",
-              "fr": "Une production fiable d'épices et de produits alimentaires, forte de plus de 40 ans d'expérience.",
-              "de": "Zuverlässige Herstellung von Gewürzen und Lebensmitteln mit über 40 Jahren Erfahrung."
-            },
             "btn1": {
               "slug": "urunler",
               "text": {
@@ -5451,13 +5444,6 @@
               "fr": "Une touche sucrée",
               "de": "Eine süße Note"
             },
-            "sub": {
-              "tr": "Puding, krem şanti, kakao ve pasta yardımcı ürünleri.",
-              "en": "Pudding, whipped cream mix, cocoa and baking helpers.",
-              "es": "Pudín, crema batida, cacao y auxiliares de repostería.",
-              "fr": "Pudding, crème chantilly, cacao et auxiliaires de pâtisserie.",
-              "de": "Pudding, Sahnecreme, Kakao und Backhelfer."
-            },
             "btn1": {
               "slug": "urunler",
               "text": {
@@ -5503,13 +5489,6 @@
               "es": "Sabores de fruta",
               "fr": "Saveurs de fruits",
               "de": "Fruchtaromen"
-            },
-            "sub": {
-              "tr": "Fruit Dance ve Limonata aromalı toz içecekler.",
-              "en": "Fruit Dance and Lemonade flavored powdered drinks.",
-              "es": "Bebidas en polvo con sabor Fruit Dance y limonada.",
-              "fr": "Boissons en poudre aromatisées Fruit Dance et limonade.",
-              "de": "Getränkepulver mit Fruit-Dance- und Limonadenaroma."
             },
             "btn1": {
               "slug": "urunler",
