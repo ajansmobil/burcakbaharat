@@ -2934,7 +2934,9 @@
                 },
                 "bgcolor": "#2B2523",
                 "color": "#F3E9DA",
-                "bordercolor": "rgba(243,233,218,0.22)"
+                "bordercolor": "rgba(243,233,218,0.22)",
+                "cta_ad": "Sipariş Ver",
+                "cta_url": "urunler/"
             },
             "data": [
                 {

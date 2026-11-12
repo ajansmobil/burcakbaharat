@@ -166,6 +166,50 @@
   .h0000-m9-kapat .material-symbols-outlined { font-size: 28px; }
 
   
+  .h0000-m9-band { position: relative; }
+  .h0000-m9-band::before {
+    content: "";
+    position: absolute; top: 0; left: 0; right: 0; height: 3px;
+    background: linear-gradient(90deg, transparent 5%, #F2C879 50%, transparent 95%);
+    opacity: 0.9;
+    pointer-events: none;
+  }
+  .h0000-m9-bar {
+    position: relative;
+    background: linear-gradient(180deg, #97222F 0%, #8F1D2C 55%, #881A28 100%);
+  }
+  .h0000-m9-bar::after {
+    content: "";
+    position: absolute; left: 0; right: 0; bottom: 0; height: 2px;
+    background: linear-gradient(90deg, transparent 8%, rgba(242,200,121,.55) 50%, transparent 92%);
+    pointer-events: none;
+  }
+  .h0000-m9-bar-ic {
+    grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr) auto;
+    padding: 18px clamp(16px, 4vw, 32px);
+    gap: 18px;
+  }
+  .h0000-m9-bar .h0000-m9-oge { font-size: 1.02rem; font-weight: 600; letter-spacing: 0.015em; padding: 10px 16px; border-radius: 999px; }
+  .h0000-m9-bar-ic a.h0000-m9-oge:hover,
+  .h0000-m9-bar-ic a.h0000-m9-oge:focus-visible { background: rgba(251,246,238,.12); }
+  .h0000-m9-bar-ic a.h0000-m9-oge:hover::after,
+  .h0000-m9-bar-ic a.h0000-m9-oge:focus-visible::after { transform: scaleX(0); }
+  .h0000-m9-cta-slot:empty { display: none; }
+  .h0000-m9-cta {
+    display: inline-flex; align-items: center; gap: 8px;
+    min-height: 48px; padding: 10px 22px; border-radius: 999px;
+    background: #F2C879; color: #4A121C;
+    font-size: 0.95rem; font-weight: 700; letter-spacing: 0.01em;
+    text-decoration: none; white-space: nowrap;
+    box-shadow: 0 2px 10px rgba(20, 8, 8, 0.25);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+  }
+  .h0000-m9-cta .material-symbols-outlined { font-size: 20px; }
+  .h0000-m9-cta:hover,
+  .h0000-m9-cta:focus-visible { background: #F5D48F; transform: translateY(-1px); box-shadow: 0 8px 22px rgba(20, 8, 8, 0.32); outline-color: #F2C879; }
+  @media (max-width: 1024px) { .h0000-m9-cta-slot { display: none; } }
+
+  
   .h0000-m9-bosluk { display: none; }
   .h0000-m9-kucuk .h0000-m9-bosluk { display: block; }
   .h0000-m9-kucuk .h0000-m9-bar {
