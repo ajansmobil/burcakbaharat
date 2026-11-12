@@ -2,109 +2,109 @@
 
 > Burçak Baharat; köklü deneyimiyle, modern ve tam otomasyonlu tesisinde baharat, pastacılık ürünleri, kahve ile aromalı toz içecek gruplarında 75 çeşit ürün üretir. İslahiye / Gaziantep.
 
-Web: https://burcak.webyapar.com/tr/ · Adres: İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep / Türkiye · Telefon: +90 342 238 11 11 · E-posta: info@burcakbaharat.com.tr · Diller: tr, en, es, fr, de (varsayilan: tr)
+Web: https://burcakbaharat.com.tr/tr/ · Adres: İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep / Türkiye · Telefon: +90 342 238 11 11 · E-posta: info@burcakbaharat.com.tr · Diller: tr, en, es, fr, de (varsayilan: tr)
 
 ## Sayfalar
-- [Burçak Baharat](https://burcak.webyapar.com/tr/): Burçak Baharat; köklü deneyimiyle, modern ve tam otomasyonlu tesisinde baharat, pastacılık ürünleri, kahve ile aromalı toz içecek gruplarında 75 çeşit ürün üretir.
-- [Kurumsal](https://burcak.webyapar.com/tr/kurumsal/): Burçak Baharat: köklü deneyim, 25 bin m² arazide kurulu tam otomasyonlu tesis, 15 ülkeye ihracat, FDA · ISO 22000 · Helal Gıda.
-- [Dijital Katalog](https://burcak.webyapar.com/tr/ekatalog/): Burçak Baharat dijital kataloğu: 6 ürün grubu ve 75 ürün tek sayfada — pul biber, baharat, kahve, pasta grubu, aromalı toz içecek.
-- [Ürünler](https://burcak.webyapar.com/tr/urunler/): Burçak Baharat e-katalog: pul biber, baharat, kahve, pasta grubu ve aromalı toz içecek — 75 ürün, kategori filtresi ve arama.
-- [Hakkımızda](https://burcak.webyapar.com/tr/hakkimizda/): Burçak Baharat hakkında: köklü deneyim, İslahiye OSB'de tam otomasyonlu tesis, 15 ülkeye ihracat.
-- [Misyon](https://burcak.webyapar.com/tr/misyon/): Misyonumuz: müşterilerimize anlaşılır ve güvenilir ürünler sunmak; çalışanlarımıza, iş ortaklarımıza ve topluma karşı sorumluluklarımızı gözetmek.
-- [Vizyon](https://burcak.webyapar.com/tr/vizyon/): Vizyonumuz; kalitesi, güvenilirliği ve müşteri odaklı yaklaşımıyla tercih edilen, değişime hızla uyum sağlayan ve çevresine değer katan bir kuruluş olmaktır.
-- [Kalite Politikamız](https://burcak.webyapar.com/tr/kalitepolitikamiz/): Burçak Baharat Kalite Politikası: müşteri memnuniyeti, yasal gerekliliklere uyum ve sürekli iyileştirme ilkelerimiz.
-- [Gizlilik Politikası](https://burcak.webyapar.com/tr/gizlilik-politikasi/): Burçak Baharat Gizlilik Politikası: internet sitemizi ziyaret ettiğinizde işlenen kişisel verileriniz, amaçları ve haklarınız.
-- [Kişisel Veriler](https://burcak.webyapar.com/tr/kisiselveriler/): Burçak Baharat KVKK Aydınlatma Metni: 6698 sayılı Kanun kapsamında kişisel verilerinizin işlenme amaçları ve haklarınız.
-- [Kullanıcı Hakları](https://burcak.webyapar.com/tr/kullanicahaklari/): Burçak Baharat ile ilişkinizde kullanıcı olarak sahip olduğunuz haklar ve bunları nasıl kullanabileceğiniz.
-- [Yasal Uyarı](https://burcak.webyapar.com/tr/yasaluyari/): Burçak Baharat internet sitesini kullanım koşulları ve yasal uyarılar.
-- [Çerez Politikası](https://burcak.webyapar.com/tr/cerez-politikasi/): Bu politika, Burçak Baharat tarafından işletilen bu internet sitesinde kullanılan çerezleri, hangi amaçlarla kullanıldığını ve tercihlerinizi nasıl yönetebileceğinizi açıklar.
-- [İletişim](https://burcak.webyapar.com/tr/iletisim/): Burçak Baharat iletişim: +90 342 238 11 11 · info@burcakbaharat.com.tr · İslahiye OSB, Gaziantep.
+- [Burçak Baharat](https://burcakbaharat.com.tr/tr/): Burçak Baharat; köklü deneyimiyle, modern ve tam otomasyonlu tesisinde baharat, pastacılık ürünleri, kahve ile aromalı toz içecek gruplarında 75 çeşit ürün üretir.
+- [Kurumsal](https://burcakbaharat.com.tr/tr/kurumsal/): Burçak Baharat: köklü deneyim, 25 bin m² arazide kurulu tam otomasyonlu tesis, 15 ülkeye ihracat, FDA · ISO 22000 · Helal Gıda.
+- [Dijital Katalog](https://burcakbaharat.com.tr/tr/ekatalog/): Burçak Baharat dijital kataloğu: 6 ürün grubu ve 75 ürün tek sayfada — pul biber, baharat, kahve, pasta grubu, aromalı toz içecek.
+- [Ürünler](https://burcakbaharat.com.tr/tr/urunler/): Burçak Baharat e-katalog: pul biber, baharat, kahve, pasta grubu ve aromalı toz içecek — 75 ürün, kategori filtresi ve arama.
+- [Hakkımızda](https://burcakbaharat.com.tr/tr/hakkimizda/): Burçak Baharat hakkında: köklü deneyim, İslahiye OSB'de tam otomasyonlu tesis, 15 ülkeye ihracat.
+- [Misyon](https://burcakbaharat.com.tr/tr/misyon/): Misyonumuz: müşterilerimize anlaşılır ve güvenilir ürünler sunmak; çalışanlarımıza, iş ortaklarımıza ve topluma karşı sorumluluklarımızı gözetmek.
+- [Vizyon](https://burcakbaharat.com.tr/tr/vizyon/): Vizyonumuz; kalitesi, güvenilirliği ve müşteri odaklı yaklaşımıyla tercih edilen, değişime hızla uyum sağlayan ve çevresine değer katan bir kuruluş olmaktır.
+- [Kalite Politikamız](https://burcakbaharat.com.tr/tr/kalitepolitikamiz/): Burçak Baharat Kalite Politikası: müşteri memnuniyeti, yasal gerekliliklere uyum ve sürekli iyileştirme ilkelerimiz.
+- [Gizlilik Politikası](https://burcakbaharat.com.tr/tr/gizlilik-politikasi/): Burçak Baharat Gizlilik Politikası: internet sitemizi ziyaret ettiğinizde işlenen kişisel verileriniz, amaçları ve haklarınız.
+- [Kişisel Veriler](https://burcakbaharat.com.tr/tr/kisiselveriler/): Burçak Baharat KVKK Aydınlatma Metni: 6698 sayılı Kanun kapsamında kişisel verilerinizin işlenme amaçları ve haklarınız.
+- [Kullanıcı Hakları](https://burcakbaharat.com.tr/tr/kullanicahaklari/): Burçak Baharat ile ilişkinizde kullanıcı olarak sahip olduğunuz haklar ve bunları nasıl kullanabileceğiniz.
+- [Yasal Uyarı](https://burcakbaharat.com.tr/tr/yasaluyari/): Burçak Baharat internet sitesini kullanım koşulları ve yasal uyarılar.
+- [Çerez Politikası](https://burcakbaharat.com.tr/tr/cerez-politikasi/): Bu politika, Burçak Baharat tarafından işletilen bu internet sitesinde kullanılan çerezleri, hangi amaçlarla kullanıldığını ve tercihlerinizi nasıl yönetebileceğinizi açıklar.
+- [İletişim](https://burcakbaharat.com.tr/tr/iletisim/): Burçak Baharat iletişim: +90 342 238 11 11 · info@burcakbaharat.com.tr · İslahiye OSB, Gaziantep.
 
 ## Urunler
-- [Kırmızı Pul Biber (200g)](https://burcak.webyapar.com/tr/kirmizi-pul-biber-200g/): Kırmızı biberin özenle öğütülmesiyle elde edilen klasik baharat.
-- [Kırmızı Pul Biber (400g)](https://burcak.webyapar.com/tr/kirmizi-pul-biber-400g/): Kırmızı biberin özenle öğütülmesiyle elde edilen klasik baharat.
-- [Kırmızı Pul Biber (800g)](https://burcak.webyapar.com/tr/kirmizi-pul-biber-800g/): Kırmızı biberin özenle öğütülmesiyle elde edilen klasik baharat.
-- [Türk Kahvesi](https://burcak.webyapar.com/tr/turk-kahvesi/): Kavrulmuş kahve çekirdeğinin ince öğütülmesiyle hazırlanan geleneksel kahve.
-- [Ananas Aromalı Jöle](https://burcak.webyapar.com/tr/ananas-aromali-jole/): Ananas aromalı, sıcak suyla hazırlanan toz jöle.
-- [Buğday Nişastası](https://burcak.webyapar.com/tr/bugday-nisastasi/): Buğdaydan elde edilen, toz halde nişasta.
-- [Erim Kabartma Tozu](https://burcak.webyapar.com/tr/erim-kabartma-tozu/): Erim Kabartma Tozu: hamur işlerinin kabarmasına yardımcı toz kabartıcı.
-- [Erim Şekerli Vanilin](https://burcak.webyapar.com/tr/erim-sekerli-vanilin/): Erim Şekerli Vanilin: şeker katılmış toz vanilin.
-- [Hamur Kabartma Tozu](https://burcak.webyapar.com/tr/hamur-kabartma-tozu/): Hamur işlerinin kabarmasına yardımcı toz kabartıcı.
-- [Kakao](https://burcak.webyapar.com/tr/kakao/): Pasta ve tatlılarda kullanılan toz kakao.
-- [Kakao Kutu](https://burcak.webyapar.com/tr/kakao-kutu/): Pasta ve tatlılarda kullanılan toz kakao; kutu ambalajda.
-- [Krem Şanti (Kakaolu)](https://burcak.webyapar.com/tr/krem-santi-kakaolu/): Kakao aromalı, çırpılarak hazırlanan toz krem şanti.
-- [Krem Şanti (Sade)](https://burcak.webyapar.com/tr/krem-santi-sade/): Sade, çırpılarak hazırlanan toz krem şanti.
-- [Krem Şanti (Çilekli)](https://burcak.webyapar.com/tr/krem-santi-cilekli/): Çilek aromalı, çırpılarak hazırlanan toz krem şanti.
-- [Pirinç Unu](https://burcak.webyapar.com/tr/pirinc-unu/): Pirincin öğütülmesiyle elde edilen ince un.
-- [Puding (Kakaolu)](https://burcak.webyapar.com/tr/puding-kakaolu/): Sütle pişirilerek hazırlanan kakao aromalı toz puding.
-- [Puding (Muzlu)](https://burcak.webyapar.com/tr/puding-muzlu/): Sütle pişirilerek hazırlanan muz aromalı toz puding.
-- [Puding (Vanilyalı)](https://burcak.webyapar.com/tr/puding-vanilyali/): Sütle pişirilerek hazırlanan vanilya aromalı toz puding.
-- [Puding (Çikolatalı)](https://burcak.webyapar.com/tr/puding-cikolatali/): Sütle pişirilerek hazırlanan çikolata aromalı toz puding.
-- [Puding (Çilekli)](https://burcak.webyapar.com/tr/puding-cilekli/): Sütle pişirilerek hazırlanan çilek aromalı toz puding.
-- [Pudra Şekeri](https://burcak.webyapar.com/tr/pudra-sekeri/): İnce öğütülmüş toz şeker.
-- [Vişne Aromalı Jöle](https://burcak.webyapar.com/tr/visne-aromali-jole/): Vişne aromalı, sıcak suyla hazırlanan toz jöle.
-- [Çikolatalı Sos](https://burcak.webyapar.com/tr/cikolatali-sos/): Çikolata aromalı hazır sos.
-- [Çilek Aromalı Jöle](https://burcak.webyapar.com/tr/cilek-aromali-jole/): Çilek aromalı, sıcak suyla hazırlanan toz jöle.
-- [Şekerli Vanilin](https://burcak.webyapar.com/tr/sekerli-vanilin/): Şeker katılmış toz vanilin.
-- [Büryan Baharatı](https://burcak.webyapar.com/tr/buryan-baharati/): Büryan tarzı et yemekleri için hazırlanmış baharat karışımı.
-- [Döner Baharatı](https://burcak.webyapar.com/tr/doner-baharati/): Döner ve et ürünleri için hazırlanmış baharat karışımı.
-- [Et Kebap Baharatı](https://burcak.webyapar.com/tr/et-kebap-baharati/): Et kebapları için hazırlanmış baharat karışımı.
-- [HaşHaş](https://burcak.webyapar.com/tr/hashas/): Haşhaş tohumu.
-- [Hindistan Cevizi](https://burcak.webyapar.com/tr/hindistan-cevizi/): Hindistan cevizi ürünü.
-- [Karabiber Öğütülmüş](https://burcak.webyapar.com/tr/karabiber-ogutulmus/): Öğütülmüş karabiber.
-- [Karanfil](https://burcak.webyapar.com/tr/karanfil/): Kurutulmuş karanfil tomurcuğu.
-- [Karbonat](https://burcak.webyapar.com/tr/karbonat/): Yemek ve unlu mamul hazırlıklarında kullanılan karbonat.
-- [Kebze Baharatı](https://burcak.webyapar.com/tr/kebze-baharati/): Pilav ve etli yemekler için hazırlanmış baharat karışımı.
-- [Kekik](https://burcak.webyapar.com/tr/kekik/): Kurutulmuş kekik.
-- [Kimyon Toz](https://burcak.webyapar.com/tr/kimyon-toz/): Öğütülmüş kimyon.
-- [Kişniş](https://burcak.webyapar.com/tr/kisnis/): Kişniş tohumundan elde edilen baharat.
-- [Köfte Baharatı (Beş Türlü)](https://burcak.webyapar.com/tr/kofte-baharati-bes-turlu/): Köfte için hazırlanmış beş çeşit baharat karışımı.
-- [Köri](https://burcak.webyapar.com/tr/kori/): Köri baharat karışımı.
-- [Kırmızı Acı Pul Biber](https://burcak.webyapar.com/tr/kirmizi-aci-pul-biber/): Acı kırmızı biberden elde edilen pul biber.
-- [Kırmızı Tatlı Toz Biber](https://burcak.webyapar.com/tr/kirmizi-tatli-toz-biber/): Tatlı kırmızı biberden elde edilen toz biber.
-- [Limon Tuzu (Toz)](https://burcak.webyapar.com/tr/limon-tuzu-toz/): Limon ekşisi tadı veren toz limon tuzu.
-- [Limon Tuzu (İri Tane)](https://burcak.webyapar.com/tr/limon-tuzu-iri-tane/): Limon ekşisi tadı veren iri taneli limon tuzu.
-- [Meksikano Baharat](https://burcak.webyapar.com/tr/meksikano-baharat/): Meksika mutfağı tarzında hazırlanmış baharat karışımı.
-- [Mendi Baharatı](https://burcak.webyapar.com/tr/mendi-baharati/): Mendi tarzı pilav ve et yemekleri için hazırlanmış baharat karışımı.
-- [Nane](https://burcak.webyapar.com/tr/nane/): Kurutulmuş nane.
-- [Pasta Süsü](https://burcak.webyapar.com/tr/pasta-susu/): Pasta ve tatlıların süslenmesinde kullanılan renkli şeker süs.
-- [Patates Baharatı](https://burcak.webyapar.com/tr/patates-baharati/): Patates yemekleri için hazırlanmış baharat karışımı.
-- [Sucuk Baharatı](https://burcak.webyapar.com/tr/sucuk-baharati/): Sucuk yapımı için hazırlanmış baharat karışımı.
-- [Sumak](https://burcak.webyapar.com/tr/sumak/): Sumak bitkisinden elde edilen, ekşi tadıyla bilinen baharat.
-- [Susam](https://burcak.webyapar.com/tr/susam/): Susam tohumu.
-- [Tarçın Öğütülmüş](https://burcak.webyapar.com/tr/tarcin-ogutulmus/): Öğütülmüş tarçın.
-- [Tavuk Baharatı](https://burcak.webyapar.com/tr/tavuk-baharati/): Tavuk yemekleri için hazırlanmış baharat karışımı.
-- [Tavuk Bulyon](https://burcak.webyapar.com/tr/tavuk-bulyon/): Tavuk aromalı toz bulyon.
-- [Tavuk Kebap Baharatı](https://burcak.webyapar.com/tr/tavuk-kebap-baharati/): Tavuk kebapları için hazırlanmış baharat karışımı.
-- [Zencefil](https://burcak.webyapar.com/tr/zencefil/): Öğütülmüş zencefil.
-- [Zerdeçal](https://burcak.webyapar.com/tr/zerdecal/): Öğütülmüş zerdeçal.
-- [Çörek Otu](https://burcak.webyapar.com/tr/corek-otu/): Çörek otu tohumu.
-- [İsot Biber](https://burcak.webyapar.com/tr/isot-biber/): Güneydoğu mutfağıyla bilinen, koyu renkli ve acılı pul biber.
-- [Burçak Limonata(1000ml)](https://burcak.webyapar.com/tr/burcak-limonata-1000ml/): Şişede hazır limonata.
-- [Ananas Aromalı](https://burcak.webyapar.com/tr/ananas-aromali/): Ananas aromalı toz içecek.
-- [Elma Aromalı](https://burcak.webyapar.com/tr/elma-aromali/): Elma aromalı toz içecek.
-- [Karadut Aromalı](https://burcak.webyapar.com/tr/karadut-aromali/): Karadut aromalı toz içecek.
-- [Karpuz Aromalı](https://burcak.webyapar.com/tr/karpuz-aromali/): Karpuz aromalı toz içecek.
-- [Kokteyl Aromalı](https://burcak.webyapar.com/tr/kokteyl-aromali/): Karışık meyve (kokteyl) aromalı toz içecek.
-- [Kola Aromalı](https://burcak.webyapar.com/tr/kola-aromali/): Kola aromalı toz içecek.
-- [Limon Aromalı](https://burcak.webyapar.com/tr/limon-aromali/): Limon aromalı toz içecek.
-- [Mango Aromalı](https://burcak.webyapar.com/tr/mango-aromali/): Mango aromalı toz içecek.
-- [Muz Aromalı](https://burcak.webyapar.com/tr/muz-aromali/): Muz aromalı toz içecek.
-- [Nar Aromalı](https://burcak.webyapar.com/tr/nar-aromali/): Nar aromalı toz içecek.
-- [Portakal Aromalı](https://burcak.webyapar.com/tr/portakal-aromali/): Portakal aromalı toz içecek.
-- [Soursop Aromalı](https://burcak.webyapar.com/tr/soursop-aromali/): Soursop (guanabana) aromalı toz içecek.
-- [Vişne Aromalı](https://burcak.webyapar.com/tr/visne-aromali/): Vişne aromalı toz içecek.
-- [Çilek Aromalı](https://burcak.webyapar.com/tr/cilek-aromali/): Çilek aromalı toz içecek.
-- [Şeftali Aromalı](https://burcak.webyapar.com/tr/seftali-aromali/): Şeftali aromalı toz içecek.
+- [Kırmızı Pul Biber (200g)](https://burcakbaharat.com.tr/tr/kirmizi-pul-biber-200g/): Kırmızı biberin özenle öğütülmesiyle elde edilen klasik baharat.
+- [Kırmızı Pul Biber (400g)](https://burcakbaharat.com.tr/tr/kirmizi-pul-biber-400g/): Kırmızı biberin özenle öğütülmesiyle elde edilen klasik baharat.
+- [Kırmızı Pul Biber (800g)](https://burcakbaharat.com.tr/tr/kirmizi-pul-biber-800g/): Kırmızı biberin özenle öğütülmesiyle elde edilen klasik baharat.
+- [Türk Kahvesi](https://burcakbaharat.com.tr/tr/turk-kahvesi/): Kavrulmuş kahve çekirdeğinin ince öğütülmesiyle hazırlanan geleneksel kahve.
+- [Ananas Aromalı Jöle](https://burcakbaharat.com.tr/tr/ananas-aromali-jole/): Ananas aromalı, sıcak suyla hazırlanan toz jöle.
+- [Buğday Nişastası](https://burcakbaharat.com.tr/tr/bugday-nisastasi/): Buğdaydan elde edilen, toz halde nişasta.
+- [Erim Kabartma Tozu](https://burcakbaharat.com.tr/tr/erim-kabartma-tozu/): Erim Kabartma Tozu: hamur işlerinin kabarmasına yardımcı toz kabartıcı.
+- [Erim Şekerli Vanilin](https://burcakbaharat.com.tr/tr/erim-sekerli-vanilin/): Erim Şekerli Vanilin: şeker katılmış toz vanilin.
+- [Hamur Kabartma Tozu](https://burcakbaharat.com.tr/tr/hamur-kabartma-tozu/): Hamur işlerinin kabarmasına yardımcı toz kabartıcı.
+- [Kakao](https://burcakbaharat.com.tr/tr/kakao/): Pasta ve tatlılarda kullanılan toz kakao.
+- [Kakao Kutu](https://burcakbaharat.com.tr/tr/kakao-kutu/): Pasta ve tatlılarda kullanılan toz kakao; kutu ambalajda.
+- [Krem Şanti (Kakaolu)](https://burcakbaharat.com.tr/tr/krem-santi-kakaolu/): Kakao aromalı, çırpılarak hazırlanan toz krem şanti.
+- [Krem Şanti (Sade)](https://burcakbaharat.com.tr/tr/krem-santi-sade/): Sade, çırpılarak hazırlanan toz krem şanti.
+- [Krem Şanti (Çilekli)](https://burcakbaharat.com.tr/tr/krem-santi-cilekli/): Çilek aromalı, çırpılarak hazırlanan toz krem şanti.
+- [Pirinç Unu](https://burcakbaharat.com.tr/tr/pirinc-unu/): Pirincin öğütülmesiyle elde edilen ince un.
+- [Puding (Kakaolu)](https://burcakbaharat.com.tr/tr/puding-kakaolu/): Sütle pişirilerek hazırlanan kakao aromalı toz puding.
+- [Puding (Muzlu)](https://burcakbaharat.com.tr/tr/puding-muzlu/): Sütle pişirilerek hazırlanan muz aromalı toz puding.
+- [Puding (Vanilyalı)](https://burcakbaharat.com.tr/tr/puding-vanilyali/): Sütle pişirilerek hazırlanan vanilya aromalı toz puding.
+- [Puding (Çikolatalı)](https://burcakbaharat.com.tr/tr/puding-cikolatali/): Sütle pişirilerek hazırlanan çikolata aromalı toz puding.
+- [Puding (Çilekli)](https://burcakbaharat.com.tr/tr/puding-cilekli/): Sütle pişirilerek hazırlanan çilek aromalı toz puding.
+- [Pudra Şekeri](https://burcakbaharat.com.tr/tr/pudra-sekeri/): İnce öğütülmüş toz şeker.
+- [Vişne Aromalı Jöle](https://burcakbaharat.com.tr/tr/visne-aromali-jole/): Vişne aromalı, sıcak suyla hazırlanan toz jöle.
+- [Çikolatalı Sos](https://burcakbaharat.com.tr/tr/cikolatali-sos/): Çikolata aromalı hazır sos.
+- [Çilek Aromalı Jöle](https://burcakbaharat.com.tr/tr/cilek-aromali-jole/): Çilek aromalı, sıcak suyla hazırlanan toz jöle.
+- [Şekerli Vanilin](https://burcakbaharat.com.tr/tr/sekerli-vanilin/): Şeker katılmış toz vanilin.
+- [Büryan Baharatı](https://burcakbaharat.com.tr/tr/buryan-baharati/): Büryan tarzı et yemekleri için hazırlanmış baharat karışımı.
+- [Döner Baharatı](https://burcakbaharat.com.tr/tr/doner-baharati/): Döner ve et ürünleri için hazırlanmış baharat karışımı.
+- [Et Kebap Baharatı](https://burcakbaharat.com.tr/tr/et-kebap-baharati/): Et kebapları için hazırlanmış baharat karışımı.
+- [HaşHaş](https://burcakbaharat.com.tr/tr/hashas/): Haşhaş tohumu.
+- [Hindistan Cevizi](https://burcakbaharat.com.tr/tr/hindistan-cevizi/): Hindistan cevizi ürünü.
+- [Karabiber Öğütülmüş](https://burcakbaharat.com.tr/tr/karabiber-ogutulmus/): Öğütülmüş karabiber.
+- [Karanfil](https://burcakbaharat.com.tr/tr/karanfil/): Kurutulmuş karanfil tomurcuğu.
+- [Karbonat](https://burcakbaharat.com.tr/tr/karbonat/): Yemek ve unlu mamul hazırlıklarında kullanılan karbonat.
+- [Kebze Baharatı](https://burcakbaharat.com.tr/tr/kebze-baharati/): Pilav ve etli yemekler için hazırlanmış baharat karışımı.
+- [Kekik](https://burcakbaharat.com.tr/tr/kekik/): Kurutulmuş kekik.
+- [Kimyon Toz](https://burcakbaharat.com.tr/tr/kimyon-toz/): Öğütülmüş kimyon.
+- [Kişniş](https://burcakbaharat.com.tr/tr/kisnis/): Kişniş tohumundan elde edilen baharat.
+- [Köfte Baharatı (Beş Türlü)](https://burcakbaharat.com.tr/tr/kofte-baharati-bes-turlu/): Köfte için hazırlanmış beş çeşit baharat karışımı.
+- [Köri](https://burcakbaharat.com.tr/tr/kori/): Köri baharat karışımı.
+- [Kırmızı Acı Pul Biber](https://burcakbaharat.com.tr/tr/kirmizi-aci-pul-biber/): Acı kırmızı biberden elde edilen pul biber.
+- [Kırmızı Tatlı Toz Biber](https://burcakbaharat.com.tr/tr/kirmizi-tatli-toz-biber/): Tatlı kırmızı biberden elde edilen toz biber.
+- [Limon Tuzu (Toz)](https://burcakbaharat.com.tr/tr/limon-tuzu-toz/): Limon ekşisi tadı veren toz limon tuzu.
+- [Limon Tuzu (İri Tane)](https://burcakbaharat.com.tr/tr/limon-tuzu-iri-tane/): Limon ekşisi tadı veren iri taneli limon tuzu.
+- [Meksikano Baharat](https://burcakbaharat.com.tr/tr/meksikano-baharat/): Meksika mutfağı tarzında hazırlanmış baharat karışımı.
+- [Mendi Baharatı](https://burcakbaharat.com.tr/tr/mendi-baharati/): Mendi tarzı pilav ve et yemekleri için hazırlanmış baharat karışımı.
+- [Nane](https://burcakbaharat.com.tr/tr/nane/): Kurutulmuş nane.
+- [Pasta Süsü](https://burcakbaharat.com.tr/tr/pasta-susu/): Pasta ve tatlıların süslenmesinde kullanılan renkli şeker süs.
+- [Patates Baharatı](https://burcakbaharat.com.tr/tr/patates-baharati/): Patates yemekleri için hazırlanmış baharat karışımı.
+- [Sucuk Baharatı](https://burcakbaharat.com.tr/tr/sucuk-baharati/): Sucuk yapımı için hazırlanmış baharat karışımı.
+- [Sumak](https://burcakbaharat.com.tr/tr/sumak/): Sumak bitkisinden elde edilen, ekşi tadıyla bilinen baharat.
+- [Susam](https://burcakbaharat.com.tr/tr/susam/): Susam tohumu.
+- [Tarçın Öğütülmüş](https://burcakbaharat.com.tr/tr/tarcin-ogutulmus/): Öğütülmüş tarçın.
+- [Tavuk Baharatı](https://burcakbaharat.com.tr/tr/tavuk-baharati/): Tavuk yemekleri için hazırlanmış baharat karışımı.
+- [Tavuk Bulyon](https://burcakbaharat.com.tr/tr/tavuk-bulyon/): Tavuk aromalı toz bulyon.
+- [Tavuk Kebap Baharatı](https://burcakbaharat.com.tr/tr/tavuk-kebap-baharati/): Tavuk kebapları için hazırlanmış baharat karışımı.
+- [Zencefil](https://burcakbaharat.com.tr/tr/zencefil/): Öğütülmüş zencefil.
+- [Zerdeçal](https://burcakbaharat.com.tr/tr/zerdecal/): Öğütülmüş zerdeçal.
+- [Çörek Otu](https://burcakbaharat.com.tr/tr/corek-otu/): Çörek otu tohumu.
+- [İsot Biber](https://burcakbaharat.com.tr/tr/isot-biber/): Güneydoğu mutfağıyla bilinen, koyu renkli ve acılı pul biber.
+- [Burçak Limonata(1000ml)](https://burcakbaharat.com.tr/tr/burcak-limonata-1000ml/): Şişede hazır limonata.
+- [Ananas Aromalı](https://burcakbaharat.com.tr/tr/ananas-aromali/): Ananas aromalı toz içecek.
+- [Elma Aromalı](https://burcakbaharat.com.tr/tr/elma-aromali/): Elma aromalı toz içecek.
+- [Karadut Aromalı](https://burcakbaharat.com.tr/tr/karadut-aromali/): Karadut aromalı toz içecek.
+- [Karpuz Aromalı](https://burcakbaharat.com.tr/tr/karpuz-aromali/): Karpuz aromalı toz içecek.
+- [Kokteyl Aromalı](https://burcakbaharat.com.tr/tr/kokteyl-aromali/): Karışık meyve (kokteyl) aromalı toz içecek.
+- [Kola Aromalı](https://burcakbaharat.com.tr/tr/kola-aromali/): Kola aromalı toz içecek.
+- [Limon Aromalı](https://burcakbaharat.com.tr/tr/limon-aromali/): Limon aromalı toz içecek.
+- [Mango Aromalı](https://burcakbaharat.com.tr/tr/mango-aromali/): Mango aromalı toz içecek.
+- [Muz Aromalı](https://burcakbaharat.com.tr/tr/muz-aromali/): Muz aromalı toz içecek.
+- [Nar Aromalı](https://burcakbaharat.com.tr/tr/nar-aromali/): Nar aromalı toz içecek.
+- [Portakal Aromalı](https://burcakbaharat.com.tr/tr/portakal-aromali/): Portakal aromalı toz içecek.
+- [Soursop Aromalı](https://burcakbaharat.com.tr/tr/soursop-aromali/): Soursop (guanabana) aromalı toz içecek.
+- [Vişne Aromalı](https://burcakbaharat.com.tr/tr/visne-aromali/): Vişne aromalı toz içecek.
+- [Çilek Aromalı](https://burcakbaharat.com.tr/tr/cilek-aromali/): Çilek aromalı toz içecek.
+- [Şeftali Aromalı](https://burcakbaharat.com.tr/tr/seftali-aromali/): Şeftali aromalı toz içecek.
 
 ## Kategoriler
-- [Pul Biber Grubu](https://burcak.webyapar.com/tr/ekatalog-pul-biber/): Burçak Baharat Pul Biber Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
-- [Kahve Grubu](https://burcak.webyapar.com/tr/ekatalog-kahve/): Burçak Baharat Kahve Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
-- [Pasta Grubu](https://burcak.webyapar.com/tr/ekatalog-pasta/): Burçak Baharat Pasta Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
-- [20 Gr Baharat Grubu](https://burcak.webyapar.com/tr/ekatalog-baharat/): Burçak Baharat 20 Gr Baharat Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
-- [Burçak Drink](https://burcak.webyapar.com/tr/ekatalog-drink/): Burçak Baharat Burçak Drink ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
-- [Aromalı Toz İçecek](https://burcak.webyapar.com/tr/ekatalog-fruit-dance/): Burçak Baharat Aromalı Toz İçecek ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
+- [Pul Biber Grubu](https://burcakbaharat.com.tr/tr/ekatalog-pul-biber/): Burçak Baharat Pul Biber Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
+- [Kahve Grubu](https://burcakbaharat.com.tr/tr/ekatalog-kahve/): Burçak Baharat Kahve Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
+- [Pasta Grubu](https://burcakbaharat.com.tr/tr/ekatalog-pasta/): Burçak Baharat Pasta Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
+- [20 Gr Baharat Grubu](https://burcakbaharat.com.tr/tr/ekatalog-baharat/): Burçak Baharat 20 Gr Baharat Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
+- [Burçak Drink](https://burcakbaharat.com.tr/tr/ekatalog-drink/): Burçak Baharat Burçak Drink ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
+- [Aromalı Toz İçecek](https://burcakbaharat.com.tr/tr/ekatalog-fruit-dance/): Burçak Baharat Aromalı Toz İçecek ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
 
 ## Diger
-- [sitemap.xml](https://burcak.webyapar.com/sitemap.xml): tum URL listesi
-- [llms-full.txt](https://burcak.webyapar.com/llms-full.txt): sayfa govdeleri duz metin
+- [sitemap.xml](https://burcakbaharat.com.tr/sitemap.xml): tum URL listesi
+- [llms-full.txt](https://burcakbaharat.com.tr/llms-full.txt): sayfa govdeleri duz metin

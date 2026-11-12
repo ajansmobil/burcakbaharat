@@ -17,7 +17,7 @@
   },
   "category": "Kurumsal",
   "name": "Burçak Baharat",
-  "domain": "burcak.webyapar.com",
+  "domain": "burcakbaharat.com.tr",
   "langs": {
     "tr": true,
     "en": true,
@@ -68,5 +68,13 @@
     "body": "inter"
   },
   "icon": "icon.png",
-  "og_image": "og.jpg"
+  "og_image": "og.jpg",
+  "hosting": {
+    "hedefler": [
+      {
+        "repo": "ajansmobil/burcakbaharat",
+        "cname": "burcakbaharat.com.tr"
+      }
+    ]
+  }
 }

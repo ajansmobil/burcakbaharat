@@ -541,8 +541,8 @@ Disallow: /de/siparislerim/
 Disallow: /de/siparis-onay/
 
 # Sitemap
-Sitemap: https://burcak.webyapar.com/sitemap.xml
+Sitemap: https://burcakbaharat.com.tr/sitemap.xml
 
 # GEO (llmstxt.org)
-# https://burcak.webyapar.com/llms.txt
-# https://burcak.webyapar.com/llms-full.txt
+# https://burcakbaharat.com.tr/llms.txt
+# https://burcakbaharat.com.tr/llms-full.txt
