@@ -121,6 +121,12 @@
   .h0000-m9 a.h0000-m9-oge:focus-visible::after,
   .h0000-m9 a.h0000-m9-oge[aria-current="page"]::after { transform: scaleX(1); }
   .h0000-m9 a.h0000-m9-oge[aria-current="page"] { color: #8F1D2C; font-weight: 700; }
+  
+  .h0000-m9-bar-ic a.h0000-m9-oge { color: #FBF6EE; }
+  .h0000-m9-bar-ic a.h0000-m9-oge::after { background: #F2C879; }
+  .h0000-m9-bar-ic a.h0000-m9-oge:hover,
+  .h0000-m9-bar-ic a.h0000-m9-oge:focus-visible { color: #F2C879; outline-color: #F2C879; }
+  .h0000-m9-bar-ic a.h0000-m9-oge[aria-current="page"] { color: #F2C879; }
 
   .h0000-m9-logo { display: inline-flex; align-items: center; justify-content: center; text-decoration: none; }
   .h0000-m9-logo img {
