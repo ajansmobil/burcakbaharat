@@ -5391,13 +5391,6 @@
               "fr": "Du champ à votre table",
               "de": "Vom Feld auf den Tisch"
             },
-            "accent": {
-              "tr": "Lezzet Yolculuğu",
-              "en": "A Journey of Flavor",
-              "es": "Un viaje de sabor",
-              "fr": "Un voyage de saveurs",
-              "de": "Eine Reise des Geschmacks"
-            },
             "btn1": {
               "slug": "urunler",
               "text": {
@@ -5437,13 +5430,6 @@
               "fr": "Pour chaque recette",
               "de": "Für jedes Rezept"
             },
-            "accent": {
-              "tr": "Tatlı Bir Dokunuş",
-              "en": "A Sweet Touch",
-              "es": "Un toque dulce",
-              "fr": "Une touche sucrée",
-              "de": "Eine süße Note"
-            },
             "btn1": {
               "slug": "urunler",
               "text": {
@@ -5482,13 +5468,6 @@
               "es": "Refrescantes",
               "fr": "Rafraîchissantes",
               "de": "Erfrischende"
-            },
-            "accent": {
-              "tr": "Meyve Tatları",
-              "en": "Fruit Flavors",
-              "es": "Sabores de fruta",
-              "fr": "Saveurs de fruits",
-              "de": "Fruchtaromen"
             },
             "btn1": {
               "slug": "urunler",
