@@ -42,19 +42,19 @@
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-400-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-500-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-700-normal.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/fonts/inter.css?v=cp1lp" />
-  <link rel="stylesheet" href="/src/fonts/playfair-display.css?v=cp1lp" />
-  <link rel="stylesheet" href="/src/rubik.css?v=cp1lp" />
-  <link rel="stylesheet" href="/src/css.css?v=cp1lp" />
-  <link rel="stylesheet" href="/src/mx-ds.css?v=cp1lp" />
+  <link rel="stylesheet" href="/src/fonts/inter.css?v=mlnbf" />
+  <link rel="stylesheet" href="/src/fonts/playfair-display.css?v=mlnbf" />
+  <link rel="stylesheet" href="/src/rubik.css?v=mlnbf" />
+  <link rel="stylesheet" href="/src/css.css?v=mlnbf" />
+  <link rel="stylesheet" href="/src/mx-ds.css?v=mlnbf" />
   
-  <link rel="stylesheet" href="/src/mx-ui.css?v=cp1lp" />
+  <link rel="stylesheet" href="/src/mx-ui.css?v=mlnbf" />
   <link rel="preload" href="/src/material-symbols-outlined.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=cp1lp" />
+  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=mlnbf" />
   
-  <link rel="stylesheet" href="/src/cookie.css?v=cp1lp" />
-  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=cp1lp" />
-  <link rel="shortcut icon" href="/img/icon.png?v=cp1lp" type="image/png" />
+  <link rel="stylesheet" href="/src/cookie.css?v=mlnbf" />
+  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=mlnbf" />
+  <link rel="shortcut icon" href="/img/icon.png?v=mlnbf" type="image/png" />
   <link rel="apple-touch-icon" href="/img/icon.png" />
   <script type="application/ld+json">
 {
@@ -160,7 +160,7 @@
 }
 </script>
   
-<link rel="stylesheet" href="style.css?v=cp1lp">
+<link rel="stylesheet" href="style.css?v=mlnbf">
 </head>
 
 <body>
@@ -361,10 +361,9 @@
   <div class="f0000-f9__bottom">
     <p class="f0000-f9__rights">&copy; 2026 Burçak Baharat. Todos los derechos reservados.</p>
     <ul class="f0000-f9__legal"><li><a class="f0000-f9__link" href="/es/gizlilik-politikasi/">Política de privacidad</a></li><li><a class="f0000-f9__link" href="/es/kisiselveriler/">Datos personales</a></li><li><a class="f0000-f9__link" href="/es/cerez-politikasi/">Política de cookies</a></li><li><a class="f0000-f9__link" href="/es/kullanicahaklari/">Derechos del usuario</a></li><li><a class="f0000-f9__link" href="/es/yasaluyari/">Aviso legal</a></li></ul>
-    
   </div>
 </footer>
-<nav class="f0000-f9__bar" aria-label="Contacto rápido"><a href="tel:+903422381111" dir="ltr"><span class="material-symbols-outlined" aria-hidden="true">call</span>Llamar</a><a href="mailto:info@burcakbaharat.com.tr"><span class="material-symbols-outlined" aria-hidden="true">mail</span>Correo electrónico</a><button type="button" class="f0000-f9__bar-dil" aria-haspopup="true" aria-expanded="false"><span class="material-symbols-outlined" aria-hidden="true">language</span>Idioma · ES</button></nav><div class="f0000-f9__sheet" hidden><div class="f0000-f9__sheet-ic"></div></div>
+<nav class="f0000-f9__bar" aria-label="Menü"><a href="/es/"><span class="material-symbols-outlined" aria-hidden="true">home</span><span class="f0000-f9m__ad">Inicio</span></a><a href="/es/kurumsal/"><span class="material-symbols-outlined" aria-hidden="true">menu_book</span><span class="f0000-f9m__ad">Corporativo</span></a><a href="/es/ekatalog/"><span class="material-symbols-outlined" aria-hidden="true">menu_book</span><span class="f0000-f9m__ad">Catálogo digital</span></a><a href="/es/urunler/"><span class="material-symbols-outlined" aria-hidden="true">menu_book</span><span class="f0000-f9m__ad">Productos</span></a></nav>
 <button type="button" class="f0000-f9__top" aria-label="Volver arriba" title="Volver arriba" hidden>
   <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 19V5M5 12l7-7 7 7"/></svg>
 </button>
@@ -401,15 +400,13 @@
     }
   } catch (e) {  }
   
-  var dilBtn = document.querySelector(".f0000-f9__bar-dil"), sheet = document.querySelector(".f0000-f9__sheet");
-  if (dilBtn && sheet) {
-    var kapaSheet = function () { sheet.hidden = true; dilBtn.setAttribute("aria-expanded", "false"); };
-    dilBtn.addEventListener("click", function () {
-      var ic = sheet.firstElementChild;
-      if (ic && !ic.firstChild) { var src = document.querySelector('[class*="-m9-dil-acilir"] .wm-langbar') || document.querySelector(".wm-langbar"); if (src) ic.appendChild(src.cloneNode(true)); }
-      var ac = sheet.hidden; sheet.hidden = !ac; dilBtn.setAttribute("aria-expanded", ac ? "true" : "false"); });
-    sheet.addEventListener("click", function (e) { if (e.target === sheet) kapaSheet(); });
-    document.addEventListener("keydown", function (e) { if (e.key === "Escape") kapaSheet(); });
+  var f9bar = document.querySelector(".f0000-f9__bar");
+  if (f9bar) {
+    var f9yol = (location.pathname || "/").replace(/\/+$/, "") || "/";
+    f9bar.querySelectorAll("a").forEach(function (a) {
+      var h = (a.getAttribute("href") || "").split(/[?#]/)[0].replace(/\/+$/, "") || "/";
+      if (h === f9yol) a.setAttribute("aria-current", "page");
+    });
   }
   
   var top = document.querySelector(".f0000-f9__top");
@@ -559,10 +556,10 @@
   
 
   <script defer src="/src/swiper-bundle.min.js"></script>
-  <script defer src="/src/mx-ui.js?v=cp1lp"></script>
-  <script defer src="/src/mx-store.js?v=cp1lp"></script>
-  <script defer type="text/javascript" src="/src/js.js?v=cp1lp"></script>
-  <script defer src="/src/cookie.js?v=cp1lp"></script>
+  <script defer src="/src/mx-ui.js?v=mlnbf"></script>
+  <script defer src="/src/mx-store.js?v=mlnbf"></script>
+  <script defer type="text/javascript" src="/src/js.js?v=mlnbf"></script>
+  <script defer src="/src/cookie.js?v=mlnbf"></script>
 
 </body>
 

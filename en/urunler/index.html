@@ -42,19 +42,19 @@
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-400-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-500-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-700-normal.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/fonts/inter.css?v=s7ysz" />
-  <link rel="stylesheet" href="/src/fonts/playfair-display.css?v=s7ysz" />
-  <link rel="stylesheet" href="/src/rubik.css?v=s7ysz" />
-  <link rel="stylesheet" href="/src/css.css?v=s7ysz" />
-  <link rel="stylesheet" href="/src/mx-ds.css?v=s7ysz" />
+  <link rel="stylesheet" href="/src/fonts/inter.css?v=pkwkd" />
+  <link rel="stylesheet" href="/src/fonts/playfair-display.css?v=pkwkd" />
+  <link rel="stylesheet" href="/src/rubik.css?v=pkwkd" />
+  <link rel="stylesheet" href="/src/css.css?v=pkwkd" />
+  <link rel="stylesheet" href="/src/mx-ds.css?v=pkwkd" />
   
-  <link rel="stylesheet" href="/src/mx-ui.css?v=s7ysz" />
+  <link rel="stylesheet" href="/src/mx-ui.css?v=pkwkd" />
   <link rel="preload" href="/src/material-symbols-outlined.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=s7ysz" />
+  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=pkwkd" />
   
-  <link rel="stylesheet" href="/src/cookie.css?v=s7ysz" />
-  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=s7ysz" />
-  <link rel="shortcut icon" href="/img/icon.png?v=s7ysz" type="image/png" />
+  <link rel="stylesheet" href="/src/cookie.css?v=pkwkd" />
+  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=pkwkd" />
+  <link rel="shortcut icon" href="/img/icon.png?v=pkwkd" type="image/png" />
   <link rel="apple-touch-icon" href="/img/icon.png" />
   <script type="application/ld+json">
 {
@@ -147,7 +147,7 @@
 }
 </script>
   
-<link rel="stylesheet" href="style.css?v=s7ysz">
+<link rel="stylesheet" href="style.css?v=pkwkd">
 </head>
 
 <body>
@@ -519,10 +519,9 @@ function b0001AddCart(btn, ev) {
   <div class="f0000-f9__bottom">
     <p class="f0000-f9__rights">&copy; 2026 Burçak Baharat. All rights reserved.</p>
     <ul class="f0000-f9__legal"><li><a class="f0000-f9__link" href="/en/gizlilik-politikasi/">Privacy Policy</a></li><li><a class="f0000-f9__link" href="/en/kisiselveriler/">Personal Data</a></li><li><a class="f0000-f9__link" href="/en/cerez-politikasi/">Cookie Policy</a></li><li><a class="f0000-f9__link" href="/en/kullanicahaklari/">User Rights</a></li><li><a class="f0000-f9__link" href="/en/yasaluyari/">Legal Notice</a></li></ul>
-    
   </div>
 </footer>
-<nav class="f0000-f9__bar" aria-label="Quick contact"><a href="tel:+903422381111" dir="ltr"><span class="material-symbols-outlined" aria-hidden="true">call</span>Call</a><a href="mailto:info@burcakbaharat.com.tr"><span class="material-symbols-outlined" aria-hidden="true">mail</span>Email</a><button type="button" class="f0000-f9__bar-dil" aria-haspopup="true" aria-expanded="false"><span class="material-symbols-outlined" aria-hidden="true">language</span>Language · EN</button></nav><div class="f0000-f9__sheet" hidden><div class="f0000-f9__sheet-ic"></div></div>
+<nav class="f0000-f9__bar" aria-label="Menü"><a href="/en/"><span class="material-symbols-outlined" aria-hidden="true">home</span><span class="f0000-f9m__ad">Home</span></a><a href="/en/kurumsal/"><span class="material-symbols-outlined" aria-hidden="true">menu_book</span><span class="f0000-f9m__ad">Corporate</span></a><a href="/en/ekatalog/"><span class="material-symbols-outlined" aria-hidden="true">menu_book</span><span class="f0000-f9m__ad">Digital Catalog</span></a><a href="/en/urunler/"><span class="material-symbols-outlined" aria-hidden="true">menu_book</span><span class="f0000-f9m__ad">Products</span></a></nav>
 <button type="button" class="f0000-f9__top" aria-label="Back to top" title="Back to top" hidden>
   <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 19V5M5 12l7-7 7 7"/></svg>
 </button>
@@ -559,15 +558,13 @@ function b0001AddCart(btn, ev) {
     }
   } catch (e) {  }
   
-  var dilBtn = document.querySelector(".f0000-f9__bar-dil"), sheet = document.querySelector(".f0000-f9__sheet");
-  if (dilBtn && sheet) {
-    var kapaSheet = function () { sheet.hidden = true; dilBtn.setAttribute("aria-expanded", "false"); };
-    dilBtn.addEventListener("click", function () {
-      var ic = sheet.firstElementChild;
-      if (ic && !ic.firstChild) { var src = document.querySelector('[class*="-m9-dil-acilir"] .wm-langbar') || document.querySelector(".wm-langbar"); if (src) ic.appendChild(src.cloneNode(true)); }
-      var ac = sheet.hidden; sheet.hidden = !ac; dilBtn.setAttribute("aria-expanded", ac ? "true" : "false"); });
-    sheet.addEventListener("click", function (e) { if (e.target === sheet) kapaSheet(); });
-    document.addEventListener("keydown", function (e) { if (e.key === "Escape") kapaSheet(); });
+  var f9bar = document.querySelector(".f0000-f9__bar");
+  if (f9bar) {
+    var f9yol = (location.pathname || "/").replace(/\/+$/, "") || "/";
+    f9bar.querySelectorAll("a").forEach(function (a) {
+      var h = (a.getAttribute("href") || "").split(/[?#]/)[0].replace(/\/+$/, "") || "/";
+      if (h === f9yol) a.setAttribute("aria-current", "page");
+    });
   }
   
   var top = document.querySelector(".f0000-f9__top");
@@ -717,10 +714,10 @@ function b0001AddCart(btn, ev) {
   
 
   <script defer src="/src/swiper-bundle.min.js"></script>
-  <script defer src="/src/mx-ui.js?v=s7ysz"></script>
-  <script defer src="/src/mx-store.js?v=s7ysz"></script>
-  <script defer type="text/javascript" src="/src/js.js?v=s7ysz"></script>
-  <script defer src="/src/cookie.js?v=s7ysz"></script>
+  <script defer src="/src/mx-ui.js?v=pkwkd"></script>
+  <script defer src="/src/mx-store.js?v=pkwkd"></script>
+  <script defer type="text/javascript" src="/src/js.js?v=pkwkd"></script>
+  <script defer src="/src/cookie.js?v=pkwkd"></script>
 
 </body>
 

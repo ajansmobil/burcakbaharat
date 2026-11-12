@@ -42,19 +42,19 @@
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-400-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-500-normal.woff2" as="font" type="font/woff2" crossorigin />
   <link rel="preload" href="/src/fonts/inter/inter-latin-ext-700-normal.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/fonts/inter.css?v=i9njn" />
-  <link rel="stylesheet" href="/src/fonts/playfair-display.css?v=i9njn" />
-  <link rel="stylesheet" href="/src/rubik.css?v=i9njn" />
-  <link rel="stylesheet" href="/src/css.css?v=i9njn" />
-  <link rel="stylesheet" href="/src/mx-ds.css?v=i9njn" />
+  <link rel="stylesheet" href="/src/fonts/inter.css?v=jpg7t" />
+  <link rel="stylesheet" href="/src/fonts/playfair-display.css?v=jpg7t" />
+  <link rel="stylesheet" href="/src/rubik.css?v=jpg7t" />
+  <link rel="stylesheet" href="/src/css.css?v=jpg7t" />
+  <link rel="stylesheet" href="/src/mx-ds.css?v=jpg7t" />
   
-  <link rel="stylesheet" href="/src/mx-ui.css?v=i9njn" />
+  <link rel="stylesheet" href="/src/mx-ui.css?v=jpg7t" />
   <link rel="preload" href="/src/material-symbols-outlined.woff2" as="font" type="font/woff2" crossorigin />
-  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=i9njn" />
+  <link rel="stylesheet" href="/src/material-symbols-outlined.css?v=jpg7t" />
   
-  <link rel="stylesheet" href="/src/cookie.css?v=i9njn" />
-  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=i9njn" />
-  <link rel="shortcut icon" href="/img/icon.png?v=i9njn" type="image/png" />
+  <link rel="stylesheet" href="/src/cookie.css?v=jpg7t" />
+  <link rel="stylesheet" href="/src/swiper-bundle.min.css?v=jpg7t" />
+  <link rel="shortcut icon" href="/img/icon.png?v=jpg7t" type="image/png" />
   <link rel="apple-touch-icon" href="/img/icon.png" />
   <script type="application/ld+json">
 {
@@ -147,7 +147,7 @@
 }
 </script>
   
-<link rel="stylesheet" href="style.css?v=i9njn">
+<link rel="stylesheet" href="style.css?v=jpg7t">
 </head>
 
 <body>
@@ -501,10 +501,9 @@
   <div class="f0000-f9__bottom">
     <p class="f0000-f9__rights">&copy; 2026 Burçak Baharat. Tous droits réservés.</p>
     <ul class="f0000-f9__legal"><li><a class="f0000-f9__link" href="/fr/gizlilik-politikasi/">Politique de confidentialité</a></li><li><a class="f0000-f9__link" href="/fr/kisiselveriler/">Données personnelles</a></li><li><a class="f0000-f9__link" href="/fr/cerez-politikasi/">Politique de cookies</a></li><li><a class="f0000-f9__link" href="/fr/kullanicahaklari/">Droits des utilisateurs</a></li><li><a class="f0000-f9__link" href="/fr/yasaluyari/">Mentions légales</a></li></ul>
-    
   </div>
 </footer>
-<nav class="f0000-f9__bar" aria-label="Contact rapide"><a href="tel:+903422381111" dir="ltr"><span class="material-symbols-outlined" aria-hidden="true">call</span>Appeler</a><a href="mailto:info@burcakbaharat.com.tr"><span class="material-symbols-outlined" aria-hidden="true">mail</span>E-mail</a><button type="button" class="f0000-f9__bar-dil" aria-haspopup="true" aria-expanded="false"><span class="material-symbols-outlined" aria-hidden="true">language</span>Langue · FR</button></nav><div class="f0000-f9__sheet" hidden><div class="f0000-f9__sheet-ic"></div></div>
+<nav class="f0000-f9__bar" aria-label="Menü"><a href="/fr/"><span class="material-symbols-outlined" aria-hidden="true">home</span><span class="f0000-f9m__ad">Accueil</span></a><a href="/fr/kurumsal/"><span class="material-symbols-outlined" aria-hidden="true">menu_book</span><span class="f0000-f9m__ad">Entreprise</span></a><a href="/fr/ekatalog/"><span class="material-symbols-outlined" aria-hidden="true">menu_book</span><span class="f0000-f9m__ad">Catalogue numérique</span></a><a href="/fr/urunler/"><span class="material-symbols-outlined" aria-hidden="true">menu_book</span><span class="f0000-f9m__ad">Produits</span></a></nav>
 <button type="button" class="f0000-f9__top" aria-label="Retour en haut" title="Retour en haut" hidden>
   <svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 19V5M5 12l7-7 7 7"/></svg>
 </button>
@@ -541,15 +540,13 @@
     }
   } catch (e) {  }
   
-  var dilBtn = document.querySelector(".f0000-f9__bar-dil"), sheet = document.querySelector(".f0000-f9__sheet");
-  if (dilBtn && sheet) {
-    var kapaSheet = function () { sheet.hidden = true; dilBtn.setAttribute("aria-expanded", "false"); };
-    dilBtn.addEventListener("click", function () {
-      var ic = sheet.firstElementChild;
-      if (ic && !ic.firstChild) { var src = document.querySelector('[class*="-m9-dil-acilir"] .wm-langbar') || document.querySelector(".wm-langbar"); if (src) ic.appendChild(src.cloneNode(true)); }
-      var ac = sheet.hidden; sheet.hidden = !ac; dilBtn.setAttribute("aria-expanded", ac ? "true" : "false"); });
-    sheet.addEventListener("click", function (e) { if (e.target === sheet) kapaSheet(); });
-    document.addEventListener("keydown", function (e) { if (e.key === "Escape") kapaSheet(); });
+  var f9bar = document.querySelector(".f0000-f9__bar");
+  if (f9bar) {
+    var f9yol = (location.pathname || "/").replace(/\/+$/, "") || "/";
+    f9bar.querySelectorAll("a").forEach(function (a) {
+      var h = (a.getAttribute("href") || "").split(/[?#]/)[0].replace(/\/+$/, "") || "/";
+      if (h === f9yol) a.setAttribute("aria-current", "page");
+    });
   }
   
   var top = document.querySelector(".f0000-f9__top");
@@ -699,10 +696,10 @@
   
 
   <script defer src="/src/swiper-bundle.min.js"></script>
-  <script defer src="/src/mx-ui.js?v=i9njn"></script>
-  <script defer src="/src/mx-store.js?v=i9njn"></script>
-  <script defer type="text/javascript" src="/src/js.js?v=i9njn"></script>
-  <script defer src="/src/cookie.js?v=i9njn"></script>
+  <script defer src="/src/mx-ui.js?v=jpg7t"></script>
+  <script defer src="/src/mx-store.js?v=jpg7t"></script>
+  <script defer type="text/javascript" src="/src/js.js?v=jpg7t"></script>
+  <script defer src="/src/cookie.js?v=jpg7t"></script>
 
 </body>
 
