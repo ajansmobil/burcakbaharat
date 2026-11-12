@@ -265,8 +265,6 @@
     .h0000-m9-nav { display: none; }
     
     .h0000-m9-bar-dil { display: block !important; position: relative; grid-column: 3; grid-row: 1; justify-self: end; }
-    
-    .h0000-m9-bandli .h0000-m9-bar-dil { display: none !important; }
     .h0000-m9-dil-dugme {
       display: inline-flex; align-items: center; gap: 2px; min-height: 48px; padding: 0 8px;
       border: 1px solid #E8DCC8; border-radius: 10px; background: transparent; color: #2B2523;
@@ -314,6 +312,18 @@
     .h0000-m9-band { display: none; }
     .h0000-m9--kutulu .h0000-m9-bar { padding: 8px 10px 0; }
     .h0000-m9--kutulu .h0000-m9-bar-ic { padding: 6px 8px; border-radius: 12px; }
+  }
+
+  
+  @media (min-width: 769px) and (max-width: 1024px) {
+    .h0000-m9-bandli .h0000-m9-bar-dil { display: none !important; }
+  }
+  
+  @media (max-width: 768px) {
+    .h0000-m9-bandli .h0000-m9-bar-dil { display: block !important; }
+    .h0000-m9-bar-dil .h0000-m9-dil-dugme { color: #FBF6EE; border-color: rgba(251,246,238,.4); }
+    .h0000-m9-bar-dil .h0000-m9-dil-dugme:hover { background: rgba(251,246,238,.12); }
+    .h0000-m9-panel-alt .wm-langbar { display: none; }
   }
 
   
