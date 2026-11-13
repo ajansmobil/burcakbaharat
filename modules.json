@@ -2987,68 +2987,68 @@
       },
       "data": [
         {
-          "img": "/img/kategori/pul-biber-grubu.webp?v=11",
+          "img": "/img/kategori/pul-biber-grubu.webp?v=12",
           "name": {
-            "tr": "Pul Biber Grubu",
+            "de": "Chiliflocken-Sortiment",
             "en": "Chili Flakes Group",
             "es": "Grupo de hojuelas de chile",
             "fr": "Gamme piment rouge en flocons",
-            "de": "Chiliflocken-Sortiment"
+            "tr": "Pul Biber Grubu"
           },
           "url": "ekatalog-pul-biber"
         },
         {
-          "img": "/img/kategori/kahve-grubu.webp?v=11",
+          "img": "/img/kategori/kahve-grubu.webp?v=12",
           "name": {
-            "tr": "Kahve Grubu",
+            "de": "Kaffee-Sortiment",
             "en": "Coffee Group",
             "es": "Grupo de café",
             "fr": "Gamme café",
-            "de": "Kaffee-Sortiment"
+            "tr": "Kahve Grubu"
           },
           "url": "ekatalog-kahve"
         },
         {
-          "img": "/img/kategori/pasta-grubu.webp?v=11",
+          "img": "/img/kategori/pasta-grubu.webp?v=12",
           "name": {
-            "tr": "Pasta Grubu",
+            "de": "Konditorei-Sortiment",
             "en": "Pastry Group",
             "es": "Grupo de repostería",
             "fr": "Gamme pâtisserie",
-            "de": "Konditorei-Sortiment"
+            "tr": "Pasta Grubu"
           },
           "url": "ekatalog-pasta"
         },
         {
-          "img": "/img/kategori/baharat-20-gr.webp?v=11",
+          "img": "/img/kategori/baharat-20-gr.webp?v=12",
           "name": {
-            "tr": "Baharat Grubu",
+            "de": "Gewürz-Sortiment",
             "en": "Spice Group",
             "es": "Grupo de especias",
             "fr": "Gamme d'épices",
-            "de": "Gewürz-Sortiment"
+            "tr": "Baharat Grubu"
           },
           "url": "ekatalog-baharat"
         },
         {
-          "img": "/img/kategori/burcak-drink.webp?v=11",
+          "img": "/img/kategori/burcak-drink.webp?v=12",
           "name": {
-            "tr": "Burçak Drink",
+            "de": "Burçak Drink",
             "en": "Burçak Drink",
             "es": "Burçak Drink",
             "fr": "Burçak Drink",
-            "de": "Burçak Drink"
+            "tr": "Burçak Drink"
           },
           "url": "ekatalog-drink"
         },
         {
-          "img": "/img/kategori/aromali-toz-icecek.webp?v=11",
+          "img": "/img/kategori/aromali-toz-icecek.webp?v=12",
           "name": {
-            "tr": "Aromalı Toz İçecek",
+            "de": "Aromatisierte Getränkepulver",
             "en": "Flavored Powdered Drinks",
             "es": "Bebida en polvo aromatizada",
             "fr": "Boissons en poudre aromatisées",
-            "de": "Aromatisierte Getränkepulver"
+            "tr": "Aromalı Toz İçecek"
           },
           "url": "ekatalog-fruit-dance"
         }
