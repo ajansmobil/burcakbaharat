@@ -1,0 +1,34 @@
+{
+  "name": {
+    "tr": "Aromalı Toz İçecek",
+    "en": "Flavored Powdered Drinks",
+    "es": "Bebida en polvo aromatizada",
+    "fr": "Boissons en poudre aromatisées",
+    "de": "Aromatisierte Getränkepulver"
+  },
+  "id": "c7aroma",
+  "index": 5,
+  "path": "aromali-toz-icecek",
+  "category": "",
+  "status": "play",
+  "icon": "category",
+  "img": "aromali-toz-icecek.webp",
+  "desing": {
+    "header": [],
+    "body": [
+      "k8ekat",
+      "1569r1"
+    ],
+    "footer": []
+  },
+  "pathnext": "ekatalog-fruit-dance",
+  "description": {
+    "tr": "Burçak Baharat Aromalı Toz İçecek ürünleri.",
+    "en": "Burçak Baharat Flavored Powdered Drinks.",
+    "es": "Productos de bebida en polvo aromatizada de Burçak Baharat.",
+    "fr": "Boissons en poudre aromatisées de Burçak Baharat.",
+    "de": "Burçak Baharat aromatisierte Getränkepulver."
+  },
+  "image": "/img/kategori/aromali-toz-icecek.webp",
+  "update": "2026-11-13T06:39:44.445Z"
+}

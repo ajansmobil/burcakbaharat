@@ -1,0 +1,34 @@
+{
+  "name": {
+    "tr": "Pul Biber Grubu",
+    "en": "Chili Flakes Group",
+    "es": "Grupo de hojuelas de chile",
+    "fr": "Gamme piment rouge en flocons",
+    "de": "Chiliflocken-Sortiment"
+  },
+  "id": "c1pulbiber",
+  "index": 0,
+  "path": "pul-biber-grubu",
+  "category": "",
+  "status": "play",
+  "icon": "category",
+  "img": "pul-biber-grubu.webp",
+  "desing": {
+    "header": [],
+    "body": [
+      "k8ekat",
+      "1569r1"
+    ],
+    "footer": []
+  },
+  "pathnext": "ekatalog-pul-biber",
+  "description": {
+    "tr": "Burçak Baharat Pul Biber Grubu ürünleri.",
+    "en": "Burçak Baharat Chili Flakes Group products.",
+    "es": "Productos del Grupo de hojuelas de chile de Burçak Baharat.",
+    "fr": "Produits de la gamme Piment rouge en flocons de Burçak Baharat.",
+    "de": "Burçak Baharat Chiliflocken-Sortiment."
+  },
+  "image": "/img/kategori/pul-biber-grubu.webp",
+  "update": "2026-11-13T06:39:44.428Z"
+}

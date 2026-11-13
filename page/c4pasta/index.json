@@ -1,0 +1,34 @@
+{
+  "name": {
+    "tr": "Pasta Grubu",
+    "en": "Pastry Group",
+    "es": "Grupo de repostería",
+    "fr": "Gamme pâtisserie",
+    "de": "Konditorei-Sortiment"
+  },
+  "id": "c4pasta",
+  "index": 2,
+  "path": "pasta-grubu",
+  "category": "",
+  "status": "play",
+  "icon": "category",
+  "img": "pasta-grubu.webp",
+  "desing": {
+    "header": [],
+    "body": [
+      "k8ekat",
+      "1569r1"
+    ],
+    "footer": []
+  },
+  "pathnext": "ekatalog-pasta",
+  "description": {
+    "tr": "Burçak Baharat Pasta Grubu ürünleri.",
+    "en": "Burçak Baharat Pastry Group products.",
+    "es": "Productos del Grupo de repostería de Burçak Baharat.",
+    "fr": "Produits de la gamme Pâtisserie de Burçak Baharat.",
+    "de": "Burçak Baharat Konditorei-Sortiment."
+  },
+  "image": "/img/kategori/pasta-grubu.webp",
+  "update": "2026-11-13T06:39:44.434Z"
+}

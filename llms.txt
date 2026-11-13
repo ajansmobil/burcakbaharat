@@ -98,12 +98,12 @@ Web: https://burcakbaharat.com.tr/tr/ · Adres: İslahiye OSB 1 Nolu Cad. No:2/1
 - [Şeftali Aromalı](https://burcakbaharat.com.tr/tr/seftali-aromali/): Şeftali aromalı toz içecek.
 
 ## Kategoriler
-- [Pul Biber Grubu](https://burcakbaharat.com.tr/tr/ekatalog-pul-biber/): Burçak Baharat Pul Biber Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
-- [Kahve Grubu](https://burcakbaharat.com.tr/tr/ekatalog-kahve/): Burçak Baharat Kahve Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
-- [Pasta Grubu](https://burcakbaharat.com.tr/tr/ekatalog-pasta/): Burçak Baharat Pasta Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
-- [Baharat Grubu](https://burcakbaharat.com.tr/tr/ekatalog-baharat/): Burçak'ın Baharat Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
-- [Burçak Drink](https://burcakbaharat.com.tr/tr/ekatalog-drink/): Burçak Baharat Burçak Drink ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
-- [Aromalı Toz İçecek](https://burcakbaharat.com.tr/tr/ekatalog-fruit-dance/): Burçak Baharat Aromalı Toz İçecek ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.
+- [Pul Biber Grubu](https://burcakbaharat.com.tr/tr/ekatalog-pul-biber/): Burçak Baharat Pul Biber Grubu ürünleri.
+- [Kahve Grubu](https://burcakbaharat.com.tr/tr/ekatalog-kahve/): Burçak Baharat Kahve Grubu ürünleri.
+- [Pasta Grubu](https://burcakbaharat.com.tr/tr/ekatalog-pasta/): Burçak Baharat Pasta Grubu ürünleri.
+- [Baharat Grubu](https://burcakbaharat.com.tr/tr/ekatalog-baharat/): Burçak'ın Baharat Grubu ürünleri.
+- [Burçak Drink](https://burcakbaharat.com.tr/tr/ekatalog-drink/): Burçak Baharat Burçak Drink ürünleri.
+- [Aromalı Toz İçecek](https://burcakbaharat.com.tr/tr/ekatalog-fruit-dance/): Burçak Baharat Aromalı Toz İçecek ürünleri.
 
 ## Diger
 - [sitemap.xml](https://burcakbaharat.com.tr/sitemap.xml): tum URL listesi

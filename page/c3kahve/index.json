@@ -1,0 +1,34 @@
+{
+  "name": {
+    "tr": "Kahve Grubu",
+    "en": "Coffee Group",
+    "es": "Grupo de café",
+    "fr": "Gamme café",
+    "de": "Kaffee-Sortiment"
+  },
+  "id": "c3kahve",
+  "index": 1,
+  "path": "kahve-grubu",
+  "category": "",
+  "status": "play",
+  "icon": "category",
+  "img": "kahve-grubu.webp",
+  "desing": {
+    "header": [],
+    "body": [
+      "k8ekat",
+      "1569r1"
+    ],
+    "footer": []
+  },
+  "pathnext": "ekatalog-kahve",
+  "description": {
+    "tr": "Burçak Baharat Kahve Grubu ürünleri.",
+    "en": "Burçak Baharat Coffee Group products.",
+    "es": "Productos del Grupo de café de Burçak Baharat.",
+    "fr": "Produits de la gamme Café de Burçak Baharat.",
+    "de": "Burçak Baharat Kaffee-Sortiment."
+  },
+  "image": "/img/kategori/kahve-grubu.webp",
+  "update": "2026-11-13T06:39:44.431Z"
+}
