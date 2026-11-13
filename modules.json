@@ -5138,74 +5138,74 @@
         "bordercolor": "#E8DCC8",
         "soft": "#F3E9DA",
         "t": {
-          "eyebrow": {
-            "tr": "E-Katalog",
-            "en": "E-Catalog",
-            "es": "E-catálogo",
-            "fr": "E-catalogue",
-            "de": "E-Katalog"
-          },
-          "count": {
-            "tr": "{n} ürün",
-            "en": "{n} products",
-            "es": "{n} productos",
-            "fr": "{n} produits",
-            "de": "{n} Produkte"
-          },
-          "pdfLabel": {
-            "tr": "PDF Katalog",
-            "en": "PDF Catalog",
-            "es": "Catálogo en PDF",
-            "fr": "Catalogue PDF",
-            "de": "PDF-Katalog"
-          },
-          "pdfNote": {
-            "tr": "Bu ürün grubunun basılı kataloğu — yeni sekmede açılır.",
-            "en": "The printed catalog of this product group — opens in a new tab.",
-            "es": "El catálogo impreso de este grupo de productos: se abre en una pestaña nueva.",
-            "fr": "Le catalogue imprimé de cette gamme — s'ouvre dans un nouvel onglet.",
-            "de": "Der gedruckte Katalog dieser Produktgruppe – öffnet in einem neuen Tab."
-          },
-          "pdfOpen": {
-            "tr": "PDF'i aç",
-            "en": "Open PDF",
-            "es": "Abrir PDF",
-            "fr": "Ouvrir le PDF",
-            "de": "PDF öffnen"
-          },
-          "listTitle": {
-            "tr": "Bu gruptaki ürünler",
-            "en": "Products in this group",
-            "es": "Productos de este grupo",
-            "fr": "Produits de cette gamme",
-            "de": "Produkte dieser Gruppe"
-          },
-          "otherTitle": {
-            "tr": "Diğer ürün grupları",
-            "en": "Other product groups",
-            "es": "Otros grupos de productos",
-            "fr": "Autres gammes de produits",
-            "de": "Weitere Produktgruppen"
-          },
           "all": {
-            "tr": "Tüm ürünleri gör",
+            "de": "Alle Produkte ansehen",
             "en": "View all products",
             "es": "Ver todos los productos",
             "fr": "Voir tous les produits",
-            "de": "Alle Produkte ansehen"
+            "tr": "Tüm ürünleri gör"
+          },
+          "count": {
+            "de": "{n} Produkte",
+            "en": "{n} products",
+            "es": "{n} productos",
+            "fr": "{n} produits",
+            "tr": "{n} ürün"
           },
           "empty": {
-            "tr": "Bu grupta şu an ürün yok.",
+            "de": "In dieser Gruppe gibt es derzeit keine Produkte.",
             "en": "There are no products in this group right now.",
             "es": "Ahora mismo no hay productos en este grupo.",
             "fr": "Aucun produit dans cette gamme pour le moment.",
-            "de": "In dieser Gruppe gibt es derzeit keine Produkte."
+            "tr": "Bu grupta şu an ürün yok."
+          },
+          "eyebrow": {
+            "de": "E-Katalog",
+            "en": "E-Catalog",
+            "es": "E-catálogo",
+            "fr": "E-catalogue",
+            "tr": "E-Katalog"
+          },
+          "listTitle": {
+            "de": "Produkte dieser Gruppe",
+            "en": "Products in this group",
+            "es": "Productos de este grupo",
+            "fr": "Produits de cette gamme",
+            "tr": "Bu gruptaki ürünler"
+          },
+          "otherTitle": {
+            "de": "Weitere Produktgruppen",
+            "en": "Other product groups",
+            "es": "Otros grupos de productos",
+            "fr": "Autres gammes de produits",
+            "tr": "Diğer ürün grupları"
+          },
+          "pdfLabel": {
+            "de": "PDF-Katalog",
+            "en": "PDF Catalog",
+            "es": "Catálogo en PDF",
+            "fr": "Catalogue PDF",
+            "tr": "PDF Katalog"
+          },
+          "pdfNote": {
+            "de": "Der gedruckte Katalog dieser Produktgruppe – öffnet in einem neuen Tab.",
+            "en": "The printed catalog of this product group — opens in a new tab.",
+            "es": "El catálogo impreso de este grupo de productos: se abre en una pestaña nueva.",
+            "fr": "Le catalogue imprimé de cette gamme — s'ouvre dans un nouvel onglet.",
+            "tr": "Bu ürün grubunun basılı kataloğu — yeni sekmede açılır."
+          },
+          "pdfOpen": {
+            "de": "PDF öffnen",
+            "en": "Open PDF",
+            "es": "Abrir PDF",
+            "fr": "Ouvrir le PDF",
+            "tr": "PDF'i aç"
           }
         },
         "pdf": {
           "c5baharat20": {
             "file": "sachet-spice-20gr",
-            "mb": "12.2",
+            "mb": "16.2",
             "title": {
               "tr": "Baharat Grubu Kataloğu",
               "en": "Spice Group Catalog",
@@ -5227,7 +5227,7 @@
           },
           "c4pasta": {
             "file": "pudding",
-            "mb": "22.4",
+            "mb": "23.9",
             "title": {
               "tr": "Pasta Grubu Kataloğu",
               "en": "Pastry Group Catalog",
