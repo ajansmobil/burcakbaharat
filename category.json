@@ -101,11 +101,11 @@
     },
     {
       "name": {
-        "tr": "20 Gr Baharat Grubu",
-        "en": "20 Gr Spice Group",
-        "es": "Grupo de especias de 20 Gr",
-        "fr": "Gamme épices 20 Gr",
-        "de": "Gewürz-Sortiment 20 Gr"
+        "tr": "Baharat Grubu",
+        "en": "Spice Group",
+        "es": "Grupo de especias",
+        "fr": "Gamme d'épices",
+        "de": "Gewürz-Sortiment"
       },
       "id": "c5baharat20",
       "index": 3,
@@ -124,13 +124,12 @@
       },
       "pathnext": "ekatalog-baharat",
       "description": {
-        "tr": "Burçak Baharat 20 Gr Baharat Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.",
-        "en": "Burçak Baharat 20 Gr Spice Group products — call +90 342 238 11 11 for wholesale and the price list.",
-        "es": "Productos del Grupo de especias de 20 Gr de Burçak Baharat — para venta al por mayor y lista de precios, llame al +90 342 238 11 11.",
-        "fr": "Produits de la gamme Épices 20 Gr de Burçak Baharat — pour la vente en gros et la liste de prix, appelez le +90 342 238 11 11.",
-        "de": "Burçak Baharat Gewürz-Sortiment 20 Gr — Produkte im Großhandel; für die Preisliste: +90 342 238 11 11."
-      },
-      "image": "/img/kategori/baharat-20-gr.webp"
+        "tr": "Burçak'ın Baharat Grubu ürünleri — toptan satış ve fiyat listesi için +90 342 238 11 11.",
+        "en": "Burçak Baharat Spice Group products — call +90 342 238 11 11 for wholesale and the price list.",
+        "es": "Productos del Grupo de especias de Burçak Baharat — para venta al por mayor y lista de precios, llame al +90 342 238 11 11.",
+        "fr": "Produits de la gamme d'épices de Burçak Baharat — pour la vente en gros et la liste de prix, appelez le +90 342 238 11 11.",
+        "de": "Burçak Baharat Gewürz-Sortiment — Produkte im Großhandel; für die Preisliste: +90 342 238 11 11."
+      }
     },
     {
       "name": {

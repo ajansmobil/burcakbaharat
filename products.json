@@ -411,7 +411,7 @@
       "path": "pirinc-unu",
       "icon": "restaurant",
       "category": "c4pasta",
-      "status": "play",
+      "status": "stop",
       "desing": {
         "header": [],
         "body": [],

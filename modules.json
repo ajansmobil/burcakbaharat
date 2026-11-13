@@ -3022,11 +3022,11 @@
         {
           "img": "/img/kategori/baharat-20-gr.webp?v=11",
           "name": {
-            "tr": "20 Gr Baharat Grubu",
-            "en": "20 Gr Spice Group",
-            "es": "Grupo de especias de 20 Gr",
-            "fr": "Gamme épices 20 Gr",
-            "de": "Gewürz-Sortiment 20 Gr"
+            "tr": "Baharat Grubu",
+            "en": "Spice Group",
+            "es": "Grupo de especias",
+            "fr": "Gamme d'épices",
+            "de": "Gewürz-Sortiment"
           },
           "url": "ekatalog-baharat"
         },
@@ -4319,11 +4319,11 @@
           },
           {
             "text": {
-              "tr": "20 Gr Baharat Grubu",
-              "en": "20 Gr Spice Group",
-              "es": "Grupo de especias de 20 Gr",
-              "fr": "Gamme épices 20 Gr",
-              "de": "Gewürz-Sortiment 20 Gr"
+              "tr": "Baharat Grubu",
+              "en": "Spice Group",
+              "es": "Grupo de especias",
+              "fr": "Gamme d'épices",
+              "de": "Gewürz-Sortiment"
             },
             "href": "ekatalog-baharat"
           },
@@ -5207,11 +5207,11 @@
             "file": "sachet-spice-20gr",
             "mb": "12.2",
             "title": {
-              "tr": "Sachet Spice 20 gr Kataloğu",
-              "en": "Sachet Spice 20 gr Catalog",
-              "es": "Catálogo Sachet Spice 20 gr",
-              "fr": "Catalogue Sachet Spice 20 gr",
-              "de": "Katalog Sachet Spice 20 gr"
+              "tr": "Baharat Grubu Kataloğu",
+              "en": "Spice Group Catalog",
+              "es": "Catálogo del grupo de especias",
+              "fr": "Catalogue de la gamme d'épices",
+              "de": "Gewürz-Sortiment-Katalog"
             }
           },
           "c7aroma": {
@@ -5229,11 +5229,11 @@
             "file": "pudding",
             "mb": "22.4",
             "title": {
-              "tr": "Puding Kataloğu",
-              "en": "Pudding Catalog",
-              "es": "Catálogo de pudines",
-              "fr": "Catalogue Pudding",
-              "de": "Pudding-Katalog"
+              "tr": "Pasta Grubu Kataloğu",
+              "en": "Pastry Group Catalog",
+              "es": "Catálogo del grupo de pastelería",
+              "fr": "Catalogue de la gamme pâtisserie",
+              "de": "Konditorei-Sortiment-Katalog"
             }
           }
         }
