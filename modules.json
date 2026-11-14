@@ -3759,7 +3759,7 @@
           "fr": "Qui sommes-nous ?",
           "de": "Wer wir sind"
         },
-        "btn1Url": "kurumsal"
+        "btn1Url": "hakkimizda"
       },
       "category": "module",
       "description": "Kısa tanıtım şeridi (açık krem zemin): rozet, başlık, kısa metin ve «Devamı» düğmesi; görsel gerektirmez, tüm renkler desing token'ı. module-tanitim-2'nin görselli iki kolon düzenine hafif alternatif (ana sayfa Hakkımızda özeti).",
@@ -4219,16 +4219,6 @@
               "de": "Startseite"
             },
             "href": ""
-          },
-          {
-            "text": {
-              "tr": "Kurumsal",
-              "en": "Corporate",
-              "es": "Corporativo",
-              "fr": "Entreprise",
-              "de": "Unternehmen"
-            },
-            "href": "kurumsal"
           },
           {
             "text": {
