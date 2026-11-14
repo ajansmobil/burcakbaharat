@@ -1,33 +1,33 @@
 {
   "name": {
-    "tr": "Pasta Grubu",
-    "en": "Pastry Group",
-    "es": "Grupo de repostería",
-    "fr": "Gamme pâtisserie",
-    "de": "Konditorei-Sortiment"
+    "de": "Backhilfsmittel",
+    "en": "Baking Helpers",
+    "es": "Complementos de repostería",
+    "fr": "Préparations pâtissières",
+    "tr": "Pasta Yardımcıları"
   },
   "id": "c4pasta",
-  "index": 2,
+  "index": 1,
   "path": "pasta-grubu",
   "category": "",
   "status": "play",
   "icon": "category",
   "img": "pasta-grubu.webp",
   "desing": {
-    "header": [],
     "body": [
       "k8ekat",
       "1569r1"
     ],
-    "footer": []
+    "footer": [],
+    "header": []
   },
   "pathnext": "ekatalog-pasta",
   "description": {
-    "tr": "Burçak Baharat Pasta Grubu ürünleri.",
-    "en": "Burçak Baharat Pastry Group products.",
-    "es": "Productos del Grupo de repostería de Burçak Baharat.",
-    "fr": "Produits de la gamme Pâtisserie de Burçak Baharat.",
-    "de": "Burçak Baharat Konditorei-Sortiment."
+    "de": "Burçak Baharat Backhilfsprodukte.",
+    "en": "Burçak Baharat baking helper products.",
+    "es": "Productos de complementos de repostería de Burçak Baharat.",
+    "fr": "Produits de préparations pâtissières de Burçak Baharat.",
+    "tr": "Burçak Baharat Pasta Yardımcıları ürünleri."
   },
   "image": "/img/kategori/pasta-grubu.webp",
   "update": "2026-11-13T06:39:44.434Z"

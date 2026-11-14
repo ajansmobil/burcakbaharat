@@ -2905,11 +2905,11 @@
         "phone": "+90 342 238 11 11",
         "email": "info@burcakbaharat.com.tr",
         "hours": {
-          "tr": "",
+          "de": "",
           "en": "",
           "es": "",
           "fr": "",
-          "de": ""
+          "tr": ""
         },
         "social": [
           {
@@ -2926,17 +2926,33 @@
           }
         ],
         "home_label": {
-          "tr": "Anasayfa",
+          "de": "Startseite",
           "en": "Home",
           "es": "Inicio",
           "fr": "Accueil",
-          "de": "Startseite"
+          "tr": "Anasayfa"
         },
         "bgcolor": "#2B2523",
         "color": "#F3E9DA",
         "bordercolor": "rgba(243,233,218,0.22)",
-        "cta_ad": "Sipariş Ver",
-        "cta_url": "urunler/"
+        "cta_ad": "",
+        "cta_url": "",
+        "search": true,
+        "search_label": {
+          "de": "Suchen",
+          "en": "Search",
+          "es": "Buscar",
+          "fr": "Rechercher",
+          "tr": "Ara"
+        },
+        "search_placeholder": {
+          "de": "Produkt suchen…",
+          "en": "Search products…",
+          "es": "Buscar productos…",
+          "fr": "Rechercher un produit…",
+          "tr": "Ürün ara…"
+        },
+        "search_url": "urunler/"
       },
       "data": [
         {
@@ -2978,68 +2994,35 @@
           "de": "Unsere Produktgruppen"
         },
         "subtitle": {
-          "tr": "6 ürün grubunda 75 çeşit — kategoriye tıklayın, ürünleri görün",
-          "en": "75 varieties in 6 product groups — click a category to see the products",
-          "es": "75 variedades en 6 grupos de productos — haga clic en una categoría para ver los productos",
-          "fr": "75 variétés en 6 gammes de produits — cliquez sur une catégorie pour voir les produits",
-          "de": "75 Produkte in 6 Produktgruppen — Gruppe anklicken und Produkte ansehen"
+          "de": "75 Produkte in 5 Produktgruppen — Gruppe anklicken und Produkte ansehen",
+          "en": "75 varieties in 5 product groups — click a category to see the products",
+          "es": "75 variedades en 5 grupos de productos — haga clic en una categoría para ver los productos",
+          "fr": "75 variétés en 5 gammes de produits — cliquez sur une catégorie pour voir les produits",
+          "tr": "5 ürün grubunda 75 çeşit — kategoriye tıklayın, ürünleri görün"
         }
       },
       "data": [
         {
-          "img": "/img/kategori/pul-biber-grubu.webp?v=12",
-          "name": {
-            "de": "Chiliflocken-Sortiment",
-            "en": "Chili Flakes Group",
-            "es": "Grupo de hojuelas de chile",
-            "fr": "Gamme piment rouge en flocons",
-            "tr": "Pul Biber Grubu"
-          },
-          "url": "ekatalog-pul-biber"
-        },
-        {
-          "img": "/img/kategori/kahve-grubu.webp?v=12",
-          "name": {
-            "de": "Kaffee-Sortiment",
-            "en": "Coffee Group",
-            "es": "Grupo de café",
-            "fr": "Gamme café",
-            "tr": "Kahve Grubu"
-          },
-          "url": "ekatalog-kahve"
-        },
-        {
-          "img": "/img/kategori/pasta-grubu.webp?v=12",
-          "name": {
-            "de": "Konditorei-Sortiment",
-            "en": "Pastry Group",
-            "es": "Grupo de repostería",
-            "fr": "Gamme pâtisserie",
-            "tr": "Pasta Grubu"
-          },
-          "url": "ekatalog-pasta"
-        },
-        {
           "img": "/img/kategori/baharat-20-gr.webp?v=12",
           "name": {
             "de": "Gewürz-Sortiment",
-            "en": "Spice Group",
-            "es": "Grupo de especias",
-            "fr": "Gamme d'épices",
-            "tr": "Baharat Grubu"
+            "en": "Spice Varieties",
+            "es": "Variedades de especias",
+            "fr": "Variétés d'épices",
+            "tr": "Baharat Çeşitleri"
           },
           "url": "ekatalog-baharat"
         },
         {
-          "img": "/img/kategori/burcak-drink.webp?v=12",
+          "img": "/img/kategori/pasta-grubu.webp?v=12",
           "name": {
-            "de": "Burçak Drink",
-            "en": "Burçak Drink",
-            "es": "Burçak Drink",
-            "fr": "Burçak Drink",
-            "tr": "Burçak Drink"
+            "de": "Backhilfsmittel",
+            "en": "Baking Helpers",
+            "es": "Complementos de repostería",
+            "fr": "Préparations pâtissières",
+            "tr": "Pasta Yardımcıları"
           },
-          "url": "ekatalog-drink"
+          "url": "ekatalog-pasta"
         },
         {
           "img": "/img/kategori/aromali-toz-icecek.webp?v=12",
@@ -3051,6 +3034,28 @@
             "tr": "Aromalı Toz İçecek"
           },
           "url": "ekatalog-fruit-dance"
+        },
+        {
+          "img": "/img/kategori/kahve-grubu.webp?v=12",
+          "name": {
+            "de": "Industrie",
+            "en": "Industrial",
+            "es": "Industrial",
+            "fr": "Industriel",
+            "tr": "Endüstriyel"
+          },
+          "url": "ekatalog-endustriyel"
+        },
+        {
+          "img": "/img/kategori/burcak-drink.webp?v=12",
+          "name": {
+            "de": "Burçak Drink",
+            "en": "Burçak Drink",
+            "es": "Burçak Drink",
+            "fr": "Burçak Drink",
+            "tr": "Burçak Drink"
+          },
+          "url": "ekatalog-drink"
         }
       ],
       "category": "page-category",

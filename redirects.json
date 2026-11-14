@@ -2,33 +2,45 @@
   "data": [
     {
       "eski": "pul-biber-grubu",
-      "yeni": "ekatalog-pul-biber",
-      "tarih": "2026-11-11T07:41:40.766Z"
+      "tarih": "2026-11-11T07:41:40.766Z",
+      "yeni": "ekatalog-baharat"
     },
     {
       "eski": "kahve-grubu",
-      "yeni": "ekatalog-kahve",
-      "tarih": "2026-11-11T07:41:40.780Z"
+      "tarih": "2026-11-11T07:41:40.780Z",
+      "yeni": "ekatalog-endustriyel"
     },
     {
       "eski": "pasta-grubu",
-      "yeni": "ekatalog-pasta",
-      "tarih": "2026-11-11T07:41:40.788Z"
+      "tarih": "2026-11-11T07:41:40.788Z",
+      "yeni": "ekatalog-pasta"
     },
     {
       "eski": "baharat-20-gr",
-      "yeni": "ekatalog-baharat",
-      "tarih": "2026-11-11T07:41:40.795Z"
+      "tarih": "2026-11-11T07:41:40.795Z",
+      "yeni": "ekatalog-baharat"
     },
     {
       "eski": "burcak-drink",
-      "yeni": "ekatalog-drink",
-      "tarih": "2026-11-11T07:41:40.802Z"
+      "tarih": "2026-11-11T07:41:40.802Z",
+      "yeni": "ekatalog-drink"
     },
     {
       "eski": "aromali-toz-icecek",
-      "yeni": "ekatalog-fruit-dance",
-      "tarih": "2026-11-11T07:41:40.809Z"
+      "tarih": "2026-11-11T07:41:40.809Z",
+      "yeni": "ekatalog-fruit-dance"
+    },
+    {
+      "eski": "ekatalog-pul-biber",
+      "kaynak": "burcakbaharat kategori birlesimi (14 Kas 2026)",
+      "tarih": "2026-11-14",
+      "yeni": "ekatalog-baharat"
+    },
+    {
+      "eski": "ekatalog-kahve",
+      "kaynak": "burcakbaharat kategori birlesimi (14 Kas 2026)",
+      "tarih": "2026-11-14",
+      "yeni": "ekatalog-endustriyel"
     }
   ]
 }

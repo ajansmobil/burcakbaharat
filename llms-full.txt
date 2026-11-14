@@ -17,8 +17,8 @@ Her Tarife
 Ferahlatan
 Ürünleri Keşfet Kataloğu İncele
 Ürün Gruplarımız
-6 ürün grubunda 75 çeşit — kategoriye tıklayın, ürünleri görün
-Pul Biber Grubu Kahve Grubu Pasta Grubu Baharat Grubu Burçak Drink Aromalı Toz İçecek
+5 ürün grubunda 75 çeşit — kategoriye tıklayın, ürünleri görün
+Baharat Çeşitleri Pasta Yardımcıları Aromalı Toz İçecek Endüstriyel Burçak Drink
 Öne Çıkan Ürünler
 Fiyat listesi için bizi arayın: +90 342 238 11 11
 Kırmızı Pul Biber (400g) Türk Kahvesi Puding (Çilekli) Kakao Kutu Kimyon Toz
@@ -112,45 +112,17 @@ https://burcakbaharat.com.tr/tr/ekatalog/
 Burçak Baharat dijital kataloğu: 6 ürün grubu ve 75 ürün tek sayfada — pul biber, baharat, kahve, pasta grubu, aromalı toz içecek.
 
 Ürün grupları
-Pul Biber Grubu 3 ürün
-Kahve Grubu 1 ürün
-Pasta Grubu 20 ürün
-Baharat Grubu 34 ürün
-Burçak Drink 1 ürün
+Baharat Çeşitleri 37 ürün
+Pasta Yardımcıları 20 ürün
 Aromalı Toz İçecek 15 ürün
+Endüstriyel 1 ürün
+Burçak Drink 1 ürün
 Tüm ürünler
-Pul Biber Grubu
-3 ürün Grup sayfası
+Baharat Çeşitleri
+37 ürün Grup sayfası
 Kırmızı Pul Biber (200g) Kırmızı biberin özenle öğütülmesiyle elde edilen klasik baharat. Kebaplara, zeytinyağlılara ve günlük yemeklere renk ve acı katar. 200 g ambalaj.
 Kırmızı Pul Biber (400g) Kırmızı biberin özenle öğütülmesiyle elde edilen klasik baharat. Kebaplara, zeytinyağlılara ve günlük yemeklere renk ve acı katar; daha yoğun kullanım için orta boy ambalaj. 400 g ambalaj.
 Kırmızı Pul Biber (800g) Kırmızı biberin özenle öğütülmesiyle elde edilen klasik baharat. Restoran, lokanta ve toplu yemek mutfakları için büyük ambalajda; kebap, çorba ve yemeklere renk ve acı katar. 800 g ambalaj.
-Kahve Grubu
-1 ürün Grup sayfası
-Türk Kahvesi Kavrulmuş kahve çekirdeğinin ince öğütülmesiyle hazırlanan geleneksel kahve. Cezvede pişirilerek servis edilir; ikram ve kafe kullanımı için uygundur.
-Pasta Grubu
-20 ürün Grup sayfası
-Ananas Aromalı Jöle Ananas aromalı, sıcak suyla hazırlanan toz jöle. Soğuk tatlılarda, pasta ve pasta dolgularında kullanılır.
-Buğday Nişastası Buğdaydan elde edilen, toz halde nişasta. Puding, krema ve muhallebi gibi tatlıların ve sosların kıvamlandırılmasında kullanılır.
-Erim Kabartma Tozu Erim Kabartma Tozu: hamur işlerinin kabarmasına yardımcı toz kabartıcı. Kek, kurabiye, poğaça ve börek hamurlarında kullanılır.
-Erim Şekerli Vanilin Erim Şekerli Vanilin: şeker katılmış toz vanilin. Kek, kurabiye, krema ve sütlü tatlılara vanilya aroması verir.
-Hamur Kabartma Tozu Hamur işlerinin kabarmasına yardımcı toz kabartıcı. Kek, kurabiye, poğaça ve börek hamurlarında kullanılır.
-Kakao Pasta ve tatlılarda kullanılan toz kakao. Kek, puding, sıcak çikolata ve kurabiyelere kakao tadı ve rengi verir.
-Kakao Kutu Pasta ve tatlılarda kullanılan toz kakao; kutu ambalajda. Kek, puding, sıcak çikolata ve kurabiyelere kakao tadı ve rengi verir.
-Krem Şanti (Kakaolu) Kakao aromalı, çırpılarak hazırlanan toz krem şanti. Pasta, tart ve soğuk tatlıların dolgu ve süslemelerinde kullanılır.
-Krem Şanti (Sade) Sade, çırpılarak hazırlanan toz krem şanti. Pasta, tart ve soğuk tatlıların dolgu ve süslemelerinde kullanılır.
-Krem Şanti (Çilekli) Çilek aromalı, çırpılarak hazırlanan toz krem şanti. Pasta, tart ve soğuk tatlıların dolgu ve süslemelerinde kullanılır.
-Puding (Kakaolu) Sütle pişirilerek hazırlanan kakao aromalı toz puding. Soğuk servis edilen sütlü tatlılarda ve pasta kreması olarak kullanılır.
-Puding (Muzlu) Sütle pişirilerek hazırlanan muz aromalı toz puding. Soğuk servis edilen sütlü tatlılarda ve pasta kreması olarak kullanılır.
-Puding (Vanilyalı) Sütle pişirilerek hazırlanan vanilya aromalı toz puding. Soğuk servis edilen sütlü tatlılarda ve pasta kreması olarak kullanılır.
-Puding (Çikolatalı) Sütle pişirilerek hazırlanan çikolata aromalı toz puding. Soğuk servis edilen sütlü tatlılarda ve pasta kreması olarak kullanılır.
-Puding (Çilekli) Sütle pişirilerek hazırlanan çilek aromalı toz puding. Soğuk servis edilen sütlü tatlılarda ve pasta kreması olarak kullanılır.
-Pudra Şekeri İnce öğütülmüş toz şeker. Kek, kurabiye ve tatlıların üzerine serpmek, krema ve glazür hazırlamak için kullanılır.
-Vişne Aromalı Jöle Vişne aromalı, sıcak suyla hazırlanan toz jöle. Soğuk tatlılarda, pasta ve pasta dolgularında kullanılır.
-Çikolatalı Sos Çikolata aromalı hazır sos. Pasta, waffle, dondurma ve tatlıların üzerine dökülerek ya da dolgu olarak kullanılır.
-Çilek Aromalı Jöle Çilek aromalı, sıcak suyla hazırlanan toz jöle. Soğuk tatlılarda, pasta ve pasta dolgularında kullanılır.
-Şekerli Vanilin Şeker katılmış toz vanilin. Kek, kurabiye, krema ve sütlü tatlılara vanilya aroması verir.
-Baharat Grubu
-34 ürün Grup sayfası
 Büryan Baharatı Büryan tarzı et yemekleri için hazırlanmış baharat karışımı. Et yemeklerinin marinasyonunda ve pişirilmesinde kullanılır. 20 g ambalaj.
 Döner Baharatı Döner ve et ürünleri için hazırlanmış baharat karışımı. Döner marinasyonunda ve ızgara et hazırlıklarında kullanılır. 20 g ambalaj.
 Et Kebap Baharatı Et kebapları için hazırlanmış baharat karışımı. Kıyma ve kuşbaşı et marinasyonunda, ızgara ve tava kebaplarında kullanılır. 20 g ambalaj.
@@ -185,9 +157,28 @@ Zencefil Öğütülmüş zencefil. Kek, kurabiye, sıcak içecekler ve yemeklerd
 Zerdeçal Öğütülmüş zerdeçal. Pilav, tavuk, çorba ve sebze yemeklerine sarı renk ve hafif baharatlı bir tat verir. 20 g ambalaj.
 Çörek Otu Çörek otu tohumu. Çörek, poğaça, simit, börek ve peynirli hamur işlerinin üzerinde kullanılır. 20 g ambalaj.
 İsot Biber Güneydoğu mutfağıyla bilinen, koyu renkli ve acılı pul biber. Kebap, çorba, mezeler ve et yemeklerinde kullanılır. 20 g ambalaj.
-Burçak Drink
-1 ürün Grup sayfası
-Burçak Limonata(1000ml) Şişede hazır limonata. Soğuk servis edilen serinletici içecek olarak sunulur. 1000 ml ambalaj.
+Pasta Yardımcıları
+20 ürün Grup sayfası
+Ananas Aromalı Jöle Ananas aromalı, sıcak suyla hazırlanan toz jöle. Soğuk tatlılarda, pasta ve pasta dolgularında kullanılır.
+Buğday Nişastası Buğdaydan elde edilen, toz halde nişasta. Puding, krema ve muhallebi gibi tatlıların ve sosların kıvamlandırılmasında kullanılır.
+Erim Kabartma Tozu Erim Kabartma Tozu: hamur işlerinin kabarmasına yardımcı toz kabartıcı. Kek, kurabiye, poğaça ve börek hamurlarında kullanılır.
+Erim Şekerli Vanilin Erim Şekerli Vanilin: şeker katılmış toz vanilin. Kek, kurabiye, krema ve sütlü tatlılara vanilya aroması verir.
+Hamur Kabartma Tozu Hamur işlerinin kabarmasına yardımcı toz kabartıcı. Kek, kurabiye, poğaça ve börek hamurlarında kullanılır.
+Kakao Pasta ve tatlılarda kullanılan toz kakao. Kek, puding, sıcak çikolata ve kurabiyelere kakao tadı ve rengi verir.
+Kakao Kutu Pasta ve tatlılarda kullanılan toz kakao; kutu ambalajda. Kek, puding, sıcak çikolata ve kurabiyelere kakao tadı ve rengi verir.
+Krem Şanti (Kakaolu) Kakao aromalı, çırpılarak hazırlanan toz krem şanti. Pasta, tart ve soğuk tatlıların dolgu ve süslemelerinde kullanılır.
+Krem Şanti (Sade) Sade, çırpılarak hazırlanan toz krem şanti. Pasta, tart ve soğuk tatlıların dolgu ve süslemelerinde kullanılır.
+Krem Şanti (Çilekli) Çilek aromalı, çırpılarak hazırlanan toz krem şanti. Pasta, tart ve soğuk tatlıların dolgu ve süslemelerinde kullanılır.
+Puding (Kakaolu) Sütle pişirilerek hazırlanan kakao aromalı toz puding. Soğuk servis edilen sütlü tatlılarda ve pasta kreması olarak kullanılır.
+Puding (Muzlu) Sütle pişirilerek hazırlanan muz aromalı toz puding. Soğuk servis edilen sütlü tatlılarda ve pasta kreması olarak kullanılır.
+Puding (Vanilyalı) Sütle pişirilerek hazırlanan vanilya aromalı toz puding. Soğuk servis edilen sütlü tatlılarda ve pasta kreması olarak kullanılır.
+Puding (Çikolatalı) Sütle pişirilerek hazırlanan çikolata aromalı toz puding. Soğuk servis edilen sütlü tatlılarda ve pasta kreması olarak kullanılır.
+Puding (Çilekli) Sütle pişirilerek hazırlanan çilek aromalı toz puding. Soğuk servis edilen sütlü tatlılarda ve pasta kreması olarak kullanılır.
+Pudra Şekeri İnce öğütülmüş toz şeker. Kek, kurabiye ve tatlıların üzerine serpmek, krema ve glazür hazırlamak için kullanılır.
+Vişne Aromalı Jöle Vişne aromalı, sıcak suyla hazırlanan toz jöle. Soğuk tatlılarda, pasta ve pasta dolgularında kullanılır.
+Çikolatalı Sos Çikolata aromalı hazır sos. Pasta, waffle, dondurma ve tatlıların üzerine dökülerek ya da dolgu olarak kullanılır.
+Çilek Aromalı Jöle Çilek aromalı, sıcak suyla hazırlanan toz jöle. Soğuk tatlılarda, pasta ve pasta dolgularında kullanılır.
+Şekerli Vanilin Şeker katılmış toz vanilin. Kek, kurabiye, krema ve sütlü tatlılara vanilya aroması verir.
 Aromalı Toz İçecek
 15 ürün Grup sayfası
 Ananas Aromalı Ananas aromalı toz içecek. Su ile karıştırılarak hazırlanır; soğuk servis edilir.
@@ -205,6 +196,12 @@ Soursop Aromalı Soursop (guanabana) aromalı toz içecek. Su ile karıştırıl
 Vişne Aromalı Vişne aromalı toz içecek. Su ile karıştırılarak hazırlanır; soğuk servis edilir.
 Çilek Aromalı Çilek aromalı toz içecek. Su ile karıştırılarak hazırlanır; soğuk servis edilir.
 Şeftali Aromalı Şeftali aromalı toz içecek. Su ile karıştırılarak hazırlanır; soğuk servis edilir.
+Endüstriyel
+1 ürün Grup sayfası
+Türk Kahvesi Kavrulmuş kahve çekirdeğinin ince öğütülmesiyle hazırlanan geleneksel kahve. Cezvede pişirilerek servis edilir; ikram ve kafe kullanımı için uygundur.
+Burçak Drink
+1 ürün Grup sayfası
+Burçak Limonata(1000ml) Şişede hazır limonata. Soğuk servis edilen serinletici içecek olarak sunulur. 1000 ml ambalaj.
 Fiyat listesi için bizi arayın
 Toptan satış, ihracat ve fiyat bilgisi için müşteri temsilcimizle görüşün: +90 342 238 11 11 · info@burcakbaharat.com.tr
 +90 342 238 11 11
@@ -218,126 +215,126 @@ https://burcakbaharat.com.tr/tr/urunler/
 Burçak Baharat e-katalog: pul biber, baharat, kahve, pasta grubu ve aromalı toz içecek — 75 ürün, kategori filtresi ve arama.
 
 Ürün Gruplarımız
-6 ürün grubunda 75 çeşit — kategoriye tıklayın, ürünleri görün
-Pul Biber Grubu Kahve Grubu Pasta Grubu Baharat Grubu Burçak Drink Aromalı Toz İçecek
+5 ürün grubunda 75 çeşit — kategoriye tıklayın, ürünleri görün
+Baharat Çeşitleri Pasta Yardımcıları Aromalı Toz İçecek Endüstriyel Burçak Drink
 E-Katalog · Tüm Ürünler
 74 ürün
 Ürün ara
-Pul Biber Grubu Kırmızı Pul Biber (200g)
+Baharat Çeşitleri Kırmızı Pul Biber (200g)
 Kırmızı biberin özenle öğütülmesiyle elde edilen klasik baharat. Kebaplara,…
-Pul Biber Grubu Kırmızı Pul Biber (400g)
+Baharat Çeşitleri Kırmızı Pul Biber (400g)
 Kırmızı biberin özenle öğütülmesiyle elde edilen klasik baharat. Kebaplara,…
-Pul Biber Grubu Kırmızı Pul Biber (800g)
+Baharat Çeşitleri Kırmızı Pul Biber (800g)
 Kırmızı biberin özenle öğütülmesiyle elde edilen klasik baharat. Restoran, lokanta ve…
-Kahve Grubu Türk Kahvesi
+Endüstriyel Türk Kahvesi
 Kavrulmuş kahve çekirdeğinin ince öğütülmesiyle hazırlanan geleneksel kahve. Cezvede…
-Pasta Grubu Ananas Aromalı Jöle
+Pasta Yardımcıları Ananas Aromalı Jöle
 Ananas aromalı, sıcak suyla hazırlanan toz jöle. Soğuk tatlılarda, pasta ve pasta…
-Pasta Grubu Buğday Nişastası
+Pasta Yardımcıları Buğday Nişastası
 Buğdaydan elde edilen, toz halde nişasta. Puding, krema ve muhallebi gibi tatlıların ve…
-Pasta Grubu Erim Kabartma Tozu
+Pasta Yardımcıları Erim Kabartma Tozu
 Erim Kabartma Tozu: hamur işlerinin kabarmasına yardımcı toz kabartıcı. Kek, kurabiye,…
-Pasta Grubu Erim Şekerli Vanilin
+Pasta Yardımcıları Erim Şekerli Vanilin
 Erim Şekerli Vanilin: şeker katılmış toz vanilin. Kek, kurabiye, krema ve sütlü…
-Pasta Grubu Hamur Kabartma Tozu
+Pasta Yardımcıları Hamur Kabartma Tozu
 Hamur işlerinin kabarmasına yardımcı toz kabartıcı. Kek, kurabiye, poğaça ve börek…
-Pasta Grubu Kakao
+Pasta Yardımcıları Kakao
 Pasta ve tatlılarda kullanılan toz kakao. Kek, puding, sıcak çikolata ve kurabiyelere…
-Pasta Grubu Kakao Kutu
+Pasta Yardımcıları Kakao Kutu
 Pasta ve tatlılarda kullanılan toz kakao; kutu ambalajda. Kek, puding, sıcak çikolata ve…
-Pasta Grubu Krem Şanti (Kakaolu)
+Pasta Yardımcıları Krem Şanti (Kakaolu)
 Kakao aromalı, çırpılarak hazırlanan toz krem şanti. Pasta, tart ve soğuk tatlıların…
-Pasta Grubu Krem Şanti (Sade)
+Pasta Yardımcıları Krem Şanti (Sade)
 Sade, çırpılarak hazırlanan toz krem şanti. Pasta, tart ve soğuk tatlıların dolgu ve…
-Pasta Grubu Krem Şanti (Çilekli)
+Pasta Yardımcıları Krem Şanti (Çilekli)
 Çilek aromalı, çırpılarak hazırlanan toz krem şanti. Pasta, tart ve soğuk tatlıların…
-Pasta Grubu Puding (Kakaolu)
+Pasta Yardımcıları Puding (Kakaolu)
 Sütle pişirilerek hazırlanan kakao aromalı toz puding. Soğuk servis edilen sütlü…
-Pasta Grubu Puding (Muzlu)
+Pasta Yardımcıları Puding (Muzlu)
 Sütle pişirilerek hazırlanan muz aromalı toz puding. Soğuk servis edilen sütlü…
-Pasta Grubu Puding (Vanilyalı)
+Pasta Yardımcıları Puding (Vanilyalı)
 Sütle pişirilerek hazırlanan vanilya aromalı toz puding. Soğuk servis edilen sütlü…
-Pasta Grubu Puding (Çikolatalı)
+Pasta Yardımcıları Puding (Çikolatalı)
 Sütle pişirilerek hazırlanan çikolata aromalı toz puding. Soğuk servis edilen sütlü…
-Pasta Grubu Puding (Çilekli)
+Pasta Yardımcıları Puding (Çilekli)
 Sütle pişirilerek hazırlanan çilek aromalı toz puding. Soğuk servis edilen sütlü…
-Pasta Grubu Pudra Şekeri
+Pasta Yardımcıları Pudra Şekeri
 İnce öğütülmüş toz şeker. Kek, kurabiye ve tatlıların üzerine serpmek, krema ve glazür…
-Pasta Grubu Vişne Aromalı Jöle
+Pasta Yardımcıları Vişne Aromalı Jöle
 Vişne aromalı, sıcak suyla hazırlanan toz jöle. Soğuk tatlılarda, pasta ve pasta…
-Pasta Grubu Çikolatalı Sos
+Pasta Yardımcıları Çikolatalı Sos
 Çikolata aromalı hazır sos. Pasta, waffle, dondurma ve tatlıların üzerine dökülerek ya…
-Pasta Grubu Çilek Aromalı Jöle
+Pasta Yardımcıları Çilek Aromalı Jöle
 Çilek aromalı, sıcak suyla hazırlanan toz jöle. Soğuk tatlılarda, pasta ve pasta…
-Pasta Grubu Şekerli Vanilin
+Pasta Yardımcıları Şekerli Vanilin
 Şeker katılmış toz vanilin. Kek, kurabiye, krema ve sütlü tatlılara vanilya aroması verir.
-Baharat Grubu Büryan Baharatı
+Baharat Çeşitleri Büryan Baharatı
 Büryan tarzı et yemekleri için hazırlanmış baharat karışımı. Et yemeklerinin…
-Baharat Grubu Döner Baharatı
+Baharat Çeşitleri Döner Baharatı
 Döner ve et ürünleri için hazırlanmış baharat karışımı. Döner marinasyonunda ve ızgara…
-Baharat Grubu Et Kebap Baharatı
+Baharat Çeşitleri Et Kebap Baharatı
 Et kebapları için hazırlanmış baharat karışımı. Kıyma ve kuşbaşı et marinasyonunda,…
-Baharat Grubu HaşHaş
+Baharat Çeşitleri HaşHaş
 Haşhaş tohumu. Çörek, poğaça, kek ve börek hamurlarında, tatlı ve unlu mamullerin…
-Baharat Grubu Hindistan Cevizi
+Baharat Çeşitleri Hindistan Cevizi
 Hindistan cevizi ürünü. Kek, kurabiye, tatlı ve pasta hazırlıklarında kullanılır. 20 g…
-Baharat Grubu Karabiber Öğütülmüş
+Baharat Çeşitleri Karabiber Öğütülmüş
 Öğütülmüş karabiber. Çorba, et, tavuk, salata ve hemen her yemekte sofra baharatı olarak…
-Baharat Grubu Karanfil
+Baharat Çeşitleri Karanfil
 Kurutulmuş karanfil tomurcuğu. Pilav, etli yemekler, kompostolar ve tatlı…
-Baharat Grubu Karbonat
+Baharat Çeşitleri Karbonat
 Yemek ve unlu mamul hazırlıklarında kullanılan karbonat. Hamur işlerinde ve kuru…
-Baharat Grubu Kebze Baharatı
+Baharat Çeşitleri Kebze Baharatı
 Pilav ve etli yemekler için hazırlanmış baharat karışımı. Pilav, et ve tavuk…
-Baharat Grubu Kekik
+Baharat Çeşitleri Kekik
 Kurutulmuş kekik. Et ve tavuk marinasyonunda, salatalarda, çorbalarda, pizza ve peynirli…
-Baharat Grubu Kimyon Toz
+Baharat Çeşitleri Kimyon Toz
 Öğütülmüş kimyon. Köfte, kebap, mercimek çorbası, kuru baklagil ve etli yemeklerde…
-Baharat Grubu Kişniş
+Baharat Çeşitleri Kişniş
 Kişniş tohumundan elde edilen baharat. Et, sucuk ve sebze yemeklerinde, turşu ve…
-Baharat Grubu Köfte Baharatı (Beş Türlü)
+Baharat Çeşitleri Köfte Baharatı (Beş Türlü)
 Köfte için hazırlanmış beş çeşit baharat karışımı. Kıyma ve köfte harcına karıştırılarak…
-Baharat Grubu Köri
+Baharat Çeşitleri Köri
 Köri baharat karışımı. Tavuk, pilav, sebze ve çorba yemeklerine sarı renk ve baharatlı…
-Baharat Grubu Kırmızı Acı Pul Biber
+Baharat Çeşitleri Kırmızı Acı Pul Biber
 Acı kırmızı biberden elde edilen pul biber. Kebap, çorba, yemek ve mezelere acı ve renk…
-Baharat Grubu Kırmızı Tatlı Toz Biber
+Baharat Çeşitleri Kırmızı Tatlı Toz Biber
 Tatlı kırmızı biberden elde edilen toz biber. Yemeklere acısız, hafif tatlı bir tat ve…
-Baharat Grubu Limon Tuzu (Toz)
+Baharat Çeşitleri Limon Tuzu (Toz)
 Limon ekşisi tadı veren toz limon tuzu. Salata, turşu, çorba ve yemeklerde taze limon…
-Baharat Grubu Limon Tuzu (İri Tane)
+Baharat Çeşitleri Limon Tuzu (İri Tane)
 Limon ekşisi tadı veren iri taneli limon tuzu. Salata, turşu, çorba ve yemeklerde taze…
-Baharat Grubu Meksikano Baharat
+Baharat Çeşitleri Meksikano Baharat
 Meksika mutfağı tarzında hazırlanmış baharat karışımı. Tavuk, et, sebze ve patates…
-Baharat Grubu Mendi Baharatı
+Baharat Çeşitleri Mendi Baharatı
 Mendi tarzı pilav ve et yemekleri için hazırlanmış baharat karışımı. Pilav, et ve tavuk…
-Baharat Grubu Nane
+Baharat Çeşitleri Nane
 Kurutulmuş nane. Çorba, yoğurt, salata, mantı ve etli yemeklerde kullanılır. 20 g ambalaj.
-Baharat Grubu Pasta Süsü
+Baharat Çeşitleri Pasta Süsü
 Pasta ve tatlıların süslenmesinde kullanılan renkli şeker süs. Kek, pasta, kurabiye ve…
-Baharat Grubu Patates Baharatı
+Baharat Çeşitleri Patates Baharatı
 Patates yemekleri için hazırlanmış baharat karışımı. Fırın ve tava patatesi, kızartma ve…
-Baharat Grubu Sucuk Baharatı
+Baharat Çeşitleri Sucuk Baharatı
 Sucuk yapımı için hazırlanmış baharat karışımı. Sucuk harcına karıştırılarak kullanılır.…
-Baharat Grubu Sumak
+Baharat Çeşitleri Sumak
 Sumak bitkisinden elde edilen, ekşi tadıyla bilinen baharat. Salata, soğan, kebap ve…
-Baharat Grubu Susam
+Baharat Çeşitleri Susam
 Susam tohumu. Simit, çörek, poğaça ve börek hamurlarında, salata ve yemek süslemelerinde…
-Baharat Grubu Tarçın Öğütülmüş
+Baharat Çeşitleri Tarçın Öğütülmüş
 Öğütülmüş tarçın. Sütlü tatlılar, kek, kurabiye, sıcak içecekler ve pilavlarda…
-Baharat Grubu Tavuk Baharatı
+Baharat Çeşitleri Tavuk Baharatı
 Tavuk yemekleri için hazırlanmış baharat karışımı. Tavuğun marinasyonunda, fırın ve tava…
-Baharat Grubu Tavuk Bulyon
+Baharat Çeşitleri Tavuk Bulyon
 Tavuk aromalı toz bulyon. Çorba, pilav, sos ve yemeklere tavuk suyu tadı katar. 20 g…
-Baharat Grubu Tavuk Kebap Baharatı
+Baharat Çeşitleri Tavuk Kebap Baharatı
 Tavuk kebapları için hazırlanmış baharat karışımı. Tavuk şiş, tavuk döner ve ızgara…
-Baharat Grubu Zencefil
+Baharat Çeşitleri Zencefil
 Öğütülmüş zencefil. Kek, kurabiye, sıcak içecekler ve yemeklerde kullanılır. 20 g ambalaj.
-Baharat Grubu Zerdeçal
+Baharat Çeşitleri Zerdeçal
 Öğütülmüş zerdeçal. Pilav, tavuk, çorba ve sebze yemeklerine sarı renk ve hafif…
-Baharat Grubu Çörek Otu
+Baharat Çeşitleri Çörek Otu
 Çörek otu tohumu. Çörek, poğaça, simit, börek ve peynirli hamur işlerinin üzerinde…
-Baharat Grubu İsot Biber
+Baharat Çeşitleri İsot Biber
 Güneydoğu mutfağıyla bilinen, koyu renkli ve acılı pul biber. Kebap, çorba, mezeler ve…
 Burçak Drink Burçak Limonata(1000ml)
 Şişede hazır limonata. Soğuk servis edilen serinletici içecek olarak sunulur. 1000 ml…
@@ -1791,83 +1788,18 @@ Toptan satış, ihracat ve fiyat bilgisi için müşteri temsilcimizle görüş�
 
 ---
 
-## Pul Biber Grubu
-https://burcakbaharat.com.tr/tr/ekatalog-pul-biber/
+## Baharat Çeşitleri
+https://burcakbaharat.com.tr/tr/ekatalog-baharat/
 
-Burçak Baharat Pul Biber Grubu ürünleri.
+Burçak Baharat baharat ve pul biber ürünleri.
 
-Pul Biber Grubu
+Baharat Çeşitleri
+PDF Katalog · PDF · 16,2 MB Baharat Grubu Kataloğu Bu ürün grubunun basılı kataloğu — yeni sekmede açılır.
+PDF'i aç
 Bu gruptaki ürünler
 Kırmızı Pul Biber (200g) Kırmızı biberin özenle öğütülmesiyle elde edilen klasik baharat. Kebaplara, zeytinyağlılara ve günlük yemeklere renk ve acı katar. 200 g ambalaj.
 Kırmızı Pul Biber (400g) Kırmızı biberin özenle öğütülmesiyle elde edilen klasik baharat. Kebaplara, zeytinyağlılara ve günlük yemeklere renk ve acı katar; daha yoğun kullanım için orta boy ambalaj. 400 g ambalaj.
 Kırmızı Pul Biber (800g) Kırmızı biberin özenle öğütülmesiyle elde edilen klasik baharat. Restoran, lokanta ve toplu yemek mutfakları için büyük ambalajda; kebap, çorba ve yemeklere renk ve acı katar. 800 g ambalaj.
-Fiyat listesi için bizi arayın
-Toptan satış, ihracat ve fiyat bilgisi için müşteri temsilcimizle görüşün: +90 342 238 11 11 · info@burcakbaharat.com.tr
-+90 342 238 11 11
-İslahiye OSB, Gaziantep · info@burcakbaharat.com.tr
-
----
-
-## Kahve Grubu
-https://burcakbaharat.com.tr/tr/ekatalog-kahve/
-
-Burçak Baharat Kahve Grubu ürünleri.
-
-Kahve Grubu
-Bu gruptaki ürünler
-Türk Kahvesi Kavrulmuş kahve çekirdeğinin ince öğütülmesiyle hazırlanan geleneksel kahve. Cezvede pişirilerek servis edilir; ikram ve kafe kullanımı için uygundur.
-Fiyat listesi için bizi arayın
-Toptan satış, ihracat ve fiyat bilgisi için müşteri temsilcimizle görüşün: +90 342 238 11 11 · info@burcakbaharat.com.tr
-+90 342 238 11 11
-İslahiye OSB, Gaziantep · info@burcakbaharat.com.tr
-
----
-
-## Pasta Grubu
-https://burcakbaharat.com.tr/tr/ekatalog-pasta/
-
-Burçak Baharat Pasta Grubu ürünleri.
-
-Pasta Grubu
-PDF Katalog · PDF · 23,9 MB Pasta Grubu Kataloğu Bu ürün grubunun basılı kataloğu — yeni sekmede açılır.
-PDF'i aç
-Bu gruptaki ürünler
-Ananas Aromalı Jöle Ananas aromalı, sıcak suyla hazırlanan toz jöle. Soğuk tatlılarda, pasta ve pasta dolgularında kullanılır.
-Buğday Nişastası Buğdaydan elde edilen, toz halde nişasta. Puding, krema ve muhallebi gibi tatlıların ve sosların kıvamlandırılmasında kullanılır.
-Erim Kabartma Tozu Erim Kabartma Tozu: hamur işlerinin kabarmasına yardımcı toz kabartıcı. Kek, kurabiye, poğaça ve börek hamurlarında kullanılır.
-Erim Şekerli Vanilin Erim Şekerli Vanilin: şeker katılmış toz vanilin. Kek, kurabiye, krema ve sütlü tatlılara vanilya aroması verir.
-Hamur Kabartma Tozu Hamur işlerinin kabarmasına yardımcı toz kabartıcı. Kek, kurabiye, poğaça ve börek hamurlarında kullanılır.
-Kakao Pasta ve tatlılarda kullanılan toz kakao. Kek, puding, sıcak çikolata ve kurabiyelere kakao tadı ve rengi verir.
-Kakao Kutu Pasta ve tatlılarda kullanılan toz kakao; kutu ambalajda. Kek, puding, sıcak çikolata ve kurabiyelere kakao tadı ve rengi verir.
-Krem Şanti (Kakaolu) Kakao aromalı, çırpılarak hazırlanan toz krem şanti. Pasta, tart ve soğuk tatlıların dolgu ve süslemelerinde kullanılır.
-Krem Şanti (Sade) Sade, çırpılarak hazırlanan toz krem şanti. Pasta, tart ve soğuk tatlıların dolgu ve süslemelerinde kullanılır.
-Krem Şanti (Çilekli) Çilek aromalı, çırpılarak hazırlanan toz krem şanti. Pasta, tart ve soğuk tatlıların dolgu ve süslemelerinde kullanılır.
-Puding (Kakaolu) Sütle pişirilerek hazırlanan kakao aromalı toz puding. Soğuk servis edilen sütlü tatlılarda ve pasta kreması olarak kullanılır.
-Puding (Muzlu) Sütle pişirilerek hazırlanan muz aromalı toz puding. Soğuk servis edilen sütlü tatlılarda ve pasta kreması olarak kullanılır.
-Puding (Vanilyalı) Sütle pişirilerek hazırlanan vanilya aromalı toz puding. Soğuk servis edilen sütlü tatlılarda ve pasta kreması olarak kullanılır.
-Puding (Çikolatalı) Sütle pişirilerek hazırlanan çikolata aromalı toz puding. Soğuk servis edilen sütlü tatlılarda ve pasta kreması olarak kullanılır.
-Puding (Çilekli) Sütle pişirilerek hazırlanan çilek aromalı toz puding. Soğuk servis edilen sütlü tatlılarda ve pasta kreması olarak kullanılır.
-Pudra Şekeri İnce öğütülmüş toz şeker. Kek, kurabiye ve tatlıların üzerine serpmek, krema ve glazür hazırlamak için kullanılır.
-Vişne Aromalı Jöle Vişne aromalı, sıcak suyla hazırlanan toz jöle. Soğuk tatlılarda, pasta ve pasta dolgularında kullanılır.
-Çikolatalı Sos Çikolata aromalı hazır sos. Pasta, waffle, dondurma ve tatlıların üzerine dökülerek ya da dolgu olarak kullanılır.
-Çilek Aromalı Jöle Çilek aromalı, sıcak suyla hazırlanan toz jöle. Soğuk tatlılarda, pasta ve pasta dolgularında kullanılır.
-Şekerli Vanilin Şeker katılmış toz vanilin. Kek, kurabiye, krema ve sütlü tatlılara vanilya aroması verir.
-Fiyat listesi için bizi arayın
-Toptan satış, ihracat ve fiyat bilgisi için müşteri temsilcimizle görüşün: +90 342 238 11 11 · info@burcakbaharat.com.tr
-+90 342 238 11 11
-İslahiye OSB, Gaziantep · info@burcakbaharat.com.tr
-
----
-
-## Baharat Grubu
-https://burcakbaharat.com.tr/tr/ekatalog-baharat/
-
-Burçak'ın Baharat Grubu ürünleri.
-
-Baharat Grubu
-PDF Katalog · PDF · 16,2 MB Baharat Grubu Kataloğu Bu ürün grubunun basılı kataloğu — yeni sekmede açılır.
-PDF'i aç
-Bu gruptaki ürünler
 Büryan Baharatı Büryan tarzı et yemekleri için hazırlanmış baharat karışımı. Et yemeklerinin marinasyonunda ve pişirilmesinde kullanılır. 20 g ambalaj.
 Döner Baharatı Döner ve et ürünleri için hazırlanmış baharat karışımı. Döner marinasyonunda ve ızgara et hazırlıklarında kullanılır. 20 g ambalaj.
 Et Kebap Baharatı Et kebapları için hazırlanmış baharat karışımı. Kıyma ve kuşbaşı et marinasyonunda, ızgara ve tava kebaplarında kullanılır. 20 g ambalaj.
@@ -1909,14 +1841,35 @@ Toptan satış, ihracat ve fiyat bilgisi için müşteri temsilcimizle görüş�
 
 ---
 
-## Burçak Drink
-https://burcakbaharat.com.tr/tr/ekatalog-drink/
+## Pasta Yardımcıları
+https://burcakbaharat.com.tr/tr/ekatalog-pasta/
 
-Burçak Baharat Burçak Drink ürünleri.
+Burçak Baharat Pasta Yardımcıları ürünleri.
 
-Burçak Drink
+Pasta Yardımcıları
+PDF Katalog · PDF · 23,9 MB Pasta Grubu Kataloğu Bu ürün grubunun basılı kataloğu — yeni sekmede açılır.
+PDF'i aç
 Bu gruptaki ürünler
-Burçak Limonata(1000ml) Şişede hazır limonata. Soğuk servis edilen serinletici içecek olarak sunulur. 1000 ml ambalaj.
+Ananas Aromalı Jöle Ananas aromalı, sıcak suyla hazırlanan toz jöle. Soğuk tatlılarda, pasta ve pasta dolgularında kullanılır.
+Buğday Nişastası Buğdaydan elde edilen, toz halde nişasta. Puding, krema ve muhallebi gibi tatlıların ve sosların kıvamlandırılmasında kullanılır.
+Erim Kabartma Tozu Erim Kabartma Tozu: hamur işlerinin kabarmasına yardımcı toz kabartıcı. Kek, kurabiye, poğaça ve börek hamurlarında kullanılır.
+Erim Şekerli Vanilin Erim Şekerli Vanilin: şeker katılmış toz vanilin. Kek, kurabiye, krema ve sütlü tatlılara vanilya aroması verir.
+Hamur Kabartma Tozu Hamur işlerinin kabarmasına yardımcı toz kabartıcı. Kek, kurabiye, poğaça ve börek hamurlarında kullanılır.
+Kakao Pasta ve tatlılarda kullanılan toz kakao. Kek, puding, sıcak çikolata ve kurabiyelere kakao tadı ve rengi verir.
+Kakao Kutu Pasta ve tatlılarda kullanılan toz kakao; kutu ambalajda. Kek, puding, sıcak çikolata ve kurabiyelere kakao tadı ve rengi verir.
+Krem Şanti (Kakaolu) Kakao aromalı, çırpılarak hazırlanan toz krem şanti. Pasta, tart ve soğuk tatlıların dolgu ve süslemelerinde kullanılır.
+Krem Şanti (Sade) Sade, çırpılarak hazırlanan toz krem şanti. Pasta, tart ve soğuk tatlıların dolgu ve süslemelerinde kullanılır.
+Krem Şanti (Çilekli) Çilek aromalı, çırpılarak hazırlanan toz krem şanti. Pasta, tart ve soğuk tatlıların dolgu ve süslemelerinde kullanılır.
+Puding (Kakaolu) Sütle pişirilerek hazırlanan kakao aromalı toz puding. Soğuk servis edilen sütlü tatlılarda ve pasta kreması olarak kullanılır.
+Puding (Muzlu) Sütle pişirilerek hazırlanan muz aromalı toz puding. Soğuk servis edilen sütlü tatlılarda ve pasta kreması olarak kullanılır.
+Puding (Vanilyalı) Sütle pişirilerek hazırlanan vanilya aromalı toz puding. Soğuk servis edilen sütlü tatlılarda ve pasta kreması olarak kullanılır.
+Puding (Çikolatalı) Sütle pişirilerek hazırlanan çikolata aromalı toz puding. Soğuk servis edilen sütlü tatlılarda ve pasta kreması olarak kullanılır.
+Puding (Çilekli) Sütle pişirilerek hazırlanan çilek aromalı toz puding. Soğuk servis edilen sütlü tatlılarda ve pasta kreması olarak kullanılır.
+Pudra Şekeri İnce öğütülmüş toz şeker. Kek, kurabiye ve tatlıların üzerine serpmek, krema ve glazür hazırlamak için kullanılır.
+Vişne Aromalı Jöle Vişne aromalı, sıcak suyla hazırlanan toz jöle. Soğuk tatlılarda, pasta ve pasta dolgularında kullanılır.
+Çikolatalı Sos Çikolata aromalı hazır sos. Pasta, waffle, dondurma ve tatlıların üzerine dökülerek ya da dolgu olarak kullanılır.
+Çilek Aromalı Jöle Çilek aromalı, sıcak suyla hazırlanan toz jöle. Soğuk tatlılarda, pasta ve pasta dolgularında kullanılır.
+Şekerli Vanilin Şeker katılmış toz vanilin. Kek, kurabiye, krema ve sütlü tatlılara vanilya aroması verir.
 Fiyat listesi için bizi arayın
 Toptan satış, ihracat ve fiyat bilgisi için müşteri temsilcimizle görüşün: +90 342 238 11 11 · info@burcakbaharat.com.tr
 +90 342 238 11 11
@@ -1948,6 +1901,36 @@ Soursop Aromalı Soursop (guanabana) aromalı toz içecek. Su ile karıştırıl
 Vişne Aromalı Vişne aromalı toz içecek. Su ile karıştırılarak hazırlanır; soğuk servis edilir.
 Çilek Aromalı Çilek aromalı toz içecek. Su ile karıştırılarak hazırlanır; soğuk servis edilir.
 Şeftali Aromalı Şeftali aromalı toz içecek. Su ile karıştırılarak hazırlanır; soğuk servis edilir.
+Fiyat listesi için bizi arayın
+Toptan satış, ihracat ve fiyat bilgisi için müşteri temsilcimizle görüşün: +90 342 238 11 11 · info@burcakbaharat.com.tr
++90 342 238 11 11
+İslahiye OSB, Gaziantep · info@burcakbaharat.com.tr
+
+---
+
+## Endüstriyel
+https://burcakbaharat.com.tr/tr/ekatalog-endustriyel/
+
+Burçak Baharat Endüstriyel ürünleri (kahve dahil).
+
+Endüstriyel
+Bu gruptaki ürünler
+Türk Kahvesi Kavrulmuş kahve çekirdeğinin ince öğütülmesiyle hazırlanan geleneksel kahve. Cezvede pişirilerek servis edilir; ikram ve kafe kullanımı için uygundur.
+Fiyat listesi için bizi arayın
+Toptan satış, ihracat ve fiyat bilgisi için müşteri temsilcimizle görüşün: +90 342 238 11 11 · info@burcakbaharat.com.tr
++90 342 238 11 11
+İslahiye OSB, Gaziantep · info@burcakbaharat.com.tr
+
+---
+
+## Burçak Drink
+https://burcakbaharat.com.tr/tr/ekatalog-drink/
+
+Burçak Baharat Burçak Drink ürünleri.
+
+Burçak Drink
+Bu gruptaki ürünler
+Burçak Limonata(1000ml) Şişede hazır limonata. Soğuk servis edilen serinletici içecek olarak sunulur. 1000 ml ambalaj.
 Fiyat listesi için bizi arayın
 Toptan satış, ihracat ve fiyat bilgisi için müşteri temsilcimizle görüşün: +90 342 238 11 11 · info@burcakbaharat.com.tr
 +90 342 238 11 11

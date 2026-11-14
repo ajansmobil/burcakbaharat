@@ -1,0 +1,34 @@
+{
+  "category": "",
+  "description": {
+    "de": "Burçak Baharat Industrie-Produkte (inkl. Kaffee).",
+    "en": "Burçak Baharat Industrial products (incl. coffee).",
+    "es": "Productos industriales de Burçak Baharat (incl. café).",
+    "fr": "Produits industriels de Burçak Baharat (café inclus).",
+    "tr": "Burçak Baharat Endüstriyel ürünleri (kahve dahil)."
+  },
+  "desing": {
+    "body": [
+      "k8ekat",
+      "1569r1"
+    ],
+    "footer": [],
+    "header": []
+  },
+  "icon": "category",
+  "id": "c8endustriyel",
+  "image": "/img/kategori/kahve-grubu.webp",
+  "img": "kahve-grubu.webp",
+  "index": 3,
+  "name": {
+    "de": "Industrie",
+    "en": "Industrial",
+    "es": "Industrial",
+    "fr": "Industriel",
+    "tr": "Endüstriyel"
+  },
+  "path": "endustriyel",
+  "pathnext": "ekatalog-endustriyel",
+  "status": "play",
+  "update": "2026-11-14T00:00:00.000Z"
+}

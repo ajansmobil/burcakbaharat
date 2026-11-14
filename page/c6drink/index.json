@@ -1,10 +1,10 @@
 {
   "name": {
-    "tr": "Burçak Drink",
+    "de": "Burçak Drink",
     "en": "Burçak Drink",
     "es": "Burçak Drink",
     "fr": "Burçak Drink",
-    "de": "Burçak Drink"
+    "tr": "Burçak Drink"
   },
   "id": "c6drink",
   "index": 4,
@@ -14,20 +14,20 @@
   "icon": "category",
   "img": "burcak-drink.webp",
   "desing": {
-    "header": [],
     "body": [
       "k8ekat",
       "1569r1"
     ],
-    "footer": []
+    "footer": [],
+    "header": []
   },
   "pathnext": "ekatalog-drink",
   "description": {
-    "tr": "Burçak Baharat Burçak Drink ürünleri.",
+    "de": "Burçak Baharat Burçak Drink.",
     "en": "Burçak Baharat Burçak Drink products.",
     "es": "Productos Burçak Drink de Burçak Baharat.",
     "fr": "Produits Burçak Drink de Burçak Baharat.",
-    "de": "Burçak Baharat Burçak Drink."
+    "tr": "Burçak Baharat Burçak Drink ürünleri."
   },
   "image": "/img/kategori/burcak-drink.webp",
   "update": "2026-11-13T06:39:44.441Z"

@@ -1,205 +1,164 @@
 {
   "data": [
     {
-      "name": {
-        "tr": "Pul Biber Grubu",
-        "en": "Chili Flakes Group",
-        "es": "Grupo de hojuelas de chile",
-        "fr": "Gamme piment rouge en flocons",
-        "de": "Chiliflocken-Sortiment"
-      },
-      "id": "c1pulbiber",
-      "index": 0,
-      "path": "pul-biber-grubu",
       "category": "",
-      "status": "play",
-      "icon": "category",
-      "img": "pul-biber-grubu.webp",
+      "description": {
+        "de": "Burçak Baharat Gewürz- und Chiliflocken-Produkte.",
+        "en": "Burçak Baharat spice and chili flake products.",
+        "es": "Productos de especias y ají molido de Burçak Baharat.",
+        "fr": "Produits d'épices et de piment en flocons de Burçak Baharat.",
+        "tr": "Burçak Baharat baharat ve pul biber ürünleri."
+      },
       "desing": {
-        "header": [],
         "body": [
           "k8ekat",
           "1569r1"
         ],
-        "footer": []
+        "footer": [],
+        "header": []
       },
-      "pathnext": "ekatalog-pul-biber",
-      "description": {
-        "tr": "Burçak Baharat Pul Biber Grubu ürünleri.",
-        "en": "Burçak Baharat Chili Flakes Group products.",
-        "es": "Productos del Grupo de hojuelas de chile de Burçak Baharat.",
-        "fr": "Produits de la gamme Piment rouge en flocons de Burçak Baharat.",
-        "de": "Burçak Baharat Chiliflocken-Sortiment."
-      }
-    },
-    {
-      "name": {
-        "tr": "Kahve Grubu",
-        "en": "Coffee Group",
-        "es": "Grupo de café",
-        "fr": "Gamme café",
-        "de": "Kaffee-Sortiment"
-      },
-      "id": "c3kahve",
-      "index": 1,
-      "path": "kahve-grubu",
-      "category": "",
-      "status": "play",
       "icon": "category",
-      "img": "kahve-grubu.webp",
-      "desing": {
-        "header": [],
-        "body": [
-          "k8ekat",
-          "1569r1"
-        ],
-        "footer": []
-      },
-      "pathnext": "ekatalog-kahve",
-      "description": {
-        "tr": "Burçak Baharat Kahve Grubu ürünleri.",
-        "en": "Burçak Baharat Coffee Group products.",
-        "es": "Productos del Grupo de café de Burçak Baharat.",
-        "fr": "Produits de la gamme Café de Burçak Baharat.",
-        "de": "Burçak Baharat Kaffee-Sortiment."
-      }
-    },
-    {
-      "name": {
-        "tr": "Pasta Grubu",
-        "en": "Pastry Group",
-        "es": "Grupo de repostería",
-        "fr": "Gamme pâtisserie",
-        "de": "Konditorei-Sortiment"
-      },
-      "id": "c4pasta",
-      "index": 2,
-      "path": "pasta-grubu",
-      "category": "",
-      "status": "play",
-      "icon": "category",
-      "img": "pasta-grubu.webp",
-      "desing": {
-        "header": [],
-        "body": [
-          "k8ekat",
-          "1569r1"
-        ],
-        "footer": []
-      },
-      "pathnext": "ekatalog-pasta",
-      "description": {
-        "tr": "Burçak Baharat Pasta Grubu ürünleri.",
-        "en": "Burçak Baharat Pastry Group products.",
-        "es": "Productos del Grupo de repostería de Burçak Baharat.",
-        "fr": "Produits de la gamme Pâtisserie de Burçak Baharat.",
-        "de": "Burçak Baharat Konditorei-Sortiment."
-      }
-    },
-    {
-      "name": {
-        "tr": "Baharat Grubu",
-        "en": "Spice Group",
-        "es": "Grupo de especias",
-        "fr": "Gamme d'épices",
-        "de": "Gewürz-Sortiment"
-      },
       "id": "c5baharat20",
-      "index": 3,
-      "path": "baharat-20-gr",
-      "category": "",
-      "status": "play",
-      "icon": "category",
       "img": "baharat-20-gr.webp",
-      "desing": {
-        "header": [],
-        "body": [
-          "k8ekat",
-          "1569r1"
-        ],
-        "footer": []
+      "index": 0,
+      "name": {
+        "de": "Gewürz-Sortiment",
+        "en": "Spice Varieties",
+        "es": "Variedades de especias",
+        "fr": "Variétés d'épices",
+        "tr": "Baharat Çeşitleri"
       },
+      "path": "baharat-20-gr",
       "pathnext": "ekatalog-baharat",
-      "description": {
-        "tr": "Burçak'ın Baharat Grubu ürünleri.",
-        "en": "Burçak Baharat Spice Group products.",
-        "es": "Productos del Grupo de especias de Burçak Baharat.",
-        "fr": "Produits de la gamme d'épices de Burçak Baharat.",
-        "de": "Burçak Baharat Gewürz-Sortiment."
-      }
+      "status": "play"
     },
     {
-      "name": {
-        "tr": "Burçak Drink",
-        "en": "Burçak Drink",
-        "es": "Burçak Drink",
-        "fr": "Burçak Drink",
-        "de": "Burçak Drink"
-      },
-      "id": "c6drink",
-      "index": 4,
-      "path": "burcak-drink",
       "category": "",
-      "status": "play",
-      "icon": "category",
-      "img": "burcak-drink.webp",
+      "description": {
+        "de": "Burçak Baharat Backhilfsprodukte.",
+        "en": "Burçak Baharat baking helper products.",
+        "es": "Productos de complementos de repostería de Burçak Baharat.",
+        "fr": "Produits de préparations pâtissières de Burçak Baharat.",
+        "tr": "Burçak Baharat Pasta Yardımcıları ürünleri."
+      },
       "desing": {
-        "header": [],
         "body": [
           "k8ekat",
           "1569r1"
         ],
-        "footer": []
+        "footer": [],
+        "header": []
       },
-      "pathnext": "ekatalog-drink",
-      "description": {
-        "tr": "Burçak Baharat Burçak Drink ürünleri.",
-        "en": "Burçak Baharat Burçak Drink products.",
-        "es": "Productos Burçak Drink de Burçak Baharat.",
-        "fr": "Produits Burçak Drink de Burçak Baharat.",
-        "de": "Burçak Baharat Burçak Drink."
-      }
+      "icon": "category",
+      "id": "c4pasta",
+      "img": "pasta-grubu.webp",
+      "index": 1,
+      "name": {
+        "de": "Backhilfsmittel",
+        "en": "Baking Helpers",
+        "es": "Complementos de repostería",
+        "fr": "Préparations pâtissières",
+        "tr": "Pasta Yardımcıları"
+      },
+      "path": "pasta-grubu",
+      "pathnext": "ekatalog-pasta",
+      "status": "play"
     },
     {
-      "name": {
-        "tr": "Aromalı Toz İçecek",
-        "en": "Flavored Powdered Drinks",
-        "es": "Bebida en polvo aromatizada",
-        "fr": "Boissons en poudre aromatisées",
-        "de": "Aromatisierte Getränkepulver"
-      },
-      "id": "c7aroma",
-      "index": 5,
-      "path": "aromali-toz-icecek",
       "category": "",
-      "status": "play",
-      "icon": "category",
-      "img": "aromali-toz-icecek.webp",
-      "desing": {
-        "header": [],
-        "body": [
-          "k8ekat",
-          "1569r1"
-        ],
-        "footer": []
-      },
-      "pathnext": "ekatalog-fruit-dance",
       "description": {
-        "tr": "Burçak Baharat Aromalı Toz İçecek ürünleri.",
+        "de": "Burçak Baharat aromatisierte Getränkepulver.",
         "en": "Burçak Baharat Flavored Powdered Drinks.",
         "es": "Productos de bebida en polvo aromatizada de Burçak Baharat.",
         "fr": "Boissons en poudre aromatisées de Burçak Baharat.",
-        "de": "Burçak Baharat aromatisierte Getränkepulver."
-      }
+        "tr": "Burçak Baharat Aromalı Toz İçecek ürünleri."
+      },
+      "desing": {
+        "body": [
+          "k8ekat",
+          "1569r1"
+        ],
+        "footer": [],
+        "header": []
+      },
+      "icon": "category",
+      "id": "c7aroma",
+      "img": "aromali-toz-icecek.webp",
+      "index": 2,
+      "name": {
+        "de": "Aromatisierte Getränkepulver",
+        "en": "Flavored Powdered Drinks",
+        "es": "Bebida en polvo aromatizada",
+        "fr": "Boissons en poudre aromatisées",
+        "tr": "Aromalı Toz İçecek"
+      },
+      "path": "aromali-toz-icecek",
+      "pathnext": "ekatalog-fruit-dance",
+      "status": "play"
+    },
+    {
+      "category": "",
+      "description": {
+        "de": "Burçak Baharat Industrie-Produkte (inkl. Kaffee).",
+        "en": "Burçak Baharat Industrial products (incl. coffee).",
+        "es": "Productos industriales de Burçak Baharat (incl. café).",
+        "fr": "Produits industriels de Burçak Baharat (café inclus).",
+        "tr": "Burçak Baharat Endüstriyel ürünleri (kahve dahil)."
+      },
+      "desing": {
+        "body": [
+          "k8ekat",
+          "1569r1"
+        ],
+        "footer": [],
+        "header": []
+      },
+      "icon": "category",
+      "id": "c8endustriyel",
+      "img": "kahve-grubu.webp",
+      "index": 3,
+      "name": {
+        "de": "Industrie",
+        "en": "Industrial",
+        "es": "Industrial",
+        "fr": "Industriel",
+        "tr": "Endüstriyel"
+      },
+      "path": "endustriyel",
+      "pathnext": "ekatalog-endustriyel",
+      "status": "play"
+    },
+    {
+      "category": "",
+      "description": {
+        "de": "Burçak Baharat Burçak Drink.",
+        "en": "Burçak Baharat Burçak Drink products.",
+        "es": "Productos Burçak Drink de Burçak Baharat.",
+        "fr": "Produits Burçak Drink de Burçak Baharat.",
+        "tr": "Burçak Baharat Burçak Drink ürünleri."
+      },
+      "desing": {
+        "body": [
+          "k8ekat",
+          "1569r1"
+        ],
+        "footer": [],
+        "header": []
+      },
+      "icon": "category",
+      "id": "c6drink",
+      "img": "burcak-drink.webp",
+      "index": 4,
+      "name": {
+        "de": "Burçak Drink",
+        "en": "Burçak Drink",
+        "es": "Burçak Drink",
+        "fr": "Burçak Drink",
+        "tr": "Burçak Drink"
+      },
+      "path": "burcak-drink",
+      "pathnext": "ekatalog-drink",
+      "status": "play"
     }
-  ],
-  "desc": [],
-  "desing": {
-    "header": [],
-    "body": [],
-    "footer": []
-  },
-  "modulestatus": {
-    "body": true
-  }
+  ]
 }
