@@ -1,60 +1,60 @@
 {
-  "name": {
-    "tr": "Kurumsal",
-    "en": "Corporate",
-    "es": "Corporativo",
-    "fr": "Entreprise",
-    "de": "Unternehmen"
-  },
-  "status": "play",
-  "category": "",
-  "id": "yvi9dlb59o",
-  "url": "",
-  "path": "kurumsal",
-  "index": 1,
-  "desing": {
-    "header": [],
-    "body": [
-      "0tr024",
-      "z7l8wm",
-      "0nq169",
-      "9fz0jm",
-      "fhxr98",
-      "1569r1"
-    ],
-    "footer": []
-  },
-  "pathnext": "",
-  "description": {
-    "tr": "Burçak Baharat: köklü deneyim, 25 bin m² arazide kurulu tam otomasyonlu tesis, 15 ülkeye ihracat, FDA · ISO 22000 · Helal Gıda.",
-    "en": "Burçak Baharat: proven experience, a fully automated facility on 25,000 m² of land, exports to 15 countries, FDA · ISO 22000 · Halal.",
-    "es": "Burçak Baharat: sólida trayectoria, planta totalmente automatizada instalada en 25 mil m² de terreno, exportación a 15 países, FDA · ISO 22000 · Halal.",
-    "fr": "Burçak Baharat : expérience solide, usine entièrement automatisée sur un terrain de 25 000 m², exportations vers 15 pays, FDA · ISO 22000 · Halal.",
-    "de": "Burçak Baharat: langjährige Erfahrung, vollautomatisierte Anlage auf 25.000 m² Grundstück, Export in 15 Länder, FDA · ISO 22000 · Halal."
-  },
-  "spot": {
-    "tr": "",
-    "en": "",
-    "es": "",
-    "fr": "",
-    "de": ""
-  },
-  "desc": {},
-  "title": {
-    "tr": "Kurumsal",
-    "en": "Corporate",
-    "es": "Corporativo",
-    "fr": "Entreprise",
-    "de": "Unternehmen"
-  },
-  "keyword": {
-    "tr": "Burçak Baharat kurumsal, İslahiye OSB, baharat üreticisi, 15 ülkeye ihracat, FDA, ISO 22000, Helal Gıda",
-    "en": "Burçak Baharat corporate, İslahiye OSB, spice manufacturer, exports to 15 countries, FDA, ISO 22000, Halal",
-    "es": "Burçak Baharat corporativo, OSB de İslahiye, fabricante de especias, exportación a 15 países, FDA, ISO 22000, Halal",
-    "fr": "Burçak Baharat entreprise, İslahiye OSB, fabricant d'épices, exportations vers 15 pays, FDA, ISO 22000, Halal",
-    "de": "Burçak Baharat Unternehmen, OSB İslahiye, Gewürzhersteller, Export in 15 Länder, FDA, ISO 22000, Halal"
-  },
-  "text": {},
-  "update": "2026-11-10T16:13:20.914Z",
-  "date": "2026-05-19"
+ "name": {
+  "tr": "Kurumsal",
+  "en": "Corporate",
+  "es": "Corporativo",
+  "fr": "Entreprise",
+  "de": "Unternehmen"
+ },
+ "status": "play",
+ "category": "",
+ "id": "yvi9dlb59o",
+ "url": "",
+ "path": "kurumsal",
+ "index": 1,
+ "desing": {
+  "header": [],
+  "body": [],
+  "footer": []
+ },
+ "pathnext": "",
+ "description": {
+  "tr": "Burçak Baharat: köklü deneyim, 25 bin m² arazide kurulu tam otomasyonlu tesis, 15 ülkeye ihracat, FDA · ISO 22000 · Helal Gıda.",
+  "en": "Burçak Baharat: proven experience, a fully automated facility on 25,000 m² of land, exports to 15 countries, FDA · ISO 22000 · Halal.",
+  "es": "Burçak Baharat: sólida trayectoria, planta totalmente automatizada instalada en 25 mil m² de terreno, exportación a 15 países, FDA · ISO 22000 · Halal.",
+  "fr": "Burçak Baharat : expérience solide, usine entièrement automatisée sur un terrain de 25 000 m², exportations vers 15 pays, FDA · ISO 22000 · Halal.",
+  "de": "Burçak Baharat: langjährige Erfahrung, vollautomatisierte Anlage auf 25.000 m² Grundstück, Export in 15 Länder, FDA · ISO 22000 · Halal."
+ },
+ "spot": {
+  "tr": "",
+  "en": "",
+  "es": "",
+  "fr": "",
+  "de": ""
+ },
+ "desc": {},
+ "title": {
+  "tr": "Kurumsal",
+  "en": "Corporate",
+  "es": "Corporativo",
+  "fr": "Entreprise",
+  "de": "Unternehmen"
+ },
+ "keyword": {
+  "tr": "Burçak Baharat kurumsal, İslahiye OSB, baharat üreticisi, 15 ülkeye ihracat, FDA, ISO 22000, Helal Gıda",
+  "en": "Burçak Baharat corporate, İslahiye OSB, spice manufacturer, exports to 15 countries, FDA, ISO 22000, Halal",
+  "es": "Burçak Baharat corporativo, OSB de İslahiye, fabricante de especias, exportación a 15 países, FDA, ISO 22000, Halal",
+  "fr": "Burçak Baharat entreprise, İslahiye OSB, fabricant d'épices, exportations vers 15 pays, FDA, ISO 22000, Halal",
+  "de": "Burçak Baharat Unternehmen, OSB İslahiye, Gewürzhersteller, Export in 15 Länder, FDA, ISO 22000, Halal"
+ },
+ "text": {
+  "tr": "<article class=\"hub-article\"><h2>Kurumsal</h2><p>Burçak Baharat; Gaziantep İslahiye Organize Sanayi Bölgesi'nde, 25 bin metrekare arazide kurulu tam otomasyonlu üretim tesisiyle baharat ve gıda üreticisidir. Ürünlerimizi 15 ülkeye ihraç ediyoruz.</p><h3>Kimyiz</h3><p>Baharatın topraktan sofraya uzanan yolculuğunda her aşamayı kendi tesisimizde yürütürüz: hammadde kabulü, kaba eleme, zımpara, renk ayrımı, öğütme ve paketleme. Tam otomasyonlu hattımız, her partide aynı kaliteyi ve aynı tadı garanti eder.</p><h3>Kalite ve Sertifikalar</h3><p>Üretimimiz uluslararası standartlara uygundur ve bağımsız denetimlerden geçer.</p><ul><li>FDA</li><li>ISO 22000</li><li>Helal Gıda</li></ul><h3>Neler Bulursunuz</h3><p>Beş temel ürün grubuyla çalışırız.</p><ul><li>Baharat Çeşitleri — pul biber başta olmak üzere kuru baharatlar</li><li>Pasta Yardımcıları</li><li>Aromalı Toz İçecekler</li><li>Endüstriyel Ürünler — kahve grubu dahil</li><li>Burçak Drink</li></ul><h3>Nasıl Çalışırız</h3><p>Talebi netleştirir, parti miktarını ve ambalaj tipini birlikte seçeriz. Numune, onay ve sevkiyat adımlarını tek kanaldan yürütürüz.</p><ul><li>Sabit kalite</li><li>Belgeli üretim</li><li>Doğrudan üreticiden fiyat</li><li>15 ülkeye ihracat deneyimi</li></ul></article>",
+  "en": "<article class=\"hub-article\"><h2>Corporate</h2><p>Burçak Baharat is a spice and food manufacturer based in the İslahiye Organized Industrial Zone, Gaziantep — a fully automated production facility on 25,000 m² of land. We export our products to 15 countries.</p><h3>Who We Are</h3><p>We run every step of the spice journey — from raw material intake through coarse sorting, grinding, color sorting, milling and packaging — in our own facility. Our fully automated line guarantees the same quality and the same taste in every batch.</p><h3>Quality and Certifications</h3><p>Our production meets international standards and passes independent audits.</p><ul><li>FDA</li><li>ISO 22000</li><li>Halal Food</li></ul><h3>What You Will Find</h3><p>We work with five core product groups.</p><ul><li>Spice Varieties — dry spices, led by red pepper flakes</li><li>Pasta Additives</li><li>Flavored Powder Drinks</li><li>Industrial Products — including the coffee line</li><li>Burçak Drink</li></ul><h3>How We Work</h3><p>We define your requirement, agree batch size and packaging together, then run sampling, approval and shipment through a single channel.</p><ul><li>Consistent quality</li><li>Certified production</li><li>Direct-from-manufacturer pricing</li><li>Export experience across 15 countries</li></ul></article>",
+  "es": "<article class=\"hub-article\"><h2>Corporativo</h2><p>Burçak Baharat es un fabricante de especias y alimentos con sede en la Zona Industrial Organizada de İslahiye, Gaziantep: una instalación de producción totalmente automatizada sobre 25.000 m² de terreno. Exportamos nuestros productos a 15 países.</p><h3>Quiénes Somos</h3><p>Cada etapa del camino de la especia —recepción de materia prima, cribado grueso, molienda, selección por color y envasado— se realiza en nuestra propia instalación. Nuestra línea totalmente automatizada garantiza la misma calidad y el mismo sabor en cada lote.</p><h3>Calidad y Certificaciones</h3><p>Nuestra producción cumple con los estándares internacionales y pasa auditorías independientes.</p><ul><li>FDA</li><li>ISO 22000</li><li>Alimento Halal</li></ul><h3>Qué Encontrará</h3><p>Trabajamos con cinco grupos de productos principales.</p><ul><li>Variiedades de Especias — lideradas por hojuelas de chile</li><li>Aditivos para Pasta</li><li>Bebidas en Polvo Saborizadas</li><li>Productos Industriales — incluida la línea de café</li><li>Burçak Drink</li></ul><h3>Cómo Trabajamos</h3><p>Definimos su requerimiento, acordamos el tamaño del lote y el envase, y coordinamos la muestra, la aprobación y el envío por un solo canal.</p><ul><li>Calidad constante</li><li>Producción certificada</li><li>Precio directo del fabricante</li><li>Experiencia de exportación a 15 países</li></ul></article>",
+  "fr": "<article class=\"hub-article\"><h2>Entreprise</h2><p>Burçak Baharat est un fabricant d'épices et d'aliments basé dans la zone industrielle organisée d'İslahiye, Gaziantep — une installation de production entièrement automatisée sur 25 000 m². Nous exportons nos produits vers 15 pays.</p><h3>Qui Sommes-Nous</h3><p>Chaque étape du parcours de l'épice — réception de la matière première, tamisage grossier, broyage, tri optique et conditionnement — est réalisée dans notre propre installation. Notre ligne entièrement automatisée garantit la même qualité et le même goût à chaque lot.</p><h3>Qualité et Certifications</h3><p>Notre production respecte les normes internationales et passe des audits indépendants.</p><ul><li>FDA</li><li>ISO 22000</li><li>Aliment Halal</li></ul><h3>Que Vous Y Trouverez</h3><p>Nous travaillons avec cinq groupes de produits principaux.</p><ul><li>Variétés d'Épices — menées par les flocons de poivron rouge</li><li>Additifs pour Pâtes</li><li>Boissons Poudrées Aromatisées</li><li>Produits Industriels — y compris la ligne café</li><li>Burçak Drink</li></ul><h3>Comment Nous Travaillons</h3><p>Nous définissons votre besoin, convenons ensemble de la taille du lot et de l'emballage, puis gérons l'échantillon, l'approbation et l'expédition par un seul canal.</p><ul><li>Qualité constante</li><li>Production certifiée</li><li>Prix direct du fabricant</li><li>Expérience d'exportation vers 15 pays</li></ul></article>",
+  "de": "<article class=\"hub-article\"><h2>Unternehmen</h2><p>Burçak Baharat ist ein Gewürz- und Lebensmittelhersteller in der Organisierten Industriezone İslahiye, Gaziantep — eine vollautomatisierte Produktionsanlage auf 25.000 m². Wir exportieren unsere Produkte in 15 Länder.</p><h3>Wer Wir Sind</h3><p>Jede Stufe des Weges des Gewürzes — Wareneingang, Grobsieb, Zerkleinerung, Farbsortierung und Verpackung — läuft in unserer eigenen Anlage ab. Unsere vollautomatisierte Linie garantiert dieselbe Qualität und denselben Geschmack in jeder Charge.</p><h3>Qualität und Zertifikate</h3><p>Unsere Produktion erfüllt internationale Standards und besteht unabhängige Audits.</p><ul><li>FDA</li><li>ISO 22000</li><li>Halal-Lebensmittel</li></ul><h3>Was Sie Finden</h3><p>Wir arbeiten mit fünf Kernproduktgruppen.</p><ul><li>Gewürz-Vielfalt — angeführt von Paprika-Flocken</li><li>Teig-Hilfsmittel</li><li>Aromatisierte Pulvergetränke</li><li>Industrielle Produkte — inkl. Kaffee-Linie</li><li>Burçak Drink</li></ul><h3>Wie Wir Arbeiten</h3><p>Wir klären Ihr Anliegen, stimmen Chargengröße und Verpackung ab und führen Probe, Freigabe und Versand über einen Kanal.</p><ul><li>Konstante Qualität</li><li>Zertifizierte Produktion</li><li>Direktpreis vom Hersteller</li><li>Export-Erfahrung in 15 Ländern</li></ul></article>"
+ },
+ "update": "2026-11-14T00:00:00.000Z",
+ "date": "2026-05-19",
+ "textmodul": true
 }
