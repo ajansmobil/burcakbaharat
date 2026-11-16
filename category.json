@@ -99,11 +99,11 @@
     {
       "category": "",
       "description": {
-        "de": "Burçak Baharat Industrie-Produkte (inkl. Kaffee).",
-        "en": "Burçak Baharat Industrial products (incl. coffee).",
-        "es": "Productos industriales de Burçak Baharat (incl. café).",
-        "fr": "Produits industriels de Burçak Baharat (café inclus).",
-        "tr": "Burçak Baharat Endüstriyel ürünleri (kahve dahil)."
+        "tr": "Burçak Baharat endüstriyel ürünleri: kahve grubu ve 1 kg üzeri (5 kg ekonomik) ambalajlı baharatlar.",
+        "en": "Burçak Baharat industrial products: coffee range and spices in 1 kg+ (5 kg economy) packs.",
+        "es": "Productos industriales de Burçak Baharat: gama de café y especias en envases de más de 1 kg (5 kg económico).",
+        "fr": "Produits industriels Burçak Baharat : gamme café et épices en conditionnement de plus de 1 kg (5 kg économique).",
+        "de": "Burçak Baharat Industrieprodukte: Kaffeesortiment und Gewürze in Gebinden ab 1 kg (5 kg Spar)."
       },
       "desing": {
         "body": [

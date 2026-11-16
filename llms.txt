@@ -107,7 +107,7 @@ Web: https://burcakbaharat.com.tr/tr/ · Adres: İslahiye OSB 1 Nolu Cad. No:2/1
 - [Baharat Çeşitleri](https://burcakbaharat.com.tr/tr/ekatalog-baharat/): Burçak Baharat baharat ve pul biber ürünleri.
 - [Pasta Yardımcıları](https://burcakbaharat.com.tr/tr/ekatalog-pasta/): Burçak Baharat Pasta Yardımcıları ürünleri.
 - [Aromalı Toz İçecek](https://burcakbaharat.com.tr/tr/ekatalog-fruit-dance/): Burçak Baharat Aromalı Toz İçecek ürünleri.
-- [Endüstriyel](https://burcakbaharat.com.tr/tr/ekatalog-endustriyel/): Burçak Baharat Endüstriyel ürünleri (kahve dahil).
+- [Endüstriyel](https://burcakbaharat.com.tr/tr/ekatalog-endustriyel/): Burçak Baharat endüstriyel ürünleri: kahve grubu ve 1 kg üzeri (5 kg ekonomik) ambalajlı baharatlar.
 
 ## Diger
 - [sitemap.xml](https://burcakbaharat.com.tr/sitemap.xml): tum URL listesi

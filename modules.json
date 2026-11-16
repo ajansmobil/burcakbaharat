@@ -5421,7 +5421,41 @@
                 "limonata"
               ]
             }
+          ],
+          "c8endustriyel": [
+            {
+              "k": "kahve",
+              "ad": {
+                "tr": "Kahve",
+                "en": "Coffee",
+                "es": "Café",
+                "fr": "Café",
+                "de": "Kaffee"
+              },
+              "yol": [
+                "kahve"
+              ]
+            },
+            {
+              "k": "baharat",
+              "ad": {
+                "tr": "Baharat (5 kg)",
+                "en": "Spices (5 kg)",
+                "es": "Especias (5 kg)",
+                "fr": "Épices (5 kg)",
+                "de": "Gewürze (5 kg)"
+              },
+              "yol": []
+            }
           ]
+        },
+        "ekle": {
+          "c8endustriyel": {
+            "min": 1000,
+            "kategori": [
+              "c5baharat20"
+            ]
+          }
         }
       },
       "data": [],
@@ -5527,6 +5561,14 @@
             "es": "Ahora mismo no hay productos en este grupo.",
             "fr": "Aucun produit dans cette gamme pour le moment.",
             "de": "In dieser Gruppe gibt es derzeit keine Produkte."
+          }
+        },
+        "ekle": {
+          "c8endustriyel": {
+            "min": 1000,
+            "kategori": [
+              "c5baharat20"
+            ]
           }
         }
       },
