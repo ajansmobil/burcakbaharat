@@ -127,38 +127,6 @@
       "path": "endustriyel",
       "pathnext": "ekatalog-endustriyel",
       "status": "play"
-    },
-    {
-      "category": "",
-      "description": {
-        "de": "Burçak Baharat Burçak Drink.",
-        "en": "Burçak Baharat Burçak Drink products.",
-        "es": "Productos Burçak Drink de Burçak Baharat.",
-        "fr": "Produits Burçak Drink de Burçak Baharat.",
-        "tr": "Burçak Baharat Burçak Drink ürünleri."
-      },
-      "desing": {
-        "body": [
-          "k8ekat",
-          "1569r1"
-        ],
-        "footer": [],
-        "header": []
-      },
-      "icon": "category",
-      "id": "c6drink",
-      "img": "burcak-drink.webp",
-      "index": 4,
-      "name": {
-        "de": "Burçak Drink",
-        "en": "Burçak Drink",
-        "es": "Burçak Drink",
-        "fr": "Burçak Drink",
-        "tr": "Burçak Drink"
-      },
-      "path": "burcak-drink",
-      "pathnext": "ekatalog-drink",
-      "status": "play"
     }
   ]
 }

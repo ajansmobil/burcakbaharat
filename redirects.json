@@ -23,7 +23,7 @@
     {
       "eski": "burcak-drink",
       "tarih": "2026-11-11T07:41:40.802Z",
-      "yeni": "ekatalog-drink"
+      "yeni": "ekatalog-fruit-dance"
     },
     {
       "eski": "aromali-toz-icecek",
@@ -46,6 +46,11 @@
       "eski": "kurumsal",
       "yeni": "hakkimizda",
       "tarih": "2026-11-14T15:00:23.089Z"
+    },
+    {
+      "eski": "ekatalog-drink",
+      "yeni": "ekatalog-fruit-dance",
+      "tarih": "2026-11-16T12:03:48.059Z"
     }
   ]
 }

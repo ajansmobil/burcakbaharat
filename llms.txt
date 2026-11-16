@@ -1,14 +1,14 @@
 # Burçak Baharat
 
-> Burçak Baharat; köklü deneyimiyle, modern ve tam otomasyonlu tesisinde baharat, pastacılık ürünleri, kahve ile aromalı toz içecek gruplarında 75 çeşit ürün üretir. İslahiye / Gaziantep.
+> Burçak Baharat; köklü deneyimiyle, modern ve tam otomasyonlu tesisinde baharat, pastacılık ürünleri, kahve ile aromalı toz içecek gruplarında 81 çeşit ürün üretir. İslahiye / Gaziantep.
 
 Web: https://burcakbaharat.com.tr/tr/ · Adres: İslahiye OSB 1 Nolu Cad. No:2/1, İslahiye / Gaziantep / Türkiye · Telefon: +90 342 238 11 11 · E-posta: info@burcakbaharat.com.tr · Diller: tr, en, es, fr, de (varsayilan: tr)
 
 ## Sayfalar
-- [Burçak Baharat](https://burcakbaharat.com.tr/tr/): Burçak Baharat; köklü deneyimiyle, modern ve tam otomasyonlu tesisinde baharat, pastacılık ürünleri, kahve ile aromalı toz içecek gruplarında 75 çeşit ürün üretir.
+- [Burçak Baharat](https://burcakbaharat.com.tr/tr/): Burçak Baharat; köklü deneyimiyle, modern ve tam otomasyonlu tesisinde baharat, pastacılık ürünleri, kahve ile aromalı toz içecek gruplarında 81 çeşit ürün üretir.
 - [Kurumsal](https://burcakbaharat.com.tr/tr/hakkimizda/): Burçak Baharat: köklü deneyim, 25 bin m² arazide kurulu tam otomasyonlu tesis, 15 ülkeye ihracat, FDA · ISO 22000 · Helal Gıda.
-- [Dijital Katalog](https://burcakbaharat.com.tr/tr/ekatalog/): Burçak Baharat dijital kataloğu: 6 ürün grubu ve 75 ürün tek sayfada — pul biber, baharat, kahve, pasta grubu, aromalı toz içecek.
-- [Ürünler](https://burcakbaharat.com.tr/tr/urunler/): Burçak Baharat e-katalog: pul biber, baharat, kahve, pasta grubu ve aromalı toz içecek — 75 ürün, kategori filtresi ve arama.
+- [Dijital Katalog](https://burcakbaharat.com.tr/tr/ekatalog/): Burçak Baharat dijital kataloğu: 4 ürün grubu ve 81 ürün tek sayfada — baharat, pasta yardımcıları, aromalı toz içecek ve endüstriyel ürünler.
+- [Ürünler](https://burcakbaharat.com.tr/tr/urunler/): Burçak Baharat e-katalog: pul biber, baharat, kahve, pasta grubu ve aromalı toz içecek — 81 ürün, kategori filtresi ve arama.
 - [Hakkımızda](https://burcakbaharat.com.tr/tr/hakkimizda/): Burçak Baharat hakkında: köklü deneyim, İslahiye OSB'de tam otomasyonlu tesis, 15 ülkeye ihracat.
 - [Misyon](https://burcakbaharat.com.tr/tr/misyon/): Misyonumuz: müşterilerimize anlaşılır ve güvenilir ürünler sunmak; çalışanlarımıza, iş ortaklarımıza ve topluma karşı sorumluluklarımızı gözetmek.
 - [Vizyon](https://burcakbaharat.com.tr/tr/vizyon/): Vizyonumuz; kalitesi, güvenilirliği ve müşteri odaklı yaklaşımıyla tercih edilen, değişime hızla uyum sağlayan ve çevresine değer katan bir kuruluş olmaktır.
@@ -86,7 +86,6 @@ Web: https://burcakbaharat.com.tr/tr/ · Adres: İslahiye OSB 1 Nolu Cad. No:2/1
 - [Zerdeçal](https://burcakbaharat.com.tr/tr/zerdecal/): Öğütülmüş zerdeçal.
 - [Çörek Otu](https://burcakbaharat.com.tr/tr/corek-otu/): Çörek otu tohumu.
 - [İsot Biber](https://burcakbaharat.com.tr/tr/isot-biber/): Güneydoğu mutfağıyla bilinen, koyu renkli ve acılı pul biber.
-- [Burçak Limonata(1000ml)](https://burcakbaharat.com.tr/tr/burcak-limonata-1000ml/): Şişede hazır limonata.
 - [Ananas Aromalı](https://burcakbaharat.com.tr/tr/ananas-aromali/): Ananas aromalı toz içecek.
 - [Elma Aromalı](https://burcakbaharat.com.tr/tr/elma-aromali/): Elma aromalı toz içecek.
 - [Karadut Aromalı](https://burcakbaharat.com.tr/tr/karadut-aromali/): Karadut aromalı toz içecek.
@@ -102,13 +101,13 @@ Web: https://burcakbaharat.com.tr/tr/ · Adres: İslahiye OSB 1 Nolu Cad. No:2/1
 - [Vişne Aromalı](https://burcakbaharat.com.tr/tr/visne-aromali/): Vişne aromalı toz içecek.
 - [Çilek Aromalı](https://burcakbaharat.com.tr/tr/cilek-aromali/): Çilek aromalı toz içecek.
 - [Şeftali Aromalı](https://burcakbaharat.com.tr/tr/seftali-aromali/): Şeftali aromalı toz içecek.
+- [Burçak Limonata(1000ml)](https://burcakbaharat.com.tr/tr/burcak-limonata-1000ml/): Şişede hazır limonata.
 
 ## Kategoriler
 - [Baharat Çeşitleri](https://burcakbaharat.com.tr/tr/ekatalog-baharat/): Burçak Baharat baharat ve pul biber ürünleri.
 - [Pasta Yardımcıları](https://burcakbaharat.com.tr/tr/ekatalog-pasta/): Burçak Baharat Pasta Yardımcıları ürünleri.
 - [Aromalı Toz İçecek](https://burcakbaharat.com.tr/tr/ekatalog-fruit-dance/): Burçak Baharat Aromalı Toz İçecek ürünleri.
 - [Endüstriyel](https://burcakbaharat.com.tr/tr/ekatalog-endustriyel/): Burçak Baharat Endüstriyel ürünleri (kahve dahil).
-- [Burçak Drink](https://burcakbaharat.com.tr/tr/ekatalog-drink/): Burçak Baharat Burçak Drink ürünleri.
 
 ## Diger
 - [sitemap.xml](https://burcakbaharat.com.tr/sitemap.xml): tum URL listesi

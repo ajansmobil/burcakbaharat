@@ -2566,7 +2566,8 @@
         "bgcolor": "#f1f5f9",
         "pillhover": "#2196f3",
         "border_radius": "24px",
-        "max": "1200px"
+        "max": "1200px",
+        "pillbg": "#ffffff"
       },
       "category": "footer",
       "description": "E-ticaret sitelerinde sepet, siparişler, hesap ve iletişim sayfalarına yönlendiren yatay hızlı erişim şeridi. Material ikonlar, çok dilli başlıklar ve 768px altında kaydırılabilir yatay düzen sunar.",
@@ -2759,7 +2760,8 @@
         "sepetSayiAria": {
           "tr": "Sepetteki ürün adedi",
           "en": "Items in cart"
-        }
+        },
+        "logoimg": ""
       },
       "category": "menu",
       "description": "E-ticaret özel header navigasyon menüsü. Logo, kategori linkleri ve sepet ikonu ile alışveriş odaklı menü sunar. 2 farklı e-ticaret projesinde kullanılır. Sepet sayacı göstergesi, hover efektli renkler, koyu tema tasarımı ve sepet sayfasına yönlendirme URL entegrasyonu içerir. PLAN-PRO F3: giriş linki data-mx-uye-goster=\"misafir\", Hesabım + Çıkış data-mx-uye-goster=\"giris\" (MxStore.uye), sepet ikonunda data-mx-sepet-sayi rozeti (MxStore.sepet; 0 iken gizli).",
@@ -2994,11 +2996,11 @@
           "de": "Unsere Produktgruppen"
         },
         "subtitle": {
-          "de": "75 Produkte in 5 Produktgruppen — Gruppe anklicken und Produkte ansehen",
-          "en": "75 varieties in 5 product groups — click a category to see the products",
-          "es": "75 variedades en 5 grupos de productos — haga clic en una categoría para ver los productos",
-          "fr": "75 variétés en 5 gammes de produits — cliquez sur une catégorie pour voir les produits",
-          "tr": "5 ürün grubunda 75 çeşit — kategoriye tıklayın, ürünleri görün"
+          "de": "81 Produkte in 4 Produktgruppen — Gruppe anklicken und Produkte ansehen",
+          "en": "81 varieties in 4 product groups — click a category to see the products",
+          "es": "81 variedades en 4 grupos de productos — haga clic en una categoría para ver los productos",
+          "fr": "81 variétés en 4 gammes de produits — cliquez sur une catégorie pour voir les produits",
+          "tr": "4 ürün grubunda 81 çeşit — kategoriye tıklayın, ürünleri görün"
         }
       },
       "data": [
@@ -3045,17 +3047,6 @@
             "tr": "Endüstriyel"
           },
           "url": "ekatalog-endustriyel"
-        },
-        {
-          "img": "/img/kategori/burcak-drink.webp?v=12",
-          "name": {
-            "de": "Burçak Drink",
-            "en": "Burçak Drink",
-            "es": "Burçak Drink",
-            "fr": "Burçak Drink",
-            "tr": "Burçak Drink"
-          },
-          "url": "ekatalog-drink"
         }
       ],
       "category": "page-category",
@@ -3283,7 +3274,7 @@
           }
         },
         {
-          "deger": 75,
+          "deger": 81,
           "onek": "",
           "sonek": "",
           "ikon": "inventory_2",
@@ -3295,11 +3286,11 @@
             "de": "Produktsorten"
           },
           "aciklama": {
-            "tr": "6 ürün grubunda",
-            "en": "Across 6 product groups",
-            "es": "En 6 grupos de productos",
-            "fr": "Réparties en 6 gammes de produits",
-            "de": "In 6 Produktgruppen"
+            "tr": "4 ürün grubunda",
+            "en": "Across 4 product groups",
+            "es": "En 4 grupos de productos",
+            "fr": "Réparties en 4 gammes de produits",
+            "de": "In 4 Produktgruppen"
           }
         },
         {
@@ -3746,11 +3737,11 @@
           "de": "Wir bringen Natürlichkeit und Geschmack in die Verpackung"
         },
         "description": {
-          "tr": "Köklü deneyimimiz ve modern, tam otomasyonlu tesisimizle baharattan pastacılık ürünlerine, sostan toz içeceğe kadar sofranızın ihtiyaç duyduğu 75 çeşit ürünü üretiyoruz.",
-          "en": "With our proven experience and our modern, fully automated facility, we produce the 75 varieties of products your table needs, from spices to pastry products, from sauces to powdered drinks.",
-          "es": "Con nuestra sólida trayectoria y nuestra planta moderna y totalmente automatizada, producimos 75 variedades de productos que su mesa necesita, desde especias hasta productos de repostería, desde salsas hasta bebidas en polvo.",
-          "fr": "Fort de notre expérience solide et de notre usine moderne et entièrement automatisée, nous produisons les 75 variétés de produits dont votre table a besoin, des épices aux produits de pâtisserie, des sauces aux boissons en poudre.",
-          "de": "Mit langjähriger Erfahrung und unserer modernen, vollautomatisierten Anlage produzieren wir 75 Produkte, die Ihre Küche braucht – von Gewürzen und Konditoreiprodukten bis zu Saucen und Getränkepulvern."
+          "tr": "Köklü deneyimimiz ve modern, tam otomasyonlu tesisimizle baharattan pastacılık ürünlerine, sostan toz içeceğe kadar sofranızın ihtiyaç duyduğu 81 çeşit ürünü üretiyoruz.",
+          "en": "With our proven experience and our modern, fully automated facility, we produce the 81 varieties of products your table needs, from spices to pastry products, from sauces to powdered drinks.",
+          "es": "Con nuestra sólida trayectoria y nuestra planta moderna y totalmente automatizada, producimos 81 variedades de productos que su mesa necesita, desde especias hasta productos de repostería, desde salsas hasta bebidas en polvo.",
+          "fr": "Fort de notre expérience solide et de notre usine moderne et entièrement automatisée, nous produisons les 81 variétés de produits dont votre table a besoin, des épices aux produits de pâtisserie, des sauces aux boissons en poudre.",
+          "de": "Mit langjähriger Erfahrung und unserer modernen, vollautomatisierten Anlage produzieren wir 81 Produkte, die Ihre Küche braucht – von Gewürzen und Konditoreiprodukten bis zu Saucen und Getränkepulvern."
         },
         "btn1Text": {
           "tr": "Biz Kimiz?",
@@ -4320,16 +4311,6 @@
               "es": "Industrial",
               "fr": "Industriel",
               "tr": "Endüstriyel"
-            }
-          },
-          {
-            "href": "ekatalog-drink",
-            "text": {
-              "de": "Burçak Drink",
-              "en": "Burçak Drink",
-              "es": "Burçak Drink",
-              "fr": "Burçak Drink",
-              "tr": "Burçak Drink"
             }
           }
         ],

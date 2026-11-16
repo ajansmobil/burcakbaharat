@@ -1821,34 +1821,6 @@
       "img": "index.webp"
     },
     {
-      "id": "2xgmcj4tio",
-      "name": {
-        "tr": "Burçak Limonata(1000ml)",
-        "en": "Burçak Lemonade(1000ml)",
-        "es": "Limonada Burçak(1000ml)",
-        "fr": "Limonade Burçak (1000ml)",
-        "de": "Burçak Limonade(1000ml)"
-      },
-      "description": {
-        "tr": "Şişede hazır limonata. Soğuk servis edilen serinletici içecek olarak sunulur. 1000 ml ambalaj.",
-        "en": "Ready-made lemonade in a bottle. Served as a cold, refreshing drink. 1000 ml packaging.",
-        "es": "Limonada lista en botella. Se ofrece como bebida refrescante servida fría. Envase de 1000 ml.",
-        "fr": "Limonade prête à boire en bouteille. Proposée comme boisson rafraîchissante servie froide. Conditionnement : 1000 ml.",
-        "de": "Limonade in der Flasche, trinkfertig. Wird als erfrischendes Getränk kalt serviert. Verpackung: 1000 ml."
-      },
-      "path": "burcak-limonata-1000ml",
-      "icon": "restaurant",
-      "category": "c6drink",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 65,
-      "img": "index.webp"
-    },
-    {
       "id": "6n7zy9i6d2",
       "name": {
         "tr": "Ananas Aromalı",
@@ -1873,7 +1845,7 @@
         "body": [],
         "footer": []
       },
-      "index": 66,
+      "index": 65,
       "img": "index.webp"
     },
     {
@@ -1901,7 +1873,7 @@
         "body": [],
         "footer": []
       },
-      "index": 67,
+      "index": 66,
       "img": "index.webp"
     },
     {
@@ -1929,7 +1901,7 @@
         "body": [],
         "footer": []
       },
-      "index": 68,
+      "index": 67,
       "img": "index.webp"
     },
     {
@@ -1957,7 +1929,7 @@
         "body": [],
         "footer": []
       },
-      "index": 69,
+      "index": 68,
       "img": "index.webp"
     },
     {
@@ -1985,7 +1957,7 @@
         "body": [],
         "footer": []
       },
-      "index": 70,
+      "index": 69,
       "img": "index.webp"
     },
     {
@@ -2013,7 +1985,7 @@
         "body": [],
         "footer": []
       },
-      "index": 71,
+      "index": 70,
       "img": "index.webp"
     },
     {
@@ -2041,7 +2013,7 @@
         "body": [],
         "footer": []
       },
-      "index": 72,
+      "index": 71,
       "img": "index.webp"
     },
     {
@@ -2069,7 +2041,7 @@
         "body": [],
         "footer": []
       },
-      "index": 73,
+      "index": 72,
       "img": "index.webp"
     },
     {
@@ -2097,7 +2069,7 @@
         "body": [],
         "footer": []
       },
-      "index": 74,
+      "index": 73,
       "img": "index.webp"
     },
     {
@@ -2125,7 +2097,7 @@
         "body": [],
         "footer": []
       },
-      "index": 75,
+      "index": 74,
       "img": "index.webp"
     },
     {
@@ -2153,7 +2125,7 @@
         "body": [],
         "footer": []
       },
-      "index": 76,
+      "index": 75,
       "img": "index.webp"
     },
     {
@@ -2181,7 +2153,7 @@
         "body": [],
         "footer": []
       },
-      "index": 77,
+      "index": 76,
       "img": "index.webp"
     },
     {
@@ -2209,7 +2181,7 @@
         "body": [],
         "footer": []
       },
-      "index": 78,
+      "index": 77,
       "img": "index.webp"
     },
     {
@@ -2237,7 +2209,7 @@
         "body": [],
         "footer": []
       },
-      "index": 79,
+      "index": 78,
       "img": "index.webp"
     },
     {
@@ -2257,6 +2229,34 @@
         "de": "Getränkepulver mit Pfirsich-Aroma. Wird mit Wasser angerührt und kalt serviert."
       },
       "path": "seftali-aromali",
+      "icon": "restaurant",
+      "category": "c7aroma",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 79,
+      "img": "index.webp"
+    },
+    {
+      "id": "2xgmcj4tio",
+      "name": {
+        "tr": "Burçak Limonata(1000ml)",
+        "en": "Burçak Lemonade(1000ml)",
+        "es": "Limonada Burçak(1000ml)",
+        "fr": "Limonade Burçak (1000ml)",
+        "de": "Burçak Limonade(1000ml)"
+      },
+      "description": {
+        "tr": "Şişede hazır limonata. Soğuk servis edilen serinletici içecek olarak sunulur. 1000 ml ambalaj.",
+        "en": "Ready-made lemonade in a bottle. Served as a cold, refreshing drink. 1000 ml packaging.",
+        "es": "Limonada lista en botella. Se ofrece como bebida refrescante servida fría. Envase de 1000 ml.",
+        "fr": "Limonade prête à boire en bouteille. Proposée comme boisson rafraîchissante servie froide. Conditionnement : 1000 ml.",
+        "de": "Limonade in der Flasche, trinkfertig. Wird als erfrischendes Getränk kalt serviert. Verpackung: 1000 ml."
+      },
+      "path": "burcak-limonata-1000ml",
       "icon": "restaurant",
       "category": "c7aroma",
       "status": "play",
