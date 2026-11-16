@@ -5166,6 +5166,55 @@
             "es": "Abrir PDF",
             "fr": "Ouvrir le PDF",
             "tr": "PDF'i aç"
+          },
+          "fLabel": {
+            "tr": "Ürün filtresi",
+            "en": "Product filter",
+            "es": "Filtro de productos",
+            "fr": "Filtre produits",
+            "de": "Produktfilter"
+          },
+          "fSearch": {
+            "tr": "Bu grupta ürün ara…",
+            "en": "Search this group…",
+            "es": "Buscar en este grupo…",
+            "fr": "Rechercher dans cette gamme…",
+            "de": "In dieser Gruppe suchen…"
+          },
+          "fType": {
+            "tr": "Tür",
+            "en": "Type",
+            "es": "Tipo",
+            "fr": "Type",
+            "de": "Art"
+          },
+          "fPack": {
+            "tr": "Ambalaj",
+            "en": "Pack size",
+            "es": "Envase",
+            "fr": "Conditionnement",
+            "de": "Packung"
+          },
+          "fAll": {
+            "tr": "Tümü",
+            "en": "All",
+            "es": "Todos",
+            "fr": "Tous",
+            "de": "Alle"
+          },
+          "fNone": {
+            "tr": "Seçiminize uygun ürün bulunamadı.",
+            "en": "No products match your selection.",
+            "es": "Ningún producto coincide con su selección.",
+            "fr": "Aucun produit ne correspond à votre sélection.",
+            "de": "Keine Produkte entsprechen Ihrer Auswahl."
+          },
+          "fReset": {
+            "tr": "Filtreyi temizle",
+            "en": "Clear filters",
+            "es": "Borrar filtros",
+            "fr": "Effacer les filtres",
+            "de": "Filter zurücksetzen"
           }
         },
         "pdf": {
@@ -5202,6 +5251,177 @@
               "de": "Konditorei-Sortiment-Katalog"
             }
           }
+        },
+        "gruplar": {
+          "c5baharat20": [
+            {
+              "k": "biber",
+              "ad": {
+                "tr": "Biberler",
+                "en": "Peppers",
+                "es": "Pimientos",
+                "fr": "Piments et poivres",
+                "de": "Paprika & Pfeffer"
+              },
+              "yol": [
+                "pul-biber",
+                "toz-biber",
+                "isot",
+                "karabiber"
+              ]
+            },
+            {
+              "k": "karisim",
+              "ad": {
+                "tr": "Hazır karışımlar",
+                "en": "Seasoning blends",
+                "es": "Mezclas de especias",
+                "fr": "Mélanges d'épices",
+                "de": "Gewürzmischungen"
+              },
+              "yol": [
+                "baharat",
+                "kori",
+                "bulyon"
+              ]
+            },
+            {
+              "k": "ot",
+              "ad": {
+                "tr": "Otlar ve tohumlar",
+                "en": "Herbs & seeds",
+                "es": "Hierbas y semillas",
+                "fr": "Herbes et graines",
+                "de": "Kräuter & Samen"
+              },
+              "yol": [
+                "nane",
+                "kekik",
+                "sumak",
+                "hashas",
+                "susam",
+                "corek-otu",
+                "kisnis"
+              ]
+            },
+            {
+              "k": "tek",
+              "ad": {
+                "tr": "Tek baharatlar ve diğer",
+                "en": "Single spices & more",
+                "es": "Especias puras y otros",
+                "fr": "Épices pures et autres",
+                "de": "Einzelgewürze & mehr"
+              },
+              "yol": []
+            }
+          ],
+          "c4pasta": [
+            {
+              "k": "puding",
+              "ad": {
+                "tr": "Puding",
+                "en": "Pudding",
+                "es": "Pudin",
+                "fr": "Crème dessert",
+                "de": "Pudding"
+              },
+              "yol": [
+                "puding"
+              ]
+            },
+            {
+              "k": "santi",
+              "ad": {
+                "tr": "Krem şanti",
+                "en": "Whipped cream",
+                "es": "Nata montada",
+                "fr": "Crème chantilly",
+                "de": "Schlagcreme"
+              },
+              "yol": [
+                "krem-santi"
+              ]
+            },
+            {
+              "k": "jole",
+              "ad": {
+                "tr": "Jöle",
+                "en": "Jelly",
+                "es": "Gelatina",
+                "fr": "Gelée",
+                "de": "Götterspeise"
+              },
+              "yol": [
+                "jole"
+              ]
+            },
+            {
+              "k": "kakao",
+              "ad": {
+                "tr": "Kakao ve sos",
+                "en": "Cocoa & sauce",
+                "es": "Cacao y salsa",
+                "fr": "Cacao et sauce",
+                "de": "Kakao & Soße"
+              },
+              "yol": [
+                "kakao",
+                "sos"
+              ]
+            },
+            {
+              "k": "kabartma",
+              "ad": {
+                "tr": "Kabartma ve vanilin",
+                "en": "Baking powder & vanillin",
+                "es": "Levadura y vainillina",
+                "fr": "Levure et vanilline",
+                "de": "Backpulver & Vanillin"
+              },
+              "yol": [
+                "kabartma",
+                "vanilin"
+              ]
+            },
+            {
+              "k": "temel",
+              "ad": {
+                "tr": "Nişasta, un ve şeker",
+                "en": "Starch, flour & sugar",
+                "es": "Almidón, harina y azúcar",
+                "fr": "Amidon, farine et sucre",
+                "de": "Stärke, Mehl & Zucker"
+              },
+              "yol": []
+            }
+          ],
+          "c7aroma": [
+            {
+              "k": "toz",
+              "ad": {
+                "tr": "Toz içecekler",
+                "en": "Powdered drinks",
+                "es": "Bebidas en polvo",
+                "fr": "Boissons en poudre",
+                "de": "Getränkepulver"
+              },
+              "yol": []
+            },
+            {
+              "k": "hazir",
+              "ad": {
+                "tr": "Hazır içecek",
+                "en": "Ready-to-drink",
+                "es": "Listo para beber",
+                "fr": "Prêt à boire",
+                "de": "Trinkfertig"
+              },
+              "yol": [
+                "limonata"
+              ]
+            }
+          ]
         }
       },
       "data": [],

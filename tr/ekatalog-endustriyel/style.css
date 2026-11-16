@@ -462,6 +462,22 @@
   .ekChip:hover { background: #8F1D2C; border-color: #8F1D2C; color: #fff; }
   .ekChipAll { background: #F3E9DA; }
 
+  .ekFilter { display: flex; flex-direction: column; gap: 12px; margin: 0 0 22px; padding: 16px 18px; background: #FFFFFF; border: 1px solid #E8DCC8; border-radius: 14px; box-sizing: border-box; }
+  .ekFilter[hidden], .ekCard[hidden], .ekFNone[hidden] { display: none !important; }
+  .ekSearch { display: flex; align-items: center; gap: 8px; padding: 0 14px; border: 1px solid #E8DCC8; border-radius: 10px; background: #FBF6EE; }
+  .ekSearch:focus-within { border-color: #8F1D2C; box-shadow: 0 0 0 3px #F3E9DA; }
+  .ekSearch .material-symbols-outlined { font-size: 22px; color: #5C514B; }
+  .ekSearch input { flex: 1; min-width: 0; height: 44px; border: 0; background: transparent; font: inherit; font-size: 15px; color: #2B2523; outline: none; }
+  .ekFRow { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; }
+  .ekFLabel { flex: 0 0 auto; min-width: 74px; font-size: 12px; font-weight: 700; letter-spacing: .08em; text-transform: uppercase; color: #5C514B; }
+  .ekF { display: inline-flex; align-items: center; gap: 6px; min-height: 38px; padding: 7px 14px; border-radius: 999px; border: 1px solid #E8DCC8; background: #FBF6EE; color: #2B2523; font: inherit; font-size: 14px; font-weight: 600; cursor: pointer; transition: background .2s ease, color .2s ease, border-color .2s ease; }
+  .ekF:hover { border-color: #8F1D2C; }
+  .ekF[aria-pressed="true"] { background: #8F1D2C; border-color: #8F1D2C; color: #fff; }
+  .ekF:focus-visible, .ekFReset:focus-visible { outline: 3px solid #2B2523; outline-offset: 2px; }
+  .ekFN { font-size: 12px; font-weight: 700; opacity: .75; }
+  .ekFNone { margin: 4px 0 0; font-size: 15px; color: #5C514B; }
+  .ekFReset { border: 0; background: none; padding: 0; font: inherit; font-weight: 700; color: #8F1D2C; text-decoration: underline; cursor: pointer; }
+
   @media (max-width: 1024px) {
     .ekGrid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
     .ekTitle { font-size: 32px; }
@@ -479,6 +495,11 @@
     .ekName { font-size: 17px; }
     .ekDesc { font-size: 13px; }
     .ekChip { padding: 8px 13px; font-size: 13px; }
+    .ekFilter { padding: 12px; }
+    .ekFRow { flex-wrap: nowrap; overflow-x: auto; scrollbar-width: none; margin: 0 -12px; padding: 0 12px 2px; }
+    .ekFRow::-webkit-scrollbar { display: none; }
+    .ekFLabel { min-width: 0; }
+    .ekF { flex: 0 0 auto; font-size: 13px; padding: 6px 12px; }
   }
   @media (prefers-reduced-motion: reduce) {
     [class*="ek"], [class*="ek"] * { transition: none !important; animation: none !important; }
