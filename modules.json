@@ -3784,7 +3784,7 @@
           "tr": "Güvenli gıda, uluslararası standartlar"
         },
         "description": {
-          "tr": "Burçak Baharat; ABD pazarı için FDA'nın yanı sıra ISO 22000-2018 (Gıda Güvenliği Yönetimi) ve Helal Gıda sertifikalarına sahiptir."
+          "tr": "Burçak Baharat; ABD pazarı için FDA'nın yanı sıra ISO 22000-2018 (Gıda Güvenliği Yönetimi) sertifikasına sahiptir."
         },
         "btn1Text": {
           "tr": "İletişime Geçin"
@@ -4707,11 +4707,11 @@
           "de": "Sichere Lebensmittel, internationale Standards"
         },
         "description": {
-          "tr": "Burçak Baharat; ABD pazarı için FDA’nın yanı sıra ISO 22000-2018 ve Helal Gıda sertifikalarına sahip olduğunu beyan eder. Güncel belge örnekleri için bizimle iletişime geçebilirsiniz.",
-          "en": "Burçak Baharat declares that it holds FDA for the US market, as well as ISO 22000-2018 and Halal certificates. You can contact us for current sample documents.",
-          "es": "Burçak Baharat declara contar con las certificaciones FDA para el mercado de EE. UU., ISO 22000-2018 y Halal. Para obtener ejemplos de los documentos vigentes, puede ponerse en contacto con nosotros.",
-          "fr": "Burçak Baharat déclare détenir, outre la certification FDA pour le marché américain, les certificats ISO 22000-2018 et Halal. Pour obtenir des exemples de documents à jour, vous pouvez nous contacter.",
-          "de": "Burçak Baharat erklärt, für den US-Markt über FDA sowie über die Zertifikate ISO 22000-2018 und Halal zu verfügen. Aktuelle Beispiele der Dokumente erhalten Sie auf Anfrage."
+          "tr": "Burçak Baharat; ABD pazarı için FDA’nın yanı sıra ISO 22000-2018 sertifikasına sahip olduğunu beyan eder. Güncel belge örnekleri için bizimle iletişime geçebilirsiniz.",
+          "en": "Burçak Baharat declares that it holds FDA for the US market, as well as the ISO 22000-2018 certificate. You can contact us for current sample documents.",
+          "es": "Burçak Baharat declara contar con las certificaciones FDA para el mercado de EE. UU. e ISO 22000-2018. Para obtener ejemplos de los documentos vigentes, puede ponerse en contacto con nosotros.",
+          "fr": "Burçak Baharat déclare détenir, outre la certification FDA pour le marché américain, le certificat ISO 22000-2018. Pour obtenir des exemples de documents à jour, vous pouvez nous contacter.",
+          "de": "Burçak Baharat erklärt, für den US-Markt über FDA sowie über das Zertifikat ISO 22000-2018 zu verfügen. Aktuelle Beispiele der Dokumente erhalten Sie auf Anfrage."
         }
       },
       "data": [
@@ -4747,23 +4747,6 @@
             "es": "Gestión de la Inocuidad Alimentaria",
             "fr": "Management de la sécurité des denrées alimentaires",
             "de": "Lebensmittelsicherheitsmanagement"
-          }
-        },
-        {
-          "icon": "task_alt",
-          "name": {
-            "tr": "Helal Gıda",
-            "en": "Halal",
-            "es": "Halal",
-            "fr": "Halal",
-            "de": "Halal"
-          },
-          "description": {
-            "tr": "Helal Gıda sertifikası",
-            "en": "Halal certificate",
-            "es": "Certificación Halal",
-            "fr": "Certificat Halal",
-            "de": "Halal-Zertifikat"
           }
         },
         {

@@ -29,7 +29,7 @@ Biz Kimiz?
 ## Kurumsal
 https://burcakbaharat.com.tr/tr/hakkimizda/
 
-Burçak Baharat: köklü deneyim, 25 bin m² arazide kurulu tam otomasyonlu tesis, 15 ülkeye ihracat, FDA · ISO 22000 · Helal Gıda.
+Burçak Baharat: köklü deneyim, 25 bin m² arazide kurulu tam otomasyonlu tesis, 15 ülkeye ihracat, FDA · ISO 22000.
 
 Hakkımızda
 Burçak Baharat
@@ -38,7 +38,7 @@ Burçak Baharat olarak, fırıncılık ve pastacılık sektörünün ihtiyaçlar
 Güçlü üretim kapasitemiz ve farklı ambalaj seçeneklerimizle hem perakende pazarının hem de endüstriyel gıda üreticilerinin ihtiyaçlarına yanıt veriyoruz.
 Türkiye pazarındaki köklü konumumuzdan aldığımız güçle uluslararası pazarlara açıldık ve bugün ürünlerimizi 15’ten fazla ülkeye ihraç ediyoruz.
 Gaziantep İslahiye Organize Sanayi Bölgesi'nde 25 bin metrekare üzerine kurulu, 10 bin metrekaresi kapalı alan olan tam otomasyonlu tesisimiz, bölgenin en modern ve teknolojik tesislerinden biridir. Kırmızı biber, kimyon, susam, çörek otu, sumak ve nane gibi tarımsal ürünleri bölge çiftçisinden temin ederek çiftçilerin geçim kaynaklarının güçlenmesine ve bölge ekonomisinin gelişmesine katkı sunuyoruz.
-Şirketimiz, ABD pazarı için FDA'nın yanı sıra ISO 22000-2018 (Gıda Güvenliği Yönetimi) ve Helal Gıda sertifikalarına sahiptir.
+Şirketimiz, ABD pazarı için FDA'nın yanı sıra ISO 22000-2018 (Gıda Güvenliği Yönetimi) sertifikasına sahiptir.
 Fiyat listesi için bizi arayın: +90 342 238 11 11 · info@burcakbaharat.com.tr
 
 ---
@@ -2000,7 +2000,7 @@ Burçak Baharat olarak, fırıncılık ve pastacılık sektörünün ihtiyaçlar
 Güçlü üretim kapasitemiz ve farklı ambalaj seçeneklerimizle hem perakende pazarının hem de endüstriyel gıda üreticilerinin ihtiyaçlarına yanıt veriyoruz.
 Türkiye pazarındaki köklü konumumuzdan aldığımız güçle uluslararası pazarlara açıldık ve bugün ürünlerimizi 15’ten fazla ülkeye ihraç ediyoruz.
 Gaziantep İslahiye Organize Sanayi Bölgesi'nde 25 bin metrekare üzerine kurulu, 10 bin metrekaresi kapalı alan olan tam otomasyonlu tesisimiz, bölgenin en modern ve teknolojik tesislerinden biridir. Kırmızı biber, kimyon, susam, çörek otu, sumak ve nane gibi tarımsal ürünleri bölge çiftçisinden temin ederek çiftçilerin geçim kaynaklarının güçlenmesine ve bölge ekonomisinin gelişmesine katkı sunuyoruz.
-Şirketimiz, ABD pazarı için FDA'nın yanı sıra ISO 22000-2018 (Gıda Güvenliği Yönetimi) ve Helal Gıda sertifikalarına sahiptir.
+Şirketimiz, ABD pazarı için FDA'nın yanı sıra ISO 22000-2018 (Gıda Güvenliği Yönetimi) sertifikasına sahiptir.
 Fiyat listesi için bizi arayın: +90 342 238 11 11 · info@burcakbaharat.com.tr
 
 ---
