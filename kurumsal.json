@@ -265,8 +265,7 @@
         "header": [],
         "body": [
           "nxw7z2",
-          "p74dnl",
-          "1569r1"
+          "p74dnl"
         ],
         "footer": []
       },
@@ -422,5 +421,11 @@
       "tp5jo4"
     ],
     "footer": []
+  },
+  "modulestatus": {
+    "page": true,
+    "bgimg": false,
+    "detail": true,
+    "body": true
   }
 }
