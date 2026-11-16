@@ -113,6 +113,62 @@
       "img": "index.webp"
     },
     {
+      "id": "nd9rn7twj7",
+      "name": {
+        "tr": "Gold Kahve",
+        "en": "Gold Coffee",
+        "es": "Café Gold",
+        "fr": "Café Gold",
+        "de": "Gold-Kaffee"
+      },
+      "description": {
+        "tr": "Granül yapıda, sıcak suda hızla çözünen gold hazır kahve. Ofis, ikram ve kafe kullanımı için uygundur.",
+        "en": "Granulated gold instant coffee that dissolves quickly in hot water. Suitable for offices, hospitality and cafés.",
+        "es": "Café instantáneo gold granulado que se disuelve rápidamente en agua caliente. Ideal para oficinas, hostelería y cafeterías.",
+        "fr": "Café instantané gold en granulés, qui se dissout rapidement dans l'eau chaude. Idéal pour les bureaux, l'accueil et les cafés.",
+        "de": "Granulierter Gold-Instantkaffee, der sich schnell in heißem Wasser löst. Geeignet für Büro, Bewirtung und Café."
+      },
+      "path": "gold-kahve",
+      "icon": "restaurant",
+      "category": "c8endustriyel",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 4,
+      "img": "index.webp"
+    },
+    {
+      "id": "xmgruyhom3",
+      "name": {
+        "tr": "Kahve Kreması",
+        "en": "Coffee Creamer",
+        "es": "Crema para café",
+        "fr": "Crème à café",
+        "de": "Kaffeeweißer"
+      },
+      "description": {
+        "tr": "Kahveye kremamsı kıvam ve yumuşak tat veren toz kahve kreması. Hazır kahve, filtre kahve ve sıcak içeceklerde kullanılır.",
+        "en": "Powdered coffee creamer that gives coffee a creamy texture and smooth taste. Used in instant coffee, filter coffee and hot drinks.",
+        "es": "Crema en polvo que aporta textura cremosa y sabor suave al café. Se usa en café instantáneo, café de filtro y bebidas calientes.",
+        "fr": "Crème à café en poudre qui apporte onctuosité et douceur au café. Utilisée dans le café instantané, le café filtre et les boissons chaudes.",
+        "de": "Pulverförmiger Kaffeeweißer für eine cremige Konsistenz und milden Geschmack. Für Instantkaffee, Filterkaffee und Heißgetränke."
+      },
+      "path": "kahve-kremasi",
+      "icon": "restaurant",
+      "category": "c8endustriyel",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 5,
+      "img": "index.webp"
+    },
+    {
       "id": "ago021dtso",
       "name": {
         "tr": "Ananas Aromalı Jöle",
@@ -137,7 +193,35 @@
         "body": [],
         "footer": []
       },
-      "index": 4,
+      "index": 6,
+      "img": "index.webp"
+    },
+    {
+      "id": "9vqsdi457k",
+      "name": {
+        "tr": "Muz Aromalı Jöle",
+        "en": "Banana Flavored Jelly",
+        "es": "Gelatina con sabor a plátano",
+        "fr": "Gelée aromatisée à la banane",
+        "de": "Gelee mit Bananen-Aroma"
+      },
+      "description": {
+        "tr": "Muz aromalı, sıcak suyla hazırlanan toz jöle. Soğuk tatlılarda, pasta ve pasta dolgularında kullanılır.",
+        "en": "Banana-flavored jelly powder prepared with hot water. Used in cold desserts, cakes and cake fillings.",
+        "es": "Gelatina en polvo con sabor a plátano que se prepara con agua caliente. Se utiliza en postres fríos, tartas y rellenos.",
+        "fr": "Gelée en poudre aromatisée à la banane, préparée avec de l'eau chaude. Utilisée dans les desserts froids, les gâteaux et leurs garnitures.",
+        "de": "Geleepulver mit Bananen-Aroma, mit heißem Wasser zubereitet. Für kalte Desserts, Torten und Tortenfüllungen."
+      },
+      "path": "muz-aromali-jole",
+      "icon": "restaurant",
+      "category": "c4pasta",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 7,
       "img": "index.webp"
     },
     {
@@ -165,7 +249,35 @@
         "body": [],
         "footer": []
       },
-      "index": 5,
+      "index": 8,
+      "img": "index.webp"
+    },
+    {
+      "id": "5v623s6fq6",
+      "name": {
+        "tr": "Mısır Nişastası",
+        "en": "Corn Starch",
+        "es": "Almidón de maíz",
+        "fr": "Amidon de maïs",
+        "de": "Maisstärke"
+      },
+      "description": {
+        "tr": "Mısırdan elde edilen, toz halde nişasta. Puding, muhallebi, krema ve sosların kıvamlandırılmasında kullanılır.",
+        "en": "Powdered starch obtained from corn. Used to thicken puddings, milk desserts, creams and sauces.",
+        "es": "Almidón en polvo obtenido del maíz. Se utiliza para espesar pudines, postres lácteos, cremas y salsas.",
+        "fr": "Amidon en poudre obtenu à partir du maïs. Utilisé pour épaissir les puddings, entremets, crèmes et sauces.",
+        "de": "Pulverförmige Stärke aus Mais. Zum Andicken von Puddings, Milchdesserts, Cremes und Soßen."
+      },
+      "path": "misir-nisastasi",
+      "icon": "restaurant",
+      "category": "c4pasta",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 9,
       "img": "index.webp"
     },
     {
@@ -193,7 +305,7 @@
         "body": [],
         "footer": []
       },
-      "index": 6,
+      "index": 10,
       "img": "index.webp"
     },
     {
@@ -221,7 +333,7 @@
         "body": [],
         "footer": []
       },
-      "index": 7,
+      "index": 11,
       "img": "index.webp"
     },
     {
@@ -249,7 +361,7 @@
         "body": [],
         "footer": []
       },
-      "index": 8,
+      "index": 12,
       "img": "index.webp"
     },
     {
@@ -277,7 +389,7 @@
         "body": [],
         "footer": []
       },
-      "index": 9,
+      "index": 13,
       "img": "index.webp"
     },
     {
@@ -305,7 +417,7 @@
         "body": [],
         "footer": []
       },
-      "index": 10,
+      "index": 14,
       "img": "index.webp"
     },
     {
@@ -333,7 +445,7 @@
         "body": [],
         "footer": []
       },
-      "index": 11,
+      "index": 15,
       "img": "index.webp"
     },
     {
@@ -361,7 +473,7 @@
         "body": [],
         "footer": []
       },
-      "index": 12,
+      "index": 16,
       "img": "index.webp"
     },
     {
@@ -389,7 +501,7 @@
         "body": [],
         "footer": []
       },
-      "index": 13,
+      "index": 17,
       "img": "index.webp"
     },
     {
@@ -417,7 +529,7 @@
         "body": [],
         "footer": []
       },
-      "index": 14,
+      "index": 18,
       "img": "index.webp"
     },
     {
@@ -445,7 +557,7 @@
         "body": [],
         "footer": []
       },
-      "index": 15,
+      "index": 19,
       "img": "index.webp"
     },
     {
@@ -473,7 +585,7 @@
         "body": [],
         "footer": []
       },
-      "index": 16,
+      "index": 20,
       "img": "index.webp"
     },
     {
@@ -501,7 +613,7 @@
         "body": [],
         "footer": []
       },
-      "index": 17,
+      "index": 21,
       "img": "index.webp"
     },
     {
@@ -529,7 +641,7 @@
         "body": [],
         "footer": []
       },
-      "index": 18,
+      "index": 22,
       "img": "index.webp"
     },
     {
@@ -557,7 +669,7 @@
         "body": [],
         "footer": []
       },
-      "index": 19,
+      "index": 23,
       "img": "index.webp"
     },
     {
@@ -585,7 +697,7 @@
         "body": [],
         "footer": []
       },
-      "index": 20,
+      "index": 24,
       "img": "index.webp"
     },
     {
@@ -613,7 +725,7 @@
         "body": [],
         "footer": []
       },
-      "index": 21,
+      "index": 25,
       "img": "index.webp"
     },
     {
@@ -641,7 +753,7 @@
         "body": [],
         "footer": []
       },
-      "index": 22,
+      "index": 26,
       "img": "index.webp"
     },
     {
@@ -669,7 +781,7 @@
         "body": [],
         "footer": []
       },
-      "index": 23,
+      "index": 27,
       "img": "index.webp"
     },
     {
@@ -697,7 +809,7 @@
         "body": [],
         "footer": []
       },
-      "index": 24,
+      "index": 28,
       "img": "index.webp"
     },
     {
@@ -710,125 +822,13 @@
         "de": "Büryan-Gewürz"
       },
       "description": {
-        "tr": "Büryan tarzı et yemekleri için hazırlanmış baharat karışımı. Et yemeklerinin marinasyonunda ve pişirilmesinde kullanılır. 20 g ambalaj.",
-        "en": "A spice blend prepared for büryan-style meat dishes. Used in marinating and cooking meat dishes. 20 g packaging.",
-        "es": "Mezcla de especias preparada para platos de carne al estilo büryan. Se utiliza en el adobo y la cocción de platos de carne. Envase de 20 g.",
-        "fr": "Mélange d'épices préparé pour les plats de viande façon büryan. Utilisé pour la marinade et la cuisson des plats de viande. Conditionnement : 20 g.",
-        "de": "Gewürzmischung für Fleischgerichte nach Büryan-Art. Zum Marinieren und Garen von Fleischgerichten. Verpackung: 20 g."
+        "tr": "Büryan tarzı et yemekleri için hazırlanmış baharat karışımı. Et yemeklerinin marinasyonunda ve pişirilmesinde kullanılır. 20 g ve 70 g ambalaj seçenekleri.",
+        "en": "A spice blend prepared for büryan-style meat dishes. Used in marinating and cooking meat dishes. Available in 20 g and 70 g.",
+        "es": "Mezcla de especias preparada para platos de carne al estilo büryan. Se utiliza en el adobo y la cocción de platos de carne. Envases de 20 g y 70 g.",
+        "fr": "Mélange d'épices préparé pour les plats de viande façon büryan. Utilisé pour la marinade et la cuisson des plats de viande. Conditionnements : 20 g et 70 g.",
+        "de": "Gewürzmischung für Fleischgerichte nach Büryan-Art. Zum Marinieren und Garen von Fleischgerichten. Verpackungen: 20 g und 70 g."
       },
       "path": "buryan-baharati",
-      "icon": "restaurant",
-      "category": "c5baharat20",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 25,
-      "img": "index.webp"
-    },
-    {
-      "id": "7xe95hbovx",
-      "name": {
-        "tr": "Döner Baharatı",
-        "en": "Döner Spice Mix",
-        "es": "Especias para döner",
-        "fr": "Épices pour döner",
-        "de": "Döner-Gewürz"
-      },
-      "description": {
-        "tr": "Döner ve et ürünleri için hazırlanmış baharat karışımı. Döner marinasyonunda ve ızgara et hazırlıklarında kullanılır. 20 g ambalaj.",
-        "en": "A spice blend prepared for döner and meat products. Used in marinating döner and in grilled meat preparations. 20 g packaging.",
-        "es": "Mezcla de especias preparada para döner y productos cárnicos. Se utiliza en el adobo del döner y en preparaciones de carne a la parrilla. Envase de 20 g.",
-        "fr": "Mélange d'épices préparé pour le döner et les produits à base de viande. Utilisé pour la marinade du döner et les préparations de viande grillée. Conditionnement : 20 g.",
-        "de": "Gewürzmischung für Döner und Fleischprodukte. Für die Döner-Marinade und für gegrillte Fleischzubereitungen. Verpackung: 20 g."
-      },
-      "path": "doner-baharati",
-      "icon": "restaurant",
-      "category": "c5baharat20",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 26,
-      "img": "index.webp"
-    },
-    {
-      "id": "wzyr1j5efq",
-      "name": {
-        "tr": "Et Kebap Baharatı",
-        "en": "Meat Kebab Spice Mix",
-        "es": "Especias para kebab de carne",
-        "fr": "Épices pour kebab de viande",
-        "de": "Fleisch-Kebab-Gewürz"
-      },
-      "description": {
-        "tr": "Et kebapları için hazırlanmış baharat karışımı. Kıyma ve kuşbaşı et marinasyonunda, ızgara ve tava kebaplarında kullanılır. 20 g ambalaj.",
-        "en": "A spice blend prepared for meat kebabs. Used in marinating ground and cubed meat, and in grilled and pan-cooked kebabs. 20 g packaging.",
-        "es": "Mezcla de especias preparada para kebabs de carne. Se utiliza en el adobo de carne picada y de carne en cubos, y en kebabs a la parrilla y a la sartén. Envase de 20 g.",
-        "fr": "Mélange d'épices préparé pour les kebabs de viande. Utilisé pour la marinade de viande hachée et de viande en cubes, ainsi que pour les kebabs grillés et à la poêle. Conditionnement : 20 g.",
-        "de": "Gewürzmischung für Fleisch-Kebabs. Zum Marinieren von Hackfleisch und Würfelfleisch sowie für Kebabs vom Grill und aus der Pfanne. Verpackung: 20 g."
-      },
-      "path": "et-kebap-baharati",
-      "icon": "restaurant",
-      "category": "c5baharat20",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 27,
-      "img": "index.webp"
-    },
-    {
-      "id": "mo86xkn3gh",
-      "name": {
-        "tr": "HaşHaş",
-        "en": "Poppy Seeds",
-        "es": "Semillas de amapola",
-        "fr": "Graines de pavot",
-        "de": "Mohn"
-      },
-      "description": {
-        "tr": "Haşhaş tohumu. Çörek, poğaça, kek ve börek hamurlarında, tatlı ve unlu mamullerin üzerinde kullanılır. 20 g ambalaj.",
-        "en": "Poppy seeds. Used in corek, pogaca, cake, and borek doughs, and on top of desserts and baked goods. 20 g packaging.",
-        "es": "Semillas de amapola. Se utilizan en masas de bollos, bollos salados, bizcochos y borek, y sobre postres y productos de panadería. Envase de 20 g.",
-        "fr": "Graines de pavot. Utilisées dans les pâtes à corek, à pogaca, à gâteau et à borek, et en garniture des pâtisseries sucrées et des produits de boulangerie. Conditionnement : 20 g.",
-        "de": "Mohnsamen. Für Corek-, Pogaca-, Kuchen- und Borek-Teige sowie als Topping auf Desserts und Backwaren. Verpackung: 20 g."
-      },
-      "path": "hashas",
-      "icon": "restaurant",
-      "category": "c5baharat20",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 28,
-      "img": "index.webp"
-    },
-    {
-      "id": "zyo3vrag23",
-      "name": {
-        "tr": "Hindistan Cevizi",
-        "en": "Coconut",
-        "es": "Coco",
-        "fr": "Noix de coco",
-        "de": "Kokosnuss"
-      },
-      "description": {
-        "tr": "Hindistan cevizi ürünü. Kek, kurabiye, tatlı ve pasta hazırlıklarında kullanılır. 20 g ambalaj.",
-        "en": "A coconut product. Used in cake, cookie, dessert, and pastry preparations. 20 g packaging.",
-        "es": "Producto de coco. Se utiliza en la preparación de bizcochos, galletas, postres y pasteles. Envase de 20 g.",
-        "fr": "Produit à base de noix de coco. Utilisé dans les préparations de gâteaux, de biscuits, de desserts et de pâtisserie. Conditionnement : 20 g.",
-        "de": "Kokosnussprodukt. Für Kuchen, Kekse, Desserts und Tortenzubereitungen. Verpackung: 20 g."
-      },
-      "path": "hindistan-cevizi",
       "icon": "restaurant",
       "category": "c5baharat20",
       "status": "play",
@@ -841,22 +841,22 @@
       "img": "index.webp"
     },
     {
-      "id": "9p8w9m9nqz",
+      "id": "7xe95hbovx",
       "name": {
-        "tr": "Karabiber Öğütülmüş",
-        "en": "Ground Black Pepper",
-        "es": "Pimienta negra molida",
-        "fr": "Poivre noir moulu",
-        "de": "Schwarzer Pfeffer, gemahlen"
+        "tr": "Döner Baharatı",
+        "en": "Döner Spice Mix",
+        "es": "Especias para döner",
+        "fr": "Épices pour döner",
+        "de": "Döner-Gewürz"
       },
       "description": {
-        "tr": "Öğütülmüş karabiber. Çorba, et, tavuk, salata ve hemen her yemekte sofra baharatı olarak kullanılır. 20 g ambalaj.",
-        "en": "Ground black pepper. Used as a table spice in soups, meat, chicken, salads, and almost every dish. 20 g packaging.",
-        "es": "Pimienta negra molida. Se utiliza como especia de mesa en sopas, carnes, pollo, ensaladas y prácticamente cualquier plato. Envase de 20 g.",
-        "fr": "Poivre noir moulu. Utilisé comme épice de table dans les soupes, la viande, le poulet, les salades et presque tous les plats. Conditionnement : 20 g.",
-        "de": "Gemahlener schwarzer Pfeffer. Als Tischgewürz in Suppen, Fleisch, Hähnchen, Salaten und nahezu jedem Gericht. Verpackung: 20 g."
+        "tr": "Döner ve et ürünleri için hazırlanmış baharat karışımı. Döner marinasyonunda ve ızgara et hazırlıklarında kullanılır. 10 g, 70 g, 200 g, 400 g, 800 g ve 5 kg ambalaj seçenekleri.",
+        "en": "A spice blend prepared for döner and meat products. Used in marinating döner and in grilled meat preparations. Available in 10 g, 70 g, 200 g, 400 g, 800 g and 5 kg.",
+        "es": "Mezcla de especias preparada para döner y productos cárnicos. Se utiliza en el adobo del döner y en preparaciones de carne a la parrilla. Envases de 10 g, 70 g, 200 g, 400 g, 800 g y 5 kg.",
+        "fr": "Mélange d'épices préparé pour le döner et les produits à base de viande. Utilisé pour la marinade du döner et les préparations de viande grillée. Conditionnements : 10 g, 70 g, 200 g, 400 g, 800 g et 5 kg.",
+        "de": "Gewürzmischung für Döner und Fleischprodukte. Für die Döner-Marinade und für gegrillte Fleischzubereitungen. Verpackungen: 10 g, 70 g, 200 g, 400 g, 800 g und 5 kg."
       },
-      "path": "karabiber-ogutulmus",
+      "path": "doner-baharati",
       "icon": "restaurant",
       "category": "c5baharat20",
       "status": "play",
@@ -869,6 +869,118 @@
       "img": "index.webp"
     },
     {
+      "id": "wzyr1j5efq",
+      "name": {
+        "tr": "Et Kebap Baharatı",
+        "en": "Meat Kebab Spice Mix",
+        "es": "Especias para kebab de carne",
+        "fr": "Épices pour kebab de viande",
+        "de": "Fleisch-Kebab-Gewürz"
+      },
+      "description": {
+        "tr": "Et kebapları için hazırlanmış baharat karışımı. Kıyma ve kuşbaşı et marinasyonunda, ızgara ve tava kebaplarında kullanılır. 20 g ve 70 g ambalaj seçenekleri.",
+        "en": "A spice blend prepared for meat kebabs. Used in marinating ground and cubed meat, and in grilled and pan-cooked kebabs. Available in 20 g and 70 g.",
+        "es": "Mezcla de especias preparada para kebabs de carne. Se utiliza en el adobo de carne picada y de carne en cubos, y en kebabs a la parrilla y a la sartén. Envases de 20 g y 70 g.",
+        "fr": "Mélange d'épices préparé pour les kebabs de viande. Utilisé pour la marinade de viande hachée et de viande en cubes, ainsi que pour les kebabs grillés et à la poêle. Conditionnements : 20 g et 70 g.",
+        "de": "Gewürzmischung für Fleisch-Kebabs. Zum Marinieren von Hackfleisch und Würfelfleisch sowie für Kebabs vom Grill und aus der Pfanne. Verpackungen: 20 g und 70 g."
+      },
+      "path": "et-kebap-baharati",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 31,
+      "img": "index.webp"
+    },
+    {
+      "id": "mo86xkn3gh",
+      "name": {
+        "tr": "HaşHaş",
+        "en": "Poppy Seeds",
+        "es": "Semillas de amapola",
+        "fr": "Graines de pavot",
+        "de": "Mohn"
+      },
+      "description": {
+        "tr": "Haşhaş tohumu. Çörek, poğaça, kek ve börek hamurlarında, tatlı ve unlu mamullerin üzerinde kullanılır. 15 g, 70 g, 200 g, 400 g, 800 g ve 5 kg ambalaj seçenekleri.",
+        "en": "Poppy seeds. Used in corek, pogaca, cake, and borek doughs, and on top of desserts and baked goods. Available in 15 g, 70 g, 200 g, 400 g, 800 g and 5 kg.",
+        "es": "Semillas de amapola. Se utilizan en masas de bollos, bollos salados, bizcochos y borek, y sobre postres y productos de panadería. Envases de 15 g, 70 g, 200 g, 400 g, 800 g y 5 kg.",
+        "fr": "Graines de pavot. Utilisées dans les pâtes à corek, à pogaca, à gâteau et à borek, et en garniture des pâtisseries sucrées et des produits de boulangerie. Conditionnements : 15 g, 70 g, 200 g, 400 g, 800 g et 5 kg.",
+        "de": "Mohnsamen. Für Corek-, Pogaca-, Kuchen- und Borek-Teige sowie als Topping auf Desserts und Backwaren. Verpackungen: 15 g, 70 g, 200 g, 400 g, 800 g und 5 kg."
+      },
+      "path": "hashas",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 32,
+      "img": "index.webp"
+    },
+    {
+      "id": "zyo3vrag23",
+      "name": {
+        "tr": "Hindistan Cevizi",
+        "en": "Coconut",
+        "es": "Coco",
+        "fr": "Noix de coco",
+        "de": "Kokosnuss"
+      },
+      "description": {
+        "tr": "Hindistan cevizi ürünü. Kek, kurabiye, tatlı ve pasta hazırlıklarında kullanılır. 10 g, 50 g, 80 g, 350 g, 700 g ve 3500 g ambalaj seçenekleri.",
+        "en": "A coconut product. Used in cake, cookie, dessert, and pastry preparations. Available in 10 g, 50 g, 80 g, 350 g, 700 g and 3500 g.",
+        "es": "Producto de coco. Se utiliza en la preparación de bizcochos, galletas, postres y pasteles. Envases de 10 g, 50 g, 80 g, 350 g, 700 g y 3500 g.",
+        "fr": "Produit à base de noix de coco. Utilisé dans les préparations de gâteaux, de biscuits, de desserts et de pâtisserie. Conditionnements : 10 g, 50 g, 80 g, 350 g, 700 g et 3500 g.",
+        "de": "Kokosnussprodukt. Für Kuchen, Kekse, Desserts und Tortenzubereitungen. Verpackungen: 10 g, 50 g, 80 g, 350 g, 700 g und 3500 g."
+      },
+      "path": "hindistan-cevizi",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 33,
+      "img": "index.webp"
+    },
+    {
+      "id": "9p8w9m9nqz",
+      "name": {
+        "tr": "Karabiber Öğütülmüş",
+        "en": "Ground Black Pepper",
+        "es": "Pimienta negra molida",
+        "fr": "Poivre noir moulu",
+        "de": "Schwarzer Pfeffer, gemahlen"
+      },
+      "description": {
+        "tr": "Öğütülmüş karabiber. Çorba, et, tavuk, salata ve hemen her yemekte sofra baharatı olarak kullanılır. 12 g, 70 g, 200 g, 400 g, 800 g ve 5 kg ambalaj seçenekleri.",
+        "en": "Ground black pepper. Used as a table spice in soups, meat, chicken, salads, and almost every dish. Available in 12 g, 70 g, 200 g, 400 g, 800 g and 5 kg.",
+        "es": "Pimienta negra molida. Se utiliza como especia de mesa en sopas, carnes, pollo, ensaladas y prácticamente cualquier plato. Envases de 12 g, 70 g, 200 g, 400 g, 800 g y 5 kg.",
+        "fr": "Poivre noir moulu. Utilisé comme épice de table dans les soupes, la viande, le poulet, les salades et presque tous les plats. Conditionnements : 12 g, 70 g, 200 g, 400 g, 800 g et 5 kg.",
+        "de": "Gemahlener schwarzer Pfeffer. Als Tischgewürz in Suppen, Fleisch, Hähnchen, Salaten und nahezu jedem Gericht. Verpackungen: 12 g, 70 g, 200 g, 400 g, 800 g und 5 kg."
+      },
+      "path": "karabiber-ogutulmus",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 34,
+      "img": "index.webp"
+    },
+    {
       "id": "q5dsfvmsr3",
       "name": {
         "tr": "Karanfil",
@@ -878,11 +990,11 @@
         "de": "Gewürznelken"
       },
       "description": {
-        "tr": "Kurutulmuş karanfil tomurcuğu. Pilav, etli yemekler, kompostolar ve tatlı hazırlıklarında kullanılır. 20 g ambalaj.",
-        "en": "Dried clove buds. Used in pilaf, meat dishes, compotes, and dessert preparations. 20 g packaging.",
-        "es": "Botón de clavo desecado. Se utiliza en arroces, platos de carne, compotas y preparaciones de postres. Envase de 20 g.",
-        "fr": "Bouton de clou de girofle séché. Utilisé dans le pilaf, les plats de viande, les compotes et les préparations de desserts. Conditionnement : 20 g.",
-        "de": "Getrocknete Gewürznelkenknospen. Für Reis, Fleischgerichte, Kompotte und Dessertzubereitungen. Verpackung: 20 g."
+        "tr": "Kurutulmuş karanfil tomurcuğu. Pilav, etli yemekler, kompostolar ve tatlı hazırlıklarında kullanılır. 20 g, 40 g, 150 g, 250 g, 500 g ve 5 kg ambalaj seçenekleri.",
+        "en": "Dried clove buds. Used in pilaf, meat dishes, compotes, and dessert preparations. Available in 20 g, 40 g, 150 g, 250 g, 500 g and 5 kg.",
+        "es": "Botón de clavo desecado. Se utiliza en arroces, platos de carne, compotas y preparaciones de postres. Envases de 20 g, 40 g, 150 g, 250 g, 500 g y 5 kg.",
+        "fr": "Bouton de clou de girofle séché. Utilisé dans le pilaf, les plats de viande, les compotes et les préparations de desserts. Conditionnements : 20 g, 40 g, 150 g, 250 g, 500 g et 5 kg.",
+        "de": "Getrocknete Gewürznelkenknospen. Für Reis, Fleischgerichte, Kompotte und Dessertzubereitungen. Verpackungen: 20 g, 40 g, 150 g, 250 g, 500 g und 5 kg."
       },
       "path": "karanfil",
       "icon": "restaurant",
@@ -893,7 +1005,7 @@
         "body": [],
         "footer": []
       },
-      "index": 31,
+      "index": 35,
       "img": "index.webp"
     },
     {
@@ -921,7 +1033,7 @@
         "body": [],
         "footer": []
       },
-      "index": 32,
+      "index": 36,
       "img": "index.webp"
     },
     {
@@ -934,125 +1046,13 @@
         "de": "Kebse-Gewürz"
       },
       "description": {
-        "tr": "Pilav ve etli yemekler için hazırlanmış baharat karışımı. Pilav, et ve tavuk yemeklerinde kullanılır. 20 g ambalaj.",
-        "en": "A spice blend prepared for pilaf and meat dishes. Used in pilaf, meat, and chicken dishes. 20 g packaging.",
-        "es": "Mezcla de especias preparada para arroces y platos de carne. Se utiliza en platos de arroz, carne y pollo. Envase de 20 g.",
-        "fr": "Mélange d'épices préparé pour le pilaf et les plats de viande. Utilisé dans les plats de riz, de viande et de poulet. Conditionnement : 20 g.",
-        "de": "Gewürzmischung für Reis und Fleischgerichte. Für Reis-, Fleisch- und Hähnchengerichte. Verpackung: 20 g."
+        "tr": "Pilav ve etli yemekler için hazırlanmış baharat karışımı. Pilav, et ve tavuk yemeklerinde kullanılır. 20 g ve 70 g ambalaj seçenekleri.",
+        "en": "A spice blend prepared for pilaf and meat dishes. Used in pilaf, meat, and chicken dishes. Available in 20 g and 70 g.",
+        "es": "Mezcla de especias preparada para arroces y platos de carne. Se utiliza en platos de arroz, carne y pollo. Envases de 20 g y 70 g.",
+        "fr": "Mélange d'épices préparé pour le pilaf et les plats de viande. Utilisé dans les plats de riz, de viande et de poulet. Conditionnements : 20 g et 70 g.",
+        "de": "Gewürzmischung für Reis und Fleischgerichte. Für Reis-, Fleisch- und Hähnchengerichte. Verpackungen: 20 g und 70 g."
       },
       "path": "kebze-baharati",
-      "icon": "restaurant",
-      "category": "c5baharat20",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 33,
-      "img": "index.webp"
-    },
-    {
-      "id": "1j86gw5gjp",
-      "name": {
-        "tr": "Kekik",
-        "en": "Thyme",
-        "es": "Orégano",
-        "fr": "Thym",
-        "de": "Oregano"
-      },
-      "description": {
-        "tr": "Kurutulmuş kekik. Et ve tavuk marinasyonunda, salatalarda, çorbalarda, pizza ve peynirli hamur işlerinde kullanılır. 20 g ambalaj.",
-        "en": "Dried thyme. Used in marinating meat and chicken, and in salads, soups, pizza, and cheese pastries. 20 g packaging.",
-        "es": "Orégano seco. Se utiliza en el adobo de carne y pollo, ensaladas, sopas, pizzas y masas con queso. Envase de 20 g.",
-        "fr": "Thym séché. Utilisé dans la marinade de la viande et du poulet, les salades, les soupes, la pizza et les pâtisseries au fromage. Conditionnement : 20 g.",
-        "de": "Getrockneter Oregano. Für die Marinade von Fleisch und Hähnchen, Salate, Suppen, Pizza und Käsegebäck. Verpackung: 20 g."
-      },
-      "path": "kekik",
-      "icon": "restaurant",
-      "category": "c5baharat20",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 34,
-      "img": "index.webp"
-    },
-    {
-      "id": "lie9kh44oh",
-      "name": {
-        "tr": "Kimyon Toz",
-        "en": "Ground Cumin",
-        "es": "Comino en polvo",
-        "fr": "Cumin moulu",
-        "de": "Kreuzkümmel, gemahlen"
-      },
-      "description": {
-        "tr": "Öğütülmüş kimyon. Köfte, kebap, mercimek çorbası, kuru baklagil ve etli yemeklerde kullanılır. 20 g ambalaj.",
-        "en": "Ground cumin. Used in meatballs, kebabs, lentil soup, dried legumes, and meat dishes. 20 g packaging.",
-        "es": "Comino molido. Se utiliza en albóndigas, kebabs, sopa de lentejas, legumbres secas y platos de carne. Envase de 20 g.",
-        "fr": "Cumin moulu. Utilisé dans les boulettes de viande, les kebabs, la soupe de lentilles, les légumineuses sèches et les plats de viande. Conditionnement : 20 g.",
-        "de": "Gemahlener Kreuzkümmel. Für Köfte, Kebab, Linsensuppe, getrocknete Hülsenfrüchte und Fleischgerichte. Verpackung: 20 g."
-      },
-      "path": "kimyon-toz",
-      "icon": "restaurant",
-      "category": "c5baharat20",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 35,
-      "img": "index.webp"
-    },
-    {
-      "id": "wa8khd4oki",
-      "name": {
-        "tr": "Kişniş",
-        "en": "Coriander",
-        "es": "Cilantro (semilla)",
-        "fr": "Coriandre",
-        "de": "Koriander"
-      },
-      "description": {
-        "tr": "Kişniş tohumundan elde edilen baharat. Et, sucuk ve sebze yemeklerinde, turşu ve salamura hazırlıklarında kullanılır. 20 g ambalaj.",
-        "en": "A spice obtained from coriander seeds. Used in meat, sucuk, and vegetable dishes, and in pickle and brine preparations. 20 g packaging.",
-        "es": "Especia obtenida de la semilla de cilantro. Se utiliza en platos de carne, sucuk y verduras, y en la preparación de encurtidos y salmueras. Envase de 20 g.",
-        "fr": "Épice obtenue à partir des graines de coriandre. Utilisée dans les plats de viande, de soudjouk et de légumes, ainsi que dans les préparations de pickles et de saumures. Conditionnement : 20 g.",
-        "de": "Aus Koriandersamen gewonnenes Gewürz. Für Fleisch, Sucuk und Gemüsegerichte sowie für Pickles und Salzlake. Verpackung: 20 g."
-      },
-      "path": "kisnis",
-      "icon": "restaurant",
-      "category": "c5baharat20",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 36,
-      "img": "index.webp"
-    },
-    {
-      "id": "z754jel3n4",
-      "name": {
-        "tr": "Köfte Baharatı (Beş Türlü)",
-        "en": "Meatball Spice Mix (Five-Spice Blend)",
-        "es": "Especias para köfte (Cinco especias)",
-        "fr": "Épices pour köfte (cinq épices)",
-        "de": "Köfte-Gewürz (Fünf-Gewürze-Mischung)"
-      },
-      "description": {
-        "tr": "Köfte için hazırlanmış beş çeşit baharat karışımı. Kıyma ve köfte harcına karıştırılarak kullanılır. 20 g ambalaj.",
-        "en": "A blend of five spices prepared for meatballs. Used by mixing into ground meat and meatball mixture. 20 g packaging.",
-        "es": "Mezcla de cinco tipos de especias preparada para köfte. Se utiliza mezclada con la carne picada y la masa de köfte. Envase de 20 g.",
-        "fr": "Mélange de cinq épices préparé pour les boulettes de viande (köfte). S'incorpore à la viande hachée et à la farce des boulettes. Conditionnement : 20 g.",
-        "de": "Mischung aus fünf Gewürzen für Köfte. Wird unter Hackfleisch bzw. die Köfte-Masse gemischt. Verpackung: 20 g."
-      },
-      "path": "kofte-baharati-bes-turlu",
       "icon": "restaurant",
       "category": "c5baharat20",
       "status": "play",
@@ -1065,22 +1065,22 @@
       "img": "index.webp"
     },
     {
-      "id": "ksauyquf9q",
+      "id": "1j86gw5gjp",
       "name": {
-        "tr": "Köri",
-        "en": "Curry",
-        "es": "Curry",
-        "fr": "Curry",
-        "de": "Curry"
+        "tr": "Kekik",
+        "en": "Thyme",
+        "es": "Orégano",
+        "fr": "Thym",
+        "de": "Oregano"
       },
       "description": {
-        "tr": "Köri baharat karışımı. Tavuk, pilav, sebze ve çorba yemeklerine sarı renk ve baharatlı bir tat verir. 20 g ambalaj.",
-        "en": "A curry spice blend. Gives a yellow color and a spicy flavor to chicken, rice, vegetable, and soup dishes. 20 g packaging.",
-        "es": "Mezcla de especias de curry. Da un color amarillo y un sabor especiado a platos de pollo, arroz, verduras y sopas. Envase de 20 g.",
-        "fr": "Mélange d'épices au curry. Donne une couleur jaune et un goût épicé aux plats de poulet, de riz, de légumes et aux soupes. Conditionnement : 20 g.",
-        "de": "Currygewürzmischung. Verleiht Hähnchen-, Reis-, Gemüse- und Suppengerichten eine gelbe Farbe und einen würzigen Geschmack. Verpackung: 20 g."
+        "tr": "Kurutulmuş kekik. Et ve tavuk marinasyonunda, salatalarda, çorbalarda, pizza ve peynirli hamur işlerinde kullanılır. 10 g, 20 g, 80 g, 100 g, 200 g ve 1500 g ambalaj seçenekleri.",
+        "en": "Dried thyme. Used in marinating meat and chicken, and in salads, soups, pizza, and cheese pastries. Available in 10 g, 20 g, 80 g, 100 g, 200 g and 1500 g.",
+        "es": "Orégano seco. Se utiliza en el adobo de carne y pollo, ensaladas, sopas, pizzas y masas con queso. Envases de 10 g, 20 g, 80 g, 100 g, 200 g y 1500 g.",
+        "fr": "Thym séché. Utilisé dans la marinade de la viande et du poulet, les salades, les soupes, la pizza et les pâtisseries au fromage. Conditionnements : 10 g, 20 g, 80 g, 100 g, 200 g et 1500 g.",
+        "de": "Getrockneter Oregano. Für die Marinade von Fleisch und Hähnchen, Salate, Suppen, Pizza und Käsegebäck. Verpackungen: 10 g, 20 g, 80 g, 100 g, 200 g und 1500 g."
       },
-      "path": "kori",
+      "path": "kekik",
       "icon": "restaurant",
       "category": "c5baharat20",
       "status": "play",
@@ -1093,22 +1093,22 @@
       "img": "index.webp"
     },
     {
-      "id": "60ldq5d2ii",
+      "id": "lie9kh44oh",
       "name": {
-        "tr": "Kırmızı Acı Pul Biber",
-        "en": "Red Hot Chili Flakes",
-        "es": "Hojuelas de chile rojo picante",
-        "fr": "Piment rouge fort en flocons",
-        "de": "Chiliflocken rot, scharf"
+        "tr": "Kimyon Toz",
+        "en": "Ground Cumin",
+        "es": "Comino en polvo",
+        "fr": "Cumin moulu",
+        "de": "Kreuzkümmel, gemahlen"
       },
       "description": {
-        "tr": "Acı kırmızı biberden elde edilen pul biber. Kebap, çorba, yemek ve mezelere acı ve renk katar. 20 g ambalaj.",
-        "en": "Chili flakes made from hot red pepper. Adds heat and color to kebabs, soups, dishes, and mezes. 20 g packaging.",
-        "es": "Hojuelas de chile obtenidas de chile rojo picante. Aportan picante y color a kebabs, sopas, platos y mezes. Envase de 20 g.",
-        "fr": "Piment en flocons obtenu à partir de piment rouge fort. Apporte piquant et couleur aux kebabs, aux soupes, aux plats et aux mezzés. Conditionnement : 20 g.",
-        "de": "Chiliflocken aus scharfem rotem Chili. Verleiht Kebab, Suppen, Gerichten und Meze Schärfe und Farbe. Verpackung: 20 g."
+        "tr": "Öğütülmüş kimyon. Köfte, kebap, mercimek çorbası, kuru baklagil ve etli yemeklerde kullanılır. 20 g, 50 g, 160 g, 400 g, 800 g ve 5 kg ambalaj seçenekleri.",
+        "en": "Ground cumin. Used in meatballs, kebabs, lentil soup, dried legumes, and meat dishes. Available in 20 g, 50 g, 160 g, 400 g, 800 g and 5 kg.",
+        "es": "Comino molido. Se utiliza en albóndigas, kebabs, sopa de lentejas, legumbres secas y platos de carne. Envases de 20 g, 50 g, 160 g, 400 g, 800 g y 5 kg.",
+        "fr": "Cumin moulu. Utilisé dans les boulettes de viande, les kebabs, la soupe de lentilles, les légumineuses sèches et les plats de viande. Conditionnements : 20 g, 50 g, 160 g, 400 g, 800 g et 5 kg.",
+        "de": "Gemahlener Kreuzkümmel. Für Köfte, Kebab, Linsensuppe, getrocknete Hülsenfrüchte und Fleischgerichte. Verpackungen: 20 g, 50 g, 160 g, 400 g, 800 g und 5 kg."
       },
-      "path": "kirmizi-aci-pul-biber",
+      "path": "kimyon-toz",
       "icon": "restaurant",
       "category": "c5baharat20",
       "status": "play",
@@ -1121,22 +1121,22 @@
       "img": "index.webp"
     },
     {
-      "id": "fbqqqdv9fh",
+      "id": "wa8khd4oki",
       "name": {
-        "tr": "Kırmızı Tatlı Toz Biber",
-        "en": "Sweet Red Pepper Powder",
-        "es": "Pimentón rojo dulce",
-        "fr": "Piment rouge doux en poudre",
-        "de": "Paprikapulver rot, edelsüß"
+        "tr": "Kişniş",
+        "en": "Coriander",
+        "es": "Cilantro (semilla)",
+        "fr": "Coriandre",
+        "de": "Koriander"
       },
       "description": {
-        "tr": "Tatlı kırmızı biberden elde edilen toz biber. Yemeklere acısız, hafif tatlı bir tat ve kırmızı renk katar. 20 g ambalaj.",
-        "en": "Pepper powder made from sweet red pepper. Adds a mild, sweet flavor without heat, and a red color, to dishes. 20 g packaging.",
-        "es": "Pimiento molido obtenido de pimiento rojo dulce. Aporta a los platos un sabor ligeramente dulce, sin picante, y color rojo. Envase de 20 g.",
-        "fr": "Piment en poudre obtenu à partir de piment rouge doux. Apporte aux plats un goût légèrement sucré, sans piquant, et une couleur rouge. Conditionnement : 20 g.",
-        "de": "Paprikapulver aus süßer roter Paprika. Verleiht Gerichten einen milden, leicht süßen Geschmack ohne Schärfe und eine rote Farbe. Verpackung: 20 g."
+        "tr": "Kişniş tohumundan elde edilen baharat. Et, sucuk ve sebze yemeklerinde, turşu ve salamura hazırlıklarında kullanılır. 20 g, 50 g, 200 g, 400 g, 800 g ve 5 kg ambalaj seçenekleri.",
+        "en": "A spice obtained from coriander seeds. Used in meat, sucuk, and vegetable dishes, and in pickle and brine preparations. Available in 20 g, 50 g, 200 g, 400 g, 800 g and 5 kg.",
+        "es": "Especia obtenida de la semilla de cilantro. Se utiliza en platos de carne, sucuk y verduras, y en la preparación de encurtidos y salmueras. Envases de 20 g, 50 g, 200 g, 400 g, 800 g y 5 kg.",
+        "fr": "Épice obtenue à partir des graines de coriandre. Utilisée dans les plats de viande, de soudjouk et de légumes, ainsi que dans les préparations de pickles et de saumures. Conditionnements : 20 g, 50 g, 200 g, 400 g, 800 g et 5 kg.",
+        "de": "Aus Koriandersamen gewonnenes Gewürz. Für Fleisch, Sucuk und Gemüsegerichte sowie für Pickles und Salzlake. Verpackungen: 20 g, 50 g, 200 g, 400 g, 800 g und 5 kg."
       },
-      "path": "kirmizi-tatli-toz-biber",
+      "path": "kisnis",
       "icon": "restaurant",
       "category": "c5baharat20",
       "status": "play",
@@ -1149,22 +1149,22 @@
       "img": "index.webp"
     },
     {
-      "id": "zsql24klzw",
+      "id": "z754jel3n4",
       "name": {
-        "tr": "Limon Tuzu (Toz)",
-        "en": "Lemon Salt (Powder)",
-        "es": "Sal de limón (polvo)",
-        "fr": "Sel de citron (en poudre)",
-        "de": "Zitronensäure (Pulver)"
+        "tr": "Köfte Baharatı (Beş Türlü)",
+        "en": "Meatball Spice Mix (Five-Spice Blend)",
+        "es": "Especias para köfte (Cinco especias)",
+        "fr": "Épices pour köfte (cinq épices)",
+        "de": "Köfte-Gewürz (Fünf-Gewürze-Mischung)"
       },
       "description": {
-        "tr": "Limon ekşisi tadı veren toz limon tuzu. Salata, turşu, çorba ve yemeklerde taze limon yerine pratik bir ekşilik kaynağı olarak kullanılır. 20 g ambalaj.",
-        "en": "Powdered lemon salt that gives a lemony sour taste. Used in salads, pickles, soups, and dishes as a practical source of sourness in place of fresh lemon. 20 g packaging.",
-        "es": "Sal de limón en polvo que aporta el sabor ácido del limón. Se utiliza como una fuente práctica de acidez, en lugar del limón fresco, en ensaladas, encurtidos, sopas y platos. Envase de 20 g.",
-        "fr": "Sel de citron en poudre qui donne le goût acidulé du citron. Utilisé comme source d'acidité pratique, à la place du citron frais, dans les salades, les pickles, les soupes et les plats. Conditionnement : 20 g.",
-        "de": "Zitronensäure in Pulverform mit säuerlichem Zitronengeschmack. Als praktische Säurequelle anstelle von frischer Zitrone für Salate, Pickles, Suppen und Gerichte. Verpackung: 20 g."
+        "tr": "Köfte için hazırlanmış beş çeşit baharat karışımı. Kıyma ve köfte harcına karıştırılarak kullanılır. 20 g, 70 g, 160 g, 400 g, 800 g ve 5 kg ambalaj seçenekleri.",
+        "en": "A blend of five spices prepared for meatballs. Used by mixing into ground meat and meatball mixture. Available in 20 g, 70 g, 160 g, 400 g, 800 g and 5 kg.",
+        "es": "Mezcla de cinco tipos de especias preparada para köfte. Se utiliza mezclada con la carne picada y la masa de köfte. Envases de 20 g, 70 g, 160 g, 400 g, 800 g y 5 kg.",
+        "fr": "Mélange de cinq épices préparé pour les boulettes de viande (köfte). S'incorpore à la viande hachée et à la farce des boulettes. Conditionnements : 20 g, 70 g, 160 g, 400 g, 800 g et 5 kg.",
+        "de": "Mischung aus fünf Gewürzen für Köfte. Wird unter Hackfleisch bzw. die Köfte-Masse gemischt. Verpackungen: 20 g, 70 g, 160 g, 400 g, 800 g und 5 kg."
       },
-      "path": "limon-tuzu-toz",
+      "path": "kofte-baharati-bes-turlu",
       "icon": "restaurant",
       "category": "c5baharat20",
       "status": "play",
@@ -1177,22 +1177,22 @@
       "img": "index.webp"
     },
     {
-      "id": "sq09o904yv",
+      "id": "x860eutkpe",
       "name": {
-        "tr": "Limon Tuzu (İri Tane)",
-        "en": "Lemon Salt (Coarse Grain)",
-        "es": "Sal de limón (grano grueso)",
-        "fr": "Sel de citron (gros grains)",
-        "de": "Zitronensäure (grobkörnig)"
+        "tr": "Et / Köfte Baharatı",
+        "en": "Meat & Meatball Seasoning",
+        "es": "Especias para carne y albóndigas",
+        "fr": "Épices pour viande et boulettes",
+        "de": "Fleisch- und Frikadellengewürz"
       },
       "description": {
-        "tr": "Limon ekşisi tadı veren iri taneli limon tuzu. Salata, turşu, çorba ve yemeklerde taze limon yerine pratik bir ekşilik kaynağı olarak kullanılır. 20 g ambalaj.",
-        "en": "Coarse-grain lemon salt that gives a lemony sour taste. Used in salads, pickles, soups, and dishes as a practical source of sourness in place of fresh lemon. 20 g packaging.",
-        "es": "Sal de limón de grano grueso que aporta el sabor ácido del limón. Se utiliza como una fuente práctica de acidez, en lugar del limón fresco, en ensaladas, encurtidos, sopas y platos. Envase de 20 g.",
-        "fr": "Sel de citron en gros grains qui donne le goût acidulé du citron. Utilisé comme source d'acidité pratique, à la place du citron frais, dans les salades, les pickles, les soupes et les plats. Conditionnement : 20 g.",
-        "de": "Grobkörnige Zitronensäure mit säuerlichem Zitronengeschmack. Als praktische Säurequelle anstelle von frischer Zitrone für Salate, Pickles, Suppen und Gerichte. Verpackung: 20 g."
+        "tr": "Et ve köfte yemekleri için hazırlanmış dengeli baharat karışımı. Kıyma, köfte, ızgara ve fırın etlerine lezzet verir. 10 g, 70 g, 200 g, 400 g, 800 g ve 5 kg ambalaj seçenekleri.",
+        "en": "A balanced spice blend prepared for meat and meatball dishes. Flavours minced meat, meatballs, grilled and roasted meats. Available in 10 g, 70 g, 200 g, 400 g, 800 g and 5 kg.",
+        "es": "Mezcla equilibrada de especias para platos de carne y albóndigas. Da sabor a la carne picada, albóndigas, carnes a la parrilla y al horno. Envases de 10 g, 70 g, 200 g, 400 g, 800 g y 5 kg.",
+        "fr": "Mélange d'épices équilibré pour les plats de viande et de boulettes. Parfume la viande hachée, les boulettes, les grillades et les rôtis. Conditionnements : 10 g, 70 g, 200 g, 400 g, 800 g et 5 kg.",
+        "de": "Ausgewogene Gewürzmischung für Fleisch- und Frikadellengerichte. Würzt Hackfleisch, Frikadellen, Gegrilltes und Ofenfleisch. Verpackungen: 10 g, 70 g, 200 g, 400 g, 800 g und 5 kg."
       },
-      "path": "limon-tuzu-iri-tane",
+      "path": "et-kofte-baharati",
       "icon": "restaurant",
       "category": "c5baharat20",
       "status": "play",
@@ -1205,22 +1205,22 @@
       "img": "index.webp"
     },
     {
-      "id": "zqtb7prs71",
+      "id": "ksauyquf9q",
       "name": {
-        "tr": "Meksikano Baharat",
-        "en": "Mexicano Spice Mix",
-        "es": "Especias mexicanas",
-        "fr": "Épices mexicaines",
-        "de": "Mexicano-Gewürz"
+        "tr": "Köri",
+        "en": "Curry",
+        "es": "Curry",
+        "fr": "Curry",
+        "de": "Curry"
       },
       "description": {
-        "tr": "Meksika mutfağı tarzında hazırlanmış baharat karışımı. Tavuk, et, sebze ve patates yemeklerine baharatlı bir tat verir. 20 g ambalaj.",
-        "en": "A spice blend prepared in the style of Mexican cuisine. Gives a spicy flavor to chicken, meat, vegetable, and potato dishes. 20 g packaging.",
-        "es": "Mezcla de especias preparada al estilo de la cocina mexicana. Da un sabor especiado a platos de pollo, carne, verduras y patatas. Envase de 20 g.",
-        "fr": "Mélange d'épices préparé dans le style de la cuisine mexicaine. Donne un goût épicé aux plats de poulet, de viande, de légumes et de pommes de terre. Conditionnement : 20 g.",
-        "de": "Gewürzmischung nach Art der mexikanischen Küche. Verleiht Hähnchen-, Fleisch-, Gemüse- und Kartoffelgerichten einen würzigen Geschmack. Verpackung: 20 g."
+        "tr": "Köri baharat karışımı. Tavuk, pilav, sebze ve çorba yemeklerine sarı renk ve baharatlı bir tat verir. 20 g, 50 g, 160 g, 400 g, 800 g ve 5 kg ambalaj seçenekleri.",
+        "en": "A curry spice blend. Gives a yellow color and a spicy flavor to chicken, rice, vegetable, and soup dishes. Available in 20 g, 50 g, 160 g, 400 g, 800 g and 5 kg.",
+        "es": "Mezcla de especias de curry. Da un color amarillo y un sabor especiado a platos de pollo, arroz, verduras y sopas. Envases de 20 g, 50 g, 160 g, 400 g, 800 g y 5 kg.",
+        "fr": "Mélange d'épices au curry. Donne une couleur jaune et un goût épicé aux plats de poulet, de riz, de légumes et aux soupes. Conditionnements : 20 g, 50 g, 160 g, 400 g, 800 g et 5 kg.",
+        "de": "Currygewürzmischung. Verleiht Hähnchen-, Reis-, Gemüse- und Suppengerichten eine gelbe Farbe und einen würzigen Geschmack. Verpackungen: 20 g, 50 g, 160 g, 400 g, 800 g und 5 kg."
       },
-      "path": "meksikano-baharat",
+      "path": "kori",
       "icon": "restaurant",
       "category": "c5baharat20",
       "status": "play",
@@ -1233,22 +1233,22 @@
       "img": "index.webp"
     },
     {
-      "id": "t09mn2kbq0",
+      "id": "60ldq5d2ii",
       "name": {
-        "tr": "Mendi Baharatı",
-        "en": "Mandi Spice Mix",
-        "es": "Especias Mendi",
-        "fr": "Épices Mendi",
-        "de": "Mendi-Gewürz"
+        "tr": "Kırmızı Acı Pul Biber",
+        "en": "Red Hot Chili Flakes",
+        "es": "Hojuelas de chile rojo picante",
+        "fr": "Piment rouge fort en flocons",
+        "de": "Chiliflocken rot, scharf"
       },
       "description": {
-        "tr": "Mendi tarzı pilav ve et yemekleri için hazırlanmış baharat karışımı. Pilav, et ve tavuk yemeklerinde kullanılır. 20 g ambalaj.",
-        "en": "A spice blend prepared for mandi-style rice and meat dishes. Used in rice, meat, and chicken dishes. 20 g packaging.",
-        "es": "Mezcla de especias preparada para arroz y platos de carne al estilo Mendi. Se utiliza en platos de arroz, carne y pollo. Envase de 20 g.",
-        "fr": "Mélange d'épices préparé pour les plats de riz et de viande façon mendi. Utilisé dans les plats de riz, de viande et de poulet. Conditionnement : 20 g.",
-        "de": "Gewürzmischung für Reis- und Fleischgerichte nach Mendi-Art. Für Reis-, Fleisch- und Hähnchengerichte. Verpackung: 20 g."
+        "tr": "Acı kırmızı biberden elde edilen pul biber. Kebap, çorba, yemek ve mezelere acı ve renk katar. 20 g, 70 g, 200 g, 400 g, 800 g ve 5 kg ambalaj seçenekleri.",
+        "en": "Chili flakes made from hot red pepper. Adds heat and color to kebabs, soups, dishes, and mezes. Available in 20 g, 70 g, 200 g, 400 g, 800 g and 5 kg.",
+        "es": "Hojuelas de chile obtenidas de chile rojo picante. Aportan picante y color a kebabs, sopas, platos y mezes. Envases de 20 g, 70 g, 200 g, 400 g, 800 g y 5 kg.",
+        "fr": "Piment en flocons obtenu à partir de piment rouge fort. Apporte piquant et couleur aux kebabs, aux soupes, aux plats et aux mezzés. Conditionnements : 20 g, 70 g, 200 g, 400 g, 800 g et 5 kg.",
+        "de": "Chiliflocken aus scharfem rotem Chili. Verleiht Kebab, Suppen, Gerichten und Meze Schärfe und Farbe. Verpackungen: 20 g, 70 g, 200 g, 400 g, 800 g und 5 kg."
       },
-      "path": "mendi-baharati",
+      "path": "kirmizi-aci-pul-biber",
       "icon": "restaurant",
       "category": "c5baharat20",
       "status": "play",
@@ -1261,6 +1261,174 @@
       "img": "index.webp"
     },
     {
+      "id": "fbqqqdv9fh",
+      "name": {
+        "tr": "Kırmızı Tatlı Toz Biber",
+        "en": "Sweet Red Pepper Powder",
+        "es": "Pimentón rojo dulce",
+        "fr": "Piment rouge doux en poudre",
+        "de": "Paprikapulver rot, edelsüß"
+      },
+      "description": {
+        "tr": "Tatlı kırmızı biberden elde edilen toz biber. Yemeklere acısız, hafif tatlı bir tat ve kırmızı renk katar. 20 g, 70 g, 200 g, 400 g, 800 g ve 5 kg ambalaj seçenekleri.",
+        "en": "Pepper powder made from sweet red pepper. Adds a mild, sweet flavor without heat, and a red color, to dishes. Available in 20 g, 70 g, 200 g, 400 g, 800 g and 5 kg.",
+        "es": "Pimiento molido obtenido de pimiento rojo dulce. Aporta a los platos un sabor ligeramente dulce, sin picante, y color rojo. Envases de 20 g, 70 g, 200 g, 400 g, 800 g y 5 kg.",
+        "fr": "Piment en poudre obtenu à partir de piment rouge doux. Apporte aux plats un goût légèrement sucré, sans piquant, et une couleur rouge. Conditionnements : 20 g, 70 g, 200 g, 400 g, 800 g et 5 kg.",
+        "de": "Paprikapulver aus süßer roter Paprika. Verleiht Gerichten einen milden, leicht süßen Geschmack ohne Schärfe und eine rote Farbe. Verpackungen: 20 g, 70 g, 200 g, 400 g, 800 g und 5 kg."
+      },
+      "path": "kirmizi-tatli-toz-biber",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 45,
+      "img": "index.webp"
+    },
+    {
+      "id": "pmsamfce9n",
+      "name": {
+        "tr": "Kırmızı Acı Toz Biber",
+        "en": "Hot Red Pepper Powder",
+        "es": "Pimentón picante en polvo",
+        "fr": "Piment rouge fort en poudre",
+        "de": "Scharfes rotes Paprikapulver"
+      },
+      "description": {
+        "tr": "Acı kırmızı biberin kurutulup ince öğütülmesiyle hazırlanan toz biber. Yemeklere, soslara ve marinasyonlara acılık ve renk katar. 20 g, 70 g, 200 g, 400 g, 800 g ve 5 kg ambalaj seçenekleri.",
+        "en": "Powdered pepper made by drying and finely grinding hot red peppers. Adds heat and colour to dishes, sauces and marinades. Available in 20 g, 70 g, 200 g, 400 g, 800 g and 5 kg.",
+        "es": "Pimiento en polvo elaborado secando y moliendo finamente pimientos rojos picantes. Aporta picor y color a platos, salsas y adobos. Envases de 20 g, 70 g, 200 g, 400 g, 800 g y 5 kg.",
+        "fr": "Piment en poudre obtenu par séchage et broyage fin de piments rouges forts. Apporte piquant et couleur aux plats, sauces et marinades. Conditionnements : 20 g, 70 g, 200 g, 400 g, 800 g et 5 kg.",
+        "de": "Pulver aus getrockneten, fein gemahlenen scharfen roten Paprika. Verleiht Gerichten, Soßen und Marinaden Schärfe und Farbe. Verpackungen: 20 g, 70 g, 200 g, 400 g, 800 g und 5 kg."
+      },
+      "path": "kirmizi-aci-toz-biber",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 46,
+      "img": "index.webp"
+    },
+    {
+      "id": "zsql24klzw",
+      "name": {
+        "tr": "Limon Tuzu (Toz)",
+        "en": "Lemon Salt (Powder)",
+        "es": "Sal de limón (polvo)",
+        "fr": "Sel de citron (en poudre)",
+        "de": "Zitronensäure (Pulver)"
+      },
+      "description": {
+        "tr": "Limon ekşisi tadı veren toz limon tuzu. Salata, turşu, çorba ve yemeklerde taze limon yerine pratik bir ekşilik kaynağı olarak kullanılır. 20 g, 70 g, 200 g, 400 g, 1000 g ve 5 kg ambalaj seçenekleri.",
+        "en": "Powdered lemon salt that gives a lemony sour taste. Used in salads, pickles, soups, and dishes as a practical source of sourness in place of fresh lemon. Available in 20 g, 70 g, 200 g, 400 g, 1000 g and 5 kg.",
+        "es": "Sal de limón en polvo que aporta el sabor ácido del limón. Se utiliza como una fuente práctica de acidez, en lugar del limón fresco, en ensaladas, encurtidos, sopas y platos. Envases de 20 g, 70 g, 200 g, 400 g, 1000 g y 5 kg.",
+        "fr": "Sel de citron en poudre qui donne le goût acidulé du citron. Utilisé comme source d'acidité pratique, à la place du citron frais, dans les salades, les pickles, les soupes et les plats. Conditionnements : 20 g, 70 g, 200 g, 400 g, 1000 g et 5 kg.",
+        "de": "Zitronensäure in Pulverform mit säuerlichem Zitronengeschmack. Als praktische Säurequelle anstelle von frischer Zitrone für Salate, Pickles, Suppen und Gerichte. Verpackungen: 20 g, 70 g, 200 g, 400 g, 1000 g und 5 kg."
+      },
+      "path": "limon-tuzu-toz",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 47,
+      "img": "index.webp"
+    },
+    {
+      "id": "sq09o904yv",
+      "name": {
+        "tr": "Limon Tuzu (İri Tane)",
+        "en": "Lemon Salt (Coarse Grain)",
+        "es": "Sal de limón (grano grueso)",
+        "fr": "Sel de citron (gros grains)",
+        "de": "Zitronensäure (grobkörnig)"
+      },
+      "description": {
+        "tr": "Limon ekşisi tadı veren iri taneli limon tuzu. Salata, turşu, çorba ve yemeklerde taze limon yerine pratik bir ekşilik kaynağı olarak kullanılır. 20 g, 70 g, 200 g, 400 g, 1000 g ve 5 kg ambalaj seçenekleri.",
+        "en": "Coarse-grain lemon salt that gives a lemony sour taste. Used in salads, pickles, soups, and dishes as a practical source of sourness in place of fresh lemon. Available in 20 g, 70 g, 200 g, 400 g, 1000 g and 5 kg.",
+        "es": "Sal de limón de grano grueso que aporta el sabor ácido del limón. Se utiliza como una fuente práctica de acidez, en lugar del limón fresco, en ensaladas, encurtidos, sopas y platos. Envases de 20 g, 70 g, 200 g, 400 g, 1000 g y 5 kg.",
+        "fr": "Sel de citron en gros grains qui donne le goût acidulé du citron. Utilisé comme source d'acidité pratique, à la place du citron frais, dans les salades, les pickles, les soupes et les plats. Conditionnements : 20 g, 70 g, 200 g, 400 g, 1000 g et 5 kg.",
+        "de": "Grobkörnige Zitronensäure mit säuerlichem Zitronengeschmack. Als praktische Säurequelle anstelle von frischer Zitrone für Salate, Pickles, Suppen und Gerichte. Verpackungen: 20 g, 70 g, 200 g, 400 g, 1000 g und 5 kg."
+      },
+      "path": "limon-tuzu-iri-tane",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 48,
+      "img": "index.webp"
+    },
+    {
+      "id": "zqtb7prs71",
+      "name": {
+        "tr": "Meksikano Baharat",
+        "en": "Mexicano Spice Mix",
+        "es": "Especias mexicanas",
+        "fr": "Épices mexicaines",
+        "de": "Mexicano-Gewürz"
+      },
+      "description": {
+        "tr": "Meksika mutfağı tarzında hazırlanmış baharat karışımı. Tavuk, et, sebze ve patates yemeklerine baharatlı bir tat verir. 20 g ve 70 g ambalaj seçenekleri.",
+        "en": "A spice blend prepared in the style of Mexican cuisine. Gives a spicy flavor to chicken, meat, vegetable, and potato dishes. Available in 20 g and 70 g.",
+        "es": "Mezcla de especias preparada al estilo de la cocina mexicana. Da un sabor especiado a platos de pollo, carne, verduras y patatas. Envases de 20 g y 70 g.",
+        "fr": "Mélange d'épices préparé dans le style de la cuisine mexicaine. Donne un goût épicé aux plats de poulet, de viande, de légumes et de pommes de terre. Conditionnements : 20 g et 70 g.",
+        "de": "Gewürzmischung nach Art der mexikanischen Küche. Verleiht Hähnchen-, Fleisch-, Gemüse- und Kartoffelgerichten einen würzigen Geschmack. Verpackungen: 20 g und 70 g."
+      },
+      "path": "meksikano-baharat",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 49,
+      "img": "index.webp"
+    },
+    {
+      "id": "t09mn2kbq0",
+      "name": {
+        "tr": "Mendi Baharatı",
+        "en": "Mandi Spice Mix",
+        "es": "Especias Mendi",
+        "fr": "Épices Mendi",
+        "de": "Mendi-Gewürz"
+      },
+      "description": {
+        "tr": "Mendi tarzı pilav ve et yemekleri için hazırlanmış baharat karışımı. Pilav, et ve tavuk yemeklerinde kullanılır. 20 g ve 70 g ambalaj seçenekleri.",
+        "en": "A spice blend prepared for mandi-style rice and meat dishes. Used in rice, meat, and chicken dishes. Available in 20 g and 70 g.",
+        "es": "Mezcla de especias preparada para arroz y platos de carne al estilo Mendi. Se utiliza en platos de arroz, carne y pollo. Envases de 20 g y 70 g.",
+        "fr": "Mélange d'épices préparé pour les plats de riz et de viande façon mendi. Utilisé dans les plats de riz, de viande et de poulet. Conditionnements : 20 g et 70 g.",
+        "de": "Gewürzmischung für Reis- und Fleischgerichte nach Mendi-Art. Für Reis-, Fleisch- und Hähnchengerichte. Verpackungen: 20 g und 70 g."
+      },
+      "path": "mendi-baharati",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 50,
+      "img": "index.webp"
+    },
+    {
       "id": "90ympyxvmx",
       "name": {
         "tr": "Nane",
@@ -1270,11 +1438,11 @@
         "de": "Minze"
       },
       "description": {
-        "tr": "Kurutulmuş nane. Çorba, yoğurt, salata, mantı ve etli yemeklerde kullanılır. 20 g ambalaj.",
-        "en": "Dried mint. Used in soups, yogurt, salads, manti, and meat dishes. 20 g packaging.",
-        "es": "Menta seca. Se utiliza en sopas, yogur, ensaladas, manti y platos de carne. Envase de 20 g.",
-        "fr": "Menthe séchée. Utilisée dans les soupes, le yaourt, les salades, les manti et les plats de viande. Conditionnement : 20 g.",
-        "de": "Getrocknete Minze. Für Suppen, Joghurt, Salate, Manti und Fleischgerichte. Verpackung: 20 g."
+        "tr": "Kurutulmuş nane. Çorba, yoğurt, salata, mantı ve etli yemeklerde kullanılır. 10 g, 20 g, 80 g, 100 g, 200 g ve 1500 g ambalaj seçenekleri.",
+        "en": "Dried mint. Used in soups, yogurt, salads, manti, and meat dishes. Available in 10 g, 20 g, 80 g, 100 g, 200 g and 1500 g.",
+        "es": "Menta seca. Se utiliza en sopas, yogur, ensaladas, manti y platos de carne. Envases de 10 g, 20 g, 80 g, 100 g, 200 g y 1500 g.",
+        "fr": "Menthe séchée. Utilisée dans les soupes, le yaourt, les salades, les manti et les plats de viande. Conditionnements : 10 g, 20 g, 80 g, 100 g, 200 g et 1500 g.",
+        "de": "Getrocknete Minze. Für Suppen, Joghurt, Salate, Manti und Fleischgerichte. Verpackungen: 10 g, 20 g, 80 g, 100 g, 200 g und 1500 g."
       },
       "path": "nane",
       "icon": "restaurant",
@@ -1285,7 +1453,7 @@
         "body": [],
         "footer": []
       },
-      "index": 45,
+      "index": 51,
       "img": "index.webp"
     },
     {
@@ -1313,7 +1481,7 @@
         "body": [],
         "footer": []
       },
-      "index": 46,
+      "index": 52,
       "img": "index.webp"
     },
     {
@@ -1326,181 +1494,13 @@
         "de": "Kartoffelgewürz"
       },
       "description": {
-        "tr": "Patates yemekleri için hazırlanmış baharat karışımı. Fırın ve tava patatesi, kızartma ve cips hazırlıklarında kullanılır. 20 g ambalaj.",
-        "en": "A spice blend prepared for potato dishes. Used in oven-baked and pan-cooked potatoes, fried potatoes, and chips. 20 g packaging.",
-        "es": "Mezcla de especias preparada para platos de patatas. Se utiliza en patatas al horno y a la sartén, frituras y preparaciones de patatas fritas. Envase de 20 g.",
-        "fr": "Mélange d'épices préparé pour les plats de pommes de terre. Utilisé pour les pommes de terre au four et à la poêle, les fritures et les chips. Conditionnement : 20 g.",
-        "de": "Gewürzmischung für Kartoffelgerichte. Für Ofen- und Pfannenkartoffeln, Frittiertes und Chips. Verpackung: 20 g."
+        "tr": "Patates yemekleri için hazırlanmış baharat karışımı. Fırın ve tava patatesi, kızartma ve cips hazırlıklarında kullanılır. 20 g ve 70 g ambalaj seçenekleri.",
+        "en": "A spice blend prepared for potato dishes. Used in oven-baked and pan-cooked potatoes, fried potatoes, and chips. Available in 20 g and 70 g.",
+        "es": "Mezcla de especias preparada para platos de patatas. Se utiliza en patatas al horno y a la sartén, frituras y preparaciones de patatas fritas. Envases de 20 g y 70 g.",
+        "fr": "Mélange d'épices préparé pour les plats de pommes de terre. Utilisé pour les pommes de terre au four et à la poêle, les fritures et les chips. Conditionnements : 20 g et 70 g.",
+        "de": "Gewürzmischung für Kartoffelgerichte. Für Ofen- und Pfannenkartoffeln, Frittiertes und Chips. Verpackungen: 20 g und 70 g."
       },
       "path": "patates-baharati",
-      "icon": "restaurant",
-      "category": "c5baharat20",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 47,
-      "img": "index.webp"
-    },
-    {
-      "id": "7w44fr3ld9",
-      "name": {
-        "tr": "Sucuk Baharatı",
-        "en": "Sucuk Spice Mix",
-        "es": "Especias para sucuk",
-        "fr": "Épices pour soudjouk",
-        "de": "Sucuk-Gewürz"
-      },
-      "description": {
-        "tr": "Sucuk yapımı için hazırlanmış baharat karışımı. Sucuk harcına karıştırılarak kullanılır. 20 g ambalaj.",
-        "en": "A spice blend prepared for making sucuk. Used by mixing into the sucuk mixture. 20 g packaging.",
-        "es": "Mezcla de especias preparada para la elaboración de sucuk. Se utiliza mezclada con la masa del sucuk. Envase de 20 g.",
-        "fr": "Mélange d'épices préparé pour la fabrication du soudjouk (sucuk). S'incorpore à la farce du soudjouk. Conditionnement : 20 g.",
-        "de": "Gewürzmischung für die Sucuk-Herstellung. Wird unter die Sucuk-Masse gemischt. Verpackung: 20 g."
-      },
-      "path": "sucuk-baharati",
-      "icon": "restaurant",
-      "category": "c5baharat20",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 48,
-      "img": "index.webp"
-    },
-    {
-      "id": "qkmf4aeexx",
-      "name": {
-        "tr": "Sumak",
-        "en": "Sumac",
-        "es": "Zumaque",
-        "fr": "Sumac",
-        "de": "Sumach"
-      },
-      "description": {
-        "tr": "Sumak bitkisinden elde edilen, ekşi tadıyla bilinen baharat. Salata, soğan, kebap ve ızgara yemeklerinin yanında kullanılır. 20 g ambalaj.",
-        "en": "A spice obtained from the sumac plant, known for its sour taste. Used alongside salads, onions, kebabs, and grilled dishes. 20 g packaging.",
-        "es": "Especia obtenida de la planta del zumaque, conocida por su sabor ácido. Se utiliza como acompañamiento de ensaladas, cebolla, kebabs y platos a la parrilla. Envase de 20 g.",
-        "fr": "Épice obtenue à partir de la plante du sumac, connue pour son goût acidulé. Utilisé en accompagnement des salades, de l'oignon, des kebabs et des plats grillés. Conditionnement : 20 g.",
-        "de": "Gewürz aus der Sumachpflanze, bekannt für seinen säuerlichen Geschmack. Zu Salat, Zwiebeln, Kebab und gegrillten Gerichten. Verpackung: 20 g."
-      },
-      "path": "sumak",
-      "icon": "restaurant",
-      "category": "c5baharat20",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 49,
-      "img": "index.webp"
-    },
-    {
-      "id": "xkx2l1y11x",
-      "name": {
-        "tr": "Susam",
-        "en": "Sesame Seeds",
-        "es": "Sésamo",
-        "fr": "Sésame",
-        "de": "Sesam"
-      },
-      "description": {
-        "tr": "Susam tohumu. Simit, çörek, poğaça ve börek hamurlarında, salata ve yemek süslemelerinde kullanılır. 20 g ambalaj.",
-        "en": "Sesame seeds. Used in simit, corek, pogaca, and borek doughs, and in garnishing salads and dishes. 20 g packaging.",
-        "es": "Semillas de sésamo. Se utilizan en masas de simit, bollos, bollos salados y borek, y en la decoración de ensaladas y platos. Envase de 20 g.",
-        "fr": "Graines de sésame. Utilisées dans les pâtes à simit, à corek, à pogaca et à borek, ainsi que pour garnir les salades et les plats. Conditionnement : 20 g.",
-        "de": "Sesamsamen. Für Simit-, Corek-, Pogaca- und Borek-Teige sowie zur Garnierung von Salaten und Gerichten. Verpackung: 20 g."
-      },
-      "path": "susam",
-      "icon": "restaurant",
-      "category": "c5baharat20",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 50,
-      "img": "index.webp"
-    },
-    {
-      "id": "qff5bhaptn",
-      "name": {
-        "tr": "Tarçın Öğütülmüş",
-        "en": "Ground Cinnamon",
-        "es": "Canela molida",
-        "fr": "Cannelle moulue",
-        "de": "Zimt, gemahlen"
-      },
-      "description": {
-        "tr": "Öğütülmüş tarçın. Sütlü tatlılar, kek, kurabiye, sıcak içecekler ve pilavlarda kullanılır. 20 g ambalaj.",
-        "en": "Ground cinnamon. Used in milk-based desserts, cakes, cookies, hot drinks, and rice dishes. 20 g packaging.",
-        "es": "Canela molida. Se utiliza en postres lácteos, bizcochos, galletas, bebidas calientes y arroces. Envase de 20 g.",
-        "fr": "Cannelle moulue. Utilisée dans les desserts au lait, les gâteaux, les biscuits, les boissons chaudes et les plats de riz. Conditionnement : 20 g.",
-        "de": "Gemahlener Zimt. Für Milchdesserts, Kuchen, Kekse, Heißgetränke und Reisgerichte. Verpackung: 20 g."
-      },
-      "path": "tarcin-ogutulmus",
-      "icon": "restaurant",
-      "category": "c5baharat20",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 51,
-      "img": "index.webp"
-    },
-    {
-      "id": "i3wevkgr1l",
-      "name": {
-        "tr": "Tavuk Baharatı",
-        "en": "Chicken Spice Mix",
-        "es": "Especias para pollo",
-        "fr": "Épices pour poulet",
-        "de": "Hähnchengewürz"
-      },
-      "description": {
-        "tr": "Tavuk yemekleri için hazırlanmış baharat karışımı. Tavuğun marinasyonunda, fırın ve tava yemeklerinde kullanılır. 20 g ambalaj.",
-        "en": "A spice blend prepared for chicken dishes. Used in marinating chicken and in oven-baked and pan-cooked dishes. 20 g packaging.",
-        "es": "Mezcla de especias preparada para platos de pollo. Se utiliza en el adobo del pollo y en platos al horno y a la sartén. Envase de 20 g.",
-        "fr": "Mélange d'épices préparé pour les plats de poulet. Utilisé dans la marinade du poulet et dans les plats au four et à la poêle. Conditionnement : 20 g.",
-        "de": "Gewürzmischung für Hähnchengerichte. Zum Marinieren von Hähnchen sowie für Ofen- und Pfannengerichte. Verpackung: 20 g."
-      },
-      "path": "tavuk-baharati",
-      "icon": "restaurant",
-      "category": "c5baharat20",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [],
-        "footer": []
-      },
-      "index": 52,
-      "img": "index.webp"
-    },
-    {
-      "id": "etsfnh5g64",
-      "name": {
-        "tr": "Tavuk Bulyon",
-        "en": "Chicken Bouillon",
-        "es": "Caldo de pollo",
-        "fr": "Bouillon de poulet",
-        "de": "Hühnerbouillon"
-      },
-      "description": {
-        "tr": "Tavuk aromalı toz bulyon. Çorba, pilav, sos ve yemeklere tavuk suyu tadı katar. 20 g ambalaj.",
-        "en": "Chicken-flavored powdered bouillon. Adds a chicken broth taste to soups, rice, sauces, and dishes. 20 g packaging.",
-        "es": "Caldo en polvo con sabor a pollo. Aporta sabor a caldo de pollo a sopas, arroces, salsas y platos. Envase de 20 g.",
-        "fr": "Bouillon en poudre aromatisé au poulet. Apporte le goût du bouillon de poulet aux soupes, au riz, aux sauces et aux plats. Conditionnement : 20 g.",
-        "de": "Bouillonpulver mit Hühneraroma. Verleiht Suppen, Reis, Saucen und Gerichten den Geschmack von Hühnerbrühe. Verpackung: 20 g."
-      },
-      "path": "tavuk-bulyon",
       "icon": "restaurant",
       "category": "c5baharat20",
       "status": "play",
@@ -1513,22 +1513,22 @@
       "img": "index.webp"
     },
     {
-      "id": "o46nmmaz0m",
+      "id": "7w44fr3ld9",
       "name": {
-        "tr": "Tavuk Kebap Baharatı",
-        "en": "Chicken Kebab Spice Mix",
-        "es": "Especias para kebab de pollo",
-        "fr": "Épices pour kebab de poulet",
-        "de": "Hähnchen-Kebab-Gewürz"
+        "tr": "Sucuk Baharatı",
+        "en": "Sucuk Spice Mix",
+        "es": "Especias para sucuk",
+        "fr": "Épices pour soudjouk",
+        "de": "Sucuk-Gewürz"
       },
       "description": {
-        "tr": "Tavuk kebapları için hazırlanmış baharat karışımı. Tavuk şiş, tavuk döner ve ızgara tavuk marinasyonunda kullanılır. 20 g ambalaj.",
-        "en": "A spice blend prepared for chicken kebabs. Used in marinating chicken shish, chicken döner, and grilled chicken. 20 g packaging.",
-        "es": "Mezcla de especias preparada para kebabs de pollo. Se utiliza en el adobo de pinchos de pollo, döner de pollo y pollo a la parrilla. Envase de 20 g.",
-        "fr": "Mélange d'épices préparé pour les kebabs de poulet. Utilisé dans la marinade du poulet en brochette (shish), du döner de poulet et du poulet grillé. Conditionnement : 20 g.",
-        "de": "Gewürzmischung für Hähnchen-Kebabs. Für die Marinade von Hähnchen-Shish, Hähnchen-Döner und gegrilltem Hähnchen. Verpackung: 20 g."
+        "tr": "Sucuk yapımı için hazırlanmış baharat karışımı. Sucuk harcına karıştırılarak kullanılır. 10 g, 70 g, 200 g, 400 g, 800 g ve 5 kg ambalaj seçenekleri.",
+        "en": "A spice blend prepared for making sucuk. Used by mixing into the sucuk mixture. Available in 10 g, 70 g, 200 g, 400 g, 800 g and 5 kg.",
+        "es": "Mezcla de especias preparada para la elaboración de sucuk. Se utiliza mezclada con la masa del sucuk. Envases de 10 g, 70 g, 200 g, 400 g, 800 g y 5 kg.",
+        "fr": "Mélange d'épices préparé pour la fabrication du soudjouk (sucuk). S'incorpore à la farce du soudjouk. Conditionnements : 10 g, 70 g, 200 g, 400 g, 800 g et 5 kg.",
+        "de": "Gewürzmischung für die Sucuk-Herstellung. Wird unter die Sucuk-Masse gemischt. Verpackungen: 10 g, 70 g, 200 g, 400 g, 800 g und 5 kg."
       },
-      "path": "tavuk-kebap-baharati",
+      "path": "sucuk-baharati",
       "icon": "restaurant",
       "category": "c5baharat20",
       "status": "play",
@@ -1541,22 +1541,22 @@
       "img": "index.webp"
     },
     {
-      "id": "2f6h3221r0",
+      "id": "qkmf4aeexx",
       "name": {
-        "tr": "Zencefil",
-        "en": "Ginger",
-        "es": "Jengibre",
-        "fr": "Gingembre",
-        "de": "Ingwer"
+        "tr": "Sumak",
+        "en": "Sumac",
+        "es": "Zumaque",
+        "fr": "Sumac",
+        "de": "Sumach"
       },
       "description": {
-        "tr": "Öğütülmüş zencefil. Kek, kurabiye, sıcak içecekler ve yemeklerde kullanılır. 20 g ambalaj.",
-        "en": "Ground ginger. Used in cakes, cookies, hot drinks, and dishes. 20 g packaging.",
-        "es": "Jengibre molido. Se utiliza en bizcochos, galletas, bebidas calientes y platos. Envase de 20 g.",
-        "fr": "Gingembre moulu. Utilisé dans les gâteaux, les biscuits, les boissons chaudes et les plats. Conditionnement : 20 g.",
-        "de": "Gemahlener Ingwer. Für Kuchen, Kekse, Heißgetränke und Gerichte. Verpackung: 20 g."
+        "tr": "Sumak bitkisinden elde edilen, ekşi tadıyla bilinen baharat. Salata, soğan, kebap ve ızgara yemeklerinin yanında kullanılır. 20 g, 70 g, 200 g, 400 g, 800 g ve 5 kg ambalaj seçenekleri.",
+        "en": "A spice obtained from the sumac plant, known for its sour taste. Used alongside salads, onions, kebabs, and grilled dishes. Available in 20 g, 70 g, 200 g, 400 g, 800 g and 5 kg.",
+        "es": "Especia obtenida de la planta del zumaque, conocida por su sabor ácido. Se utiliza como acompañamiento de ensaladas, cebolla, kebabs y platos a la parrilla. Envases de 20 g, 70 g, 200 g, 400 g, 800 g y 5 kg.",
+        "fr": "Épice obtenue à partir de la plante du sumac, connue pour son goût acidulé. Utilisé en accompagnement des salades, de l'oignon, des kebabs et des plats grillés. Conditionnements : 20 g, 70 g, 200 g, 400 g, 800 g et 5 kg.",
+        "de": "Gewürz aus der Sumachpflanze, bekannt für seinen säuerlichen Geschmack. Zu Salat, Zwiebeln, Kebab und gegrillten Gerichten. Verpackungen: 20 g, 70 g, 200 g, 400 g, 800 g und 5 kg."
       },
-      "path": "zencefil",
+      "path": "sumak",
       "icon": "restaurant",
       "category": "c5baharat20",
       "status": "play",
@@ -1569,22 +1569,22 @@
       "img": "index.webp"
     },
     {
-      "id": "tijpk7vq37",
+      "id": "xkx2l1y11x",
       "name": {
-        "tr": "Zerdeçal",
-        "en": "Turmeric",
-        "es": "Cúrcuma",
-        "fr": "Curcuma",
-        "de": "Kurkuma"
+        "tr": "Susam",
+        "en": "Sesame Seeds",
+        "es": "Sésamo",
+        "fr": "Sésame",
+        "de": "Sesam"
       },
       "description": {
-        "tr": "Öğütülmüş zerdeçal. Pilav, tavuk, çorba ve sebze yemeklerine sarı renk ve hafif baharatlı bir tat verir. 20 g ambalaj.",
-        "en": "Ground turmeric. Gives a yellow color and a mildly spicy flavor to rice, chicken, soup, and vegetable dishes. 20 g packaging.",
-        "es": "Cúrcuma molida. Da un color amarillo y un sabor ligeramente especiado a platos de arroz, pollo, sopas y verduras. Envase de 20 g.",
-        "fr": "Curcuma moulu. Donne une couleur jaune et un goût légèrement épicé aux plats de riz, de poulet, de légumes et aux soupes. Conditionnement : 20 g.",
-        "de": "Gemahlene Kurkuma. Verleiht Reis-, Hähnchen-, Suppen- und Gemüsegerichten eine gelbe Farbe und einen mild würzigen Geschmack. Verpackung: 20 g."
+        "tr": "Susam tohumu. Simit, çörek, poğaça ve börek hamurlarında, salata ve yemek süslemelerinde kullanılır. 20 g, 70 g, 160 g, 400 g, 800 g ve 5 kg ambalaj seçenekleri.",
+        "en": "Sesame seeds. Used in simit, corek, pogaca, and borek doughs, and in garnishing salads and dishes. Available in 20 g, 70 g, 160 g, 400 g, 800 g and 5 kg.",
+        "es": "Semillas de sésamo. Se utilizan en masas de simit, bollos, bollos salados y borek, y en la decoración de ensaladas y platos. Envases de 20 g, 70 g, 160 g, 400 g, 800 g y 5 kg.",
+        "fr": "Graines de sésame. Utilisées dans les pâtes à simit, à corek, à pogaca et à borek, ainsi que pour garnir les salades et les plats. Conditionnements : 20 g, 70 g, 160 g, 400 g, 800 g et 5 kg.",
+        "de": "Sesamsamen. Für Simit-, Corek-, Pogaca- und Borek-Teige sowie zur Garnierung von Salaten und Gerichten. Verpackungen: 20 g, 70 g, 160 g, 400 g, 800 g und 5 kg."
       },
-      "path": "zerdecal",
+      "path": "susam",
       "icon": "restaurant",
       "category": "c5baharat20",
       "status": "play",
@@ -1597,22 +1597,22 @@
       "img": "index.webp"
     },
     {
-      "id": "sldosqjbme",
+      "id": "qff5bhaptn",
       "name": {
-        "tr": "Çörek Otu",
-        "en": "Nigella Seeds",
-        "es": "Comino negro",
-        "fr": "Nigelle",
-        "de": "Schwarzkümmel"
+        "tr": "Tarçın Öğütülmüş",
+        "en": "Ground Cinnamon",
+        "es": "Canela molida",
+        "fr": "Cannelle moulue",
+        "de": "Zimt, gemahlen"
       },
       "description": {
-        "tr": "Çörek otu tohumu. Çörek, poğaça, simit, börek ve peynirli hamur işlerinin üzerinde kullanılır. 20 g ambalaj.",
-        "en": "Nigella seeds. Used on top of corek, pogaca, simit, borek, and cheese pastries. 20 g packaging.",
-        "es": "Semillas de comino negro. Se utilizan sobre bollos, bollos salados, simit, borek y masas con queso. Envase de 20 g.",
-        "fr": "Graines de nigelle. Utilisées en garniture des corek, pogaca, simit, borek et pâtisseries au fromage. Conditionnement : 20 g.",
-        "de": "Schwarzkümmelsamen. Als Topping für Corek, Pogaca, Simit, Borek und Käsegebäck. Verpackung: 20 g."
+        "tr": "Öğütülmüş tarçın. Sütlü tatlılar, kek, kurabiye, sıcak içecekler ve pilavlarda kullanılır. 15 g, 70 g, 160 g, 400 g, 800 g ve 5 kg ambalaj seçenekleri.",
+        "en": "Ground cinnamon. Used in milk-based desserts, cakes, cookies, hot drinks, and rice dishes. Available in 15 g, 70 g, 160 g, 400 g, 800 g and 5 kg.",
+        "es": "Canela molida. Se utiliza en postres lácteos, bizcochos, galletas, bebidas calientes y arroces. Envases de 15 g, 70 g, 160 g, 400 g, 800 g y 5 kg.",
+        "fr": "Cannelle moulue. Utilisée dans les desserts au lait, les gâteaux, les biscuits, les boissons chaudes et les plats de riz. Conditionnements : 15 g, 70 g, 160 g, 400 g, 800 g et 5 kg.",
+        "de": "Gemahlener Zimt. Für Milchdesserts, Kuchen, Kekse, Heißgetränke und Reisgerichte. Verpackungen: 15 g, 70 g, 160 g, 400 g, 800 g und 5 kg."
       },
-      "path": "corek-otu",
+      "path": "tarcin-ogutulmus",
       "icon": "restaurant",
       "category": "c5baharat20",
       "status": "play",
@@ -1625,6 +1625,174 @@
       "img": "index.webp"
     },
     {
+      "id": "i3wevkgr1l",
+      "name": {
+        "tr": "Tavuk Baharatı",
+        "en": "Chicken Spice Mix",
+        "es": "Especias para pollo",
+        "fr": "Épices pour poulet",
+        "de": "Hähnchengewürz"
+      },
+      "description": {
+        "tr": "Tavuk yemekleri için hazırlanmış baharat karışımı. Tavuğun marinasyonunda, fırın ve tava yemeklerinde kullanılır. 20 g, 70 g, 200 g, 400 g, 800 g ve 5 kg ambalaj seçenekleri.",
+        "en": "A spice blend prepared for chicken dishes. Used in marinating chicken and in oven-baked and pan-cooked dishes. Available in 20 g, 70 g, 200 g, 400 g, 800 g and 5 kg.",
+        "es": "Mezcla de especias preparada para platos de pollo. Se utiliza en el adobo del pollo y en platos al horno y a la sartén. Envases de 20 g, 70 g, 200 g, 400 g, 800 g y 5 kg.",
+        "fr": "Mélange d'épices préparé pour les plats de poulet. Utilisé dans la marinade du poulet et dans les plats au four et à la poêle. Conditionnements : 20 g, 70 g, 200 g, 400 g, 800 g et 5 kg.",
+        "de": "Gewürzmischung für Hähnchengerichte. Zum Marinieren von Hähnchen sowie für Ofen- und Pfannengerichte. Verpackungen: 20 g, 70 g, 200 g, 400 g, 800 g und 5 kg."
+      },
+      "path": "tavuk-baharati",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 58,
+      "img": "index.webp"
+    },
+    {
+      "id": "etsfnh5g64",
+      "name": {
+        "tr": "Tavuk Bulyon",
+        "en": "Chicken Bouillon",
+        "es": "Caldo de pollo",
+        "fr": "Bouillon de poulet",
+        "de": "Hühnerbouillon"
+      },
+      "description": {
+        "tr": "Tavuk aromalı toz bulyon. Çorba, pilav, sos ve yemeklere tavuk suyu tadı katar. 20 g ve 70 g ambalaj seçenekleri.",
+        "en": "Chicken-flavored powdered bouillon. Adds a chicken broth taste to soups, rice, sauces, and dishes. Available in 20 g and 70 g.",
+        "es": "Caldo en polvo con sabor a pollo. Aporta sabor a caldo de pollo a sopas, arroces, salsas y platos. Envases de 20 g y 70 g.",
+        "fr": "Bouillon en poudre aromatisé au poulet. Apporte le goût du bouillon de poulet aux soupes, au riz, aux sauces et aux plats. Conditionnements : 20 g et 70 g.",
+        "de": "Bouillonpulver mit Hühneraroma. Verleiht Suppen, Reis, Saucen und Gerichten den Geschmack von Hühnerbrühe. Verpackungen: 20 g und 70 g."
+      },
+      "path": "tavuk-bulyon",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 59,
+      "img": "index.webp"
+    },
+    {
+      "id": "o46nmmaz0m",
+      "name": {
+        "tr": "Tavuk Kebap Baharatı",
+        "en": "Chicken Kebab Spice Mix",
+        "es": "Especias para kebab de pollo",
+        "fr": "Épices pour kebab de poulet",
+        "de": "Hähnchen-Kebab-Gewürz"
+      },
+      "description": {
+        "tr": "Tavuk kebapları için hazırlanmış baharat karışımı. Tavuk şiş, tavuk döner ve ızgara tavuk marinasyonunda kullanılır. 20 g ve 70 g ambalaj seçenekleri.",
+        "en": "A spice blend prepared for chicken kebabs. Used in marinating chicken shish, chicken döner, and grilled chicken. Available in 20 g and 70 g.",
+        "es": "Mezcla de especias preparada para kebabs de pollo. Se utiliza en el adobo de pinchos de pollo, döner de pollo y pollo a la parrilla. Envases de 20 g y 70 g.",
+        "fr": "Mélange d'épices préparé pour les kebabs de poulet. Utilisé dans la marinade du poulet en brochette (shish), du döner de poulet et du poulet grillé. Conditionnements : 20 g et 70 g.",
+        "de": "Gewürzmischung für Hähnchen-Kebabs. Für die Marinade von Hähnchen-Shish, Hähnchen-Döner und gegrilltem Hähnchen. Verpackungen: 20 g und 70 g."
+      },
+      "path": "tavuk-kebap-baharati",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 60,
+      "img": "index.webp"
+    },
+    {
+      "id": "2f6h3221r0",
+      "name": {
+        "tr": "Zencefil",
+        "en": "Ginger",
+        "es": "Jengibre",
+        "fr": "Gingembre",
+        "de": "Ingwer"
+      },
+      "description": {
+        "tr": "Öğütülmüş zencefil. Kek, kurabiye, sıcak içecekler ve yemeklerde kullanılır. 15 g, 70 g, 160 g, 400 g, 800 g ve 5 kg ambalaj seçenekleri.",
+        "en": "Ground ginger. Used in cakes, cookies, hot drinks, and dishes. Available in 15 g, 70 g, 160 g, 400 g, 800 g and 5 kg.",
+        "es": "Jengibre molido. Se utiliza en bizcochos, galletas, bebidas calientes y platos. Envases de 15 g, 70 g, 160 g, 400 g, 800 g y 5 kg.",
+        "fr": "Gingembre moulu. Utilisé dans les gâteaux, les biscuits, les boissons chaudes et les plats. Conditionnements : 15 g, 70 g, 160 g, 400 g, 800 g et 5 kg.",
+        "de": "Gemahlener Ingwer. Für Kuchen, Kekse, Heißgetränke und Gerichte. Verpackungen: 15 g, 70 g, 160 g, 400 g, 800 g und 5 kg."
+      },
+      "path": "zencefil",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 61,
+      "img": "index.webp"
+    },
+    {
+      "id": "tijpk7vq37",
+      "name": {
+        "tr": "Zerdeçal",
+        "en": "Turmeric",
+        "es": "Cúrcuma",
+        "fr": "Curcuma",
+        "de": "Kurkuma"
+      },
+      "description": {
+        "tr": "Öğütülmüş zerdeçal. Pilav, tavuk, çorba ve sebze yemeklerine sarı renk ve hafif baharatlı bir tat verir. 15 g, 70 g, 160 g, 400 g, 800 g ve 5 kg ambalaj seçenekleri.",
+        "en": "Ground turmeric. Gives a yellow color and a mildly spicy flavor to rice, chicken, soup, and vegetable dishes. Available in 15 g, 70 g, 160 g, 400 g, 800 g and 5 kg.",
+        "es": "Cúrcuma molida. Da un color amarillo y un sabor ligeramente especiado a platos de arroz, pollo, sopas y verduras. Envases de 15 g, 70 g, 160 g, 400 g, 800 g y 5 kg.",
+        "fr": "Curcuma moulu. Donne une couleur jaune et un goût légèrement épicé aux plats de riz, de poulet, de légumes et aux soupes. Conditionnements : 15 g, 70 g, 160 g, 400 g, 800 g et 5 kg.",
+        "de": "Gemahlene Kurkuma. Verleiht Reis-, Hähnchen-, Suppen- und Gemüsegerichten eine gelbe Farbe und einen mild würzigen Geschmack. Verpackungen: 15 g, 70 g, 160 g, 400 g, 800 g und 5 kg."
+      },
+      "path": "zerdecal",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 62,
+      "img": "index.webp"
+    },
+    {
+      "id": "sldosqjbme",
+      "name": {
+        "tr": "Çörek Otu",
+        "en": "Nigella Seeds",
+        "es": "Comino negro",
+        "fr": "Nigelle",
+        "de": "Schwarzkümmel"
+      },
+      "description": {
+        "tr": "Çörek otu tohumu. Çörek, poğaça, simit, börek ve peynirli hamur işlerinin üzerinde kullanılır. 20 g, 70 g, 160 g, 400 g, 800 g ve 5 kg ambalaj seçenekleri.",
+        "en": "Nigella seeds. Used on top of corek, pogaca, simit, borek, and cheese pastries. Available in 20 g, 70 g, 160 g, 400 g, 800 g and 5 kg.",
+        "es": "Semillas de comino negro. Se utilizan sobre bollos, bollos salados, simit, borek y masas con queso. Envases de 20 g, 70 g, 160 g, 400 g, 800 g y 5 kg.",
+        "fr": "Graines de nigelle. Utilisées en garniture des corek, pogaca, simit, borek et pâtisseries au fromage. Conditionnements : 20 g, 70 g, 160 g, 400 g, 800 g et 5 kg.",
+        "de": "Schwarzkümmelsamen. Als Topping für Corek, Pogaca, Simit, Borek und Käsegebäck. Verpackungen: 20 g, 70 g, 160 g, 400 g, 800 g und 5 kg."
+      },
+      "path": "corek-otu",
+      "icon": "restaurant",
+      "category": "c5baharat20",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [],
+        "footer": []
+      },
+      "index": 63,
+      "img": "index.webp"
+    },
+    {
       "id": "lw6hgql29g",
       "name": {
         "tr": "İsot Biber",
@@ -1634,11 +1802,11 @@
         "de": "Isot-Chili"
       },
       "description": {
-        "tr": "Güneydoğu mutfağıyla bilinen, koyu renkli ve acılı pul biber. Kebap, çorba, mezeler ve et yemeklerinde kullanılır. 20 g ambalaj.",
-        "en": "Dark-colored, hot chili flakes known from the cuisine of southeastern Türkiye. Used in kebabs, soups, mezes, and meat dishes. 20 g packaging.",
-        "es": "Hojuelas de chile picante de color oscuro, conocidas en la cocina del sudeste de Turquía. Se utilizan en kebabs, sopas, mezes y platos de carne. Envase de 20 g.",
-        "fr": "Piment en flocons de couleur foncée et piquant, connu de la cuisine du sud-est de la Turquie. Utilisé dans les kebabs, les soupes, les mezzés et les plats de viande. Conditionnement : 20 g.",
-        "de": "Dunkle, scharfe Chiliflocken, bekannt aus der südostanatolischen Küche. Für Kebab, Suppen, Meze und Fleischgerichte. Verpackung: 20 g."
+        "tr": "Güneydoğu mutfağıyla bilinen, koyu renkli ve acılı pul biber. Kebap, çorba, mezeler ve et yemeklerinde kullanılır. 20 g, 70 g, 200 g, 400 g, 800 g ve 5 kg ambalaj seçenekleri.",
+        "en": "Dark-colored, hot chili flakes known from the cuisine of southeastern Türkiye. Used in kebabs, soups, mezes, and meat dishes. Available in 20 g, 70 g, 200 g, 400 g, 800 g and 5 kg.",
+        "es": "Hojuelas de chile picante de color oscuro, conocidas en la cocina del sudeste de Turquía. Se utilizan en kebabs, sopas, mezes y platos de carne. Envases de 20 g, 70 g, 200 g, 400 g, 800 g y 5 kg.",
+        "fr": "Piment en flocons de couleur foncée et piquant, connu de la cuisine du sud-est de la Turquie. Utilisé dans les kebabs, les soupes, les mezzés et les plats de viande. Conditionnements : 20 g, 70 g, 200 g, 400 g, 800 g et 5 kg.",
+        "de": "Dunkle, scharfe Chiliflocken, bekannt aus der südostanatolischen Küche. Für Kebab, Suppen, Meze und Fleischgerichte. Verpackungen: 20 g, 70 g, 200 g, 400 g, 800 g und 5 kg."
       },
       "path": "isot-biber",
       "icon": "restaurant",
@@ -1649,7 +1817,7 @@
         "body": [],
         "footer": []
       },
-      "index": 58,
+      "index": 64,
       "img": "index.webp"
     },
     {
@@ -1677,7 +1845,7 @@
         "body": [],
         "footer": []
       },
-      "index": 59,
+      "index": 65,
       "img": "index.webp"
     },
     {
@@ -1705,7 +1873,7 @@
         "body": [],
         "footer": []
       },
-      "index": 60,
+      "index": 66,
       "img": "index.webp"
     },
     {
@@ -1733,7 +1901,7 @@
         "body": [],
         "footer": []
       },
-      "index": 61,
+      "index": 67,
       "img": "index.webp"
     },
     {
@@ -1761,7 +1929,7 @@
         "body": [],
         "footer": []
       },
-      "index": 62,
+      "index": 68,
       "img": "index.webp"
     },
     {
@@ -1789,7 +1957,7 @@
         "body": [],
         "footer": []
       },
-      "index": 63,
+      "index": 69,
       "img": "index.webp"
     },
     {
@@ -1817,7 +1985,7 @@
         "body": [],
         "footer": []
       },
-      "index": 64,
+      "index": 70,
       "img": "index.webp"
     },
     {
@@ -1845,7 +2013,7 @@
         "body": [],
         "footer": []
       },
-      "index": 65,
+      "index": 71,
       "img": "index.webp"
     },
     {
@@ -1873,7 +2041,7 @@
         "body": [],
         "footer": []
       },
-      "index": 66,
+      "index": 72,
       "img": "index.webp"
     },
     {
@@ -1901,7 +2069,7 @@
         "body": [],
         "footer": []
       },
-      "index": 67,
+      "index": 73,
       "img": "index.webp"
     },
     {
@@ -1929,7 +2097,7 @@
         "body": [],
         "footer": []
       },
-      "index": 68,
+      "index": 74,
       "img": "index.webp"
     },
     {
@@ -1957,7 +2125,7 @@
         "body": [],
         "footer": []
       },
-      "index": 69,
+      "index": 75,
       "img": "index.webp"
     },
     {
@@ -1985,7 +2153,7 @@
         "body": [],
         "footer": []
       },
-      "index": 70,
+      "index": 76,
       "img": "index.webp"
     },
     {
@@ -2013,7 +2181,7 @@
         "body": [],
         "footer": []
       },
-      "index": 71,
+      "index": 77,
       "img": "index.webp"
     },
     {
@@ -2041,7 +2209,7 @@
         "body": [],
         "footer": []
       },
-      "index": 72,
+      "index": 78,
       "img": "index.webp"
     },
     {
@@ -2069,7 +2237,7 @@
         "body": [],
         "footer": []
       },
-      "index": 73,
+      "index": 79,
       "img": "index.webp"
     },
     {
@@ -2097,7 +2265,7 @@
         "body": [],
         "footer": []
       },
-      "index": 74,
+      "index": 80,
       "img": "index.webp"
     }
   ],

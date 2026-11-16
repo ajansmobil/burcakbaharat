@@ -1,0 +1,52 @@
+{
+  "id": "9vqsdi457k",
+  "name": {
+    "tr": "Muz Aromalı Jöle",
+    "en": "Banana Flavored Jelly",
+    "es": "Gelatina con sabor a plátano",
+    "fr": "Gelée aromatisée à la banane",
+    "de": "Gelee mit Bananen-Aroma"
+  },
+  "description": {
+    "tr": "Muz aromalı, sıcak suyla hazırlanan toz jöle. Soğuk tatlılarda, pasta ve pasta dolgularında kullanılır.",
+    "en": "Banana-flavored jelly powder prepared with hot water. Used in cold desserts, cakes and cake fillings.",
+    "es": "Gelatina en polvo con sabor a plátano que se prepara con agua caliente. Se utiliza en postres fríos, tartas y rellenos.",
+    "fr": "Gelée en poudre aromatisée à la banane, préparée avec de l'eau chaude. Utilisée dans les desserts froids, les gâteaux et leurs garnitures.",
+    "de": "Geleepulver mit Bananen-Aroma, mit heißem Wasser zubereitet. Für kalte Desserts, Torten und Tortenfüllungen."
+  },
+  "keyword": {
+    "tr": "Muz Aromalı Jöle, Burçak Baharat, Pasta Yardımcıları, toptan, Gaziantep",
+    "en": "Banana Flavored Jelly, Burçak Baharat, Baking Helpers, wholesale, Gaziantep",
+    "es": "Gelatina con sabor a plátano, Burçak Baharat, Complementos de repostería, al por mayor, Gaziantep",
+    "fr": "Gelée aromatisée à la banane, Burçak Baharat, Préparations pâtissières, en gros, Gaziantep",
+    "de": "Gelee mit Bananen-Aroma, Burçak Baharat, Backhilfsmittel, Großhandel, Gaziantep"
+  },
+  "path": "muz-aromali-jole",
+  "icon": "restaurant",
+  "category": "c4pasta",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 7,
+  "url": "",
+  "text": {
+    "tr": "<article class=\"wm-metin\"><h2>Ürün bilgileri</h2><ul><li><strong>Ürün grubu:</strong> Pasta Yardımcıları</li><li><strong>Ambalaj:</strong> 85 g</li><li><strong>Kutu içi adet:</strong> –</li><li><strong>Koli içi adet:</strong> 24</li><li><strong>Kullanım alanı:</strong> Soğuk tatlılarda, pasta ve pasta dolgularında kullanılır.</li></ul><h3>Toptan satış ve teklif</h3><p>Fiyat, stok ve teknik bilgi (spec sheet) için <a href=\"/tr/iletisim/\">iletişim sayfamızdan</a> bize ulaşabilirsiniz. Teklif talebinizde ürün adını ve ihtiyaç duyduğunuz miktarı iletmeniz yeterlidir.</p></article>",
+    "en": "<article class=\"wm-metin\"><h2>Product information</h2><ul><li><strong>Product group:</strong> Baking Helpers</li><li><strong>Packaging:</strong> 85 g</li><li><strong>Pieces per box:</strong> –</li><li><strong>Pieces per case:</strong> 24</li><li><strong>Applications:</strong> Used in cold desserts, cakes and cake fillings.</li></ul><h3>Wholesale and quotations</h3><p>For prices, stock and technical information (spec sheet), please contact us via our <a href=\"/en/iletisim/\">contact page</a>. Simply include the product name and the quantity you need in your quotation request.</p></article>",
+    "es": "<article class=\"wm-metin\"><h2>Información del producto</h2><ul><li><strong>Grupo de productos:</strong> Complementos de repostería</li><li><strong>Envase:</strong> 85 g</li><li><strong>Unidades por caja:</strong> –</li><li><strong>Unidades por bulto:</strong> 24</li><li><strong>Usos:</strong> Se utiliza en postres fríos, tartas y rellenos.</li></ul><h3>Venta al por mayor y cotización</h3><p>Para precios, stock e información técnica (ficha técnica), contáctenos a través de nuestra <a href=\"/es/iletisim/\">página de contacto</a>. Basta con indicar el nombre del producto y la cantidad que necesita en su solicitud.</p></article>",
+    "fr": "<article class=\"wm-metin\"><h2>Informations produit</h2><ul><li><strong>Gamme de produits :</strong> Préparations pâtissières</li><li><strong>Conditionnement :</strong> 85 g</li><li><strong>Unités par boîte :</strong> –</li><li><strong>Unités par carton :</strong> 24</li><li><strong>Utilisation :</strong> Utilisée dans les desserts froids, les gâteaux et leurs garnitures.</li></ul><h3>Vente en gros et devis</h3><p>Pour les prix, le stock et les informations techniques (fiche technique), contactez-nous via notre <a href=\"/fr/iletisim/\">page de contact</a>. Il suffit d'indiquer le nom du produit et la quantité souhaitée dans votre demande de devis.</p></article>",
+    "de": "<article class=\"wm-metin\"><h2>Produktinformationen</h2><ul><li><strong>Produktgruppe:</strong> Backhilfsmittel</li><li><strong>Verpackung:</strong> 85 g</li><li><strong>Stück pro Box:</strong> –</li><li><strong>Stück pro Karton:</strong> 24</li><li><strong>Verwendung:</strong> Für kalte Desserts, Torten und Tortenfüllungen.</li></ul><h3>Großhandel und Angebot</h3><p>Für Preise, Lagerbestand und technische Informationen (Datenblatt) kontaktieren Sie uns über unsere <a href=\"/de/iletisim/\">Kontaktseite</a>. Geben Sie in Ihrer Anfrage einfach den Produktnamen und die benötigte Menge an.</p></article>"
+  },
+  "title": {
+    "tr": "Muz Aromalı Jöle | Burçak Baharat",
+    "en": "Banana Flavored Jelly | Burçak Baharat",
+    "es": "Gelatina con sabor a plátano | Burçak Baharat",
+    "fr": "Gelée aromatisée à la banane | Burçak Baharat",
+    "de": "Gelee mit Bananen-Aroma | Burçak Baharat"
+  },
+  "date": "2026-11-16T09:33:53.137Z",
+  "update": "2026-11-16T09:37:50.954Z",
+  "img": "index.webp"
+}

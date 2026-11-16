@@ -1,0 +1,52 @@
+{
+  "id": "x860eutkpe",
+  "name": {
+    "tr": "Et / Köfte Baharatı",
+    "en": "Meat & Meatball Seasoning",
+    "es": "Especias para carne y albóndigas",
+    "fr": "Épices pour viande et boulettes",
+    "de": "Fleisch- und Frikadellengewürz"
+  },
+  "description": {
+    "tr": "Et ve köfte yemekleri için hazırlanmış dengeli baharat karışımı. Kıyma, köfte, ızgara ve fırın etlerine lezzet verir. 10 g, 70 g, 200 g, 400 g, 800 g ve 5 kg ambalaj seçenekleri.",
+    "en": "A balanced spice blend prepared for meat and meatball dishes. Flavours minced meat, meatballs, grilled and roasted meats. Available in 10 g, 70 g, 200 g, 400 g, 800 g and 5 kg.",
+    "es": "Mezcla equilibrada de especias para platos de carne y albóndigas. Da sabor a la carne picada, albóndigas, carnes a la parrilla y al horno. Envases de 10 g, 70 g, 200 g, 400 g, 800 g y 5 kg.",
+    "fr": "Mélange d'épices équilibré pour les plats de viande et de boulettes. Parfume la viande hachée, les boulettes, les grillades et les rôtis. Conditionnements : 10 g, 70 g, 200 g, 400 g, 800 g et 5 kg.",
+    "de": "Ausgewogene Gewürzmischung für Fleisch- und Frikadellengerichte. Würzt Hackfleisch, Frikadellen, Gegrilltes und Ofenfleisch. Verpackungen: 10 g, 70 g, 200 g, 400 g, 800 g und 5 kg."
+  },
+  "keyword": {
+    "tr": "Et / Köfte Baharatı, Burçak Baharat, Baharat Çeşitleri, toptan, Gaziantep",
+    "en": "Meat & Meatball Seasoning, Burçak Baharat, Spice Varieties, wholesale, Gaziantep",
+    "es": "Especias para carne y albóndigas, Burçak Baharat, Variedades de especias, al por mayor, Gaziantep",
+    "fr": "Épices pour viande et boulettes, Burçak Baharat, Variétés d'épices, en gros, Gaziantep",
+    "de": "Fleisch- und Frikadellengewürz, Burçak Baharat, Gewürz-Sortiment, Großhandel, Gaziantep"
+  },
+  "path": "et-kofte-baharati",
+  "icon": "restaurant",
+  "category": "c5baharat20",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 42,
+  "url": "",
+  "text": {
+    "tr": "<article class=\"wm-metin\"><h2>Ürün bilgileri</h2><ul><li><strong>Ürün grubu:</strong> Baharat Çeşitleri</li><li><strong>Ambalaj:</strong> 10 g, 70 g, 200 g, 400 g, 800 g ve 5 kg</li><li><strong>Kullanım alanı:</strong> Kıyma, köfte, ızgara ve fırın etlerine lezzet verir.</li></ul><h3>Gramaj seçenekleri</h3><div class=\"wm-tablo-sar\"><table><thead><tr><th>Ambalaj</th><th>Ürün kodu</th><th>Net ağırlık</th><th>Kutu içi adet</th><th>Koli içi adet</th></tr></thead><tbody><tr><td>20 g Poşet</td><td>1044</td><td>10 g</td><td>16</td><td>12</td></tr><tr><td>70 g Ekonomik</td><td>1094</td><td>70 g</td><td>12</td><td>12</td></tr><tr><td>200 g Ekonomik</td><td>1224</td><td>200 g</td><td>12</td><td>12</td></tr><tr><td>400 g Ekonomik</td><td>1424</td><td>400 g</td><td>–</td><td>12</td></tr><tr><td>800 g Ekonomik</td><td>1824</td><td>800 g</td><td>–</td><td>12</td></tr><tr><td>5 kg Ekonomik</td><td>5025</td><td>5 kg</td><td>–</td><td>4</td></tr></tbody></table></div><h3>Toptan satış ve teklif</h3><p>Fiyat, stok ve teknik bilgi (spec sheet) için <a href=\"/tr/iletisim/\">iletişim sayfamızdan</a> bize ulaşabilirsiniz. Teklif talebinizde ürün adını ve ihtiyaç duyduğunuz miktarı iletmeniz yeterlidir.</p></article>",
+    "en": "<article class=\"wm-metin\"><h2>Product information</h2><ul><li><strong>Product group:</strong> Spice Varieties</li><li><strong>Packaging:</strong> 10 g, 70 g, 200 g, 400 g, 800 g and 5 kg</li><li><strong>Applications:</strong> Flavours minced meat, meatballs, grilled and roasted meats.</li></ul><h3>Available sizes</h3><div class=\"wm-tablo-sar\"><table><thead><tr><th>Pack</th><th>Product code</th><th>Net weight</th><th>Pieces per box</th><th>Pieces per case</th></tr></thead><tbody><tr><td>20 g Sachet</td><td>1044</td><td>10 g</td><td>16</td><td>12</td></tr><tr><td>70 g Economy</td><td>1094</td><td>70 g</td><td>12</td><td>12</td></tr><tr><td>200 g Economy</td><td>1224</td><td>200 g</td><td>12</td><td>12</td></tr><tr><td>400 g Economy</td><td>1424</td><td>400 g</td><td>–</td><td>12</td></tr><tr><td>800 g Economy</td><td>1824</td><td>800 g</td><td>–</td><td>12</td></tr><tr><td>5 kg Economy</td><td>5025</td><td>5 kg</td><td>–</td><td>4</td></tr></tbody></table></div><h3>Wholesale and quotations</h3><p>For prices, stock and technical information (spec sheet), please contact us via our <a href=\"/en/iletisim/\">contact page</a>. Simply include the product name and the quantity you need in your quotation request.</p></article>",
+    "es": "<article class=\"wm-metin\"><h2>Información del producto</h2><ul><li><strong>Grupo de productos:</strong> Variedades de especias</li><li><strong>Envase:</strong> 10 g, 70 g, 200 g, 400 g, 800 g y 5 kg</li><li><strong>Usos:</strong> Da sabor a la carne picada, albóndigas, carnes a la parrilla y al horno.</li></ul><h3>Formatos disponibles</h3><div class=\"wm-tablo-sar\"><table><thead><tr><th>Envase</th><th>Código</th><th>Peso neto</th><th>Unidades por caja</th><th>Unidades por bulto</th></tr></thead><tbody><tr><td>20 g Sobre</td><td>1044</td><td>10 g</td><td>16</td><td>12</td></tr><tr><td>70 g Económico</td><td>1094</td><td>70 g</td><td>12</td><td>12</td></tr><tr><td>200 g Económico</td><td>1224</td><td>200 g</td><td>12</td><td>12</td></tr><tr><td>400 g Económico</td><td>1424</td><td>400 g</td><td>–</td><td>12</td></tr><tr><td>800 g Económico</td><td>1824</td><td>800 g</td><td>–</td><td>12</td></tr><tr><td>5 kg Económico</td><td>5025</td><td>5 kg</td><td>–</td><td>4</td></tr></tbody></table></div><h3>Venta al por mayor y cotización</h3><p>Para precios, stock e información técnica (ficha técnica), contáctenos a través de nuestra <a href=\"/es/iletisim/\">página de contacto</a>. Basta con indicar el nombre del producto y la cantidad que necesita en su solicitud.</p></article>",
+    "fr": "<article class=\"wm-metin\"><h2>Informations produit</h2><ul><li><strong>Gamme de produits :</strong> Variétés d'épices</li><li><strong>Conditionnement :</strong> 10 g, 70 g, 200 g, 400 g, 800 g et 5 kg</li><li><strong>Utilisation :</strong> Parfume la viande hachée, les boulettes, les grillades et les rôtis.</li></ul><h3>Formats disponibles</h3><div class=\"wm-tablo-sar\"><table><thead><tr><th>Format</th><th>Code produit</th><th>Poids net</th><th>Unités par boîte</th><th>Unités par carton</th></tr></thead><tbody><tr><td>20 g Sachet</td><td>1044</td><td>10 g</td><td>16</td><td>12</td></tr><tr><td>70 g Économique</td><td>1094</td><td>70 g</td><td>12</td><td>12</td></tr><tr><td>200 g Économique</td><td>1224</td><td>200 g</td><td>12</td><td>12</td></tr><tr><td>400 g Économique</td><td>1424</td><td>400 g</td><td>–</td><td>12</td></tr><tr><td>800 g Économique</td><td>1824</td><td>800 g</td><td>–</td><td>12</td></tr><tr><td>5 kg Économique</td><td>5025</td><td>5 kg</td><td>–</td><td>4</td></tr></tbody></table></div><h3>Vente en gros et devis</h3><p>Pour les prix, le stock et les informations techniques (fiche technique), contactez-nous via notre <a href=\"/fr/iletisim/\">page de contact</a>. Il suffit d'indiquer le nom du produit et la quantité souhaitée dans votre demande de devis.</p></article>",
+    "de": "<article class=\"wm-metin\"><h2>Produktinformationen</h2><ul><li><strong>Produktgruppe:</strong> Gewürz-Sortiment</li><li><strong>Verpackung:</strong> 10 g, 70 g, 200 g, 400 g, 800 g und 5 kg</li><li><strong>Verwendung:</strong> Würzt Hackfleisch, Frikadellen, Gegrilltes und Ofenfleisch.</li></ul><h3>Verfügbare Größen</h3><div class=\"wm-tablo-sar\"><table><thead><tr><th>Packung</th><th>Artikelnr.</th><th>Nettogewicht</th><th>Stück pro Box</th><th>Stück pro Karton</th></tr></thead><tbody><tr><td>20 g Beutel</td><td>1044</td><td>10 g</td><td>16</td><td>12</td></tr><tr><td>70 g Spar</td><td>1094</td><td>70 g</td><td>12</td><td>12</td></tr><tr><td>200 g Spar</td><td>1224</td><td>200 g</td><td>12</td><td>12</td></tr><tr><td>400 g Spar</td><td>1424</td><td>400 g</td><td>–</td><td>12</td></tr><tr><td>800 g Spar</td><td>1824</td><td>800 g</td><td>–</td><td>12</td></tr><tr><td>5 kg Spar</td><td>5025</td><td>5 kg</td><td>–</td><td>4</td></tr></tbody></table></div><h3>Großhandel und Angebot</h3><p>Für Preise, Lagerbestand und technische Informationen (Datenblatt) kontaktieren Sie uns über unsere <a href=\"/de/iletisim/\">Kontaktseite</a>. Geben Sie in Ihrer Anfrage einfach den Produktnamen und die benötigte Menge an.</p></article>"
+  },
+  "title": {
+    "tr": "Et / Köfte Baharatı | Burçak Baharat",
+    "en": "Meat & Meatball Seasoning | Burçak Baharat",
+    "es": "Especias para carne y albóndigas | Burçak Baharat",
+    "fr": "Épices pour viande et boulettes | Burçak Baharat",
+    "de": "Fleisch- und Frikadellengewürz | Burçak Baharat"
+  },
+  "date": "2026-11-16T09:33:52.926Z",
+  "update": "2026-11-16T09:37:50.877Z",
+  "img": "index.webp"
+}

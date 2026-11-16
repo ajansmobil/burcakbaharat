@@ -1,0 +1,52 @@
+{
+  "id": "pmsamfce9n",
+  "name": {
+    "tr": "Kırmızı Acı Toz Biber",
+    "en": "Hot Red Pepper Powder",
+    "es": "Pimentón picante en polvo",
+    "fr": "Piment rouge fort en poudre",
+    "de": "Scharfes rotes Paprikapulver"
+  },
+  "description": {
+    "tr": "Acı kırmızı biberin kurutulup ince öğütülmesiyle hazırlanan toz biber. Yemeklere, soslara ve marinasyonlara acılık ve renk katar. 20 g, 70 g, 200 g, 400 g, 800 g ve 5 kg ambalaj seçenekleri.",
+    "en": "Powdered pepper made by drying and finely grinding hot red peppers. Adds heat and colour to dishes, sauces and marinades. Available in 20 g, 70 g, 200 g, 400 g, 800 g and 5 kg.",
+    "es": "Pimiento en polvo elaborado secando y moliendo finamente pimientos rojos picantes. Aporta picor y color a platos, salsas y adobos. Envases de 20 g, 70 g, 200 g, 400 g, 800 g y 5 kg.",
+    "fr": "Piment en poudre obtenu par séchage et broyage fin de piments rouges forts. Apporte piquant et couleur aux plats, sauces et marinades. Conditionnements : 20 g, 70 g, 200 g, 400 g, 800 g et 5 kg.",
+    "de": "Pulver aus getrockneten, fein gemahlenen scharfen roten Paprika. Verleiht Gerichten, Soßen und Marinaden Schärfe und Farbe. Verpackungen: 20 g, 70 g, 200 g, 400 g, 800 g und 5 kg."
+  },
+  "keyword": {
+    "tr": "Kırmızı Acı Toz Biber, Burçak Baharat, Baharat Çeşitleri, toptan, Gaziantep",
+    "en": "Hot Red Pepper Powder, Burçak Baharat, Spice Varieties, wholesale, Gaziantep",
+    "es": "Pimentón picante en polvo, Burçak Baharat, Variedades de especias, al por mayor, Gaziantep",
+    "fr": "Piment rouge fort en poudre, Burçak Baharat, Variétés d'épices, en gros, Gaziantep",
+    "de": "Scharfes rotes Paprikapulver, Burçak Baharat, Gewürz-Sortiment, Großhandel, Gaziantep"
+  },
+  "path": "kirmizi-aci-toz-biber",
+  "icon": "restaurant",
+  "category": "c5baharat20",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "index": 46,
+  "url": "",
+  "text": {
+    "tr": "<article class=\"wm-metin\"><h2>Ürün bilgileri</h2><ul><li><strong>Ürün grubu:</strong> Baharat Çeşitleri</li><li><strong>Ambalaj:</strong> 20 g, 70 g, 200 g, 400 g, 800 g ve 5 kg</li><li><strong>Kullanım alanı:</strong> Yemeklere, soslara ve marinasyonlara acılık ve renk katar.</li></ul><h3>Gramaj seçenekleri</h3><div class=\"wm-tablo-sar\"><table><thead><tr><th>Ambalaj</th><th>Ürün kodu</th><th>Net ağırlık</th><th>Kutu içi adet</th><th>Koli içi adet</th></tr></thead><tbody><tr><td>20 g Poşet</td><td>1030</td><td>20 g</td><td>16</td><td>12</td></tr><tr><td>70 g Ekonomik</td><td>1080</td><td>70 g</td><td>12</td><td>12</td></tr><tr><td>200 g Ekonomik</td><td>1210</td><td>200 g</td><td>12</td><td>12</td></tr><tr><td>400 g Ekonomik</td><td>1410</td><td>400 g</td><td>–</td><td>12</td></tr><tr><td>800 g Ekonomik</td><td>1810</td><td>800 g</td><td>–</td><td>12</td></tr><tr><td>5 kg Ekonomik</td><td>5011</td><td>5 kg</td><td>–</td><td>4</td></tr></tbody></table></div><h3>Toptan satış ve teklif</h3><p>Fiyat, stok ve teknik bilgi (spec sheet) için <a href=\"/tr/iletisim/\">iletişim sayfamızdan</a> bize ulaşabilirsiniz. Teklif talebinizde ürün adını ve ihtiyaç duyduğunuz miktarı iletmeniz yeterlidir.</p></article>",
+    "en": "<article class=\"wm-metin\"><h2>Product information</h2><ul><li><strong>Product group:</strong> Spice Varieties</li><li><strong>Packaging:</strong> 20 g, 70 g, 200 g, 400 g, 800 g and 5 kg</li><li><strong>Applications:</strong> Adds heat and colour to dishes, sauces and marinades.</li></ul><h3>Available sizes</h3><div class=\"wm-tablo-sar\"><table><thead><tr><th>Pack</th><th>Product code</th><th>Net weight</th><th>Pieces per box</th><th>Pieces per case</th></tr></thead><tbody><tr><td>20 g Sachet</td><td>1030</td><td>20 g</td><td>16</td><td>12</td></tr><tr><td>70 g Economy</td><td>1080</td><td>70 g</td><td>12</td><td>12</td></tr><tr><td>200 g Economy</td><td>1210</td><td>200 g</td><td>12</td><td>12</td></tr><tr><td>400 g Economy</td><td>1410</td><td>400 g</td><td>–</td><td>12</td></tr><tr><td>800 g Economy</td><td>1810</td><td>800 g</td><td>–</td><td>12</td></tr><tr><td>5 kg Economy</td><td>5011</td><td>5 kg</td><td>–</td><td>4</td></tr></tbody></table></div><h3>Wholesale and quotations</h3><p>For prices, stock and technical information (spec sheet), please contact us via our <a href=\"/en/iletisim/\">contact page</a>. Simply include the product name and the quantity you need in your quotation request.</p></article>",
+    "es": "<article class=\"wm-metin\"><h2>Información del producto</h2><ul><li><strong>Grupo de productos:</strong> Variedades de especias</li><li><strong>Envase:</strong> 20 g, 70 g, 200 g, 400 g, 800 g y 5 kg</li><li><strong>Usos:</strong> Aporta picor y color a platos, salsas y adobos.</li></ul><h3>Formatos disponibles</h3><div class=\"wm-tablo-sar\"><table><thead><tr><th>Envase</th><th>Código</th><th>Peso neto</th><th>Unidades por caja</th><th>Unidades por bulto</th></tr></thead><tbody><tr><td>20 g Sobre</td><td>1030</td><td>20 g</td><td>16</td><td>12</td></tr><tr><td>70 g Económico</td><td>1080</td><td>70 g</td><td>12</td><td>12</td></tr><tr><td>200 g Económico</td><td>1210</td><td>200 g</td><td>12</td><td>12</td></tr><tr><td>400 g Económico</td><td>1410</td><td>400 g</td><td>–</td><td>12</td></tr><tr><td>800 g Económico</td><td>1810</td><td>800 g</td><td>–</td><td>12</td></tr><tr><td>5 kg Económico</td><td>5011</td><td>5 kg</td><td>–</td><td>4</td></tr></tbody></table></div><h3>Venta al por mayor y cotización</h3><p>Para precios, stock e información técnica (ficha técnica), contáctenos a través de nuestra <a href=\"/es/iletisim/\">página de contacto</a>. Basta con indicar el nombre del producto y la cantidad que necesita en su solicitud.</p></article>",
+    "fr": "<article class=\"wm-metin\"><h2>Informations produit</h2><ul><li><strong>Gamme de produits :</strong> Variétés d'épices</li><li><strong>Conditionnement :</strong> 20 g, 70 g, 200 g, 400 g, 800 g et 5 kg</li><li><strong>Utilisation :</strong> Apporte piquant et couleur aux plats, sauces et marinades.</li></ul><h3>Formats disponibles</h3><div class=\"wm-tablo-sar\"><table><thead><tr><th>Format</th><th>Code produit</th><th>Poids net</th><th>Unités par boîte</th><th>Unités par carton</th></tr></thead><tbody><tr><td>20 g Sachet</td><td>1030</td><td>20 g</td><td>16</td><td>12</td></tr><tr><td>70 g Économique</td><td>1080</td><td>70 g</td><td>12</td><td>12</td></tr><tr><td>200 g Économique</td><td>1210</td><td>200 g</td><td>12</td><td>12</td></tr><tr><td>400 g Économique</td><td>1410</td><td>400 g</td><td>–</td><td>12</td></tr><tr><td>800 g Économique</td><td>1810</td><td>800 g</td><td>–</td><td>12</td></tr><tr><td>5 kg Économique</td><td>5011</td><td>5 kg</td><td>–</td><td>4</td></tr></tbody></table></div><h3>Vente en gros et devis</h3><p>Pour les prix, le stock et les informations techniques (fiche technique), contactez-nous via notre <a href=\"/fr/iletisim/\">page de contact</a>. Il suffit d'indiquer le nom du produit et la quantité souhaitée dans votre demande de devis.</p></article>",
+    "de": "<article class=\"wm-metin\"><h2>Produktinformationen</h2><ul><li><strong>Produktgruppe:</strong> Gewürz-Sortiment</li><li><strong>Verpackung:</strong> 20 g, 70 g, 200 g, 400 g, 800 g und 5 kg</li><li><strong>Verwendung:</strong> Verleiht Gerichten, Soßen und Marinaden Schärfe und Farbe.</li></ul><h3>Verfügbare Größen</h3><div class=\"wm-tablo-sar\"><table><thead><tr><th>Packung</th><th>Artikelnr.</th><th>Nettogewicht</th><th>Stück pro Box</th><th>Stück pro Karton</th></tr></thead><tbody><tr><td>20 g Beutel</td><td>1030</td><td>20 g</td><td>16</td><td>12</td></tr><tr><td>70 g Spar</td><td>1080</td><td>70 g</td><td>12</td><td>12</td></tr><tr><td>200 g Spar</td><td>1210</td><td>200 g</td><td>12</td><td>12</td></tr><tr><td>400 g Spar</td><td>1410</td><td>400 g</td><td>–</td><td>12</td></tr><tr><td>800 g Spar</td><td>1810</td><td>800 g</td><td>–</td><td>12</td></tr><tr><td>5 kg Spar</td><td>5011</td><td>5 kg</td><td>–</td><td>4</td></tr></tbody></table></div><h3>Großhandel und Angebot</h3><p>Für Preise, Lagerbestand und technische Informationen (Datenblatt) kontaktieren Sie uns über unsere <a href=\"/de/iletisim/\">Kontaktseite</a>. Geben Sie in Ihrer Anfrage einfach den Produktnamen und die benötigte Menge an.</p></article>"
+  },
+  "title": {
+    "tr": "Kırmızı Acı Toz Biber | Burçak Baharat",
+    "en": "Hot Red Pepper Powder | Burçak Baharat",
+    "es": "Pimentón picante en polvo | Burçak Baharat",
+    "fr": "Piment rouge fort en poudre | Burçak Baharat",
+    "de": "Scharfes rotes Paprikapulver | Burçak Baharat"
+  },
+  "date": "2026-11-16T09:33:52.810Z",
+  "update": "2026-11-16T09:37:50.833Z",
+  "img": "index.webp"
+}
